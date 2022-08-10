@@ -1,0 +1,197 @@
+Message-ID: <8728626.1075847602036.JavaMail.evans@thyme>
+Date: Tue, 10 Apr 2001 00:36:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: jeff.skilling@enron.com, kenneth.lay@enron.com, rick.buy@enron.com, 
+	richard.causey@enron.com, mark.koenig@enron.com
+Subject: Summary of the MOU
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Steven J Kean
+X-To: Jeff Skilling, Kenneth Lay, Rick Buy, Richard Causey, Mark Koenig
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+---------------------- Forwarded by Steven J Kean/NA/Enron on 04/10/2001=20
+07:35 AM ---------------------------
+From: Jeff Dasovich on 04/09/2001 07:00 PM
+Sent by: Jeff Dasovich
+To: Alan Comnes/PDX/ECT@ECT, Angela Schwarz/HOU/EES@EES, Beverly=20
+Aden/HOU/EES@EES, Bill Votaw/HOU/EES@EES, Brenda Barreda/HOU/EES@EES, Carol=
+=20
+Moffett/HOU/EES@EES, Cathy Corbin/HOU/EES@EES, Chris H Foster/HOU/ECT@ECT,=
+=20
+Christina Liscano/HOU/EES@EES, Craig H Sutter/HOU/EES@EES, Dan=20
+Leff/HOU/EES@EES, Debora Whitehead/HOU/EES@EES, Dennis Benevides/HOU/EES@EE=
+S,=20
+Don Black/HOU/EES@EES, Dorothy Youngblood/HOU/ECT@ECT, Douglas=20
+Huth/HOU/EES@EES, Edward Sacks/Corp/Enron@ENRON, Eric Melvin/HOU/EES@EES,=
+=20
+Erika Dupre/HOU/EES@EES, Evan Hughes/HOU/EES@EES, Fran Deltoro/HOU/EES@EES,=
+=20
+Gayle W Muench/HOU/EES@EES, Ginger Dernehl/NA/Enron@ENRON, Gordon=20
+Savage/HOU/EES@EES, Harold G Buchanan/HOU/EES@EES, Harry=20
+Kingerski/NA/Enron@ENRON, Iris Waser/HOU/EES@EES, James D=20
+Steffes/NA/Enron@ENRON, James W Lewis/HOU/EES@EES, James Wright/Western=20
+Region/The Bentley Company@Exchange, Jeff Messina/HOU/EES@EES, Jeremy=20
+Blachman/HOU/EES@EES, Jess Hewitt/HOU/EES@EES, Joe Hartsoe/Corp/Enron@ENRON=
+,=20
+Karen Denne/Corp/Enron@ENRON, Kathy Bass/HOU/EES@EES, Kathy=20
+Dodgen/HOU/EES@EES, Ken Gustafson/HOU/EES@EES, Kevin Hughes/HOU/EES@EES,=20
+Leasa Lopez/HOU/EES@EES, Leticia Botello/HOU/EES@EES, Mark S=20
+Muller/HOU/EES@EES, Marsha Suggs/HOU/EES@EES, Marty Sunde/HOU/EES@EES,=20
+Meredith M Eggleston/HOU/EES@EES, Michael Etringer/HOU/ECT@ECT, Michael=20
+Mann/HOU/EES@EES, Michelle D Cisneros/HOU/ECT@ECT, mpalmer@enron.com, Neil=
+=20
+Bresnan/HOU/EES@EES, Neil Hong/HOU/EES@EES, Paul Kaufman/PDX/ECT@ECT, Paula=
+=20
+Warren/HOU/EES@EES, Richard L Zdunkewicz/HOU/EES@EES, Richard=20
+Leibert/HOU/EES@EES, Richard Shapiro/NA/Enron@ENRON, Rita=20
+Hennessy/NA/Enron@ENRON, Roger Yang/SFO/EES@EES, Rosalinda=20
+Tijerina/HOU/EES@EES, Sandra McCubbin/NA/Enron@ENRON, Sarah=20
+Novosel/Corp/Enron@ENRON, Scott Gahn/HOU/EES@EES, Scott Stoness/HOU/EES@EES=
+,=20
+Sharon Dick/HOU/EES@EES, skean@enron.com, Tanya Leslie/HOU/EES@EES, Tasha=
+=20
+Lair/HOU/EES@EES, Ted Murphy/HOU/ECT@ECT, Terri Greenlee/NA/Enron@ENRON, Ti=
+m=20
+Belden/HOU/ECT@ECT, Tony Spruiell/HOU/EES@EES, Vicki Sharp/HOU/EES@EES,=20
+Vladimir Gorny/HOU/ECT@ECT, Wanda Curry/HOU/EES@EES, William S=20
+Bradford/HOU/ECT@ECT, Kathryn Corbally/Corp/Enron@ENRON, Jubran=20
+Whalan/HOU/EES@EES, triley@enron.com, Richard B Sanders/HOU/ECT@ECT, Robert=
+ C=20
+Williams/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Greg Wolfe/HOU/ECT@ECT, James=
+=20
+Wright/Western Region/The Bentley Company@Exchange, Dirk vanUlden/Western=
+=20
+Region/The Bentley Company@Exchange, Steve Walker/SFO/EES@EES, Jennifer=20
+Rudolph/HOU/EES@EES, Martin Wenzel/SFO/HOU/EES@EES, Douglas=20
+Condon/SFO/EES@EES, wgang@enron.com, Scott Govenar <sgovenar@govadv.com>,=
+=20
+Hedy Govenar <hgovenar@govadv.com> @ ENRON, jklauber@llgm.com, Mike D=20
+Smith/HOU/EES@EES, John Neslage/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Janel=
+=20
+Guerrero/Corp/Enron@Enron, Eric Letke/DUB/EES@EES, Richard B=20
+Sanders/HOU/ECT@ECT, gfergus@brobeck.com, Michael Tribolet/ENRON@enronXgate=
+,=20
+Robert Frank/NA/Enron@Enron, Richard B Sanders/HOU/ECT@ECT,=20
+gfergus@brobeck.com, Susan J Mara/NA/Enron@ENRON, Mercy Gil/Enron@EnronXGat=
+e,=20
+Jennifer Thome/NA/Enron@Enron, David Leboe/HOU/ECT@ECT
+cc: =20
+
+Subject: Summary of the MOU
+
+The following is an outline of the basic terms of the Southern California=
+=20
+Edison Memorandum of Understanding:
+
+? Commitment to Provide Power =01) SCE will keep its current generation pla=
+nts=20
+and other generation assets and commit them to provide power on a regulated=
+=20
+cost-of-service basis for 10 years.
+? Dedication of Power =01) Edison International will commit the entire outp=
+ut of=20
+Sunrise (one of Edison International=01,s non-regulated generating faciliti=
+es)=20
+to the State on a fixed price basis for 10 years. Phase I of Sunrise is to =
+be=20
+brought online by August 15, 2001. If not brought online by August 15, 2001=
+,=20
+Edison International shall be assessed a $2 million penalty.
+? Transmission Sale =01) SCE will sell to the State its transmission assets=
+ for=20
+approximately $2.76 billion (2.3 times the net book value of the assets),=
+=20
+subject to certain adjustments. Of the $2.76 billion, the $1.5 billion gain=
+=20
+on sale, will be used to reduce SCE=01,s net undercollected amount as of Ja=
+nuary=20
+31, 2001. In connection with the purchase, the State will also assume certa=
+in=20
+liabilities associated with the transmission assets.
+? Backup Transaction =01) If the transmission sale does not occur within tw=
+o=20
+years for reasons beyond the parties=01, control, then if the State elects,=
+ SCE=20
+shall sell to the State SCE=01,s hydro generation assets. If the hydro asse=
+ts=20
+are not worth $1.5 billion, then SCE will also sell the state after Decembe=
+r=20
+31, 2010 enough below-market-price-power to make up the shortfall.
+? Conservation Property =01) SCE shall grant perpetual conservation easemen=
+ts to=20
+the State covering approximately 260,000 acres of its Big Creek hydroelectr=
+ic=20
+related lands and 825 acres of its Eastern Sierra hydroelectric related=20
+lands.  Some of the land may be deeded in fee.
+? Contribution by Edison International =01) Edison International will refun=
+d to=20
+SCE not less than $400 million.  This money will consist of a refund of=20
+approximately $293 million in estimated 2000 quarterly tax payments plus=20
+approximately $197 million in federal loss carryback tax savings.
+? Investment =01) Edison International and SCE will invest not less than $3=
+=20
+billion over the next 5 years in capital improvements for SCE.
+? Litigation =01) SCE shall dismiss certain claims, including its takings a=
+nd=20
+filed rate doctrine cases.
+? CPUC Regulation =01) CPUC shall continue to regulate SCE using historical=
+=20
+principles of ratemaking.
+? Payment for Portion of QF Drop-off =01) SCE shall pay an amount that=20
+represents that portion of the net short from January 18, 2001 to April 1,=
+=20
+2001 that is attributable to QF=01,s not selling to SCE (due to SCE=01,s fa=
+ilure to=20
+pay the QF=01,s).  SCE will securitize this amount.
+? Securitization =01) SCE shall securitize its full net undercollected amou=
+nt=20
+(approx. $3.5 billion).  The securitization shall occur in two tranches (i.=
+e.=20
+two different nonbypassable dedicated rate components).
+
+? The first tranche will occur after the passage of legislation and the=20
+signing of the definitive agreements and will cover the net undercollected=
+=20
+amount, less the gain on sale, plus interest on certain obligations in the=
+=20
+net undercollected amount.
+? The second tranche would be triggered if the transmission sale does not=
+=20
+occur within two years.  Accordingly, the second tranche would not show up =
+in=20
+rates for two years, if at all.
+
+? Buying the Net Short =01) The State will be required to buy the net short=
+=20
+through December 31, 2002.  After 2002 SCE will be responsible for covering=
+=20
+the net short.
+? Investment Recovery =01) SCE shall have an authorized rate of return that=
+ will=20
+not drop below its current rte (11.6%) during the 10 year cost of service=
+=20
+ratemaking period.
+? Next Steps (Definitive Agreements and CPUC Action):
+
+? Definitive Agreements =01) Once the MOU is signed, the next stage is to=
+=20
+negotiate definitive agreements which contain the specific terms of the=20
+transmission sale, as well as the specific terms of the various other relat=
+ed=20
+agreements (e.g., the O&M Agreement, Transmission Services Agreement and th=
+e=20
+Facilities Services Agreement).
+? CPUC Action =01) Prior to entering into the definitive agreements, the CP=
+UC=20
+must undertake certain actions (which include: establishing mechanisms for=
+=20
+preapproval of procurement costs and URG costs, deferring SCE=01,s general =
+rate=20
+case until 2003, granting SCE some relief from direct access credits and=20
+clarifying the first priority condition in the holding company act).

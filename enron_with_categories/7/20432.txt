@@ -1,0 +1,17 @@
+Message-ID: <30867749.1075862194354.JavaMail.evans@thyme>
+Date: Wed, 28 Nov 2001 05:44:12 -0800 (PST)
+From: ourternrbb@aol.com
+To: rick.buy@enron.com
+Subject: Confidential Stuff
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Ourternrbb@aol.com
+X-To: Buy, Rick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RBUY>
+X-cc: 
+X-bcc: 
+X-Folder: \RBUY (Non-Privileged)\Buy, Rick\Inbox
+X-Origin: Buy-R
+X-FileName: RBUY (Non-Privileged).pst
+
+Here it is

@@ -1,0 +1,31 @@
+Message-ID: <2938603.1075858708124.JavaMail.evans@thyme>
+Date: Tue, 9 Oct 2001 08:41:57 -0700 (PDT)
+From: john.shelk@enron.com
+To: richard.shapiro@enron.com, j..kean@enron.com, d..steffes@enron.com, 
+	l..nicolay@enron.com, sue.nord@enron.com, janel.guerrero@enron.com, 
+	sarah.novosel@enron.com, tom.briggs@enron.com, 
+	pr <.palmer@enron.com>, jennifer.thome@enron.com, 
+	daniel.allegretti@enron.com, a..hueter@enron.com, 
+	m..landwehr@enron.com, paul.kaufman@enron.com, alan.comnes@enron.com
+Subject: Update on House RTO Activities
+Cc: linda.robertson@enron.com, pat.shortridge@enron.com, 
+	carin.nersesian@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: linda.robertson@enron.com, pat.shortridge@enron.com, 
+	carin.nersesian@enron.com
+X-From: Shelk, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JSHELK>
+X-To: Shapiro, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rshapiro>, Kean, Steven J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Skean>, Steffes, James D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jsteffe>, Nicolay, Christi L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cnicola>, Nord, Sue </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snord>, Guerrero, Janel </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jguerre>, Novosel, Sarah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snovose>, Briggs, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tbriggs>, Palmer, Mark A. (PR) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mpalmer>, Thome, Jennifer </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jthome>, Allegretti, Daniel </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dallegre>, Hueter, Barbara A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bhueter>, Landwehr, Susan M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Slandweh>, Kaufman, Paul </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pkaufma>, Comnes, Alan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Acomnes>
+X-cc: Robertson, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lrobert3>, Shortridge, Pat </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pshortri>, Nersesian, Carin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cnersesi>
+X-bcc: 
+X-Folder: \RSHAPIRO (Non-Privileged)\Shapiro, Richard\Federal Legis.
+X-Origin: Shapiro-R
+X-FileName: RSHAPIRO (Non-Privileged).pst
+
+
+
+	
+There are now two House hearnigs tomorrow, not just one.  In the morning, there is a panel on reliability, siting and incentive pricing for transmission.  Jim Steffes is the EPSA witness.  The RTO-related hearing, originally scheduled on a separate day, will be in the afternoon tomorrow.  Peter Esposito of Dynegy is the expected EPSA witness.  I am checking on the final list of other panelists and will advise.
+
+Finally, Andy Black of Chairman Barton's staff advises that they will release draft RTO language as early as today.  We expect that this draft will not be to our liking.  Barton thinks FERC is moving too quickly and with too much force.  We expect his proposal to set a deadline of something like 12 months for utilities to join an RTO.  The key is in part whether he allows FERC to continue to decide what constitutes an acceptable RTO or whether he will try to "grandfather" in some fashion those RTOs that have been proposed by utilities to date.

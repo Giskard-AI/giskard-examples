@@ -1,0 +1,113 @@
+Message-ID: <29235684.1075863428929.JavaMail.evans@thyme>
+Date: Wed, 27 Jun 2001 07:56:37 -0700 (PDT)
+From: j.kaminski@enron.com
+To: shirley.crenshaw@enron.com
+Subject: RE: Test Message
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VKAMINS>
+X-To: Crenshaw, Shirley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scrensh>
+X-cc: 
+X-bcc: 
+X-Folder: \VKAMINS (Non-Privileged)\Kaminski, Vince J\Sent Items
+X-Origin: Kaminski-V
+X-FileName: VKAMINS (Non-Privileged).pst
+
+Shirley,
+
+Approved.
+
+Vince
+
+ -----Original Message-----
+From: 	Crenshaw, Shirley  
+Sent:	Wednesday, June 27, 2001 2:39 PM
+To:	Kaminski, Vince J
+Subject:	RE: Test Message
+
+P00503778.
+
+Have a great day - Hope you got some rest!
+
+
+
+ -----Original Message-----
+From: 	Kaminski, Vince J  
+Sent:	Wednesday, June 27, 2001 8:08 AM
+To:	Crenshaw, Shirley
+Subject:	RE: Test Message
+
+Shirley,
+
+Please, send me my SAP #. I need it to approve the expense report.
+
+Vince
+
+ -----Original Message-----
+From: 	Crenshaw, Shirley  
+Sent:	Wednesday, June 27, 2001 7:54 AM
+To:	Kaminski, Vince J
+Subject:	RE: Test Message
+
+Vince:
+
+Please approve Mitra's expense report if you have access to your system.
+
+We go on the new system next week and all expense reports need to be
+sent in this week or will have to be redone into the new system.
+
+Thanks!
+
+
+
+ -----Original Message-----
+From: 	Kaminski, Vince J  
+Sent:	Wednesday, June 27, 2001 5:15 AM
+To:	'Mike Boughton <boughton@maui.net>@ENRON'; vkamins@enron.com; vkaminski@aol.com
+Cc:	David.Rowe@risk.sungard.com; Crenshaw, Shirley; 'vkaminski@aol.com'
+Subject:	RE: Test Message
+
+Mike,
+
+Thanks for your message. The meeting on Tuesday at 7 is confirmed.
+
+Vince
+
+ -----Original Message-----
+From: 	Mike Boughton <boughton@maui.net>@ENRON [mailto:IMCEANOTES-Mike+20Boughton+20+3Cboughton+40maui+2Enet+3E+40ENRON@ENRON.com] 
+Sent:	Tuesday, June 26, 2001 7:41 PM
+To:	vkamins@enron.com; vkaminski@aol.com
+Cc:	David.Rowe@risk.sungard.com
+Subject:	Test Message
+
+Hello Vince,
+
+It was good to talk with you yesterday. David Rowe and I will be happy to
+meet with you for breakfast at 7:00 on Tuesday. I will call on Monday to
+set the location.
+
+The URL for our commodity option calculator demonstration is
+
+	http://perun.otci.net/Utility
+
+Note that several of the data sets, which we obtain daily from NYMEX, are
+incomplete. NG, HO, CN, NT and CL have enough data to indicate performance.
+The others are either missing altogether or the series is too short to be
+useful.
+
+If you want to see the currency demonstration, it is at
+
+	http://perun.otci.net/BC
+
+and includes some technical material describing work we did in creating the
+site.
+
+With best regards,
+
+Mike Boughton
+		Options Technology Company, Inc.
+		       P.O. Box 1275
+		  Wailuku, Maui, Hawaii 96793
+  Telephone  808.575.9592                  Fax  808.575.9331
+	           http://www.otci.net

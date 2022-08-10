@@ -1,0 +1,22 @@
+Message-ID: <20949592.1075842958684.JavaMail.evans@thyme>
+Date: Fri, 1 Sep 2000 00:54:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: jeff.dasovich@enron.com, mona.petrochko@enron.com, sandra.mccubbin@enron.com, 
+	susan.mara@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Jeff Dasovich, Mona L Petrochko, Sandra McCubbin, Susan J Mara
+X-cc: 
+X-bcc: 
+X-Folder: \Jeff_Dasovich_Dec2000\Notes Folders\All documents
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+Skilling will be speaking at the National Press Club next week.  He'll give 
+an overview of Enron's business, talk about what's going on in power markets, 
+and what should be done to fix the current problems.  California will get 
+covered as well.  Other than what we have already discussed, is there 
+anything Jeff should know or address in his remarks?

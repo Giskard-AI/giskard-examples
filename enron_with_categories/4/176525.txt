@@ -1,0 +1,53 @@
+Message-ID: <6711544.1075849867654.JavaMail.evans@thyme>
+Date: Sat, 14 Jul 2001 09:00:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: aaron.brown@enron.com
+Subject: Re: Enron's PaineWebber Service
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Aaron Brown
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Nov2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+Thanks for getting on top of this.  Please get the word out to the HR team 
+leaders as soon as you know more.
+
+
+From: Aaron Brown/ENRON@enronXgate on 07/13/2001 11:36 AM
+
+To: Steven J Kean/NA/Enron@Enron, Mary Joyce/ENRON@enronXgate
+
+cc:  
+
+Subject: Enron's PaineWebber Service
+
+Rocky Emery, the Dowd family, Kim Bowden, and another 15 or so employees of 
+UBSPaineWebber (our stock tracking provider...options, restricted stock, etc) 
+left yesterday evening without any warning.  They went to 1st Union.
+
+I've set up a meeting at 2pm today for us to go over to UBSPW and make sure 
+they understand the special needs of Enron and to make sure our service will 
+not be affected.
+
+I am reviewing the contract in place between PW and Enron to understand the 
+affects of this move by Emery and his staff on the agreement.  Also, I'm 
+going to see about getting 2 providers of the stock tracking service from the 
+following list:  (in case this happens again, we'll have a solid back-up 
+immediately)
+
+UBSPaineWEbber (our current provider)
+1st Union (where Rocky Emery went)
+Solomon Smith Barney (way ahead of the competition from a technology 
+standpoint...and has done the two provider thing before)
+Prudential (another option with internal connections)
+
+let me know if you think I should include any others or would like to discuss.
+
+Thanks,
+Aaron
+

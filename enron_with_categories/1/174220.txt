@@ -1,0 +1,129 @@
+Message-ID: <13685960.1075846171560.JavaMail.evans@thyme>
+Date: Tue, 29 Aug 2000 04:38:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: robert_zoellick@gmfus.org, stelzer@aol.com
+Subject: Upcoming Advisory Council Meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Robert_Zoellick@gmfus.org, Stelzer@aol.com
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+I'm looking forward to your discussion regarding the "reregulation threat" at 
+the next meeting.  Below are some of my observations:
+
+While it's premature to say we have an energy crisis, we are witnessing the 
+triple threat of high summer gasoline prices, spiking electricity prices, and 
+high natural gas prices for the upcoming heating season (I'll send along some 
+of the data).
+There is at least the potential for this to become a prominent national 
+political issue:  Gore has focussed relentlessly on Bush's ties to "big oil" 
+(which includes us by the way, though we produce nary a drop); and 
+Congressional republicans have blamed the current administration for failing 
+to have a coherent energy policy (though, at least so far, the dominant 
+characteristic of the administration's policy has been a republicanesque 
+reliance on the market).  
+Notwithstanding the issue's potential to become political fodder and its 
+prominence in the popular press, many Americans seem blissfully ignorant, at 
+least on the electricity issue.  We did some focus group testing recently in 
+Southern California -- a mere 15 minutes from the epicenter of the San Diego 
+price quakes -- and most people knew nothing about it.  So, while the issue 
+has the potential for political traction, it may not have caught on yet 
+(except in places like San Diego and New York city.
+The reaction in California has been to call for government intervention in 
+electricity markets.  Investigations of out of state "price gougers and 
+profiteers" have been undertaken and wholesale and retail price caps have 
+been put in place.  They have not worked -- at least in wholesale markets.  
+Suppliers are deciding to site plants elsewhere and when prices are high 
+elsewhere in the West, power flows out of California to those other markets.  
+Ironically, though I can't explain it in classical economic terms, the 
+setting of rate caps in wholesale markets has had the effect of pulling 
+prices up to the capped levels in offpeak times when there is more than 
+enough supply.  For the most part, though, the caps and the other political 
+reactions have been somewhat muted: policy makers have been reluctant to 
+throw the deregulation plan out and start over, and the retail price caps 
+have been relatively narrow ... so far.
+Outside of California, the authors of other states' deregulation plans have 
+distinguished their proposals from California's.  Regulators and legislators 
+from such diverse places as Connecticut, Texas and Alberta have gone out of 
+their way to defend their plans and explain why "California won't happen 
+here."  For the most part, then, the reaction to California has been positive 
+from Enron's perspective in states that have already deregulated.  There does 
+remain some threat that aspects of the state plans (e.g. utility plant 
+divestiture) may be postponed or cancelled.  The story is a bit more grim in 
+states that were considering deregulation but have not gone forward with 
+their plans:  I think it's off the agenda in most places.  The fact that most 
+of the major markets (about 70% of total electric revenue) are already 
+deregulated/deregulating is a blessing in that regard.
+At the federal level there has been a combination of the "burn the village in 
+order to save it" approach  -- allow some price caps to remove the pressure 
+to reverse the whole deregulation program -- and a more positive call for 
+comprehensive reform.
+All in all, I believe we're OK so far and we need to look at this as an 
+opportunity:  business is booming;  we sell protection from price volatility 
+and the need for such protection is now plastered over the front pages of 
+major newspapers.  On the public policy front we need to convert the 
+controversy into productive action.  Our target has been FERC -- they are 
+somewhat removed from the white hot rhetoric in California and they are a 
+single commissioner's vote away from taking action to further open the 
+market.
+Enron's response:  Initially we hoped to feed information into industry 
+groups and let them carry the message; our concern was that Enron -- a 
+company which was in and out of the residential market in Cal. -- would not 
+make the most attractive champion for the open market message.  We hoped that 
+the new generators in Cal would take up the mantle.  It's fair to say that 
+they fumbled the ball:  they are now locked in a pitched battle with the 
+utilities over price caps and fall all to easily into the out of state 
+profiteer label .... standing between Aunt Millie and rate relief.  They were 
+also extremely slow out of the blocks with a more productive message.  We are 
+now working the issue directly.  We are working the issue on a number of 
+levels: 1) PR - we have good contacts in the press and have talked to 
+numerous reporters and editorial writers.  As time goes on, the information 
+and reporting has gotten somewhat better.  2)  Govt relations - we have been 
+pushing for power plant siting legislation in California (the market wants to 
+build capacity but the government won't let it).  This may be the best 
+environment we'll ever see for streamlining the permitting process.  Also, in 
+typical Enron fashion, we put a deal on the table.  We offered to sell power 
+to the local utility at a price which would enable them to lock in stable 
+rates for their customers at below current rates.  Our offer was followed by 
+nine others and we tried to make something of the fact that the market was 
+offering better solutions than California politicians.  SDG&E dropped the 
+ball, unfortunately.  Instead of seizing the opportunity, they ended up going 
+along with a government granted rate discount which will cause them to accrue 
+a massive deferral account.  At the federal level we are contacting members, 
+the DOE and FERC.  Here we are making a push for FERC action to finish 
+"leveling the playing field" in wholesale markets so power can get from where 
+it is to where its needed.  Additionally, we are developing a prepackaged 
+system (including software) for nondiscriminatory open access (to take away 
+any lingering excuses or delays).  3) Overall messaging -- we have been 
+working with a well known political pollster to check our messages for their 
+resonance at the grassroots level.  As we hone these messages we will be 
+using them in the fora we are currently working.
+Overall, we have more opportunity than risk in the current environment, but 
+capitalizing on those opportunities continues to be a long shot.
+An intersting rhetorical challenge for us is this:  much of the problem in 
+power markets is blamed on high upstream fuel prices, particularly natural 
+gas.  The gas market is open and structured pretty much the way we are 
+advocating for electricity, so how can we maintain that the problem in power 
+markets is an absence of open markets when the most open commodity market on 
+the planet (natural gas) is producing such outsized prices?  The answer is 
+somewhat complicated and therefore a bit unsatisfactory in the current 
+debate:  gas prices are still lower in real terms than they were 
+pre-deregulation;  long term prices are also lower than historical levels ( 
+the curve is "backwardated" (sp?) meaning that prices in later years are 
+lower than today so you can buy gas for 3 years at a price lower than current 
+spot prices); and the economy is booming and driving up demand for basic 
+inputs (this begs the question: why didn't the market react sooner and avoid 
+the spike?).  When all else fails, a big part of the problem can be blamed on 
+OPEC.  We haven't had this thrown at us yet, but we are trying to anticipate 
+it and have answers at the ready.
+
+ This is just the tip of the iceberg.  The issue is a great example of the 
+intersection of our business interests with public policy debates and should 
+promote a lively discussion when we get together.  Let me know if there is 
+anything else you need.

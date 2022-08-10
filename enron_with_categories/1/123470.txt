@@ -1,0 +1,1052 @@
+Message-ID: <24935193.1075843513652.JavaMail.evans@thyme>
+Date: Tue, 22 May 2001 00:51:00 -0700 (PDT)
+From: ann.schmidt@enron.com
+Subject: Enron Mentions
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Ann M Schmidt
+X-To: 
+X-cc: 
+X-bcc: 
+X-Folder: \Jeff_Dasovich_June2001\Notes Folders\All documents
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+California Blame Game Yields No Score --- Probes Reveal Little Evidence 
+Suppliers Acted Illegally
+The Wall Street Journal, 05/22/01
+
+Enron Unit Moves to End India Contract For Power
+The New York Times, 05/22/01
+
+The State GOP Criticizes Davis' Choice of PR Aides Capitol: Legislative 
+leaders call the pair political operatives who are too partisan to represent 
+the state during energy crisis.
+Los Angeles Times, 05/22/01
+
+BUSINESS DIGEST
+The New York Times, 05/22/01
+
+World Watch
+The Wall Street Journal, 05/22/01
+
+IN BRIEF / ENERGY Enron Withdraws from Qatar Project
+Los Angeles Times, 05/22/01
+
+INDIA: UPDATE 1-Indian state spurred by Enron reopens power deals.
+Reuters English News Service, 05/22/01
+
+INDIA: India utility may slap 4bln rupee fine on Enron unit.
+Reuters English News Service, 05/22/01
+
+IXEurope creates a Storm in colocation
+M2 Presswire, 05/22/01
+
+Power corrupts...
+The Economic Times, 05/22/01
+
+The Godbole findings
+Business Standard, 05/22/01
+
+SMARTMONEY.COM: Power Grab
+Dow Jones News Service, 05/22/01
+
+Malaysian LNG Sales to India Threatened by Enron Power Dispute
+Bloomberg, 05/22/01
+
+LEADER: India unplugged 
+Financial Times; May 22, 2001
+
+Enron pulls out of venture drilling in Qatar's waters 
+Houston Chronicle, 05/22/01
+
+Enron exploring commodity trading 
+Houston Chronicle, 05/22/01
+
+Plains Resources Gets New Officers
+Houston Chronicle, 05/22/01
+
+
+
+Economy
+California Blame Game Yields No Score --- Probes Reveal Little Evidence 
+Suppliers Acted Illegally
+By John R. Emshwiller
+Staff Reporter of The Wall Street Journal
+
+05/22/2001
+The Wall Street Journal
+A2
+(Copyright (c) 2001, Dow Jones & Company, Inc.)
+
+LOS ANGELES -- California may be struggling to keep its lights on, but one 
+thing there is no shortage of is accusations over who is to blame for an 
+electricity crisis that has sent power prices skyrocketing. 
+In recent days, top California officials have stepped up their rhetoric 
+against a handful of merchant power companies, many of them Texas-based, that 
+supply the state with much of its juice. Gov. Gray Davis says companies such 
+as Reliant Energy Inc., of Houston, have engaged in "unconscionable price 
+gouging." Loretta Lynch, president of the California Public Utilities 
+Commission and a Davis appointee, proclaims that a "cartel" of electricity 
+producers has created artificial shortages. Lt. Gov. Cruz Bustamante is 
+backing a bill that would make energy price fixing a felony, and as a private 
+citizen he is suing several major power producers in Los Angeles state court.
+About half a dozen investigations are being conducted by entities ranging 
+from state legislative committees to the California attorney general's 
+office. So far, these probes -- some of which have been under way for months 
+-- haven't yet yielded either civil or criminal charges. 
+While the energy suppliers are generating "unconscionable profits," the 
+question remains "whether they are illegal profits," says California Attorney 
+General Bill Lockyer, who has offered rewards of as much as hundreds of 
+millions of dollars for information about lawbreaking in the energy business. 
+Mr. Lockyer says he believes his office will eventually file civil charges 
+against suppliers. He would very much like to add criminal counts. "I would 
+love to personally escort [Enron Corp. Chairman Kenneth] Lay to an 8 x 10 
+cell that he could share with a tattooed dude who says `Hi my name is Spike, 
+honey,'" adds Mr. Lockyer. Houston-based Enron is a major energy-trading 
+company. Like other such firms, Enron has denied wrongdoing in the California 
+market. 
+Mark Palmer, Enron's vice president for corporate communications, said Mr. 
+Lockyer's comment about Mr. Lay "is so counterproductive that it doesn't 
+merit a response." 
+Investigators and academics say there is abundant evidence that individual 
+firms have been exercising "market power." This term is used to denote 
+efforts to influence wholesale-electricity prices, such as by withholding 
+supplies. The California Independent System Operator, or ISO, which manages 
+the state's electric transmission grid, estimates that by exercising market 
+power, suppliers may have added about $6.8 billion to the cost of electricity 
+in the state since early last year. 
+A single firm exercising such power isn't necessarily illegal, says Severin 
+Borenstein, director of the University of California Energy Institute. If a 
+company is a large supplier in the state and "you're not exercising market 
+power, you are not doing your job" on behalf of shareholders, he says. 
+Mr. Borenstein and others say that there are steps that should be taken 
+against suppliers. They note that under federal power law, the Federal Energy 
+Regulatory Commission can order refunds for wholesale prices that are above 
+"just and reasonable" levels. So far, FERC has tentatively ordered California 
+suppliers to make tens of millions of dollars of such refunds, as part of 
+that agency's ongoing inquiry into the California market. Critics of the 
+suppliers and FERC say the refunds should be in the billions of dollars. 
+The power industry, not surprisingly, says there is nothing to accusations of 
+price manipulation or collusion. Executives point to a botched 
+state-utility-deregulation plan that relies heavily on volatile spot-market 
+purchases. Suppliers note that over the past decade, California didn't build 
+enough new power plants to keep up with demand growth. The allegations of 
+manipulation are "a lot of sound and fury and they won't produce anything," 
+says Gary Ackerman, executive director of the Western Power Trading Forum, an 
+industry trade group. 
+Power generators also point to sharp increases in some of their costs, 
+particularly natural gas, which is a major power-plant fuel. This rise in 
+natural-gas prices also has set off a flurry of investigations over possible 
+manipulation. One such case, involving El Paso Corp., Houston, is the subject 
+of probes by federal and state officials. El Paso denies any wrongdoing. 
+While power-industry officials say they have been cooperating with the 
+investigations, law-enforcement officials say they have hit some roadblocks. 
+For instance, Mr. Lockyer's office has gone to San Francisco state court to 
+enforce subpoenas against Reliant, Houston-based Dynegy Inc., and Southern 
+Co. and Mirant Corp., both of Atlanta, after the companies resisted turning 
+over certain business documents they deemed confidential. 
+Investigators have zeroed in on the increased frequency with which plants are 
+going out of service for unscheduled outages. At times, several thousand 
+fewer megawatts of capacity are available than a year ago. A thousand 
+megawatts can power about one million homes. 
+Generators say that this increased "forced outage" rate shows that tight 
+supplies over the past year have required them to run plants, some of them 
+more than 40 years old, for long periods without routine maintenance. This 
+combination has produced more breakdowns. "Plants have been running flat 
+out," says Tom Williams, a spokesman for Duke Energy Co., Charlotte, N.C., 
+which says that its California power plants produced 50% more electricity in 
+2000 than in 1999. 
+At the same time, during periods of lower demand, the number of unplanned 
+outages often seems to rise enough to keep supplies tight, says Frank Wolak, 
+a Stanford University professor and chairman of the ISO's market surveillance 
+committee. "Clearly, something is going on here." However, he and others say 
+that it is almost impossible to tell why a particular pipe failed or whether 
+such a failure was a legitimate reason to reduce output. 
+Some of the most intriguing evidence to date about forced outages surfaced in 
+a federal case. FERC officials said an investigation had raised questions 
+about whether two major power companies had taken plants out of service in 
+order to reap higher electricity prices. The charges against AES Corp., 
+Arlington, Va., which owns the plants, and Williams Cos., Tulsa, Okla., which 
+markets their output, asserted that those actions allowed the companies to 
+reap an extra $10.8 million in revenue. 
+In one instance, according to case filings, a Williams employee "indicated" 
+to AES officials that his firm wouldn't financially penalize AES for 
+extending an outage at one plant. This conversation, which was voluntarily 
+divulged by Williams, could be an indication of collusion. Williams and AES 
+settled the case without admitting any wrongdoing by paying back $8 million 
+to the ISO and by taking certain other measures. A Williams spokeswoman says 
+the employee who talked to AES was "counseled not to enter into any 
+conversations of that nature" in the future. 
+Another issue raised by the FERC case touched on maintenance procedures. 
+According to the filings, AES stopped doing a certain procedure to keep its 
+plant's cooling system from getting clogged. The clogging of the system was 
+cited as a reason for one of the forced outages. Mark Woodruff, president of 
+the AES unit that operates the plant in question, says the company 
+substituted what it felt was an equally effective maintenance procedure. 
+If someone was looking to keep supplies tight and prices high, changes in 
+maintenance procedures would be an easy way to ensure that plants, 
+particularly old ones, have frequent forced outages, says a senior 
+utility-industry executive. By restricting maintenance resources, he says, an 
+operator can simply allow a plant "to take itself out of service." 
+--- 
+Journal Link: What is California doing to alleviate the energy crisis? See a 
+video report of California State Treasurer Philip Angelides discussing the 
+state's plans, in the online Journal at WSJ.com/JournalLinks. 
+--- Investigations Aplenty
+
+In the year since California's energy deregulation plan began
+resulting in higher prices and even blackouts, a flurry of
+investigations has gotten under way. Here are the main ones:
+
+AGENCY: Federal Energy Regulatory Commission
+INVESTIGATION: Whether generators are charging more than "just and
+reasonable" rates as demanded by the Federal Power Act; whether El
+Paso Corp. used its position as a major natural-gas supplier to the
+state to illegally drive up the price of fuel used to generate
+electricity.
+
+AGENCY: California Public Utilities Commission and the State Attorney 
+General
+INVESTIGATION: Whether generators and power traders have acted
+illegally through collusion or other means to artificially inflate
+electricity prices.
+
+AGENCY: PUC and California Independent System Operator
+INVESTIGATION: Whether generation plants were shut down for spurious
+reasons in order to create supply shortages and, thus, to raise
+electricity prices.
+
+AGENCY: California Electricity Oversight Board
+INVESTIGATION: Whether patterns of bidding and pricing in
+California's electricity auction indicate collusive or otherwise
+illegal behavior.
+
+Sources: state and federal agencies
+
+Copyright , 2000 Dow Jones & Company, Inc. All Rights Reserved. 
+
+
+Business/Financial Desk; Section W
+Enron Unit Moves to End India Contract For Power
+By SARITHA RAI
+
+05/22/2001
+The New York Times
+Page 1, Column 6
+c. 2001 New York Times Company
+
+BANGALORE, India, May 21 -- Fed up with its main customer's refusal to pay 
+its bills, the Enron Corporation's Indian power-generating venture served 
+formal notice on Saturday that it would terminate its power supply contract 
+and pull out. 
+The move by the Dabhol Power Company, 65 percent owned by Enron, starts the 
+clock ticking on a six-month notice period before the contract is voided, 
+during which negotiations to settle the dispute are expected. The $2.9 
+billion Dabhol project represents the largest single foreign investment in 
+India.
+Separately, Enron said today that it was withdrawing from a pipeline project 
+in Qatar, which would have supplied some gas to Dabhol. The company said that 
+the two steps were unrelated. 
+The Dabhol project has been the subject of a series of wrangles between the 
+company and the governments of India and of the western Indian state of 
+Maharashtra. The state-owned utility company that contracted to buy power 
+from the Dabhol plant has defaulted on some $64 million in unpaid power 
+bills, and has accused Dabhol of charging too much. 
+Dabhol said it was left with little choice but to issue the termination 
+notice after both governments failed to honor their contractual commitments 
+to buy and pay for its output. 
+But in a statement issued over the weekend, Dabhol said it was ''still open 
+to constructive discussion on the solutions.'' The company said a ''lasting 
+and feasible solution'' to the dispute would require that the two governments 
+either honor their obligations to buy Dabhol's power or find other 
+creditworthy buyers to take the power instead. 
+The first phase of the project now generates 740 megawatts of power, and the 
+second phase, adding another 1,444 megawatts of capacity, is scheduled to go 
+on line next month. 
+Under the contract, the termination that Enron has set in motion would oblige 
+the federal and state governments to pay damages to Enron and the lenders 
+that financed the project, possibly as much as $500 million -- the value of a 
+year's output of power plus the project's $300 million in debt -- if it is 
+shut down.
+
+Copyright , 2000 Dow Jones & Company, Inc. All Rights Reserved. 
+
+
+
+California; Metro Desk
+The State GOP Criticizes Davis' Choice of PR Aides Capitol: Legislative 
+leaders call the pair political operatives who are too partisan to represent 
+the state during energy crisis.
+DAN MORAIN
+TIMES STAFF WRITER
+
+05/22/2001
+Los Angeles Times
+Home Edition
+B-8
+Copyright 2001 / The Times Mirror Company
+
+SACRAMENTO -- Republican legislative leaders Monday blasted Gov. Gray Davis' 
+decision to spend $30,000 a month in taxpayer money to retain communications 
+consultants known for their highly partisan work. 
+Labeling consultants Mark Fabiani and Chris Lehane as "cut-throat," Senate 
+GOP leader Jim Brulte of Rancho Cucamonga and Assembly Republican leader Dave 
+Cox of Fair Oaks said in a letter to Davis that the hiring "undermines the 
+assertions you have made both publicly and privately throughout this crisis."
+Davis announced Friday that he retained the duo and that the state will pay 
+them a combined $30,000 a month for at least the next six months. 
+"We're not going to support the hiring of political hacks on government 
+payroll," Brulte said in an interview. "Lehane and Fabiani are very talented. 
+The issue is which payroll is appropriate. . . . These are political 
+opposition research attack dogs. If the governor wants them, he ought to pay 
+for them with his $30-million political war chest." 
+Some consumer advocates also criticized the move, citing the consultants' 
+work on behalf of Southern California Edison. In their private consulting 
+business, Fabiani and Lehane are working to win over public and political 
+support for Davis' $3.5-billion plan to rescue Edison from its financial 
+difficulties. Legislation embodying aspects of the deal is pending in 
+Sacramento. 
+On Monday, Brulte and Cox also complained about the consultants' dual role. 
+"California taxpayers should not be asked to finance political consultants or 
+individuals who have a vested business interest with the state," the letter 
+said. 
+Fabiani and Lehane had worked in the Clinton administration, and in Vice 
+President Al Gore's presidential campaign, where they gained a reputation as 
+attack-oriented operatives. Lehane on Monday defended the governor's decision 
+to use tax money to pay their fees, saying government often hires outside 
+experts and that he and Fabiani will "serve as communications advisors to 
+help the governor fight against these generators." 
+"The Republicans," Lehane added, "ought to be spending time writing letters 
+to George W. Bush to get him to stop the Texas generators from gouging 
+California. . . . That is the real issue here." 
+Davis, meanwhile, returned to California on Monday after a weekend of 
+fund-raisers. He was in Texas on Saturday for a Dallas event that had been 
+scheduled for April 11. It was postponed when Pacific Gas & Electric filed 
+for bankruptcy protection. 
+"There is a very large fund-raising base for Democrats in Texas," Davis' 
+campaign strategist, Garry South, said of the state that is home to some of 
+the generators that Davis has criticized. 
+Davis traveled to Chicago for another fund-raiser Sunday, then met Monday 
+with city officials to discuss how Chicago deals with electrical blackouts. 
+After blackouts crippled downtown Chicago in the summer of 1999, Mayor 
+Richard M. Daley demanded that the city's electricity provider, Commonwealth 
+Edison, give advance notice of power cuts. Customers now sometimes receive 
+warnings two or three days in advance. 
+Davis emerged from the meeting saying "the utilities have got to tell us in 
+advance when they're going to have a planned blackout." 
+It was not, however, readily apparent how Chicago's solutions would translate 
+to California, because its electrical problems are vastly different. Rather 
+than suffering a shortage of electricity throughout the grid like California, 
+Chicago has the more microcosmic ills of an aging system--an obsolete 
+transformer going down, for example, leaving several city blocks in the dark 
+until workers can fix it. 
+* 
+Times staff writer Eric Slater contributed to this story.
+
+PHOTO: Protester Barbara King shakes a light bulb outside Sacramento office 
+of a lobbyist for energy producer Enron near the Capitol.; ; PHOTOGRAPHER: 
+ROBERT DURELL / Los Angeles Times 
+
+Copyright , 2000 Dow Jones & Company, Inc. All Rights Reserved. 
+
+
+Business/Financial Desk; Section C
+BUSINESS DIGEST
+
+05/22/2001
+The New York Times
+Page 1, Column 1
+c. 2001 New York Times Company
+
+Enron Moves to End India Contract 
+Fed up with its main customer's refusal to pay its bills, Enron's Indian 
+power-generating venture said that it would terminate its power supply 
+contract. [World Business, Section W.] 
+
+Copyright , 2000 Dow Jones & Company, Inc. All Rights Reserved. 
+
+
+International
+World Watch
+Compiled by David I. Oyama
+
+05/22/2001
+The Wall Street Journal
+A18
+(Copyright (c) 2001, Dow Jones & Company, Inc.)
+
+EUROPE/MIDEAST 
+Insurer Storebrand
+Favors Sampo's Bid 
+Over Den Norske 
+Norway's largest insurer, Storebrand, became the center of a bidding war 
+between Finnish financial-services company Sampo and Norway's Den Norske 
+Bank, with Storebrand favoring Sampo. Sampo's offer values Storebrand at 20.8 
+billion Norwegian kroner ($2.3 billion), compared with DnB's 17.6 billion 
+kroner bid, as the Nordic region's top financial companies battle for 
+position in a consolidating sector. Sampo and Storebrand, in a joint Helsinki 
+news conference, said they were confident their deal would succeed. 
+Sampo's cash-and-stock offer, valued at 75 kroner a share, represents a 31% 
+premium to Storebrand's average share price during the past month and was 
+backed by Storebrand's management. DnB wouldn't say whether it would alter 
+its bid. "One cannot count on that," its chairman said. 
+HypoVereinsbank Results Disappoint 
+Bayerische Hypo- und Vereinsbank, Germany's second-largest bank, known as 
+HypoVereinsbank, said first-quarter pretax profit rose 25% from a year 
+earlier to 770 million euros ($678 million), below analysts' consensus 
+forecast of 795 million euros. Profit rose 63% to 468 million euros; earnings 
+and pretax profit were both helped by one-time gains of 454 million euros. 
+Operating profit fell 59% in the retail-banking division to 98 million euros, 
+and was down 43% in the international-markets division to 184 million euros. 
+HypoVereinsbank said tough market conditions world-wide reduced regular 
+commission and interest income. 
+Enron Pulls Out of Emirates Gas Project 
+U.S. energy company Enron has decided to pull out of the multibillion-dollar 
+Dolphin natural-gas project, selling its 24.5% stake to the United Arab 
+Emirates Offsets Group, or UOG, according to Dolphin Energy's managing 
+director, Ahmed Al-Sayigh. He didn't specify the reason for Enron's 
+withdrawal or the value of Enron's stake. The Dolphin project agreement, 
+reached two years ago by UOG and Qatar Petroleum, aims to bring two billion 
+cubic feet a day of natural gas from Qatar's offshore North Field in the 
+Persian Gulf to Abu Dhabi and onward to Dubai. Enron and France's 
+TotalFinaElf each held a 24.5% stake, with UOG owning the remaining 51%. Mr. 
+Sayigh said UOG will hold discussions with other companies on a possible sale 
+of Enron's original stake. Richard Bergester, manager for Enron Middle East, 
+said that having contributed to the project's initial stages, Enron now feels 
+it can't "add" any more. He didn't elaborate. A TotalFinaElf official said it 
+is interested in a greater stake in Dolphin. 
+Marc Rich Gains Control of Swiss Firm 
+Marc Rich, the former U.S. fugitive given a controversial pardon by President 
+Clinton, effectively pulled off a management coup at Swiss real-estate 
+company Feldschloesschen-Huerlimann Holding by thwarting its merger plans 
+with Swiss Prime Site and forcing the board to quit. Feldschloesschen's 
+ousted chairman, Robert Jeker, said Marc Rich Group now had control of the 
+company. Mr. Rich himself is not on the board, but he controls more than 10% 
+of the votes in Feldschloesschen. 
+
+ASIA/PACIFIC 
+BRIEFLY: 
+-- Bass Hotels & Resorts, a unit of Britain's Bass, said it will buy the 
+Regent Hotel Hong Kong for $346 million from Hong Kong's New World 
+Development. 
+-- Indian lenders said they want the Indian government to intervene after 
+U.S. energy company Enron's threat to walk out of its Dabhol Power unit's 
+huge project in Maharashtra state put their loans in jeopardy. Domestic 
+lenders have lent $1.4 billion out of the project's total $2.9 billion cost. 
+-- Australian Prime Minister John Howard caved in to intense pressure over 
+the collapse of HIH Insurance, announcing a royal commission into the 
+company's failure and setting aside over 500 million Australian dollars ($265 
+million) to assist victims of the Australian insurer's collapse. 
+-- Japan's trade surplus shrank at a faster-than-expected pace in April, 
+narrowing 42% from a year earlier to 665.9 billion yen ($5.39 billion), as 
+reduced foreign demand weighed on the country's economy. 
+
+Copyright , 2000 Dow Jones & Company, Inc. All Rights Reserved. 
+
+
+
+Business; Financial Desk
+IN BRIEF / ENERGY Enron Withdraws from Qatar Project
+Bloomberg News
+
+05/22/2001
+Los Angeles Times
+Home Edition
+C-2
+Copyright 2001 / The Times Mirror Company
+
+Enron Corp. pulled out of a $2-billion pipeline project to export gas from 
+Qatar as it became increasingly likely that an Indian power-sales agreement 
+will collapse. The company said the move is not related to a filing by its 
+65%-owned Dabhol Power Co. to India's Maharashtra state's electricity board 
+to stop supplying power because it's owed about $63.9 million by the board.
+
+Copyright , 2000 Dow Jones & Company, Inc. All Rights Reserved. 
+
+
+
+
+INDIA: UPDATE 1-Indian state spurred by Enron reopens power deals.
+By Narayanan Madhavan
+
+05/22/2001
+Reuters English News Service
+(C) Reuters Limited 2001.
+
+BANGALORE, India, May 22 (Reuters) - India's technology state of Karnataka, 
+spurred by a payments row involving U.S. power developer Enron Corp in a 
+neighbouring province, has reopened sealed power purchase deals with 11 
+private firms. 
+The southern state's government has told independent power producers (IPPs), 
+which are yet to start generation, that they need to make their tariffs more 
+competitive, officials said.
+"Now it (electricity) cannot be at any cost," V.P. Baligar, chairman and 
+managing director of the Karnataka State Power Transmission Corp Ltd (KPTCL), 
+the state's monopoly power distributor, told Reuters in an interview late on 
+Monday. 
+The move comes on the heels of the bitter wrangle in Maharashtra state 
+involving Dabhol Power Co, 65-percent owned by Houston-based Enron. 
+Dabhol issued a preliminary notice on Saturday to end a contract to sell 
+power to the Maharashtra State Electricity Board. The step came after 
+Maharashtra ceased payments saying Dabhol's tariffs were too high. 
+The $2.9-billion project, which is 90-percent complete, was first billed as a 
+showcase of India's decade-old reform programme but now is regarded by 
+critics as a symbol of policy bungling. "Enron is a lesson for all of us," 
+Baligar said. 
+Karnataka also said it would not provide financial assurances in the form of 
+escrow cover and government loan guarantees which the firms wanted to help 
+sweeten lending rates. 
+"We're trying to tell them your tariff has to be competitive," Baligar said, 
+but added that the state was open to negotiations. "You have to have the 
+final capability so you can implement the project without any guarantee or 
+escrow." 
+SIGNED DEALS 
+Five years ago, the state signed power purchase deals with 14 private firms. 
+Three of them are already generating power at rates higher than the state 
+would now like to pay. They will continue to get these rates but the 11 
+unbuilt units face an uncertain future. 
+The 11 plants involve 2,000 megawatts (MW) of capacity, half of which would 
+be supplied by the Mangalore Power Co (MPC) from which U.S.-based Cogentrix 
+exited in 1999, citing litigation and delays in government approval. 
+China Light & Power now owns the company, in which India's Tata group is 
+expected to take 30 percent. MPC Managing Director V.P. Sharma told Reuters 
+that his firm's project would not be hit by the demand for lower tariffs 
+because it was based on coal unlike the Enron project, based on naphtha. 
+"Our cost is the lowest cost approved (and) coal prices have fallen (since 
+the agreement)," Sharma told Reuters from Bombay. Company officials say the 
+project is also looking forward to a federal guarantee to help it move 
+forward. 
+Baligar said the government's intention was to weed out those who are not 
+serious. "Those who are serious can sit with us and sort out their problems," 
+he said. 
+Power tariffs vary, depending upon foreign exchange rates and the type and 
+prices of fuels. Three projects which are already generating power get about 
+3.0 to 4.0 rupees (6.4 to 8.5 U.S. cents) per unit. The 11 uninstalled plants 
+had comparable rates but MPC says falling coal prices helped its 
+competitiveness. 
+One generating firm, Jindal Tractabel, which uses coal and gas, gets about 
+2.60 rupees. Its purchase agreement was not among the 14 and is awaiting 
+regulatory approval. The state wants the Jindal rate to be the benchmark for 
+reopened agreements. 
+If private firms cut capital costs and work out long-term fuel supplies, they 
+will be able to cut rates, Baligar said. 
+The state says it needs 4,000 MW of new capacity over 10 years and 2,500 MW 
+over five years. State-run utilities are in a position to meet five-year 
+needs at low rates, Baligar said. 
+Asked if Karnataka could face litigation over the reopening of the contracts, 
+Baligar had legally strong arguments. ( $1 = 46.9 rupees).
+
+Copyright , 2000 Dow Jones & Company, Inc. All Rights Reserved. 
+
+
+
+INDIA: India utility may slap 4bln rupee fine on Enron unit.
+
+05/22/2001
+Reuters English News Service
+(C) Reuters Limited 2001.
+
+BOMBAY, May 22 (Reuters) - An Indian utility is planning to impose a second 
+penalty of four billion rupees ($85 million) on Enron's local unit, barely a 
+week after the U.S. energy giant took its first step to pull out of the 
+embattled project. 
+A senior official at the Maharashtra State Electricity Board (MSEB) said on 
+Tuesday the fine on Dabhol Power Company (DPC) was for not meeting capacity 
+targets within a stipulated period.
+"We will do this as soon as the bill for May is received next month," the 
+official told Reuters. 
+DPC officials declined to comment on the matter. 
+Earlier this year, MSEB had imposed a similar penalty on DPC - which DPC has 
+not paid - saying its plant could not be ramped up to full capacity within 
+three hours from a cold start. 
+Enron and MSEB have been battling for six months over payment defaults and 
+last week DPC, owned 65 percent by Enron, issued a preliminary notice to 
+terminate a power purchase agreement - widely seen as a move that would lead 
+to a pull out. 
+According to DPC, it is owed $48 million by MSEB. 
+A top government official told Reuters in Delhi on Monday the federal 
+government is optimistic Houston-based Enron and the Maharashtra state will 
+resolve their wrangle. 
+The agreement signed between MSEB and DPC in 1995 stipulates that if Dabhol's 
+plant cannot achieve 100 percent capacity within three hours from restart, 
+MSEB is entitled to impose a penalty. 
+The MSEB official said the plant had failed to fulfil this condition in 
+February and March, considered peak periods for power demand by the utility. 
+DPC is building a $2.9 billion, 2,184 MW plant, of which the first phase of 
+740 MW began operations in May 1999. 
+Enron is India's largest foreign investor. ($1=47.0 Indian rupees).
+
+Copyright , 2000 Dow Jones & Company, Inc. All Rights Reserved. 
+
+
+IXEurope creates a Storm in colocation
+
+05/22/2001
+M2 Presswire
+Copyright 2001 M2 Communications, Ltd. All Rights Reserved.
+
+IXEurope, a leading pan-European provider of Internet infrastructure and 
+hosting services, today announces that it has signed a deal with Storm 
+Telecommunications Limited (Storm), the international optical switched 
+service provider, with an intelligent optical backbone network built in the 
+UK, France, Germany, the Netherlands, Denmark, Sweden and Norway. Over the 
+coming months Storm's network will also be operational in the USA, 
+Switzerland, Italy and Austria. 
+Under the agreement Storm will locate its optical switching equipment at 
+IXEurope's flagship datacentres in London and Frankfurt, with plans to use 
+other IXDatacentres across Europe for colocation of its equipment to support 
+its European and North American metro access rollout.
+Storm is the tenth carrier to enter the London city IXDatacentre meaning that 
+IXEurope's customers (including other carriers) will benefit from the 
+services that Storm offers. This illustrates the advantages that IXEurope's 
+carrier-neutral status brings -connectivity, cost-effective choice and 
+flexibility. 
+Guy Willner, CEO of IXEurope, commenting on the deal, said: "We are pleased 
+to support Storm's IP network rollout. It will naturally interlink with the 
+new gigabit ethernet service we are offering across our pan-European network 
+of IXDataCentres." Mark Stewart, senior vice president, business development 
+of Storm, said "We chose IXEurope as one of our colocation partners because 
+of its extensive pan-European presence and the strategic location of its 
+datacentres. IXEurope has ensured that its datacentres are located where 
+there is an abundance of network, and provides a choice of carriers, which 
+allows us great flexibility. IXEurope will also provide us with the ability 
+to expand over an agreed time scale." 
+IXEurope, which now has eight operational datacentres across Europe, has 
+recently signed contracts to provide colocation and managed services to 
+Hewlett Packard, Enron Broadband Services (EBS) and The Data Company. 
+IXEurope has just been awarded the ISO9002 quality assured certification for 
+the second consecutive year , showing its commitment to quality across its 
+European operations. 
+IXEurope 
+IXEurope provides neutral colocation and facilities management services to 
+corporate, internet and telecoms organisations, allowing them speedier access 
+to market and the freedom to focus on their core business. 
+IXDatacentres are present across Europe in all major business centres, 
+including London, Paris, Frankfurt, Zurich, Nice, Dusseldorf, Milan and 
+Barcelona. IXEurope is an ISO9002 Quality Certified Company and a founding 
+member of the Colocation and Hosting Association. IXEurope's funders include 
+Bank of America, JPMorgan and European Acquisition Capital. For more 
+information please visit the website at www.ixeurope.com 
+About Storm Telecommunications 
+Storm Telecommunications Limited, wholly owned and group operating company of 
+Storm Investments Limited, is the first OSP (optical-switched service 
+provider). Storm provides voice, bandwidth and IP services and had revenues 
+of GBP52m in 2000. Storm's intelligent mesh network is operational in the UK, 
+France, Germany, Norway, Sweden, Denmark and the Netherlands, shortly 
+reaching the USA, Italy, Austria and Switzerland. In February 2000, Storm's 
+management completed an MBO backed by investment affiliates of Soros Private 
+Equity Partners, and further backing by investment affiliates of Merrill 
+Lynch & Co came in May 2000. 
+Storm's intelligent optical network is in prime position to meet the 
+e-business challenges of 2001 and beyond. For more information, please visit 
+HTTP:\\WWW.STORMTEL.COM. 
+((M2 Communications Ltd disclaims all liability for information provided 
+within M2 PressWIRE. Data prepared by named party/parties. Further 
+information on M2 PressWIRE can be obtained at http://www.presswire.net on 
+the world wide web. Inquiries to info@m2.com)).
+
+
+CONTACT: Victoria Dickson, Citigate Technology Tel: +44 (0)207 950 2982 
+e-mail: victoria.dickson@citigatetechnology.com Chris Moseley/Vidushi Patel, 
+Miller Shandwick Technologies Tel: +44 (0)20 7282 2844 e-mail: 
+cmoseley@miller.shandwick.com e-mail: vpatel@miller.shandwick.com Russell 
+Poole, General Manager UK, IXEurope e-mail: russell.poole@ixeurope.com Helen 
+O'Hanlon, PR Manager, Storm Telecommunications e-mail: 
+H.O'Hanlon@stormtel.com 
+
+Copyright , 2000 Dow Jones & Company, Inc. All Rights Reserved. 
+
+
+Power corrupts...
+
+05/22/2001
+The Economic Times
+Copyright (C) 2001 The Economic Times; Source: World Reporter (TM)
+
+APROPOS of Enrons notice to the government of Maharashtra, Mumbai should act 
+pragmatically instead of indulging in heroics and rhetoric. It should set its 
+own house in order, improve MSEBs functioning and quickly privatise.
+If it fails to do these its threat to Enron will also be taken as just 
+another case of demanding kickbacks. 
+IT is sad really that Enron had to issue its pre-termination notice. We 
+should now ask whether MSEB would be able to construct such a project in 
+record time. 
+Corruption is rampant in MSEB. They may say Enron power is not needed, but 
+you cannot even get a new connection easily. Interruptions are commonplace in 
+rural areas (sometimes up to four times a week). 
+Power thefts are commonplace too. Each day, on average, we pay MSEB about Rs 
+6 per unit for commercial connections. But most people would be willing to 
+pay Rs 7 or so if they got clean, uninterrupted power. 
+We have seen, for example, the vast cost overruns of many of the official 
+water management projects. These overruns go up to 20 times, with delays 
+stretching up to 10 years with no guarantee no results even then. 
+All told, the government is sending very wrong signals to the international 
+community by raking up the Enron controversy. It should set its own house in 
+order. 
+THE new state ministries are too big in size West Bengals in particular. It 
+has allotted one minister just to deal with fire brigades. The expenditure in 
+lakhs it entails could exceed the total number of fire tenders under the 
+department. 
+Despite that it needed 7 complete days to control a recent fire (with private 
+tankers requisitioned to help over and above the ones owned by the 
+corporation and municipalities). 
+We need more fire tenders, not ministers or those who are associated with the 
+big boss. Also we need a new minister, plus a full-fledged department, to 
+examine corrupt practices in local government and also in the central 
+government offices located in states. 
+Meanwhile, was the Sarkaria Commissions recommendation to restrict the size 
+of the ministry to within 10 per cent of the size of the Assembly advanced 
+only to be flouted? 
+We should call a stop to such commissions as not even 10 per cent of their 
+purpose is served; they too entail huge establishments which are maintained 
+year after year at taxpayer expense. 
+SINCE 1993, I have been familiar with the political, social and business 
+scenarios in the US and so I feel reasonably qualified to make some 
+observations on US immigration policy by Sudhir Shah. 
+Shahs statistics are not totally accurate but they depict the `global 
+picture. The Indian immigrants (a million plus now) are, in many respects, a 
+class apart. 
+Their education levels are far higher than those of other immigrants, many of 
+whom are just a grade above our rag-pickers (they are the cherry and berry 
+pickers on US farms). 
+I have not come across a single uneducated Indian in the US since 1983. Even 
+in asset-formation, Indians (even Pakistanis) are leagues ahead of the other 
+immigrants. 
+B T Dasture, Mumbai -
+
+Copyright , 2000 Dow Jones & Company, Inc. All Rights Reserved. 
+
+
+The Godbole findings
+Our Editorial
+
+05/22/2001
+Business Standard
+15
+Copyright (c) Business Standard
+
+The Godbole committee's first report, submitted on 10 April, is an eye-opener 
+to what can only be called a massive scandal. It leaves several players MSEB, 
+successive Maharashtra governments, the Kirit Parikh re-negotiation exercise, 
+the Central Electricity Authority, and other players in New Delhi with no 
+clothes on. MSEB claimed that it had negotiated a tariff that was lower than 
+would result from applying the central government's standard formula. But 
+this was patently fraudulent, because the comparison was based on wrong 
+numbers, incorrect technical parameters and unequal assumptions (one 
+rupee-dollar rate for the Dabhol tariff, another for calculating the 
+government formula), all of it designed to establish what was not true. Asked 
+in court why there had been no competitive bidding, the answer (believe it or 
+not) was that MSEB was not competent to handle competitive bidding. But it 
+was so wonderfully capable of handling direct tariff negotiations that it 
+eventually gave Dabhol a higher tariff than Enron had initially sought, 
+before the negotiations began!
+That's only for starters. There is much more in the Godbole report. On the 
+basis of a passing comment in an FIPB meeting, that the project's costs were 
+broadly in line with other similar projects, the power secretary in New Delhi 
+tells the Central Electricity Authority that the CEA's techno-economic 
+clearance is not required though this is statutorily mandated. The CEA agrees 
+to this untenable proposition, but later issues a vaguely worded clearance on 
+the basis of a meeting whose minutes were not made available to the Godbole 
+committee. The re-gasification project that was made part of the power 
+project had a capacity to handle 5 million tonnes, though Dabhol itself 
+needed only 2.1 million tonnes. A port facility had similar excess capacity. 
+Yet the entire cost of these facilities was loaded on to Dabhol, along with 
+the full cost of the 20-year gas supply contract. Thus, as the Godbole 
+committee observes, what should have been a variable cost was converted to 
+part of the fixed cost, which MSEB would have to service through a capacity 
+charge, whether any power or gas was bought or not. Even the power 
+requirements of Maharashtra were mis-calculated in order to over-ride a 
+warning from the World Bank that the Dabhol power would not be needed. This 
+was done by assuming that industrial demand for power would grow overnight at 
+twice the earlier rate, and that MSEB itself would overnight see a dramatic 
+worsening of its operating parameters. There is still more in the report, but 
+the point should be obvious. What the report shows is that the Dabhol 
+contract can be subjected to legal test (as in fact two members of the 
+Godbole committee recommend), on the grounds that it was improperly handled 
+and violative of law and common sense. If a favourable judicial decision 
+becomes possible, that should help mitigate the costs of winding up a truly 
+scandalous project. For reasons that are not clear, MSEB and the Maharashtra 
+government have chosen not to go down this route. Perhaps they have greater 
+and continuing faith in the re-negotiation process.
+
+Copyright , 2000 Dow Jones & Company, Inc. All Rights Reserved. 
+
+
+SMARTMONEY.COM: Power Grab
+By Elizabeth Harris
+
+05/21/2001
+Dow Jones News Service
+(Copyright (c) 2001, Dow Jones & Company, Inc.)
+
+NEW YORK -(Dow Jones)- Feeling squeezed by rising electricity bills and 
+shrinking investment returns? Consider investing in utilities, which posted 
+solid gains amid the recent bear-market carnage. 
+But plugging into this volatile sector is risky business, as anyone who piled 
+in this year based on energy's surge in 2000 can testify. After returning 
+7.28% last year as demand for power outstripped supply, the average utilities 
+fund is so far down 1% through May 18, according to the fund research firm 
+Morningstar.
+Though the sector's prospects remain attractive, such volatility is par for 
+the course, says Mark Beckwith, portfolio manager of the Vanguard Utilities 
+Income fund (VGSUX). Utilities and funds that focus on the sector no longer 
+perform like bonds, delivering most of the gains via relatively predictable 
+dividend yields. Instead, the industry has greater growth prospects (and the 
+correspondingly higher potential for losses) tied to the fluctuating demand 
+for power. 
+Already, high prices for natural gas and electricity have created incentives 
+for producers to boost supplies. And the stodgy local monopolies that once 
+dominated the industry must now reckon with a bevy of independent producers, 
+distributors and traders. Even telecom companies are now considered fair 
+game, offering managers of sector funds fresh choices alongside greater risk. 
+"The classification of a utility has changed," Beckwith says. 
+At the same time, the crisis gripping electricity-starved California is 
+showing other states the pitfalls to avoid as they deregulate their grids. 
+"The outlook for wiser deregulation is very much with us," says Bill Reaves, 
+a manager of the Strong American Utilities fund (SAMUX). The crisis out west 
+has also spurred construction of new power plants from New York to Florida, 
+he adds. Managers also count on continued political support from the former 
+oilmen in the White House who are determined to boost domestic output. 
+With such inducements in mind, we screened Morningstar's database looking for 
+no-load utilities portfolios with one-year returns of at least 1% and 
+three-year annualized returns of 5% or more. We also sought funds with 
+initial investment minimums no higher than $3,000 and expense ratios below 
+the category's average. 
+Strong American Utilities 
+Bill Reaves, co-manager of the Strong American Utilities fund, characterizes 
+the $290 million portfolio's positions as "real utilities." 
+"We try to concentrate in the electric and natural-gas area," Reaves says. 
+"We try to concentrate in holdings and companies where we see good growth." 
+Last year, that meant scaling back significantly from telecom stocks, in part 
+because of a deteriorating outlook. 
+Right now, electric utilities represent 44.5% of the fund - and Dominion 
+Resources (D) is the largest position. Energy ranging from gas utilities to 
+integrated oil and gas companies has also been a significant holding, at 
+24.2%. 
+Reaves and the rest of the portfolio management team are also very sensitive 
+to valuations. The portfolio consists of 40 stocks, but the managers can 
+devote up to 75% of the fund's assets to the 16 to 18 companies seen as the 
+best bargains. 
+This cautious approach has stood the fund well at a time when some of its 
+competitors got hit by telecoms' travails. The Strong portfolio rose 27.33% 
+in 2000 and is up 2.42% so far this year, contributing to a 15.18% three-year 
+record. 
+Reaves expects the good times to last, with industry earnings growth on the 
+order of 8% to 10% coupled with dividends of about 5% over the next three to 
+five years. "Demand is likely to keep on being strong...and the value of the 
+service is going to be appreciated a great deal more," Reaves says. For 
+example, the electric utilities' average price-to-earnings ratio for 2002 is 
+about 12 - roughly a 50% discount to the Standard & Poor's 500 index. 
+The minimum investment is $2,500, and the portfolio bears a 1% expense ratio. 
+Vanguard Utilities Income 
+"We won't be moving with the Nasdaq," says portfolio manager Beckwith of the 
+Vanguard Utilities Income fund he runs. Beckwith invests a relatively small 
+17% slice of the $900 million fund in telecom stocks. As with the other funds 
+in this screen, such caution paid off last year, when the fund gained 18.7%. 
+That turned the tables on 1999, when the technology boom consigned Vanguard 
+Utilities to the rear echelon of its peer group. Annualized over three years, 
+the portfolio has returned 9.33%, trailing the average utilities' fund's 
+10.53%. 
+Here, too, the emphasis is on attractive valuations. Beckwith also has a 
+mandate to invest at least 95% of the portfolio in dividend-paying utilities 
+(last year, all assets had to be invested in such stocks.) "I'm going to get 
+as much growth as I can without taking on too much risk," Beckwith says. 
+Right now, Beckwith has 61% of his assets in defensive electric utilities 
+such as Dominion Resources or the FPL Group (FPL). 
+The portfolio is down 2.65% so far this year, but Beckwith, too, is counting 
+on continued strong demand for electricity. "Earnings momentum will be very 
+good for the group at least over the next year," he says. His main concern is 
+that high energy prices could encourage conservation, eventually depressing 
+demand. 
+The investment threshold is $3,000, and the expense ratio is a slim 0.38%. 
+American Gas Index fund 
+This concentrated portfolio rises and falls with the gas industry's 
+prospects. Strong natural-gas prices boosted the American Gas Index fund's 
+(GASFX) return last year to a 55.86%, far above the sector's average. That 
+more than offset the 3.71% drop in 1999. Annualized over three years, the 
+roughly $300 million fund has gained 15.82%. 
+Like other index portfolios, the fund doesn't make stock picks; instead it 
+owns 73 members of the American Gas Association, representing much of the gas 
+distribution and transmission industry in most U.S. regions. Stocks are 
+weighted by market-cap and by the portion of a company's assets involved in 
+natural gas. Top holdings include Williams Companies (WMB), Enron (ENE) and 
+Duke Energy (DUK). 
+The initial investment is $2,500, and expenses are 0.85%. 
+For more information and analysis of companies and mutual funds, visit 
+SmartMoney.com at http://www.smartmoney.com/
+Copyright , 2000 Dow Jones & Company, Inc. All Rights Reserved. 
+
+
+Malaysian LNG Sales to India Threatened by Enron Power Dispute
+2001-05-22 06:32 (New York)
+
+Malaysian LNG Sales to India Threatened by Enron Power Dispute
+
+     Kuala Lumpur, May 22 (Bloomberg) -- Malaysia LNG Tiga Sdn.
+may have to find new buyers for as much as 2.6 million metric tons
+a year of liquefied natural gas if Dabhol Power Co. carries
+through termination of electricity supplies to India's Maharashtra
+State Electricity Board.
+     MLNG Tiga has an agreement to deliver a maximum 2.6 million
+tons a year of LNG each year to an import terminal Enron is
+building to feed the Dabhol power plant.
+     Saturday, Dabhol Power, 65 percent owned by Enron Corp. of
+the U.S., started a procedure to end its power supply contract to
+the electricity board, its sole customer, which owes over 3
+billion Indian rupees ($64 million) in unpaid power bills.
+     ``It is our hope that matters in India would be resolved,''
+said Azman Ibrahim, spokesman for state-owned Petroliam Nasional
+Bhd., which owns 60 percent of MLNG Tiga. ``If they do not work
+out, we would have to find or make alternative arrangements.''
+     MLNG Tiga is constructing Malaysia's third gas export
+facility, which will raise the country's LNG capacity to 23
+million tons from about 16 million tons in 2000. If Dabhol goes
+through with cancellation of its power supply contract, MLNG Tiga
+would have to find buyers for more than a third of the 6.8 million
+tons it is adding to Malaysia's output capacity.
+     Other partners in MLNG Tiga are the Sarawak state government
+with a 10 percent share, Royal Dutch/Shell Group's unit Shell Gas
+BV with 15 percent, Nippon Oil LNG (Netherlands) BV with 10
+percent and Diamond Gas Netherlands BV with 5 percent.
+     The plant is due to be completed at the end of 2002 with
+commercial production due to begin in 2003.
+     India's federal and state governments may have to pay Dabhol
+Power Co. more than 170 billion rupees ($3.6 billion) if the Enron
+Corp. unit cancels its 2,184 megawatt power venture.
+
+
+
+		
+
+		
+		
+		
+		LEADER: India unplugged 
+Financial Times; May 22, 2001
+
+		The latest threat from Enron, the US energy group, to pull out of its Dabhol 
+power plant venture near Bombay illustrates both the shambolic nature of 
+India's electricity system and the wider risks of investing in the country. 
+The project had serious drawbacks. But unless energy companies can expect a 
+commercial return, they will not invest in badly needed new infrastructure. 
+Unless contracts are honoured, few foreign companies will consider India as a 
+place to do business. 
+		The Maharashtra state electricity board, the Dabhol plant's only customer, is 
+refusing to pay its bills, arguing that the tariffs are unjustifiably 
+inflated. Prices are certainly high. The plant, fuelled by expensive naphtha, 
+is running way below capacity due to unexpectedly low demand, further 
+increasing unit costs. More difficult to judge is whether this is within the 
+terms of the contract, since Enron is keeping the details confidential. 
+		The argument over unit costs, though, is in any case less relevant than it 
+might seem as most of India's state electricity boards, including 
+Maharashtra's, operate at a large loss. Many consumers pay highly subsidised 
+rates. Many pay nothing. Bills go uncollected. Half of Delhi's electricity 
+output is stolen, mostly to power middle-class air conditioners rather than 
+light bulbs for the poor. Bankrupt state utilities are then periodically 
+bailed out to the detriment of spending on health and education. 
+		India's state authorities urgently need to introduce a common minimum tariff 
+and a more targeted form of subsidy. This may be unpopular, but the central 
+government's offer of Dollars 5.6bn, raised via a bond issue, to pay off the 
+electricity boards' debts should sweeten the pill. 
+		A new pricing regime is only the first step. Electricity generation, 
+transmission and distribution should be unbundled and privatised. Contracts 
+should be awarded through competition, not by arrangement with the relevant 
+political party. This would require much more transparency than many of 
+India's politicians have been ready to concede. 
+		Enron's difficulties over the Dabhol plant, the largest foreign investment in 
+India, have persuaded other western companies to withdraw from similar 
+projects. This will hardly help the country to overcome the power shortages 
+that hinder economic development. But the effect will reverberate well beyond 
+the energy sector. 
+		India receives a pitifully small slice of the world's foreign direct 
+investment. Infrastructure weaknesses are certainly one factor. But as 
+important is the readiness of Indian politicians to manipulate foreign 
+business for their own ends. 
+		Copyright: The Financial Times Limited
+		
+		
+
+
+
+
+May 22, 2001
+Houston Chronicle
+Enron pulls out of venture drilling in Qatar's waters 
+By LAURA GOLDBERG 
+Copyright 2001 Houston Chronicle 
+Enron Corp. is pulling out of a large natural gas project off Qatar, the 
+company said Monday. 
+Plans for the Dolphin project called for Houston-based Enron to work with 
+Elf, a subsidiary of France's TotalFinaElf, and the United Arab Emirates 
+Offsets Group to develop and pipe natural gas from a block of the Qatar North 
+Field. 
+More than a year ago those involved with the project said it could end up 
+requiring investments of up to $10 billion over six or seven years. 
+Enron said Monday it was transferring its 24.5 percent stake in the project 
+to the United Arab Emirates Offsets Group, which said in a news release it 
+had started negotiating with other international players to become 
+stakeholders. 
+With the transfer, United Arab Emirates Offsets Group will own 75.5 percent 
+of Dolphin. Terms of the deal weren't released. 
+Enron pulled out for a couple reasons, including that it believes there are 
+better places to invest its money, said Alex Parsons, a company spokesman in 
+London. 
+The project doesn't necessarily fit with Enron's current focus. 
+It is emphasizing businesses such as marketing and trading in wholesale 
+markets such as those for natural gas, electricity and broadband. 
+Enron said it would consider future ventures with the United Arab Emirates 
+Offsets Group that were "in line with our core business activities." 
+M. Carol Coale, an energy analyst with Prudential Securities in Houston, said 
+Enron's move is consistent with its exit strategy from international assets 
+that generate low returns. 
+
+
+
+
+
+
+
+May 22, 2001
+Houston Chronicle
+Enron exploring commodity trading 
+Copyright 2001 Houston Chronicle News Services 
+NEW YORK -- Houston-based Enron Corp., the nation's largest natural gas and 
+electricity trading house, is looking to continue its expansion into 
+industries beyond energy with a move into the cocoa, coffee and sugar 
+businesses, industry sources said Monday. 
+Enron has had conversations and interviews with members of the commodity 
+trade in recent weeks, using a London-based recruitment firm to help them, 
+the sources said. 
+"They are definitely interested in getting into the business. Enron has been 
+looking for physical traders. They have some internal people and are looking 
+for lieutenants with experience," a cocoa trader said. 
+A representative of Enron's public relations department would only say that 
+the firm is constantly investigating different markets and opportunities. 
+"There is always a lot of speculation about what we are doing," Habiba Bayi 
+of Enron said Monday. 
+
+
+
+
+
+
+
+May 22, 2001
+Houston Chronicle
+Local and state 
+Plains Resources gets new officers
+Former executives of Enron and Kinder Morgan are among those chosen for a new 
+slate of officers at Plains Resources, an oil and gas exploration and 
+production company that had been sharing management with Plains All American 
+Pipeline. They are filling vacancies created by people who went over to the 
+pipeline side, said spokeswoman Carolyn Tice. 
+John T. Raymond, who was vice president of corporate development at Kinder 
+Morgan and Kinder Morgan Energy Partners, was appointed executive vice 
+president and chief operating officer of Plains Resources. 
+Jere Overdyke Jr., formerly managing director of Enron Global Markets, was 
+named executive vice president and chief financial officer. 
+Timothy Stephens, formerly chairman, president and chief executive of Abacan 
+Resource Corp., was named general counsel and executive vice 
+president-administration. 

@@ -1,0 +1,76 @@
+Message-ID: <22875583.1075853220482.JavaMail.evans@thyme>
+Date: Fri, 18 May 2001 04:25:00 -0700 (PDT)
+From: jbennett@gmssr.com
+To: robert.c.williams@enron.com, richard.b.sanders@enron.com, msmith1@enron.com, 
+	dbenevid@enron.com, gphillip@enron.com
+Subject: SCE Counter Claim -- Underreporting of Volumes -- Confidential --
+	 Attorney Work Product
+Cc: mday@gmssr.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mday@gmssr.com
+X-From: JBennett <JBennett@GMSSR.com>
+X-To: "Robert Williams (E-mail)" <Robert.C.Williams@enron.com>, "Richard Sanders (E-mail)" <richard.b.sanders@enron.com>, "Mike Smith (E-mail)" <msmith1@enron.com>, "Dennis Benevides (E-mail)"	 <dbenevid@enron.com>, "George Phillips (E-mail)" <gphillip@enron.com>
+X-cc: MDay <MDay@GMSSR.com>
+X-bcc: 
+X-Folder: \Richard_Sanders_Oct2001\Notes Folders\All documents
+X-Origin: Sanders-R
+X-FileName: rsanders.nsf
+
+After speaking with George Phillips yesterday about SCE's counterclaim
+against EES and EEMC regarding underreporting of usage to the ISO, I think
+there may be some internal confusion (of which I may have contributed to)
+about the nature of SCE's counterclaim.
+
+As I understand, from my review of certain documents received from SCE in
+response to our data requests, review of an "Executive Summary" prepared by
+George Phillips on the issue, and from my conversation with him yesterday,
+EES and EEMC, as a result of some problems with their settlement system, did
+indeed underreport customers' usage to the ISO during the time period
+claimed by SCE.  This has, I believe, resulted in two separate (although
+interrelated) points of contention with SCE -- of which only one is the
+subject matter of its counterclaim.
+
+First, the underreporting resulted in Unaccounted For Energy (UFE) charges
+to the market.  In correspondence sent by SCE to EEMC and EES during the
+last quarter of 2001, it appears that SCE was calculating the "cost to the
+market" from the  EES/EEMC underreporting by applying the hourly day ahead
+market clearing price to the  individual  hourly variances.  This cost to
+the market is overestimated, however, as SCE failed to take into account the
+fact that the ISO nets underreported amounts against overreported accounts
+to get a net amount of underreporting.  This underreported amount is then
+allocated to all providers of physical load within a service territory
+through the assessment of UFE charges.  Thus whatever the ultimate cost was
+determined to be, SCE would not be allocated the entire amount.
+
+Second, the underreporting of usage to the ISO results, according to SCE, in
+SCE paying EES and EEMC a PX credit for energy they never purchased.  This
+claim is separate and apart from what SCE claims EES/EEMC cost the market in
+the way of UFE charges.  What SCE is saying is that it believes that EES and
+EEMC only purchased on behalf of their customers the amount of energy which
+they reported to the ISO.  EES' and EEMC's customers actually used more than
+the amount which EES and EEMC reported.  SCE calculated the PX credit based
+on the amount used, not reported. It is SCE's claim that EES and EEMC are
+not entitled to a PX credit on the delta as the market, not EES and EEMC,
+purchased those volumes.
+
+It is only the second point of contention which is the subject matter of
+SCE's counterclaim.  SCE is alleging that it should not have to pay a PX
+credit to EES and EEMC for volumes that EES and EEMC did not purchase.  SCE
+is claiming that we only purchased the amount we reported to the ISO.  While
+SCE may believe that it should not have to pay any UFE charges as the result
+of  EES/EEMC underreporting, the UFE charges are not the basis of its
+counterclaim.
+
+Based on the above analysis, I think that the most critical piece of
+information  to refute the counterclaim is that, despite the underreporting
+of volumes to the ISO, EES and EEMC actually purchased on behalf of their DA
+customers those customers' full usage. Can we make such claim?  and do we
+have data to back it up?
+
+Jeanne Bennett
+
+
+
+          

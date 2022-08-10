@@ -1,0 +1,25 @@
+Message-ID: <26027068.1075846179916.JavaMail.evans@thyme>
+Date: Mon, 9 Oct 2000 08:28:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: chris.long@enron.com
+Subject: 
+Cc: richard.shapiro@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: richard.shapiro@enron.com
+X-From: Steven J Kean
+X-To: Chris Long
+X-cc: Richard Shapiro
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+I mentioned the need to call Gramm in the exec committee meeting today and 
+Ken is willing to do it.  The talking points ISDA sent looked fairly 
+generic.  Given Ken's relationship, and the fact that he has talked to Gramm 
+previously on the subject, what should we ask Ken to cover?  I'd like to give 
+him a background document and talking points like we did last time.  I will 
+send it by fax to you Chris and would appreciate it if you could update it as 
+appropriate.

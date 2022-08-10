@@ -1,0 +1,37 @@
+Message-ID: <26691844.1075852531386.JavaMail.evans@thyme>
+Date: Thu, 2 Aug 2001 08:54:51 -0700 (PDT)
+From: jlgreene@energyadvocates.com
+To: e-mail <.joseph@enron.com>, e-mail <.pat@enron.com>
+Subject: Errata to SRP Settlement Proposal - Privileged and Confidential F
+	or Settlement Purposes Only
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Joel Greene <jlgreene@energyadvocates.com>@ENRON <IMCEANOTES-Joel+20Greene+20+3Cjlgreene+40energyadvocates+2Ecom+3E+40ENRON@ENRON.com>
+X-To: agold@coral-energy.com, amy.sheridan@williams.com, barryp@bp.com, bbrigham@sidrichgas.com, bealljp@texaco.com, bgray@cc.state.az.us, Bgray@EPElectric.com, bjost@huberlaw.com, bruce.a.connell@usa.conoco.com, bwhitta@pnm.com, carla.j.johnson@usa.conoco.com, carpentierd@dsmo.com, caschindler@hhlaw.com, catherine.palazzari@elpaso.com, cbrechte@apsc.com, cbulf@oneok.com, coganja@aol.com, craigc@calpine.com, cynthiacorcoran@corcoran-law.com, daniel.collins@elpaso.com, daswanstrom@verner.com, Dave Huard Esq. (E-mail) (E-mail) <dhuard@manatt.com>, dbmcvick@srpnet.com, dfulton@enron.com, dga@sloverandloftus.com, djohn@jhenergy.com, dkirkla@pnm.com, dlh@jmbm.com, dlsmith@pplweb.com, dmcwash@mshpc.com, douglas.porter@sce.com, dtom@btuwatch.com, Dwilliams@kmg.com, earo@dynegy.com, edward.mcmurtrie@swgas.com, elizabeth.herdes@elpaso.com, emyerskerbal@shb.com, Fritz Kolb (E-mail) <fritz_t_kolb@amoco.com>, frl3@pge.com, gbaker@sempra.com, gcvenz@duke-energy.com, gduede@apsc.com, glander@skippingstone.com, gsmith@jhenergy.com, haorndorff@aeraenergy.com, jab@cpuc.ca.gov, jalward@cc.state.az.us, james.trifon@southernenergy.com, Tholt, Jane M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JTHOLT>, jay.golub@bakerbotts.com, jcashin@epsa.org, jdoering@rcgroup.com, jeff.goforth@williams.com, jerry.strange@elpaso.com, jgregg@mbolaw.com, jhmcgrew@brudergentile.com, jima@pandaenergy.com, jmoriarty@fw-law.com, Joel Greene <jlgreene@energyadvocates.com>, Joseph Koury (E-mail) <koury@wrightlaw.com>, jpa3@pge.com, jparker@govmail.state.nv.us, jpfloom@gkrse-law.com, jpnevins@hhlaw.com, jrlilyestrom@hhlaw.com, jrogers@btuwatch.com, jstaffier@sdsatty.com, jsuwara@sempra.com, judy.heineman@elpaso.com, kadaly@moheck.com, kaprice@srpnet.com, karilee.ramaley@pinnaclewest.com, kathleen.royal@elpaso.com, kbedwards@gkrse-law.com, kbosley@reliant.com, kclark@jhenergy.com, kkrieger@columbiaenergygroup.com, klm@dwgp.com, larry.black@swgas.com, lhamilto@utilicorp.com, lindseyhowdowning@dwt.com, lpadilla@gas.pemex.com, lwsmith@midcogen.com, mark.cook@elpaso.com, mark.minich@elpaso.com, mcregar@aeglobalmarkets.com, melissa.maxwell@bakerbotts.com, mfenton@pnm.com, Michael McElrath (E-mail) <mmcelrath@phelpsdodge.com>, mike.langston@southernunionco.com, millertr@bp.com, mmexal@giant.com, napedersen@jonesday.com, Norm Walker <norman.walker@elpaso.com>, Pat Anderson (E-mail) <pat.anderson@southernunionco.com>, patricia.shelton@elpaso.com, paul.gendron@neg.pge.com, pcervin@br-inc.com, pckissel@gkrse-law.com, pete.frost@usa.conoco.com, pkeeler@br-inc.com, pmohler@hewm.com, pserrano@epelectric.com, racosta@epelectric.com, rcashdollar@apachenitro.com, Cantrell, Rebecca W. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BCANTRE>, redavis@sempra.com, rhewlett@aepnet.org, richard.derryberry@elpaso.com, robert.tomlinson@elpaso.com, rosa.jackson@elpaso.com, rpetti@ladwp.com, rrich@bracepatt.com, salleyoo@dwt.com, sally.turley@elpaso.com, sandrar@prestongates.com, sarah.tomalty@dynegy.com, sbreen@czn.com, scmertz@aep.com, Scott Walton <scott.walton@elpaso.com>, sjf@cpuc.ca.gov, sjroyka@columbiaenergygroup.com, slevine@brattle.com, Susan Ginsberg <susan.ginsberg@elpaso.com>, susan.jones@neg.pge.com, tarpeysp@bp.com, tcarlson@apsc.com, tcubbage@cov.com, tdickers@westerngas.com, vrspurg@ppco.com, william.healy@elpaso.com, wlansinger@sempra.com
+X-cc: 
+X-bcc: 
+X-Folder: \JTHOLT (Non-Privileged)\Tholt, Jane M.\JANIE
+X-Origin: Tholt-J
+X-FileName: JTHOLT (Non-Privileged).pst
+
+In our July 30, 2001 document entitled "Receipt Capacity Allocation Proposal
+Prepared By Salt River Project" there is an inadvertent error.  Section I.F.
+properly states that the numbers used in this proposal would be updated with
+peak figures through the last season prior to additional capacity being
+placed into service by El Paso.  Consistent with that, Section II.A., in
+describing the CD and FR Entitlement Methodology, should read as follows:
+
+II.A.	A total "peak day entitlement" is established for each FR customer
+by summing its highest (peak) 	single day takes during the period January
+1, 1997 through the end of the last season prior to 	additional capacity
+being placed into service by El Paso, at each of its D-Code points (eg.
+DAPSPHX, DSWGPHX, etc.).  (footnotes 1 and 2 unchanged)
+
+Please make this change to your document.  We apologize for the error.  Joel
+Greene
+
+Energy Advocates LLP
+202-371-9889
+202-371-9025 (fax)
+jlgreene@energyadvocates.com

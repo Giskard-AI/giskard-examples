@@ -1,0 +1,17 @@
+Message-ID: <2007603.1075858883667.JavaMail.evans@thyme>
+Date: Wed, 11 Jul 2001 10:37:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: paula.rieker@enron.com
+Subject: PARAGRAPH
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Paula Rieker <Paula Rieker/Enron@EnronXGate>
+X-cc: 
+X-bcc: 
+X-Folder: \SKEAN (Non-Privileged)\Kean, Steven J.\Sent Items
+X-Origin: Kean-S
+X-FileName: SKEAN (Non-Privileged).pst
+
+Enron also announced today a restructuring of its broadband business.  Conditions in the broadband industry have reduced revenue opportunities in the sector.  "The strategy we pursued in the broadband business will allow us to quickly restructure this business without affecting our strong earnings outlook,"  said Skilling.

@@ -1,0 +1,25 @@
+Message-ID: <9535447.1075846170322.JavaMail.evans@thyme>
+Date: Thu, 24 Aug 2000 01:39:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: joe.hartsoe@enron.com
+Subject: FERC investigation
+Cc: james.steffes@enron.com, richard.shapiro@enron.com, 
+	christi.nicolay@enron.com, mary.hain@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: james.steffes@enron.com, richard.shapiro@enron.com, 
+	christi.nicolay@enron.com, mary.hain@enron.com
+X-From: Steven J Kean
+X-To: Joe Hartsoe
+X-cc: James D Steffes, Richard Shapiro, Christi L Nicolay, Mary Hain
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+Have we suggested to FERC staff that they force the ISO and PX to open the 
+"blackbox" to show how they determine dispatch?  In addtion, if you are not 
+on the distribution list for Belden's memo on utility behavior in California 
+this summer, I will forward it to you.  It suggests some other areas FERC 
+ought to be looking into.

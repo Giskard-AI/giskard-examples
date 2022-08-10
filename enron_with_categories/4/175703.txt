@@ -1,0 +1,38 @@
+Message-ID: <26667123.1075847620398.JavaMail.evans@thyme>
+Date: Thu, 15 Mar 2001 02:07:00 -0800 (PST)
+From: steven.kean@enron.com
+To: maureen.mcvicker@enron.com
+Subject: <<Concur Expense Document>> - AMEX - 02/02/01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Maureen McVicker
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+----- Forwarded by Steven J Kean/NA/Enron on 03/15/2001 10:07 AM -----
+
+	eserver@enron.com
+	03/14/2001 11:54 AM
+		 
+		 To: "Steven.J.Kean@enron.com" <Steven.J.Kean@enron.com>
+		 cc: 
+		 Subject: <<Concur Expense Document>> - AMEX - 02/02/01
+
+The following expense report is ready for approval:
+
+Employee Name: Mark A. Palmer
+Status last changed by:  Automated Administrator
+Expense Report Name: AMEX - 02/02/01
+Report Total: $8,222.28
+Amount Due Employee: $8,222.28
+
+
+To approve this expense report, click on the following link for Concur 
+Expense.
+http://nahou-wwxms01p
+

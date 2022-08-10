@@ -1,0 +1,27 @@
+Message-ID: <14858501.1075846157301.JavaMail.evans@thyme>
+Date: Wed, 28 Jun 2000 05:15:00 -0700 (PDT)
+From: jane.wilson@enron.com
+Subject: Confidential issues
+Cc: mark.metts@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mark.metts@enron.com
+X-From: Jane Wilson
+X-To: Mark Schroeder@ECT
+X-cc: Steven J Kean@EES, Mark Metts
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+As requested, I investigated potential government approvals or potential 
+political interventions if India assets/investments are sold.  My 
+understanding from the India CFO (in response to my query about approvals 
+necessary for any sell-down like we are working on for Dabhol) is that it 
+depends to whom we sell.  If we sell to an Indian company, then the Reserve 
+Bank of India (RBI) must approve taking dollars out of India.  If a sale is 
+made outside India, no Indian approvals are necessary.  There are, however, 
+many other approvals that would need to be obtained -- specifically from 
+lenders and counterparties pursuant to project documents.  I have not 
+analyzed these financial-related approvals.

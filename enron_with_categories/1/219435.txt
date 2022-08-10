@@ -1,0 +1,23 @@
+Message-ID: <26833404.1075852485538.JavaMail.evans@thyme>
+Date: Tue, 23 Oct 2001 14:06:59 -0700 (PDT)
+From: john.shelk@enron.com
+To: l..nicolay@enron.com, sarah.novosel@enron.com, d..steffes@enron.com
+Subject: Southeast RTO: Southern's Load
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Shelk, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JSHELK>
+X-To: Nicolay, Christi L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cnicola>, Novosel, Sarah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snovose>, Steffes, James D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jsteffe>
+X-cc: 
+X-bcc: 
+X-Folder: \JSTEFFE (Non-Privileged)\Steffes, James D.\Deleted Items
+X-Origin: Steffes-J
+X-FileName: JSTEFFE (Non-Privileged).pst
+
+
+
+The Barton discussion draft says that FERC's hands would be tied and that they would have to approve a proposed RTO, as to size and scope, if the proposed RTO owns or has operational control over transmission facilities that serve at least 40,000 MW of load.  Southern's CEO testified in Congress recently that their load is over 35,000.  I assume the 40,000 MW minimum would permit the SeTrans proposal to meet the proposed statutory minimum since it is Southern plus a few munis, as I understand it.  Is this correct?
+
+Who would know how many RTOs there would be if each were just over the 40,000 MW minimum?  I assume it is much more than 4-5 RTOs -- if so, this is a good contrast to use in our Hill efforts.
+
+Thanks.

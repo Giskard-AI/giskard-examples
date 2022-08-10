@@ -1,0 +1,3139 @@
+Message-ID: <2033177.1075843608213.JavaMail.evans@thyme>
+Date: Tue, 29 May 2001 01:58:00 -0700 (PDT)
+From: jmunoz@mcnallytemple.com
+To: abb@eslawfirm.com, andybrwn@earthlink.net, cabaker@duke-energy.com, 
+	rescalante@riobravo-gm.com, rbw@mrwassoc.com, 
+	curtis_l_kebler@reliantenergy.com, dean.nistetter@dynegy.com, 
+	dkk@eslawfirm.com, gtbl@dynegy.com, smutny@iepa.com, 
+	jeff.dasovich@enron.com, joer@calpine.com, 
+	john.g.larrea@williams.com, jmball@ns.net, kgough@calpine.com, 
+	kent.palmerton@williams.com, lale@dynegy.com, 
+	mmoretti@mccabeandcompany.net, mwilson@pstrategies.com, 
+	rmcnally@mcnallytemple.com, nam.nguyen@powersrc.com, 
+	knorton@mcnallytemple.com, paula.hall-collins@williams.com, 
+	jackp@calpine.com, rwhyde@duke-energy.com, roger.pelote@williams.com, 
+	stephanie-newell@reliantenergy.com, smara@enron.com, 
+	tross@mcnallytemple.com, tcwillia@duke-energy.com, 
+	alex.sugaoka@uaecorp.com, william_carlson@wastemanagement.com, 
+	billw@calpine.com, bellery@spi-ind.com, bob.gates@enron.com, 
+	cody.carter@williams.com, curt.hatton@gen.pge.com, 
+	david.parquet@enron.com, dean_gosselin@fpl.com, 
+	fernley.doug@epenergy.com, dnelsen@gwfpower.com, 
+	ed.tomeo@uaecorp.com, eileenk@calpine.com, eric.eisenman@gen.pge.com, 
+	frank.derosa@gen.pge.com, frazier_blaylock@ogden-energy.com, 
+	hap_boyd@enron.com, jack.hawks@gen.pge.com, elliottsa@earthlink.net, 
+	jgreco@caithnessenergy.com, jweisgall@aol.com, 
+	ccastillo@riobravo-gm.com, kellyl@enxco.com, 
+	khoffman@caithnessenergy.com, kfickett@usgen.com, 
+	lynn.a.lednicky@dynegy.com, marty_mcfadden@ogden-energy.com, 
+	paula_soos@ogden-energy.com, rjhickok@duke-energy.com, 
+	rskoebbe@powerworksinc.com, rllamkin@seiworldwide.com, 
+	ain@worldnet.att.net, siliff@riobravo-gm.com, steve_ponder@fpl.com, 
+	twetzel@thermoecotek.com, wfhall2@duke-energy.com, 
+	trusso@mcnallytemple.com, sadlersa@earthlink.net, mstultz@epsa.org, 
+	rtemple@mcnallytemple.com, tracy.fairchild@edelman.com, 
+	megan.beiser@edelman.com, deborah.fiorito@dynegy.com, 
+	lchurch@epsa.org, kaplan@iepa.com, tcwillia@duke-energy.com, 
+	rwhyde@duke-energy.com, tmcmorrow@manatt.com, 
+	suzy.l.rodriguez@dynegy.com, ppitts@wiredworld1.com, 
+	mnobili@cal-lobby.com, sscsus@aol.com, kvellandi@pstrategies.com
+Subject: IEP News 5/29
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Jean Munoz <jmunoz@mcnallytemple.com>
+X-To: "'Andy Brown (E-mail)'" <ABB@eslawfirm.com>, "'B Brown Andy (E-mail)'" <andybrwn@earthlink.net>, "'Baker Carolyn (E-mail)'" <cabaker@duke-energy.com>, "'Bob Escalante (E-mail)'" <rescalante@riobravo-gm.com>, "'Bob Weisenmiller (E-mail)'" <rbw@mrwassoc.com>, "'Curtis Kebler (E-mail)'" <curtis_l_kebler@reliantenergy.com>, "Dean. Nistetter (E-mail)" <Dean.Nistetter@dynegy.com>, "'Douglas Kerner (E-mail)'" <DKK@eslawfirm.com>, "'Greg Blue (E-mail)'" <gtbl@dynegy.com>, "'Jan Smutny-Jones (E-mail)'" <smutny@iepa.com>, "'Jeff Dasovich (E-mail)'" <Jeff.Dasovich@enron.com>, "'Joe Ronan (E-mail)'" <joer@calpine.com>, "'John Larrea (E-mail)'" <john.g.larrea@williams.com>, "'Julee Malinowski-Ball (E-mail)'" <jmball@ns.net>, "'Kassandra Gough (E-mail)'" <kgough@calpine.com>, "'kent Palmerton (E-mail)'" <kent.palmerton@williams.com>, "'Lynn Lednicky (E-mail)'" <lale@dynegy.com>, "Marie Moretti (E-mail 2)" <mmoretti@mccabeandcompany.net>, "'Marty Wilson (E-mail)'" <mwilson@pstrategies.com>, "'McNally Ray (E-mail)'" <rmcnally@mcnallytemple.com>, "''Nam Nguyen' (E-mail)'" <nam.nguyen@powersrc.com>, "'Norton Kelli (E-mail)'" <knorton@mcnallytemple.com>, "'Paula Hall-Collins (E-mail)'" <paula.hall-collins@williams.com>, "'Pigott Jack (E-mail)'" <jackp@calpine.com>, "'Richard Hyde (E-mail)'" <rwhyde@duke-energy.com>, "'Roger Pelote (E-mail)'" <roger.pelote@williams.com>, "'Stephanie-Newell (E-mail)'" <stephanie-newell@reliantenergy.com>, "'Sue Mara (E-mail)'" <smara@enron.com>, "'Tom Ross (E-mail)'" <tross@mcnallytemple.com>, "Tom Williams (E-mail)" <tcwillia@duke-energy.com>, "'Alex Sugaoka (E-mail)'" <alex.sugaoka@uaecorp.com>, "'Bill Carlson (E-mail)'" <william_carlson@wastemanagement.com>, "'Bill Woods (E-mail)'" <billw@calpine.com>, "'Bob Ellery (E-mail)'" <bellery@spi-ind.com>, "'Bob Gates (E-mail)'" <bob.gates@enron.com>, "'Cody Carter (E-mail)'" <cody.carter@williams.com>, "'Curt Hatton (E-mail)'" <Curt.Hatton@gen.pge.com>, "'David Parquet'" <david.parquet@enron.com>, "'Dean Gosselin (E-mail)'" <dean_gosselin@fpl.com>, "'Doug Fernley (E-mail)'" <fernley.doug@epenergy.com>, "'Duane Nelsen (E-mail)'" <dnelsen@gwfpower.com>, "'Ed Tomeo (E-mail)'" <ed.tomeo@uaecorp.com>, "'Eileen Koch (E-mail)'" <eileenk@calpine.com>, "'Eric Eisenman (E-mail)'" <eric.eisenman@gen.pge.com>, "'Frank DeRosa (E-mail)'" <frank.derosa@gen.pge.com>, "Frazier Blaylock (E-mail)" <frazier_blaylock@ogden-energy.com>, "'Hap Boyd (E-mail)'" <Hap_Boyd@enron.com>, "'Hawks Jack (E-mail)'" <jack.hawks@gen.pge.com>, "'Jim Willey (E-mail)'" <elliottsa@earthlink.net>, "'Joe Greco (E-mail)'" <jgreco@caithnessenergy.com>, "'Jonathan Weisgall (E-mail)'" <jweisgall@aol.com>, "'Kate Castillo (E-mail)'" <CCastillo@riobravo-gm.com>, "'Kelly Lloyd (E-mail)'" <kellyl@enxco.com>, "'Ken Hoffman (E-mail)'" <khoffman@caithnessenergy.com>, "'Kent Fickett (E-mail)'" <kfickett@usgen.com>, "'Lynn Lednicky (E-mail)'" <lynn.a.lednicky@dynegy.com>, "'Marty McFadden (E-mail)'" <marty_mcfadden@ogden-energy.com>, "'Paula Soos'" <paula_soos@ogden-energy.com>, "'Randy Hickok (E-mail)'" <rjhickok@duke-energy.com>, "Rick S. Koebbe (E-mail)" <rskoebbe@powerworksinc.com>, "'Rob Lamkin (E-mail)'" <rllamkin@seiworldwide.com>, "'Ross Ain (E-mail)'" <ain@worldnet.att.net>, "'Steve Iliff'" <siliff@riobravo-gm.com>, "'Steve Ponder (E-mail)'" <steve_ponder@fpl.com>, "'Tony Wetzel (E-mail)'" <twetzel@thermoecotek.com>, "'William Hall (E-mail)'" <wfhall2@duke-energy.com>, trusso@mcnallytemple.com, sadlersa@earthlink.net, mstultz@epsa.org, rtemple@mcnallytemple.com, tracy.fairchild@edelman.com, megan.beiser@edelman.com, deborah.fiorito@dynegy.com, lchurch@epsa.org, Katie Kaplan <kaplan@iepa.com>, tcwillia@duke-energy.com, rwhyde@duke-energy.com, tmcmorrow@manatt.com, Suzy.L.Rodriguez@dynegy.com, ppitts@wiredworld1.com, mnobili@cal-lobby.com, sscsus@aol.com, kvellandi@pstrategies.com
+X-cc: 
+X-bcc: 
+X-Folder: \Jeff_Dasovich_June2001\Notes Folders\Notes inbox
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+Today's IEP news ...
+
+Los Angeles Times, May 27, 2001 Sunday, Home Edition, Page 7, 615 words,
+????The State; ?Who Let the Hot Dogs Out? Rhapsodic Lawmakers; Legislature:
+????Speaking frankly, officials have used the wiener as an easily digestible
+????metaphor for the state's energy crisis., JULIE TAMAKI, MIGUEL BUSTILLO,
+????TIMES STAFF WRITERS, SACRAMENTO (Quotes Smutny on behalf of IEP)
+
+The San Francisco Chronicle, MAY 26, 2001, SATURDAY,, FINAL EDITION, NEWS;,
+????Pg. A1, 835 words, Davis asks U.S. to limit firms' prices; ???RATE SWINGS:
+????Governor argues 2 generators manipulated market, Lynda Gledhill, 
+Sacramento (Quotes ???????
+???Smutny on ?behalf of IEP)
+
+The Wall Street Journal, Power Drain: The U.S. Energy Crisis, California 
+Officials Say State Will ??
+???Enter A Recession Without Energy Price Caps By JOHN R. EMSHWILLER , Staff 
+Reporter of THE ??
+???WALL STREET JOURNAL
+
+AP Online, May 29, 2001; Tuesday, 9:11 AM, Eastern Time, Domestic,
+????non-Washington, general news item, 770 words, AP Top News at 9:10 a.m. EDT
+????Tuesday, May 29, 2001, JEROME MINERVA
+
+The Dallas Morning News, May 29, 2001, Tuesday, DOMESTIC NEWS, K7523, 1046
+????words, Bush begins visit in hostile California, By G. Robert Hillman
+
+Los Angeles Times, May 29, 2001 Tuesday, Home Edition, Page 1, 1178 words,
+????Governor to Stress Price Caps to Bush; Power: In a meeting today with the
+????president, Davis will present a letter from economists backing cost 
+controls
+????and demand federal assistance., DAN MORAIN, JAMES GERSTENZANG, TIMES STAFF
+????WRITERS
+
+Los Angeles Times, May 29, 2001 Tuesday, Home Edition, Page 1, 1541 words,
+????THE ENERGY CRISIS; ; Kern County Basks in Role as State's Blackout-Buster;
+????Electricity: Six new plants will bolster its status as energy center.,
+????MITCHELL LANDSBERG, TIMES STAFF WRITER, McKITTRICK, Calif.
+
+The New York Times, May 29, 2001, Tuesday, Late Edition - Final, Section A;
+????Page 12; Column 1; National Desk, 1078 words, For Crucial California Trip,
+????Bush Calibrates How Best to Handle State's Energy Crisis, By DAVID E. 
+SANGER
+????, LOS ANGELES, May 28
+
+The Orange County Register, May 29, 2001, Tuesday, DOMESTIC NEWS, K7500,
+????825 words, California's power crisis generating lots of heat, By John 
+Howard
+
+The San Francisco Chronicle, MAY 29, 2001, TUESDAY,, FINAL EDITION, NEWS;,
+????Pg. A1, 1291 words, Crisis no sweat to some offices; ???Many offices keep
+????cool in crisis; ???Air conditioners blast in state's energy centers, Steve
+????Rubenstein
+
+The San Francisco Chronicle, MAY 29, 2001, TUESDAY,, FINAL EDITION, NEWS;,
+????Pg. A1, 1238 words, Bush facing Davis' heat over energy; ???In first visit
+????to state as president, he'll hear governor's plea for help, Carla 
+Marinucci,
+????Lynda Gledhill
+
+USA TODAY, May 29, 2001, Tuesday,, FIRST EDITION, NEWS;, Pg. 3A, 426 words,
+????Davis to urge Bush to back electricity price cap, Laurence McQuillan, LOS
+????ANGELES
+
+The Washington Post, May 29, 2001, Tuesday, Final Edition, A SECTION; Pg.
+????A02, 639 words, Energy Chief Moves To Aid California; Transmission Plan
+????Precedes Bush Visit, Mike Allen, Washington Post Staff Writer, LOS 
+ANGELES,
+????May 28
+
+The Washington Post, May 29, 2001, Tuesday, Final Edition, A SECTION; Pg.
+????A03, 1936 words, It's Still Dawn for Solar Power in L.A.; Despite City
+????Subsidies, Homeowners Hesitate to Install Expensive Alternative Energy
+????Source, William Booth, Washington Post Staff Writer, LOS ANGELES
+
+The Washington Times, May 29, 2001, Tuesday, Final Edition, PART A; NATION;
+????INSIDE POLITICS; Pg. A6, 1264 words, Greg Pierce; THE WASHINGTON TIMES
+
+The Washington Times, May 29, 2001, Tuesday, Final Edition, PART A; NATION;
+????Pg. A4, 809 words, Bush faces tough sell on visit to California; ?Davis
+????likely to be rebuffed on price caps, Joseph Curl; THE WASHINGTON TIMES, 
+LOS
+????ANGELES
+
+Chicago Tribune, May 29, 2001 Tuesday, NORTH SPORTS FINAL EDITION, News;
+????Pg. 6; ZONE: N, 514 words, Bush backs WW II project, From Tribune news
+????services., LOS ANGELES
+
+The Associated Press, May 29, 2001, Tuesday, BC cycle, 7:55 AM Eastern Time
+????, Domestic News, 604 words, Bush announcing low-income aid, but no price
+????caps, By SCOTT LINDLAW, Associated Press Writer, LOS ANGELES
+
+The Associated Press State & Local Wire, May 29, 2001, Tuesday, BC cycle,
+????7:31 AM Eastern Time, State and Regional, 594 words, Stakes are high for
+????Davis meeting with Bush, By GARY GENTILE, AP Business Writer, LOS ANGELES
+
+ABC NEWS, WORLD NEWS NOW (2:00 AM ET), May 28, 2001, Monday, 447 words,
+????PRESIDENT BUSH VISITS CALIFORNIA WHERE POLITICIANS ARE CRITICAL OF HIS 
+LACK
+????OF ACTION FOR THEIR ENERGY CRISIS, DEREK McGINTY, JOSH GERSTEIN
+
+Los Angeles Times
+May 27, 2001 Sunday ?Home Edition
+
+SECTION: California; Part 2; Page 7; Metro Desk
+
+LENGTH: 615 words
+
+HEADLINE: The State;
+;
+Who Let the Hot Dogs Out? Rhapsodic Lawmakers;
+Legislature: Speaking frankly, officials have used the wiener as an easily
+digestible metaphor for the state's energy crisis.
+
+BYLINE: JULIE TAMAKI, MIGUEL BUSTILLO, TIMES STAFF WRITERS
+
+DATELINE: SACRAMENTO
+
+BODY:
+
+??Every crisis has its symbol.
+
+??Watergate had Deep Throat. The S&L scandal had Charles Keating. O.J. did--or
+didn't--have a bloody glove.
+
+??Here in the Capitol, the hot dog has become an unlikely metaphor for the
+state's energy crisis.
+
+??In packed news conferences and heated Assembly floor debates, lawmakers from
+both parties have evoked images of the ordinary dog to help explain an
+extraordinary mess.
+
+??The genesis of this statehouse trend is difficult to determine. Assemblyman
+Fred Keeley appears to be the first to have tossed the hot dog into the
+political fire.
+
+??During a crucial Assembly discussion in January, the Boulder Creek Democrat
+recited the lyrics to a familiar Oscar Mayer jingle as a way of admitting 
+that a
+controversial bill to have the state buy electricity to avoid blackouts was
+unpalatable, but necessary.
+
+??"It's the dog kids love to bite," said Keeley of the jingle. "Well, this is
+the bill people love to hate."
+
+??A bizarre, partisan hot dog duel ensued. Assemblyman John Campbell 
+(R-Irvine)
+responded by likening the unpredictable financial consequences of the Keeley
+legislation to biting recklessly into mystery meat.
+
+??"Before I bite into it I see what's on the outside, but I can't see the
+inside," Campbell said. "If nobody can tell me what's on the inside, it may be
+bitter, it may be bad, it may make me sick."
+
+??Assemblywoman Carole Migden (D-San Francisco) angrily fired back, wanting to
+know why Campbell, a professed hot dog eater, was suddenly so critical of its
+unknown contents.
+
+??"It's OK to eat a hot dog that's full of animal bones and hair," Migden 
+said.
+"That's a hot dog that's OK with you, but this kind of hot dog isn't."
+
+??Yet it was Senate leader John Burton who made it the key ingredient in a
+Capitol catch phrase.
+
+??Burton described a plan to purchase the electrical power grid from the
+state's private utilities as a fair swap, saying: "I give you a dollar, you 
+give
+me a hot dog."
+
+??The sound-bite quickly took on a life of its own. With the cost of the 
+energy
+crisis growing faster than the price of ballpark franks, critics doubted the
+public's appetite for a multibillion-dollar hot dog.
+
+??"Do you really want a hot dog? That is the question," said Jan Smutny-Jones,
+executive director of the Independent Energy Producers, a trade group for 
+power
+generators.
+
+??Not content to let a dog lie in its bun, lawmakers such as Assemblyman Bill
+Leonard (R-San Bernardino) kept the hot dog in public discourse.
+
+??When Pacific Gas & Electric Co. filed for bankruptcy protection, Leonard was
+one of a chorus of legislators who questioned the merits of purchasing the
+remaining portion of the power lines, calling it "not even half a hot dog."
+
+??Added Assemblyman Bill Campbell (R-Villa Park): "It's like paying Mercedes
+prices for a broken down hot dog cart."
+
+??In recent weeks, the hot dog rhetoric appeared to have gone cold. Then
+Assemblyman Juan Vargas (D-San Diego) revived it.
+
+??After enduring hours of testimony on details of the deal to purchase 
+Edison's
+power lines, Vargas said his opinion of the dollar-equals-hot-dog deal had
+diminished.
+
+??"They're trying to charge us for a hot dog," Vargas said of the utility, 
+"but
+it looks like we're only going to be getting a wienie."
+
+??Reliant Vice President John Stout also recently weighed in with his own hot
+dog analogy as he tried to explain why his company's income had jumped so much
+during the crisis.
+
+??"If you have a hot dog stand and you go out and buy five to six more hot dog
+stands," Stout said, referring to his company's purchase of power plants, 
+"then
+naturally you would expect the operating income to go up."
+
+??Alas, the dog days of summer have yet to begin.
+
+LOAD-DATE: May 27, 2001
+
+???????????????????????????????2 of 4 DOCUMENTS
+
+?????????????????Copyright 2001 The Chronicle Publishing Co.
+
+?????????????????????????The San Francisco Chronicle
+
+????????????????????MAY 26, 2001, SATURDAY, FINAL EDITION
+
+SECTION: NEWS; Pg. A1
+
+LENGTH: 835 words
+
+HEADLINE: Davis asks U.S. to limit firms' prices;
+
+RATE SWINGS: Governor argues 2 generators manipulated market
+
+SOURCE: Chronicle Sacramento Bureau
+
+BYLINE: Lynda Gledhill
+
+DATELINE: Sacramento
+
+BODY:
+Gov. Gray Davis pursued a new strategy yesterday to control wholesale
+electricity costs by demanding that federal regulators ban two generators from
+selling power in California at market rates, arguing that they have 
+manipulated
+the market to their advantage.
+
+???Meanwhile, the Davis administration lambasted a federal plan to implement
+temporary price controls, scheduled to go into effect Tuesday. State officials
+said the measures would do nothing to tame California's out-of-control costs 
+for
+electricity.
+
+???Davis, whose calls for broader price limits on wholesale electricity have
+been rejected repeatedly by the Federal Energy Regulatory Commission, is
+scheduled to meet with President Bush next week to ask Washington to do more 
+to
+help California.
+
+???"Federal regulators said that prices were 'unjust and unreasonable' nearly
+nine months ago, but they have been AWOL ever since," Davis said in a 
+statement.
+
+???The California Independent System Operator, managers of the state's
+electrical grid, asked energy regulators yesterday to revoke the authority 
+they
+have given Williams Energy and AES Inc. to sell power at market-based rates.
+Instead, the Davis administration wants the companies to be forced to sell at
+cost-plus rates, which would ensure a reasonable but limited profit.
+
+???"Market-based rate authority is not an entitlement," the ISO said in a
+filing with federal regulators.
+
+???The ISO asked regulators to act by June 15, saying that any delay "places
+California consumers and the state's economy at extreme peril."
+
+???Similar filings against other companies, such as Mirant, Duke and Reliant,
+are being considered, said Charles Robinson, general counsel for the ISO.
+
+???Robinson said the ISO has a "well developed" record of price manipulation 
+by
+the two companies. He said information previously given to federal regulators
+proved the prices charged to California were excessive.
+
+???'GRANDSTANDING' ACCUSATION
+
+???Aaron Thomas, a spokesman for Virginia-based AES, said the administration 
+is
+grandstanding.
+
+???"This is akin to the rhetoric the governor has used for the past several
+months," he said. "We are well below the index FERC uses to establish concerns
+about market power.
+
+???"As to this rhetoric about these companies abusing the marketplace -- check
+the facts. We lost money last year," Thomas said.
+
+???A spokeswoman for Williams said the company would not comment because it 
+had
+not seen the filing.
+
+???Earlier this month, Oklahoma-based Williams agreed to pay $8 million to
+settle charges with FERC that the company was purposely withholding 
+electricity
+from California's power market. The company admitted no wrongdoing, and
+officials said a full hearing would have cleared the company.
+
+???If the regulatory commission denies the state's requests, or doesn't "act 
+in
+the time frame we believe is necessary to prevent harm," the state can appeal 
+to
+a circuit court, Robinson said.
+
+???BUSH VISIT POSTURING CHARGE
+
+???Jan Smutny-Jones, head of the Independent Energy Producers Association, 
+said
+the move is posturing by Davis ahead of Bush's visit.
+
+???"This is an interesting welcome mat for President Bush," he said. "Do we
+want a dialogue or a diatribe?"
+
+???In advance of Bush's visit, Vice President Dick Cheney said yesterday that
+nothing more can be done to help solve California's power problems this 
+summer.
+
+???He also rejected price controls, saying that previous efforts have
+contributed to a supply shortage.
+
+???A spokesman for Davis rejected that notion and denied that the timing of
+yesterday's announcements were connected to the Bush-Davis meeting.
+
+???Davis aides expressed hope that Bush's two new FERC commissioners, Pat Wood
+III, a close Bush ally expected to take over the chairmanship of the board, 
+and
+Nora Mead Brownell, a state utility regulator in Pennsylvania, would hear
+California's pleas. The two new commissioners were confirmed yesterday by the
+U.S. Senate.
+
+???Among the things Davis wants changed is the regulatory commission temporary
+price relief plan scheduled to take effect Tuesday.
+
+???The regulators would limit wholesale prices during power alerts in
+California, when reserves drop below 7 percent of available capacity.
+
+???Many state officials believe that doesn't go far enough. The state 
+Assembly,
+in documents to be filed Tuesday, said price controls should cover all hours 
+--
+not just power emergencies.
+
+???And there is a chance the controls will be in effect for just a few days.
+Under the regulatory commission plan, the state and the three investor-owned
+utilities must file a proposal to join a regional transmission organization by
+June 1. If they do not to do so, the price controls disappear.
+
+???Davis administration officials expect to file another response dealing with
+the regional transmission organization by Friday, Robinson said. The Assembly
+filing rejects joining such an organization, which federal officials favor as 
+a
+means to better manage and improve grid capacity in the West. E-mail Lynda
+Gledhill at lgledhill@sfchronicle.com.
+
+GRAPHIC: PHOTO, Vice President Dick Cheney said nothing more can be done to 
+help
+solve California's power problems. / New York Times
+
+LOAD-DATE: May 26, 2001
+
+
+May 29, 2001
+
+Power Drain: The U.S. Energy Crisis
+
+California Officials Say State Will Enter
+A Recession Without Energy Price Caps
+
+By JOHN R. EMSHWILLER 
+Staff Reporter of THE WALL STREET JOURNAL
+
+
+On the eve of a meeting Tuesday between President George Bush and California 
+Gov. Gray Davis, top advisers to the governor said the state could be pushed 
+into recession unless the federal government imposes temporary price caps to 
+contain soaring wholesale electricity costs. President Bush has consistently 
+opposed price caps.
+
+The governor's team called a Memorial Day news conference to highlight what 
+they saw as the dangers to the economy of the state, and possibly the nation, 
+from the tens of billions of dollars being spent this year to purchase 
+electricity. The governor's aides estimated that statewide, wholesale 
+electricity purchases this year could hit $50 billion compared with about $7 
+billion in 1999. Some estimates for this year's power expenditures are even 
+higher. If California were a separate nation, "an energy shock of that 
+magnitude would be expected to cause a significant recession," said Alan 
+Blinder, a former vice chairman of the Federal Reserve, at the conference.
+
+While being part of a broader national economy could somewhat mitigate the 
+impact, the higher power costs are "a recipe for stagflation in California," 
+added Mr. Blinder. "Stagflation" refers to stagnant economic conditions and 
+inflation -- a condition that struck the nation when energy prices soared in 
+the 1970s.
+
+Though the advisers painted perhaps the dreariest outlook yet to come from 
+the governor's office, they said that the Davis plan for financing the 
+state's electricity purchases remains intact. As reported, the state plans to 
+sell about $12.5 billion in bonds later this year. The state has been 
+purchasing electricity since January, when its failed utility-deregulation 
+plan left California's two biggest utilities financially unable to continue 
+buying power.
+
+If price caps were instituted, the state might have to borrow less money than 
+anticipated or at least face a decreased danger of having to borrow more if 
+the power situation gets worse, said Joseph Fichera, chief executive of New 
+York-based Saber Partners LLC and an adviser to Mr. Davis.
+
+The governor plans to press his case for price caps over the next six to 18 
+months, as supplies are increased with new power plants due to come into 
+operation, the advisers said. However, Mr. Bush and other federal officials 
+have repeatedly said that they believe price caps would be counterproductive 
+and discourage the building of new power plants.
+
+Write to John R. Emshwiller at john.emshwiller@wsj.com1
+------------------------------------------------------------------------
+
+
+Copyright 2001 Associated Press
+AP Online
+
+?????????????????May 29, 2001; Tuesday 9:11 AM, Eastern Time
+
+SECTION: Domestic, non-Washington, general news item
+
+LENGTH: 770 words
+
+HEADLINE: ?AP Top News at 9:10 a.m. EDT Tuesday, May 29, 2001
+
+BYLINE: JEROME MINERVA
+
+BODY:
+
+??NATO Won't Back U.S. Missile Plan
+
+??BUDAPEST, Hungary (AP)
+
+
+??NATO's top policy-making body stopped short of endorsing the Bush
+administration's plan for a national missile defense today, preparing to offer
+only to ''continue substantive consultations'' with Washington. The North
+Atlantic Council does not portray the possibility of missile attack as a 
+common
+threat faced by allies, as the Bush administration had hoped, it said in a
+statement. Secretary of State Colin Powell had hoped to persuade skeptical 
+NATO
+allies to be more supportive of U.S. missile defense plans.
+
+
+
+??Pakistan Accepts India Offer to Talk
+
+??ISLAMABAD, Pakistan (AP)
+
+
+??Pakistani military ruler Gen. Pervez Musharraf today accepted India's offer
+to hold peace talks on the disputed Kashmir region and other issues. ''I 
+accept
+your invitation ... to visit India with great pleasure,'' Musharraf said in a
+letter to Indian Prime Minister Atal Bihari Vajpayee. ''We wish to see a 
+stable
+prosperous India at peace with its neighbors.'' Musharraf's letter came four
+days after Vajpayee broke a two-year lull in high-level talks between the two
+rival nuclear powers by inviting the Pakistani leader to India.
+
+
+
+??Consumers' Spending, Incomes Rise
+
+??WASHINGTON (AP)
+
+
+??Consumers spent on services in April, but cut back on cars and other
+big-ticket items. Incomes also rose. The Commerce Department reported today 
+that
+consumer spending rose by 0.4 percent in April, following a 0.2 percent 
+increase
+the month before. April's rise marked the biggest increase since January.
+Consumer spending accounts for two-thirds of all economic activity and has 
+been
+a main pillar propping up the country's fragile economy. Personal incomes rose
+0.3 percent.
+
+
+
+??Bush Won't Cap Electricity Prices
+
+??LOS ANGELES (AP)
+
+
+??President Bush says he won't force down soaring electricity prices that have
+cost California nearly $8 billion since January. The Republican president and
+embattled Democratic Gov. Gray Davis arranged a meeting today to talk about 
+the
+state's energy crisis, but there was no indication they would break their
+stalemate. Bush opposes price limits on wholesale electricity that utilities
+buy, arguing they do nothing to address supply-and-demand issues at the heart 
+of
+the crisis.
+
+
+
+??Tornado Injures 18 in Colorado
+
+??ELLICOTT, Colo. (AP)
+
+
+??Dozens of residents of a sparsely populated town in southern Colorado spent
+the night in a church after a tornado crushed trailer homes, sprayed hail and
+injured 18 people. ''We just hit the floor in the living room and covered the
+kids and the tornado hit,'' said Trish Davidson, whose mobile home was lifted
+into the air and dropped 10 feet from its foundation. Davidson and about 30
+other people spent last night in the basement of a church. Power was out to 
+the
+church and much of the surrounding area.
+
+
+
+??Israeli Motorist Killed
+
+??JERUSALEM (AP)
+
+
+??An Israeli motorist was killed in a West Bank drive-by shooting today as
+Israeli and Palestinian officials, after two rounds of U.S. mediation, spoke 
+of
+resuming security talks aimed at reducing the violence. The motorist died of
+head wounds shortly after he was shot on by Palestinian gunmen from a passing
+car near the West Bank city of Nablus, the army said. Two Israeli settlers 
+were
+shot and injured one seriously in another West Bank ambush last night.
+
+
+
+??Record-Breaking DJ Still on Air
+
+??JERSEY CITY, N.J. (AP)
+
+
+??Now you can't get disc jockey Glenn Jones off the air. As of 6:30 a.m. EDT
+today, the DJ had been talking for about 93 hours, easily shattering the 
+record
+for the longest continuous radio broadcast. And he was still talking. ''It's
+been a test of wills, a test of determination,'' Jones said. ''The first day 
+was
+the hardest, but we're still going strong.'' Jones said he wanted to remain on
+the air until he hit the 100-hour mark, which would be about 1 p.m. EDT, and
+would then decide whether to continue.
+
+
+
+??Nikkei Adds 36 Points
+
+??TOKYO (AP)
+
+
+??Tokyo stocks rose moderately today in light trading following holidays in 
+the
+United States and Britain. The Nikkei Stock Average gained 36.12 points to 
+close
+at 13,773.89.
+
+
+
+??Agassi, Capriati Open With Wins
+
+??PARIS (AP)
+
+
+??Andre Agassi and Jennifer Capriati began their bids for a second consecutive
+Grand Slam title, winning in straight sets today on the second day of the 
+French
+Open. Agassi, who won the French Open in 1999, beat Sweden's Thomas Johansson
+6-2, 6-3, 7-6 (5). Capriati, seeded fourth, overcame seven double faults in
+defeating France's Emilie Loit 6-2, 7-5. Both Agassi and Capriati won 
+Australian
+Open titles earlier this year.
+
+
+
+LOAD-DATE: May 29, 2001
+
+??????????????????????????????26 of 98 DOCUMENTS
+
+??????????????Copyright 2001 Knight Ridder/Tribune News Service
+???????????????????????Knight Ridder/Tribune News Service
+
+???????????????????????????The Dallas Morning News
+
+????????????????????????????May 29, 2001, Tuesday
+
+SECTION: DOMESTIC NEWS
+
+KR-ACC-NO: ?K7523
+
+LENGTH: 1046 words
+
+HEADLINE: Bush begins visit in hostile California
+
+BYLINE: By G. Robert Hillman
+
+BODY:
+
+??LOS ANGELES _ President Bush landed in hostile territory Monday night,
+beginning his first presidential visit to California amid a pressing energy
+crisis that he says he cannot ease in the short term.
+
+??"We welcome him to California," said California Gov. Gray Davis, a Democrat
+who has waged a long-distance war with the Republican president over the high
+cost and short supply of electricity in the nation's most populous state.
+
+??"I hope he has an opportunity to talk firsthand to some of the people who 
+are
+adversely impacted by the very high rates we're paying for electricity."
+
+??But the president's carefully scrubbed schedule for the next two days
+provides little time for such an opportunity, although he will confer 
+privately
+with business leaders to discuss high-tech solutions to the state's energy
+problems.
+
+??Arriving on a cross-country flight that touched down in Arizona for a
+Memorial Day tribute, Bush headed off to prepare for an early-morning stop
+Tuesday to promote energy conservation at the Marine Corps' Camp Pendleton 
+and a
+luncheon address to the Los Angeles World Affairs Council.
+
+??On Wednesday, he'll visit Sequoia National Park near Fresno, Calif., to
+launch a new drive to clean up and fix up national parks.
+
+??He'll also meet privately Tuesday afternoon with Davis in what the Los
+Angeles Times characterized as a "peace summit." But no major shifts in policy
+are expected. White House aides suggest that the meeting will be a success if
+the governor even temporarily tempers his sometimes-harsh words for the
+administration.
+
+??"The president's focus is going to be on solving problems. He's not
+interested in finger-pointing," White House press secretary Ari Fleischer 
+said.
+
+??"Whether people agree, or disagree, with the specifics of his energy plan, I
+think most Americans and most Californians are very pleased to see a president
+who is leading and taking action in addressing the issue head on."
+
+??However, recent public opinion polls show the president and the governor
+taking hits for the energy crisis in California.
+
+??The Field Poll, finished a week ago, found that 54 percent of those surveyed
+believed Bush had handled the energy problems poorly, with Davis faring 
+somewhat
+better at 38 percent. The margin of error for the 1,015 California interviews
+was 3.2 percentage points.
+
+??An earlier survey by the Public Policy Institute of California found Davis'
+job approval rating plummeting, from 63 percent in January to 46 percent in 
+May,
+as the state's energy troubles escalated. Bush's overall approval rating was
+higher at 57 percent, but still just as many of those surveyed gave him low
+marks for his handling of energy issues. That margin of error, for 2001
+interviews, was 2 percentage points.
+
+??In short, political analyst Sherry Bebitch Jeffe said, Bush's visit to the
+state _ in his 19th week as president, after already visiting more than half 
+the
+other states _ is long overdue.
+
+??"His not responding, or not being perceived to respond, to the short-term
+needs of California has allowed Davis' arguments to resonate _ that the 
+federal
+government is uncaring, is insensitive," Jeffe said.
+
+??In his national energy policy unveiled nearly two weeks ago, Bush offered a
+series of mostly long-term recommendations to conserve energy, find more of it
+and substantially upgrade and expand the nation's oil refineries and
+transmission systems for natural gas and electricity.
+
+??Davis, complaining that Texas energy companies in particular are gouging
+Californians, has urged Bush to embrace price controls for wholesale
+electricity, but the president has steadfastly refused. Vice President Dick
+Cheney, who oversaw development of the White House energy policy, emphasized 
+as
+recently as Friday that there's no quick fix on the way for California.
+
+??"Long term, the answer is to build more power plants, and that's exactly 
+what
+they're doing," Cheney told the U.S. Chamber of Commerce. "But they're not 
+going
+to have enough new capacity online this summer to avoid blackouts."
+
+??So the energy woes continue to fester in California. It's not just
+electricity and rolling blackouts. Gasoline prices of $2-and-more-a-gallon 
+have
+become commonplace as well.
+
+??"The gas bothers me more than the electric," said Tait Kmentt, who runs a
+legal process serving business in Irvine, Calif. "Gas prices are killing me."
+
+??At $2.25-a-gallon for premium gasoline, he says, it costs him more than $40
+to fill up his new Mercedes _ with no relief in sight.
+
+??A newcomer to the state, Kmentt voted for Bush last fall and said he's glad
+the president is finally visiting California. But Kmentt cautioned, "This will
+be a big test to see how concerned he is."
+
+??Kmentt said he understands the state's energy troubles are a "huge problem
+that can't be fixed overnight," and right now he's blaming the power companies
+for the high price of electricity.
+
+??"I just think the public is being lied to," he said.
+
+??Still, this is not good news for Bush, who has been increasingly portrayed 
+by
+Democrats as a Texas oilman still beholden to the industry. California, which 
+he
+lost last fall to Al Gore by 12 percentage points, has become increasingly a
+political headache.
+
+??Where his predecessor, Bill Clinton, seemed politically and personally
+comfortable, Bush is not, suggests Jeffe, a senior scholar in the School of
+Policy, Planning and Development at the University of Southern California.
+
+??"An ego cannot be buoyed by losing the state by 12 points," she said. "We 
+are
+the state that was responsible for giving Al Gore his popular vote victory."
+
+??With the Senate now headed for Democratic control, Jeffe said, Bush's visit
+to California _ and others that will surely follow _ are essential to help
+Republicans hold their base in the House.
+
+??If the energy crisis persists in California, further punishing its economy,
+the ripple effects will certainly spread, she said.
+
+??"George Bush remembers the influence of the economy on the career of an
+incumbent president," Jeffe said, pointing to Bush's father, who was defeated 
+by
+Clinton during an economic slump in 1992.
+
+??"It took a while," she said, "but people are beginning to get angry."
+
+??(c) 2001, The Dallas Morning News.
+
+??Visit The Dallas Morning News on the World Wide Web at
+http://www.dallasnews.com/
+
+JOURNAL-CODE: DA
+
+LOAD-DATE: May 29, 2001
+
+??????????????????????????????29 of 98 DOCUMENTS
+
+??????????????????????Copyright 2001 / Los Angeles Times
+
+??????????????????????????????Los Angeles Times
+
+??????????????????????May 29, 2001 Tuesday ?Home Edition
+
+SECTION: California; Part 2; Page 1; Metro Desk
+
+LENGTH: 1178 words
+
+HEADLINE: Governor to Stress Price Caps to Bush;
+Power: In a meeting today with the president, Davis will present a letter from
+economists backing cost controls and demand federal assistance.
+
+BYLINE: DAN MORAIN, JAMES GERSTENZANG, TIMES STAFF WRITERS
+
+BODY:
+
+??Gov. Gray Davis will present a letter to President Bush today from top
+economists advocating wholesale electricity price controls, warning Monday 
+that
+a failure by Bush to help California solve its energy crisis could signal to
+other regions that he may ignore their pleas.
+
+??Bush, making his first trip to California, has set aside 20 minutes this
+afternoon to meet with Davis in Century City. In an interview with The Times,
+the Democratic governor vowed to repeat his request that the federal 
+government
+move to cap wholesale power prices. Failure to act swiftly threatens the state
+and national economy, Davis said.
+
+??"I want him to understand," Davis said, "that if California has to pay 700
+times more for electricity in 2001 than it did just two years ago, it could 
+well
+drag our economy into a recession and could conceivably trigger a national
+recession. That is not good for anyone."
+
+??In the letter, 10 economists, including Cornell professor emeritus Alfred
+Kahn, a major proponent of airline deregulation, told of their "deep concern"
+about the failure of the Federal Energy Regulatory Commission to stabilize
+wholesale electricity prices in California. The economists faxed the letter to
+the White House on Friday afternoon, and provided the governor with a copy to
+present to Bush today.
+
+??"FERC's failure to act now will have dire consequences for the state of
+California and will set back, potentially fatally, the diffusion of 
+competitive
+electricity markets across the country," the economists, led by Frank Wolak of
+Stanford University, wrote. "Moreover, this negative experience with 
+electricity
+restructuring could delay or reverse current efforts to introduce competition
+into other formerly regulated industries."
+
+??Davis called the letter "very significant validation of what we've been
+saying: The marketplace is not working and FERC has an obligation to act."
+
+??"We're not pleading for relief; we're entitled to it," Davis said.
+
+??Bush and Vice President Dick Cheney repeatedly have said such controls never
+work. In California, caps might worsen the situation by limiting supply, they
+have argued, resulting in more blackouts this summer when demand for 
+electricity
+is highest.
+
+??The Bush-Davis meeting has had all the buildup of the political equivalent 
+of
+a title fight: On one side, the Democratic governor of the nation's most
+populous state, which Bush lost by more than 1 million votes in November. On 
+the
+other, the new president, coming off a roller coaster week of political defeat
+(the shift in control of the Senate) and victory (passage of his tax-cut 
+plan),
+whose work in the Texas oil industry gives him a special history in the topic 
+at
+hand.
+
+??From afar, Davis has battled the Bush administration's energy policy. But,
+said Dan Bartlett, one of the president's chief communications advisors, "The
+president has some interesting views on this topic as well, with some 
+experience
+himself."
+
+??Bush's Energy secretary, Spencer Abraham, took steps Monday to increase
+electricity transmission capacity in California. He ordered the Western Area
+Power Administration, a division of the Energy Department that is responsible
+for marketing electricity from federal water projects in 15 Western states, to
+finish its planning for extra transmission capacity.
+
+??At issue is so-called Path 15, an 84-mile stretch of power lines with
+insufficient capacity to carry the necessary load between Southern California
+and the northern part of the state, especially during peak hours. The central
+question is whether financing is available for a new transmission line.
+
+??Davis lauded the action but said the president needs to do more.
+
+??"If I have any advice to him of a political nature, it is take a chapter out
+of President Clinton's book.
+
+??" [Clinton] was very attentive to California, and as a result did better in
+1996 than he did in '92. People felt he was here for us when we needed help. 
+We
+need help."
+
+??Davis said that on a recent trip to Chicago, officials there worried that if
+Bush "won't offer California some relief, he may not offer us relief," in a
+catastrophe.
+
+??Among the facts and figures Davis intends to show the president is a chart
+showing that California paid $1.2 billion for electricity in the first quarter
+of 1999, $1.8 billion for the same period last year, and as much as $10.3
+billion for electricity in the first three months of this year--at a time when
+conservation efforts had been taking hold and demand was down.
+
+??"I hope the president will be as stunned as I am," said Davis, who is
+watching as the state spends more than $55 million a day to buy electricity 
+that
+private utilities can no longer afford.
+
+??Davis said that though he is trying to speed construction of power plants,
+encourage conservation, and return the private utilities to financial 
+stability,
+the federal government has control over wholesale power prices.
+
+??"Therein lies the final piece of this puzzle," Davis said. "If it falls into
+place, we're on the way to putting this issue behind us. If it doesn't fall 
+into
+place, it could create real economic havoc here and across the country."
+
+??Davis said that if Bush refuses to impose price controls, he should "find
+some way to help us, consistent with his own belief."
+
+??"Turning a deaf ear not only won't be well received here," Davis said. "It
+likely won't be received well elsewhere."
+
+??The state's energy crisis has posed a ticklish dilemma for Bush's busy 
+travel
+schedulers: Had he visited earlier, it would have been awkward not to focus on
+energy issues. But until 11 days ago when a task force led by Cheney produced
+energy proposals, there would have been little Bush could say.
+
+??Karen Hughes, the president's counselor, made it clear that regardless of 
+the
+pressure, Bush will not yield on price caps.
+
+??"We want to help. The president is very concerned about the energy situation
+and blackouts," she said. But limiting the wholesale price of energy would 
+only
+discourage its production," Hughes said.
+
+??California is the 30th state Bush has visited since taking office Jan. 20.
+His staff said the delay had to do not with energy issues but with politics 
+and
+geography.
+
+??With the administration focused in its first months on winning approval of
+the tax cut, the president's travels were largely dictated by that effort, his
+aides said.
+
+??Besides, the president confided recently, even with Air Force One at the
+ready, it just takes too long to fly from Washington to California.
+
+??Still, Hughes said, the president is not ignoring California. Condoleezza
+Rice, the president's national security advisor and a former Californian, sits
+next to Hughes every morning at the daily meeting of the White House senior
+staff, she said.
+
+??What's more, the president "has many friends in California," Hughes said,
+adding: "Ernie has a home in California these days." Ernie is the Bush family
+cat that is living with a friend in Brentwood while the First Family lives in
+the White House.
+
+??*
+
+??Times Staff Writer Massie Ritsch contributed to this story.
+
+LOAD-DATE: May 29, 2001
+
+??????????????????????????????30 of 98 DOCUMENTS
+
+??????????????????????Copyright 2001 / Los Angeles Times
+
+??????????????????????????????Los Angeles Times
+
+??????????????????????May 29, 2001 Tuesday ?Home Edition
+
+SECTION: Part A; Part 1; Page 1; Metro Desk
+
+LENGTH: 1541 words
+
+HEADLINE: THE ENERGY CRISIS;
+;
+Kern County Basks in Role as State's Blackout-Buster;
+Electricity: Six new plants will bolster its status as energy center.
+
+BYLINE: MITCHELL LANDSBERG, TIMES STAFF WRITER
+
+DATELINE: McKITTRICK, Calif.
+
+BODY:
+
+??You could think of this as California's own little slice of west Texas.
+
+??Here in the scruffy brown hills of western Kern County, oil rigs grow more
+easily than trees, pickups are more common than cars, and chicken fried steak 
+is
+the most popular dish at Mike and Annie's McKittrick Hotel.
+
+??The hotel--which no longer offers lodging, just food and drink, and plenty 
+of
+it--is bustling these days with the roustabout energy of a Lone Star
+construction camp. Just down the road, a mammoth electrical power plant is
+rising out of the sagebrush, its generators housed in four boxy buildings the
+size of airplane hangars.
+
+??It is one of six new major gas-fired power plants expected to be built in
+Kern County over the next several years, an electrical construction boom
+unmatched anywhere in California. Kern, which already has a large surplus of
+electricity, is cementing its place as California's energy capital, assuming 
+far
+more than its share of the burden in recharging the state's drained power
+supplies.
+
+??Over the next several years, the county will add nearly 5,000 megawatts of
+power to the statewide grid. That is more than California now imports, on
+average, from out-of-state suppliers. It's enough to supply about five 
+counties
+the size of Kern, which fills the dusty southern rim of the San Joaquin Valley
+and has a population of 662,000.
+
+??In some parts of the state, a proposal to build a new power plant is a call
+to throw up the barricades. In recent months, intense community opposition has
+forced developers to pull back proposals to build major plants in South Gate 
+and
+San Jose, although Gov. Gray Davis has tried to revive plans for the San Jose
+plant.
+
+??You don't hear a lot of not-in-my-backyard talk in Kern County.
+
+??"There should be power plants in everybody's backyard," said Paul Gipe,
+chairman of the Kern chapter of the Sierra Club, which did not oppose any of 
+the
+new plants. "If people are concerned about having too many power plants, they
+should think twice when they flip on the light switch."
+
+??New, natural gas-fired power plants, Gipe reasoned, are relatively clean and
+will not add significantly to the county's serious air pollution problems.
+Ideally, he said, they will allow the state to close some older, dirtier 
+plants
+that cause considerably more environmental damage.
+
+??If environmentalists don't oppose the plants, it's not too much of a leap to
+guess that some people might be positively thrilled about them.
+
+??Just try, for instance, asking somebody in Taft, an oil center south of
+McKittrick. "It's more money coming into Kern County--that's the way I look at
+it," said Pamela Dunlap, who runs a downtown thrift shop.
+
+??An Economy Rooted in the Oil Industry
+
+??She stood in the twilight outside her shop, on a street that embodies many 
+of
+the most attractive attributes of small town Americana--with one small
+difference. Where some towns might have statues of their founders or war 
+heroes
+in prominent public places, Taft has erected small oil rigs and other pieces 
+of
+drilling machinery, a reminder of its economic roots.
+
+??That Kern County has stepped up as California's blackout-buster is, perhaps,
+not surprising.
+
+??To begin with, there's geography. Kern stands astride California's major
+north-south electrical transmission lines at precisely the spot at which they
+divide between the service areas of Pacific Gas & Electric, which serves
+Northern California, and Southern California Edison. That spot can be 
+pinpointed
+as the Midway substation, a vast jungle of humming wires, transformers and
+circuit breakers that lies a short distance west of Interstate 5 in the town 
+of
+Buttonwillow.
+
+??Already, massive new circuit-breakers--they look like Frankenstein helmets
+sprouting 5-foot-long sparkplugs--are being erected at Midway to handle the
+power from two major plants that will be revving up in the coming months: PG&E
+National Energy's La Paloma plant, the one near McKittrick; and Edison Mission
+Energy's Sunrise plant, just south of Taft.
+
+??The county is served by two major natural gas pipelines, which will be 
+tapped
+to run the plants. In fact, Kern contains the state's largest known reservoirs
+of natural gas.
+
+??Another of Kern's geographic advantages?
+
+??"You look around, and you'll see there aren't a lot of people living around
+here," observed Stephen Whaley, who is overseeing construction of the Sunrise
+plant. In the surrounding hills, an orchard of oil rigs bobbed in the morning
+haze. Dirt roads cut crudely across the landscape, bisecting a crisscross of
+steam pipes, fuel lines and electrical wires.
+
+??"This area is all about oil," Whaley said. Casting a glance at the modular
+560-megawatt plant rising behind him, he added with a wry smile, "You know, I
+guess you could look at this from the road, and you could make the argument 
+that
+it improves the looks."
+
+??The Sunrise plant, a relatively simple single-cycle plant, is expected to
+fire up 320 megawatts of its total output by Aug. 1, a scant nine months after
+construction began. The other plants--more complex and efficient dual-cycle
+operations--will be opening over the next several years, assuming all receive
+final approval.
+
+??The lack of major opposition to the plants is, of course, another reason
+developers see Kern County as a good place to build. The county has long had a
+more intimate relationship with energy--oil, gas, electricity--than most 
+places.
+To people here, the link between a natural gas well and a lightbulb, or an oil
+derrick and a gas pedal, is neither theoretical nor especially threatening.
+They're comfortable with energy.
+
+??Kern produces more crude oil than any other county in the United States
+outside Alaska. Property taxes from oil companies have helped build handsome 
+new
+schools in Bakersfield, the county seat and largest city. The companies' big
+payrolls have helped populate elegant subdivisions with names that sound 
+vaguely
+Houstonian: Seven Oaks, River Oaks, Landmark Estates.
+
+??Which brings us to the Texas connection.
+
+??It's hard to overlook it, in a county that runs on oil and cotton and boasts
+a country music scene to rival Austin's. Conversations in the finer 
+Bakersfield
+restaurants are filled with references to trips to Texas, of colleagues in
+Midland and Odessa. A Bakersfield radio station was running a contest 
+recently:
+The winners would be flown to a bull riding championship in Houston.
+
+??Until December 1999, American Airlines offered direct jet service between
+Bakersfield and Dallas. It stopped after Occidental Petroleum moved its
+headquarters from Bakersfield to Houston.
+
+??This is a county where President Bush received more support in the November
+election than he did in Texas, his home state. But then, Bush already had a
+Bakersfield connection: He lived there briefly as a child when his father,
+former President George Bush, worked in the Kern oil fields.
+
+??"You look at the topography around Bakersfield, and the county's morals and
+ethics--that predominantly conservative attitude that we have around here--and
+you look at the oil, and you could be in Midland," said John Allen, the 
+general
+manager of Occidental of Elk Hills, which is developing a power plant in 
+tandem
+with Sempra Energy of San Diego.
+
+??A lot of people in Kern County will tell you they don't mind being an energy
+farm for the state. It's a living, after all.
+
+??"It's good to be working at home," said Joe Ryan, a Bakersfield pipe welder
+who has spent years on the road seeking the heavy construction work that 
+seemed
+to have vanished in his hometown. Now he's working at the La Paloma plant, a
+1,048-megawatt behemoth that will come online in phases beginning in December.
+
+??About 800 people are at work on the plant, and several hundred more will be
+employed in the coming months. And after that plant is done, there will be
+others to build.
+
+??"This is a good job here, I tell you what," said Ryan, 47, who has been
+banking his overtime on six 10-hour days a week--sometimes more.
+
+??County Sees Itself as 'Part of the Solution'
+
+??But there are some signs of simmering resentment, especially among county
+leadership. After all, if every other county produced just half the 
+electricity
+that Kern generates, California wouldn't have an energy crisis. And people in
+Kern County are getting hit with the same spring-loaded electricity bills, the
+same rolling blackouts as everybody else.
+
+??"I think the people of California are either going to be part of the 
+solution
+or part of the problem," said Assemblyman Roy Ashburn (R-Bakersfield). "And in
+Kern County, we have a long history of being part of the solution, especially
+when it comes to energy issues."
+
+??Elsewhere in the state, Ashburn sees "a lot of arrogance--people who enjoy
+the benefits of a very high quality of life, enjoy the benefits of electric
+power for jobs and for their personal life, but with an exclusivity that it's
+someone else's problem to create that for them. We don't have that attitude in
+Kern County."
+
+
+
+??Power Buildup in Kern County
+
+??Six new major gas-fired power plants are expected to be built in Kern County
+over the next several years, making the county the power capital of the state.
+
+??*
+
+??RELATED STORY
+
+??Letter to Bush: Gov. Davis will ask for wholesale energy price caps. B1
+
+GRAPHIC: PHOTO: Tom Romesberg, general manager of La Paloma plant being built 
+in
+Kern County, stands next to the unit's cooling tower. PHOTOGRAPHER: AL SEIB /
+Los Angeles Times PHOTO: From rigs and pipelines like these near Taft, Kern
+pumps more crude oil than any other county in the U.S. outside Alaska. With
+several gas-fired power plants coming online in the next several years, the
+county will solidify its place as California's energy capital. PHOTOGRAPHER: 
+AL
+SEIB / Los Angeles Times GRAPHIC: Power Buildup in Kern County, Los Angeles
+Times
+
+LOAD-DATE: May 29, 2001
+
+??????????????????????????????31 of 98 DOCUMENTS
+
+??????????????????Copyright 2001 The New York Times Company
+
+??????????????????????????????The New York Times
+
+?????????????????May 29, 2001, Tuesday, Late Edition - Final
+
+SECTION: Section A; Page 12; Column 1; National Desk
+
+LENGTH: 1078 words
+
+HEADLINE: For Crucial California Trip, Bush Calibrates How Best to Handle
+State's Energy Crisis
+
+BYLINE: ?By DAVID E. SANGER
+
+DATELINE: LOS ANGELES, May 28
+
+BODY:
+
+??Days after he suffered the biggest political setback of his four-month-old
+presidency and then won the tax cut that he staked his campaign upon, 
+President
+Bush traveled tonight to California, carefully calibrating how to deal with 
+the
+state's energy crisis.
+
+??After Memorial Day celebrations in Washington and Mesa, Ariz., Mr. Bush 
+began
+his first visit as president to the most populous state, which he lost by
+roughly 12 percentage points in November's election. The visit seems likely to
+showcase the clash between two very different energy strategies and political
+strategies.
+
+???Mr. Bush will meet briefly on Tuesday with Gov. Gray Davis, who will 
+insist,
+as he did again today, that the federal government impose price caps on
+wholesale electric power.
+
+??The White House says Mr. Bush will refuse, again. He will argue that such
+caps would only discourage increased production of electric power. "We think
+that's a mistake," Vice President Dick Cheney said on Friday, talking about 
+why
+he rejected those options when he prepared the energy policy the 
+administration
+made public 10 days ago.
+
+??But Mr. Bush knows that how he handles the California energy crisis could
+prove critical to his political fortunes, especially now that his party's loss
+of control in the Senate seems bound to slow or derail passage of major 
+elements
+of his energy plan.
+
+??Moreover, the president can no longer argue that the best cure for high
+energy prices is a tax cut, because that is now legislative history. As one of
+his aides said this weekend, after Congress approved the $1.35 trillion tax 
+cut
+that will be phased in over the next 10 years, "we will have to turn now to 
+the
+other arguments."
+
+??Most of those arguments involve urging the rest of the country not to follow
+California in a partial deregulation of the market, with disastrous results.
+
+??Repeatedly Mr. Bush has chastised California's politicians, and by
+implication Mr. Davis himself, for ignoring politically unpalatable choices to
+avert the state's power-generating crisis. Ten days ago, standing in front of 
+a
+hydroelectric plant in Pennsylvania, Mr. Bush used the state as Exhibit A for
+his argument about what happens when population rises, when over-regulation
+freezes the construction of new power plants and the stringing of new
+transmission lines, and when politicians fail to plan for the long term.
+
+??"The problems in California shows that you cannot conserve your way to 
+energy
+independence," Mr. Bush said then.
+
+??At the same time, his aides were pointing to polls showing Mr. Davis's
+approval ratings plunging. They did not mention that Mr. Bush's ratings in the
+state were hardly any better. A series of recent polls show that roughly
+two-thirds of Californians believe Mr. Bush should be doing far more to help 
+the
+state, though it is unclear exactly what kind of help they have in mind.
+
+??So Mr. Bush's aides have been struggling for days to choreograph the two-day
+visit here, trying to find ways to differ with Mr. Davis without seeming 
+callous
+about the problem or in conflict with the state.
+
+??The betting is that Mr. Bush will focus on long-term solutions, in contrast
+to Mr. Davis's call for the quicker fix of price caps.
+
+??The effort started today. Energy Secretary Spencer Abraham issued an order 
+of
+chiefly symbolic importance, saying his department would move quickly to
+determine whether investors were interested in financing and co-owning a new
+transmission line that could bring more power to the state.
+
+??"The level of interest will be a factor in the decision to build the line
+later this year," the Energy Department said. It said that it would proceed 
+with
+studies of how the land could be acquired, by eminent domain if necessary, and
+that it would speed ahead with environmental reviews.
+
+??But Mr. Abraham left wide open the question of whether Washington would go
+ahead with the project even if no private financing was available.
+
+??"The Bush administration is taking a leadership role in addressing a
+long-neglected problem in California's electricity transmission system," Mr.
+Abraham said. "California's electricity problems developed over a period of
+years and cannot be solved overnight. However, we can move now on actions that
+will help avert the same types of problems from recurring year after year."
+
+??The statement was clearly intended as a prelude to the meeting with Mr.
+Davis, which will be closed to the press. So will a meeting with energy
+entrepreneurs. (Mr. Bush passed on Mr. Davis's suggestion of a forum with
+small-business owners and residents who have seen the lights go out.)
+
+??Few expect Mr. Bush or Mr. Davis to change his mind about energy caps after
+their meeting.
+
+??But for Mr. Bush it will not all be tough love. On Tuesday morning Mr. Bush
+is scheduled to travel to Camp Pendleton to repeat his call for the military 
+and
+other federal users of power in California to flip off their switches whenever
+possible. But given his own comments, and Mr. Cheney's, about the limited
+utility of conservation, that order could strike some Californians as a little
+hollow.
+
+??Later he will give a trade speech in Los Angeles, underscoring the message
+that if California hopes to remain the world's greatest exporter of high
+technology -- if it were a nation, California would be the world's 
+sixth-largest
+economy -- it must find new ways to produce and deliver electricity.
+
+??Already, leading Silicon Valley companies are threatening to build their
+next-generation chip fabrication plants elsewhere, probably in Texas, which 
+has
+a surplus of generating capacity, a move that would further undermine Mr.
+Davis's stewardship.
+
+??In fact, Mr. Bush's Texas roots will never be far from the political
+battlefield here. Mr. Davis has accused Texas energy companies of profiteering
+at California's expense. To press the case, he has hired two political
+operatives from the Clinton White House, Marc D. Fabiani and Chris Lehane, who
+are being paid tens of thousands of dollars a month to make the case for price
+caps.
+
+??California's attorney general, Bill Lockyer, also a Democrat, suggested to
+The Wall Street Journal last week that some time in jail would be the best way
+to deal with one of Mr. Bush's biggest supporters -- Kenneth Lay, who heads 
+the
+Enron Corporation and has sought to influence the selection of members of the
+Federal Energy Regulatory Commission.
+
+??The comments may have been partly facetious, but they were not interpreted
+that way here.
+
+??http://www.nytimes.com
+
+LOAD-DATE: May 29, 2001
+
+??????????????????????????????32 of 98 DOCUMENTS
+
+??????????????Copyright 2001 Knight Ridder/Tribune News Service
+???????????????????????Knight Ridder/Tribune News Service
+
+??????????????????????????The Orange County Register
+
+????????????????????????????May 29, 2001, Tuesday
+
+SECTION: DOMESTIC NEWS
+
+KR-ACC-NO: ?K7500
+
+LENGTH: 825 words
+
+HEADLINE: California's power crisis generating lots of heat
+
+BYLINE: By John Howard
+
+BODY:
+
+??SACRAMENTO, Calif. _ Detectives would seem to be tripping over each other to
+discover who did what to whom, and why, in California's energy crisis.
+
+??While electricity may be scarce, investigations are plentiful. A dozen major
+probes are afoot, many overlap, and more loom. The atmosphere is heated, the
+rhetoric strong. State, federal and local investigators, along with court
+officers, financial experts and special investigators, are poring over 
+thousands
+of pages of documents from government agencies and private companies.
+
+??At the top of the swarming heap is the $10 million investigation mounted by
+the state Attorney General's Office to answer the core question: Did a handful
+of power sellers fix prices to bilk Californians of billions of dollars?
+
+??But it's not just the government that is busy. The companies themselves _
+which have categorically denied any wrongdoing _ are overwhelmed by the
+scrutiny.
+
+??"We are supplying reams and reams of documents. ... It is a distraction from
+our day-to-day work, there's no question," said Tom Williams of North
+Carolina-based Duke Energy, which operates several power plants in California.
+"It affects our employees and their families, this barrage of innuendo. I 
+don't
+know what more we can do."
+
+??Accompanying the investigations are at least a half-dozen lawsuits against
+the companies by individuals. Like the probes, the suits contend the companies
+improperly manipulated the market. Legislative leaders, meanwhile, have sued 
+the
+federal government, contending it has failed to protect consumers from
+price-gouging.
+
+??"This all permeates our business in so many ways," said Gary Ackerman of the
+Western States Power Forum, a group that represents power sellers and buyers 
+in
+the West. "It even affects my ability to talk to the newspapers, because we're
+afraid statements may turn up later and be used as evidence. We're not sure 
+what
+we're dealing with, whether a suit or even a grand jury if the (attorney
+general) decides to take criminal action, as he said he might."
+
+??The state's top prosecutor said that, indeed, criminal charges are a
+possibility.
+
+??"There is an investigation under way that involves potential criminal
+conduct," said Sandra Michioku, a spokeswoman for Attorney General Bill 
+Lockyer.
+It could be at least eight weeks before that probe is completed, she said.
+
+??Other investigating agencies include the Federal Energy Regulatory
+Commission, the California Public Utilities Commission, the city attorneys'
+offices in Long Beach, Los Angeles and San Francisco; California's grid 
+manager,
+the Independent System Operator; the obscure Electricity Oversight Board, 
+which
+oversees the ISO; and the state Senate and Assembly.
+
+??The state has even considered asking two more federal agencies, the
+Department of Energy and the Federal Trade Commission, to get into the act. 
+Some
+offices are conducting multiple investigations. In the case of at least two
+agencies, the PUC and the Attorney General's Office, the investigations are
+being at least partly coordinated. Some agencies are examining the same 
+issues.
+The PUC, the attorney general and ISO, for example, all are looking at whether
+power plants were shut down to drive up demand and prices.
+
+??"There is a lot of overlap and there probably are problems of coordination,"
+said Nettie Hoge of The Utility Reform Network of San Francisco, a grass-roots
+watchdog group.
+
+??With so many agencies trying to extract information, Hoge said, even those
+who have done no wrong are concerned about talking freely because of the 
+greater
+likelihood that proprietary information will leak to competitors.
+
+??Others feel the overlap is beneficial.
+
+??"When you're up against an industry as wealthy and powerful as the energy
+industry, it's probably better to double-team them," said Doug Heller of the
+Foundation for Taxpayer and Consumer Rights.
+
+??Hoge believes that if any investigation is going to produce results, it will
+be Lockyer's, "because the governor has thrown all the resources that way."
+
+??Investigators have requested mountains of paperwork. Transaction and
+maintenance documents, market reports, financial records, even e-mails _ all
+have been sought.
+
+??Martin Wilson, a spokesman for Texas-based Reliant, contends the intensity 
+of
+the probes could have negative long-term effect on California's business
+climate.
+
+??"There is a climate of instability and uncertainty that makes companies
+rethink their decisions about investments (in California)," he said.
+
+??But for consumer groups, the goal of all these investigations is
+straightforward.
+
+??"Certainly, we're really hopeful that these investigations will lead to
+refunds for customers," said TURN's Mindy Spatz. "There is a widespread belief
+among people who follow these issues that widespread gaming and manipulation 
+has
+occurred in the market."
+
+??(c) 2001, The Orange County Register (Santa Ana, Calif.).
+
+??Visit the Register on the World Wide Web at http://www.ocregister.com/
+
+JOURNAL-CODE: OC
+
+LOAD-DATE: May 29, 2001
+
+??????????????????????????????35 of 98 DOCUMENTS
+
+?????????????????Copyright 2001 The Chronicle Publishing Co.
+
+?????????????????????????The San Francisco Chronicle
+
+?????????????????????MAY 29, 2001, TUESDAY, FINAL EDITION
+
+SECTION: NEWS; Pg. A1
+
+LENGTH: 1291 words
+
+HEADLINE: Crisis no sweat to some offices;
+
+Many offices keep cool in crisis;
+
+Air conditioners blast in state's energy centers
+
+SOURCE: Chronicle Staff Writer
+
+BYLINE: Steve Rubenstein
+
+BODY:
+Some very cool places to be during the dog days of spring and summer turn out 
+to
+be the places with their fingers on California's air conditioning switch.
+
+???If only the entire state could cram itself into the cavernous control room
+in Folsom of the Independent Systems Operator, where the air is a comfortable 
+69
+degrees and receptionists wear sweaters at high noon -- when it's upwards of 
+90
+degrees outside.
+
+???Or the Pacific Gas and Electric Co. lobby in downtown San Francisco, where
+the air is an even chillier 65 degrees, which admittedly isn't much of a 
+bounty,
+considering it's usually that cool outside anyway.
+
+???Other cool places to be are the state Capitol, where legislators who
+promulgate energy edicts hang out, and the headquarters of the state Public
+Utilities Commission, where bureaucrats who promulgate energy edicts hang out.
+
+???Armed with a high-tech digital thermometer, The Chronicle made the rounds 
+of
+the energy crisis poohbahs, to make sure they are practicing what they are
+preaching.
+
+???Some were, some weren't. Those that weren't blamed it all on that most
+familiar of modern scapegoats, the computer.
+
+???Computers must be kept cool -- in the 60s for big mainframes and a bit more
+for the smaller units most folks use, though some can go into the 80s without
+hiccuping. So generally, people who work alongside the computers get to keep
+cool, by association, although it's the computer that counts.
+
+???The ISO headquarters, located in an industrial park 20 miles east of
+Sacramento, is a delightfully cool and comfortable place when the outside
+temperature soars into the 90s and 100s.
+
+???The reception area, the only room accessible to the outraged public, is a
+fairly stiff 76 degrees -- only two degrees cooler than the 78 degrees
+recommended by President Bush and the federal energy crisis czars and 
+czarinas.
+
+???But take a step past the lobby security doors and the temperature plummets.
+In the main hallway, the temperature is 73 degrees. And in the control room,
+where two dozen engineers and technicians sit at consoles and monitor the flow
+of California electricity on a giant diagram of state power lines so they can
+order blackouts for everyone else -- the temperature is 69 degrees.
+
+???NO SWEATING AT ISO
+
+???Some managers do not take off their sports coats and jackets.
+
+???"We want these people to be comfortable," explained Tony Capasso, 
+facilities
+manager for the ISO complex. "We don't want these people sweating bullets in 
+the
+middle of a crisis."
+
+???Inside the state Capitol, where legislators and the governor preach
+compliance with federal guidelines calling for 78-degree thermostats, the
+temperature dips into the high 60s. The coolest spots are the press briefing
+room and the treasurer's old office.
+
+???GOVERNOR'S OFFICE
+
+???The governor's suite is in the mid-70s, apparently because folks are often
+coming by with thermometers and it wouldn't do not to set an example. Press
+secretary Steve Maviglio said Governor Gray Davis is a 
+practice-what-he-preaches
+kind of guy who keeps corridors dark, shades drawn, air conditioners idle. His
+personal secretary works in short sleeves, with a cheap plastic fan humming
+nearby.
+
+???"It's so dark in the hall that we're always bumping into things," said one
+aide.
+
+???Even so, the temperature in the governor's suite of offices is three 
+degrees
+cooler than the 78 degrees recommended by President Bush -- not the first time
+the two men have failed to agree.
+
+???THE LEGISLATURE
+
+???The Assembly chamber is 71 degrees while the Senate chamber -- with 40 
+fewer
+legislators spewing forth -- is 73 degrees. But the Senate chamber has a
+southern exposure, one Capitol guide explained.
+
+???"Hot air from the people sitting inside has nothing to do with it," he 
+said.
+
+???In San Francisco, the temperature inside cavernous City Hall dips in spots
+to the mid-60s. College student Jasmine Westbrook, who dropped by with her art
+class on a project to sketch the interior of the building, was doing her
+sketching while wearing a windbreaker to keep warm.
+
+???"I want to stay comfortable," she said. "It think it's supposed to be 
+hotter
+in here, isn't it?"
+
+???The mayor's office, at 73 degrees, was eight degrees warmer than another
+office down the hall, even without the mayor sitting in it.
+
+???63 AT THE PUC
+
+???At the headquarters of the state Public Utilities Commission, which is
+supposed to be keeping an eye on the self-declared bankruptcy of the utility
+that mails out the bills, the lobby temperature is 63 degrees.
+
+???Chief engineer David Omosheyin, eyeing The Chronicle's thermometer
+nervously, insisted the 63-degree reading was caused by the lobby's proximity 
+to
+the front door, where the outside temperature at the moment was in the low 
+60s.
+He invited the thermometer to visit the upper floors, where the temperature 
+was
+70.
+
+???As for San Francisco's federal buildings: Bush would probably not frown.
+
+???His orders appeared to be followed during The Chronicle's visits, so much 
+so
+that it was actually hotter inside than out. Though that wouldn't be hard,
+considering it was in the low 60s outside. And the places measured happened to
+be courtrooms and tax offices, where the body heat from anxiety alone could
+probably melt the paint some days.
+
+???San Franciscans, Omosheyin said, are losing their perspective when it comes
+to things like electricity, energy alerts and rolling blackouts. In his native
+country of Nigeria, he said, the electricity runs sporadically, if at all.
+
+???"There the power can go off for a week," he said. "The world goes on. Here,
+people take a lot of things for granted, and electricity is one of them."
+
+???As for the offices of the places that report on such matters, they fared
+about the same.
+
+???The Walnut Creek bureau of The Chronicle, where the sun sizzles into the 
+90s
+with regularity in the summer, is kept at 67 degrees because of all the
+computers. The main newsroom of The Chronicle is kept at 71 degrees, because 
+of
+all the computers. But the reception room was 71 degrees, too, and there 
+aren't
+any computers there, not a one.
+
+
+------------------------------------------------------------------------CHART:
+???Some offices keeping their cool
+Place ?????????????????????????????????Inside ????Outside
+????????????????????????????????????temperature ?temperature
+Control Room, California Independent
+Systems Operator (Folsom) ?????????????????69 ??????90
+Governor's office, Capitol (Sacramento) ???75 ??????94
+Press briefing room, Capitol (Sacramento) ?68 ??????94
+Caltrans headquarters (Sacramento) ????????70 ??????94
+Chronicle bureau newsroom (Walnut Creek) ??67 ??????90
+Mayor's Office, San Francisco City Hall ???73 ??????63
+Calif. Public Utilities Commission lobby
+(San Francisco) ???????????????????????????63 ??????63
+State Building (San Francisco) ????????????69 ??????63
+Courtroom, 19th floor, Federal Building
+(San Francisco) ???????????????????????????70 ??????63
+
+Lobby, Pacific Gas and Electric
+headquarters (San Francisco) ??????????????65 ??????65
+IRS office, Federal Building
+
+(San Francisco) ???????????????????????????69 ??????63
+Main newsroom,
+San Francisco Chronicle (San Francisco) ???71 ??????64
+
+
+???E-mail Steve Rubenstein at srubenstein@sfchronicle.com.
+
+GRAPHIC: PHOTO (2):CHART: SEE END OF TEXT, (1) It's too warm for jackets in 
+the
+chief clerk's office in the state Capitol building in Sacramento., (2) Jane
+Malison of Millbrae needed a fan while touring a warm section of the state
+Capitol, but other parts of the building are kept below 70 degrees. / Photos 
+by
+Kat Wade/The Chronicle
+
+LOAD-DATE: May 29, 2001
+
+??????????????????????????????36 of 98 DOCUMENTS
+
+?????????????????Copyright 2001 The Chronicle Publishing Co.
+
+?????????????????????????The San Francisco Chronicle
+
+?????????????????????MAY 29, 2001, TUESDAY, FINAL EDITION
+
+SECTION: NEWS; Pg. A1
+
+LENGTH: 1238 words
+
+HEADLINE: Bush facing Davis' heat over energy;
+
+In first visit to state as president, he'll hear governor's plea for help
+
+SOURCE: Chronicle Political Writers
+
+BYLINE: Carla Marinucci, Lynda Gledhill
+
+BODY:
+President Bush wasn't on California soil for more than five minutes yesterday
+when he was drawn into his first debate on the state's power crunch.
+
+???Rep. Brad Sherman, a Democrat from Thousand Oaks who met Air Force One on
+the tarmac at Los Angeles International Airport along with a group of high
+school students, wasted no time button-holing the president for what appeared 
+to
+be an animated conversation.
+
+???"I brought up . . . the idea that after his meeting with our governor, I
+hoped he would be in favor of wholesale regulation (of energy prices)," 
+Sherman
+said later. "He disagreed with me."
+
+???Sherman -- who two weeks ago suggested that the headline to the president's
+national energy policy should be "Bush to California: Drop Dead" -- didn't 
+seem
+optimistic yesterday about Bush's 48-hour visit to the state. "I think that 
+the
+president's policies show either a lack of understanding of what's really 
+going
+on in California, or a lack of concern," he said.
+
+???That vignette underscored some of the challenges facing Bush, who arrived 
+in
+California as protesters geared up and Democratic Gov. Gray Davis prepared to
+press him for federal action on the state's power troubles.
+
+???Besides Sherman, Bush was greeted by a crowd of cheering Republicans,
+including Secretary of State Bill Jones and Los Angeles Mayor Richard Riordan,
+the former a declared GOP candidate for governor in 2002, the latter a rumored
+one.
+
+???But today, Bush will sit down with the present governor, who lately has 
+been
+blistering in his criticism of the president.
+
+???"The last time I looked, California was still part of the United States of
+America," Davis told reporters this weekend. "We have contributed
+disproportionately to the economic growth of this country. There's no reason 
+why
+a president should not respond to a legitimate request from the chief 
+executive
+of the largest state in the union."
+
+???In his first visit to California since just before the election, Bush plans
+to emphasize the energy crisis -- but will focus on it through the lens of his
+own energy plan.
+
+???ENERGY SECRETARY ACTS
+
+???Just hours before the president landed, Energy Secretary Spencer Abraham
+ordered a speedup in planning to relieve a notoriously overloaded electricity 
+transmission line in California.
+
+???Abraham's holiday action was timed to provide a bit of positive news for
+Bush to announce in California. He ordered the Western Area Power
+Administration, a 15-state marketing arm of the Energy Department, to complete
+planning and seek outside financing to reduce the transmission bottleneck on
+California's Path 15, which connects the northern and southern parts of the
+state.
+
+???This morning, Bush will visit the Marine Corps base at Camp Pendleton, near
+San Diego, to underscore his conservation order for a 10 percent cut in energy
+usage in federal buildings and military facilities.
+
+???In Los Angeles, he will deliver a wide-ranging talk before the World 
+Affairs
+Council and lead a discussion among business leaders about technological
+advances in energy conservation.
+
+???Then, he will head to Fresno and Sequoia National Park to press his
+initiative to improve national parks. Along the way, protesters have vowed to
+provide a vocal commentary on Bush's energy and environmental policies.
+
+???But the real drama of the trip will no doubt be the sit-down between Bush
+and Davis today. The governor pushed for a lengthy, open meeting with Bush 
+that
+would include testimony from officials and consumers affected by the energy
+crisis. Bush's camp announced Friday the meeting would be 20 to 30 minutes -- 
+in
+private.
+
+???Davis plans to outline steps the state has taken to alleviate the energy
+crisis, and what it wants the federal government to do -- including 
+implementing
+price caps on the wholesale cost of energy, cost-based pricing, and the
+possibility of ordering refunds.
+
+???DAVIS THREATENING SUIT
+
+???The governor has said he will consider suing the Federal Energy Regulatory
+Commission -- the agency charged with overseeing energy prices -- if it does 
+not
+impose temporary price caps.
+
+???And the state Legislature has already filed a suit, saying the commission
+has failed to stop what it has determined are "unjust and unreasonable 
+prices."
+
+???With California's energy woes worsening and a summer of rolling blackouts
+predicted, the Bush-Davis session holds potentially deep political pitfalls 
+for
+both leaders, both of whom are suffering in state polls as a result of their
+handling of the energy crisis.
+
+???Bush needs to demonstrate his concern for California, a state that gave a
+12-point margin of victory to Al Gore in the presidential election.
+
+???But even as Bush adviser Karen Hughes told state reporters this week that
+the president had arrived to show he cares, Vice President Dick Cheney again
+chastised state officials for delaying their response to the energy crisis
+"because all of the action was potentially unpleasant."
+
+???And Cheney signaled that the administration would resist long-term price
+caps, saying, "We think that's a mistake."
+
+???Such talk drew fire from Davis' senior political adviser, Garry South, who
+charged that Cheney's words demonstrated insensitivity to California's 
+troubles
+and only underscored the perception of an "all-oil, all-the-time ticket."
+
+???Davis, whose campaign for re-election next year will depend on his handling
+of the crisis, has stepped up his criticism of Bush and profit-hungry energy
+firms, particularly those from Texas, in recent weeks.
+
+???And yesterday, signaling no letup, Davis' supporters made an unusual 
+holiday
+conference call to again press his case for federal action. They argued that
+without immediate intervention from the Bush administration, the economy of
+California -- and potentially the entire nation -- was at risk.
+
+???'THIS ENORMOUS SHOCK'
+
+???"We have this enormous shock in prices that needs to be addressed and not
+ignored," said Joseph Fichero, head of Sabre Partners and a consultant to 
+Davis.
+
+???Alan Blinder, a Princeton economist and former vice chairman of the Federal
+Reserve, warned that energy woes in California alone would "take almost a 
+half a
+percent of the gross domestic product off of the national economy."
+
+???Blinder and others argue that short-term relief -- for about 6 to 12 months
+-- is necessary while new power plants are being built.
+
+???"Most times and most places, I agree price caps are not the long-run
+solution, but they can be part of a short-term solution," Blinder said. "There
+really is a case for temporary price caps to shield consumers and the 
+California
+and national economy from the full force of the energy shock."
+
+???Limited new price caps approved by the Federal Energy Regulatory Commission
+on the sale of wholesale electricity begin today in California. But the
+temporary caps, which go into effect when the electricity reserves dip below 
+7.5
+percent, have been lambasted by Davis as ineffective and inadequate.
+
+???Political analysts say Bush's resistence on the issue could cost him in
+California -- and elsewhere.
+
+???"(California) is probably an area where he is criticized more than any 
+other
+region in the country," said Mark DiCamillo, director of the statewide Field
+Poll. "Californians are looking to Bush for some relief -- and to the extent
+they don't get it, Bush may be in some jeopardy here."Chronicle news services
+contributed to this report. / E-mail the writers at cmarinucci@sfchronicle.com
+and lgledhill@sfchronicle.com.
+
+GRAPHIC: PHOTO (2), (1) Rep. Brad Sherman (left), D-Thousand Oaks, buttonholed
+President Bush as he arrived at Los Angeles International Airport to discuss 
+the
+state's energy crisis., (2) President Bush signed autographs for students from
+El Camino High School at Los Angeles airport. Bush is to meet with Gov. Davis 
+today. / Photos by Carlos Avila Gonzalez/The Chronicle
+
+LOAD-DATE: May 29, 2001
+
+??????????????????????????????37 of 98 DOCUMENTS
+
+?????????????????????Copyright 2001 Gannett Company, Inc.
+
+??????????????????????????????????USA TODAY
+
+?????????????????????May 29, 2001, Tuesday, FIRST EDITION
+
+SECTION: NEWS; Pg. 3A
+
+LENGTH: 426 words
+
+HEADLINE: Davis to urge Bush to back electricity price cap
+
+BYLINE: Laurence McQuillan
+
+DATELINE: LOS ANGELES
+
+BODY:
+LOS ANGELES -- California Gov. Gray Davis will urge President Bush today to 
+back
+a 2-year cap on electricity costs as the best way to keep his power-starved
+state -- and possibly the U.S. economy -- from sinking into recession.
+
+???The Democratic governor and Republican president, who have been sparring
+from afar over energy policy, will meet here to discuss their differences. The
+White House has said repeatedly that it opposes price caps as a way to deal 
+with
+energy shortages in California.
+
+??In an interview with USA TODAY, Davis said a limit on wholesale electricity
+costs is needed while the state attempts to build 15 new power plants. He said
+that would still allow a 30% profit margin.
+
+??"While the president didn't create this problem, he is uniquely situated to
+solve it," Davis said. "I'll make clear that he has an opportunity to relieve
+the pain and give California the breathing space to put more plants online."
+
+???Bush, making his first visit to California as president, unveiled a
+long-term energy policy this month that calls for increased production and, 
+to a
+lesser extent, conservation. The president will promote conservation steps 
+being
+taken by the federal government during a visit today to the Marine Corps base 
+at
+Camp Pendleton.
+
+??"The president believes that imposing price caps will only make the problem
+worse," White House spokesman Dan Bartlett said.
+
+??Davis, whose popularity has plummeted as Californians cope with blackouts to
+offset electricity shortages, said his state's problems could hurt all 
+Americans
+if they are not dealt with quickly. "I'm asking for some form of relief that
+reduces the outrageous prices we're currently bearing," he said. "Without that
+relief, lots of people will lose their businesses, and California could well 
+be
+dragged into a recession. Since we're about one-eighth of the national 
+economy,
+that doesn't bode well for America."
+
+???The California Public Utilities Commission has announced rate increases of
+up to 50% for businesses and 37% for homes.
+
+??Bush has sidestepped California after losing the state by 12 percentage
+points to Democrat Al Gore last year in the presidential election. But with
+Democrats targeting several GOP House members in next year's elections,
+Republicans must go on the offensive or risk losing control of the closely
+divided House of Representatives.
+
+??Davis, a possible presidential candidate in 2004, said he wants to avoid
+rancor with Bush: "I'm saying, 'Look, we got into this in a bipartisan way. We
+should get out of it in a bipartisan way.' "
+
+
+LOAD-DATE: May 29, 2001
+
+??????????????????????????????39 of 98 DOCUMENTS
+
+??????????????????????Copyright 2001 The Washington Post
+
+?????????????????????????????The Washington Post
+
+?????????????????????May 29, 2001, Tuesday, Final Edition
+
+SECTION: A SECTION; Pg. A02
+
+LENGTH: 639 words
+
+HEADLINE: Energy Chief Moves To Aid California; Transmission Plan Precedes 
+Bush
+Visit
+
+BYLINE: Mike Allen, Washington Post Staff Writer
+
+DATELINE: LOS ANGELES, May 28
+
+BODY:
+
+
+???President Bush landed at ground zero of the nation's energy worries 
+tonight,
+hours after Energy Secretary Spencer Abraham speeded up planning to relieve a
+notoriously overloaded electricity transmission line through California. 
+
+???Abraham's holiday action was timed to provide a bit of news for Bush to
+announce during his first presidential trip to California, where he is to 
+hold a
+politically charged private meeting with Gov. Gray Davis (D) on Tuesday. 
+Bush's
+aides said he will pledge to cooperate with California but will stick to his
+position that no action by the federal government can prevent the rolling
+blackouts expected this summer.
+
+???Abraham ordered the Western Area Power Administration, a 15-state marketing
+arm of his department, to complete planning and seek outside financing for an
+increase in transmission capacity that he said would be "a big step in the 
+right
+direction, and a big step forward for Californians."
+
+???"California's electricity problems developed over a period of years and
+cannot be solved overnight," Abraham said in a news release. "However, we can
+move now on actions that will help avert the same types of problems from
+recurring year after year." Today's action is designed to reduce the 
+bottleneck
+on California's Path 15, which connects the northern and southern parts of the
+state.
+
+???Davis, who is seeking reelection next year, has seen his poll ratings
+plummet as electricity prices soared, utilities hit dire financial straits, 
+and
+homes and businesses were surprised with blackouts.
+
+???Bush has taken several steps to try to encourage additional power 
+generation
+in the state but has maintained since before he took office that California's 
+problems were created here -- through a troubled effort at electricity 
+deregulation and public opposition to construction of additional power plants 
+--
+and would have to be solved here.
+
+???Davis plans to use the meeting to lobby Bush once again to endorse a cap by
+the Federal Energy Regulatory Commission on the wholesale price of 
+electricity.
+Again and again, the administration has said it will not take that step.
+
+???"This administration does not, and will not, support energy price 
+controls,"
+Bush told a business audience in March. "Price controls do not increase 
+supply,
+and they do not encourage conservation. Price controls contributed to the gas
+lines of the 1970s. And the United States will not repeat the mistake again."
+
+???Davis energy advisers told reporters on a conference call today that 
+without
+the cap, California energy costs could be $ 50 billion higher this year than 
+two
+years ago. Alan S. Blinder, the Princeton University economist and former
+Federal Reserve Bank vice chairman, said on the call that California's energy
+crisis "should be enough to get the attention of policymakers in Washington."
+
+???The visit by Bush, who flew here after making a Memorial Day speech at a
+fighter aircraft museum in Mesa, Ariz., is being carefully managed to avoid
+contact with the general public. After speaking to military families at Camp
+Pendleton on Tuesday morning, he plans to address a luncheon meeting of the 
+Los
+Angeles World Affairs Council, which has sold out of tickets at $ 75 for 
+members
+or $ 85 for guests.
+
+???Afterward, Bush will hold a closed-door session with business people and
+then meet with Davis for 20 minutes. As Bush departs, Davis plans to make an
+immediate statement for cameras.
+
+???Although Bush says he has taken more than a dozen steps to help California,
+Davis says price caps are essential, and has said he may sue the federal
+government in an effort to get them if Bush does not go along.
+
+???"He has been helpful on a number of small matters, and I appreciate his
+assistance," Davis said during a telephone interview on Friday. "But the big
+enchilada is the price of electricity."
+
+
+
+LOAD-DATE: May 29, 2001
+
+??????????????????????????????40 of 98 DOCUMENTS
+
+??????????????????????Copyright 2001 The Washington Post
+
+?????????????????????????????The Washington Post
+
+?????????????????????May 29, 2001, Tuesday, Final Edition
+
+SECTION: A SECTION; Pg. A03
+
+LENGTH: 1936 words
+
+HEADLINE: It's Still Dawn for Solar Power in L.A.; Despite City Subsidies,
+Homeowners Hesitate to Install Expensive Alternative Energy Source
+
+BYLINE: William Booth, Washington Post Staff Writer
+
+DATELINE: LOS ANGELES
+
+BODY:
+
+
+???One year ago this city announced its intent to become "the Solar Capital of
+the World," with 100,000 roofs covered with solar electric panels by the end 
+of
+the decade, an audacious goal to transform the homes of this smoggy but sunny
+metropolis into miniature power plants.
+
+???To fulfill what is perhaps the nation's most ambitious solar campaign, the
+Los Angeles Department of Water and Power began offering substantial "buy 
+down"
+subsidies that would reimburse rate payers for half the price of each new 
+solar
+energy system. For the average home, a photovoltaic package costs between $
+10,000 and $ 20,000, parts and labor included, before the rebate.
+
+???How many have been installed?
+
+???At last count, about 40.
+
+???That leaves only 99,960 rooftops to go.
+
+???The Bush administration, and especially Vice President Cheney, architect of
+its energy plan, have been criticized for skepticism regarding alternative
+energy sources. But a close examination of the Los Angeles solar experiment 
+and
+a review of similar programs suggest the former oilmen in the White House 
+have a
+point: Solar, at least, has not proven ready for prime time.
+
+???For all of Los Angeles's good intentions, and for all of solar's many
+positive attributes, the problems of harnessing its power remain. Some of 
+those
+challenges are economic and some technological; others are more mundane, but
+often ignored, such as finding a qualified contractor a homeowner can trust to
+drill dozens of holes in the roofs to mount the things.
+
+???In a reprise of the 1980s, solar again is hot. The price of photovoltaics 
+is
+dropping and interest is growing. Other states such as New York, Arizona,
+Florida and Washington are moving to join California in major efforts to wire
+homes to draw power from the sun.
+
+???But as many Americans are beginning to understand, the delivery of energy 
+is
+like a complex, interconnected assembly line, and the devil lurks in the
+details.
+
+???The Los Angeles experiment tells the story shared by other locales. In 
+L.A.,
+for example, the city's lone solar panel manufacturer has not been able to
+supply enough systems to meet demand.
+
+???The systems, too, are often oversold by solar proponents. In the real 
+world,
+most do not pay for themselves in a few years, as some advocates claim, but 
+take
+20 years or more to return their initial cost in the form of reduced utility
+bills.
+
+???Nor are the systems maintenance-free: At a minimum, the rooftop panels must
+be routinely cleaned of pollution, dust and leaves.
+
+???They cannot be installed efficiently on homes without shade-free,
+south-facing roofs; the shadow from a neighbor's palm tree can frustrate the
+system's photovoltaic cells.
+
+???Nor will the most common systems allow buyers to live "off the grid," 
+unless
+they want to purchase a large bank of batteries. Even with the batteries,
+homeowners probably would not be able to run their washing machines and air
+conditioners at the same time.
+
+???"It is not an economic proposition at this point," conceded Terry Peterson,
+a solar expert at Electric Power Research Institute in Palo Alto, Calif. But 
+one
+day, Peterson predicts, 100 years from now, solar energy will provide a
+substantial percentage of the world's energy needs. In a decade or two, the 
+cost
+of solar will likely be competitive with other energy sources such as natural
+gas, nuclear or coal.
+
+???But now? It is still a luxury item. "Like buying a swimming pool," Peterson
+said.
+
+???"I really like the idea of running my house with solar power," said Andrew
+Chin, a potential customer in Los Angeles who has been researching a purchase.
+"But they're still pretty expensive, even with the rebates, and so I gotta ask
+myself, what am I doing this for," his conscience or his wallet. "I'm 
+thinking I
+might wait until they work the kinks out."
+
+
+
+
+
+???The most knowledgeable and experienced solar contractor in Los Angeles is
+probably Graham Owen, the founder, owner and single full-time employee of Go
+Solar Co.
+
+???His installation of a one-kilowatt solar electric system on a home in the
+San Fernando Valley was the first to be awarded a rebate by the Los Angeles
+power department in March.
+
+???How many systems has he installed as part of the rebate program? Three.
+
+???But Owen is a true believer, and over the next year, he plans to cover
+hundreds of roofs with solar panels. On his shelf, Owen still has an 
+unreturned
+library book, "The Coming Age of Solar Energy," published in 1963, and checked
+out from his high school in Lennox Hills, Ill., in 1979. "I guess we're still
+stuck in the coming age of solar energy," he said, smiling. He recalled that 
+the
+buzz about solar water heaters in the 1980s led to disappointment with shoddy
+workmanship and less than spectacular energy savings.
+
+???Until recently, there has been little widespread interest in solar electric
+power. Since 1998, the California Energy Commission has been pushing its own
+program to encourage homeowners to erect photovoltaic panels on their roofs,
+offering to subsidize about one-third of the cost.
+
+???Across a state with a population of about 35 million, only 450 solar energy
+systems have been installed on homes.
+
+???Then the California energy crisis struck, with its power interruptions and
+steep rate increases, and the phone calls began to overwhelm Owen's voice 
+mail.
+
+???"On days with rolling blackouts? I get a hundred calls, maybe more," Owen
+says. His Web site, www.solarexpert.com, is now receiving 3,000 hits a day.
+Customers are begging him to do jobs.
+
+???The Los Angeles power department reports a similar surge in interest since
+the energy crisis began six months ago. "Customer demand has shot through the
+roof," says Angelina Galiteva, executive director for strategic planning at 
+the
+Department of Water and Power. She estimates that her department receives 
+1,000
+calls on some days about its solar subsidy program.
+
+
+
+
+
+???Yet while the reliability and cost of solar electric technologies continue
+to improve, solar power today accounts for only a sliver of the national pie
+chart of energy production -- less than 1 percent. The country produces about
+300 megawatts of electricity with solar -- about the same amount produced by a
+single mid-sized traditional power plant.
+
+???The current trend for photovoltaics is not to erect large centralized solar
+farms in the desert, an experiment that withered in the 1980s, but to pursue
+"distributed generation" or individual units on scattered rooftops.
+
+???The problem has consistently been the cost of the solar panels, which has
+been too steep to justify them, except for customers who are committed
+environmentalists or techies who like the elegance of the systems.
+
+???Los Angeles began its solar experiment after Sacramento legislators 
+mandated
+that utilities spend about 3 percent of their revenue on efficiency,
+conservation and renewable energy. For solar, the power department committed $
+75 million over the next five years -- enough to subsidize panels on 7,500
+homes.
+
+???The power department will pay $ 5 for each watt of solar installed on a
+residence or business. Homeowners typically purchase a one-kilowatt or two-
+kilowatt (1,000 or 2,000 watts, respectively) solar electric system, meaning
+that the municipal utility would pay between $ 5,000 and $ 10,000 of the cost 
+up
+front -- an enticing, tax-free offer.
+
+???"For many years, I wanted to do solar, but it was so expensive," said
+LaWanda Geary in the San Fernando Valley, who in April had Owen install 32
+panels for a two-kilowatt system on her sunny roof. "The rebate really got me
+going. I don't know many times when the government offers to pay half of
+anything."
+
+???The systems that are eligible for rebates must be tied into a utility's
+electric power grid, meaning that during the day, when the sun is shining, the
+panels are adding a stream of electrons used by the home to run its lights and
+appliances.
+
+???If there is a surplus of solar power, that electricity goes back into the
+power lines and is passed along to a neighbor, and the electric meter at the
+house actually runs backward. Homeowners, however, are not selling their 
+excess
+electricity -- they're giving it away to the utility company.
+
+???On cloudy days, and at night, the home is not being powered by solar 
+energy,
+but getting its electricity the traditional way from the power lines.
+
+???Calculations on savings vary. A two-kilowatt solar system can supply an
+average-sized home with 20 to 80 percent of its electrical needs, depending on
+how many lights, appliances and air conditioners are running, and how 
+efficient
+they are.
+
+???After the subsidy, and depending on how the system is paid for (in cash or
+with borrowed funds), a solar system can pay for itself in as little as six
+years and as much as 36 years. Owen assumes about 20 years.
+
+???Potential solar clients, moreover, often mistakenly assume that going with
+the sun will take them off the grid, which is not possible without a large 
+bank
+of batteries that costs several thousand dollars more. Because the solar 
+panels
+are still wired to the power grid, if there is a blackout, the power in a 
+solar
+house goes off, just like everyone else's. If uninterrupted power is needed,
+Owen suggests a diesel generator.
+
+???Galiteva does cite one real advantage of solar: It reduces the electricity
+that must be purchased from power companies and protects, to some degree, a
+solar home from the full brunt of upwardly spiraling rate increases.
+Unfortunately for solar enthusiasts, the L.A. Department of Water and Power,
+which was not deregulated along with the three other major utilities in
+California, has perhaps the cheapest and most stable supply of electricity in
+the state, making the economic argument harder to make.
+
+
+
+
+
+???To receive the full $ 5 per watt subsidy, the L.A. Department of Water and
+Power requires a homeowner to purchase solar panels from a manufacturer based 
+in
+the city. The idea is not only to become the solar capital of the world but 
+also
+to encourage local growth of an emerging industry and create jobs.
+
+???One hitch is that no solar panel makers were located in Los Angeles.
+
+???After lengthy negotiations, Siemens Solar Industries, based in Camarillo,
+Calif., an hour's drive to the north, announced in February that it would 
+open a
+solar panel manufacturing plant in Los Angeles. But it is not a complete
+facility: The L.A. plant does only some final assembly and then the units must
+be returned to Camarillo for final testing and shipping.
+
+???Tina Nickerson, a spokeswoman for Siemens Solar, estimates her company has
+sold "a couple dozen" to L.A. homeowners for the rebate program. But she, too,
+reports that the interest from consumers is sometimes overwhelming and that
+supply has been a problem. Most U.S.-manufactured units are shipped overseas 
+to
+places such as Germany, Japan and Scandinavia, which have had generous 
+subsidies
+in place for years.
+
+???LaWanda Geary had to call Siemens herself to push them to deliver panels 
+for
+her house -- and she was eligible for the rebate because of a stopgap 
+compromise
+that allows to Siemens to ship solar panels from Camarillo until its L.A. 
+plant
+is fully operational.
+
+???Everyone involved concedes there have been bottlenecks. Siemens now says it
+has enough panels to begin to meet demand, and Owen and the city are hoping
+things will sort themselves out, especially if more solar manufacturers are
+drawn to Los Angeles. But proponents worry about what will happen when the
+subsidies run out.
+
+???"Selling solar is now the easy part," Owen says. "I could sell a hundred a
+week. It's getting them up on the roof that's the hard part."
+
+
+
+LOAD-DATE: May 29, 2001
+
+??????????????????????????????41 of 98 DOCUMENTS
+
+????????????????Copyright 2001 News World Communications, Inc.
+
+?????????????????????????????The Washington Times
+
+?????????????????????May 29, 2001, Tuesday, Final Edition
+
+SECTION: PART A; NATION; INSIDE POLITICS; Pg. A6
+
+LENGTH: 1264 words
+
+BYLINE: Greg Pierce; THE WASHINGTON TIMES
+
+BODY:
+
+??TAKING YOUR MEDICINE
+
+??Oakland Mayor Jerry Brown, who was once governor of California, likens
+current Gov. ?Gray Davis' handling of the electricity crisis to his own 
+bungling
+of the medfly crisis.
+
+??"Here's an analogy to the medfly crisis," Mr. ?Brown said in an interview
+with the Los Angeles Times' Douglas Foster. ?"When I first heard about the
+medfly, I said, 'Well, it's just a few flies, maybe they'll go away. ?Maybe 
+they
+won't keep reproducing.' And the winter came, and they stopped reproducing. 
+?And
+then, somewhere around February or March, I learned about something called
+'spring emergence.' As the ground got warmer, the larvae turned into flies and
+more medflies started appearing. It got out of hand, and ultimately I had to
+order malathion spraying. ?It would have been better had I taken forceful 
+action
+at the first notice of the medfly."
+
+??Mr. ?Foster asked: "Are you saying that the governor missed opportunities to
+act early, in the same way?"
+
+??Mr. ?Brown replied: "There's an analogy there. ?I didn't want to spray
+because I knew the people in Santa Clara County didn't want to have 
+helicopters
+spraying malathion over their homes. ?It didn't sound good. ?As governor, I
+wouldn't have wanted to see rate increases either. ?But sometimes you have to
+take your medicine early. ?It's less bitter than if you postpone it."
+
+??Mr. ?Davis served as Mr. ?Brown's chief of staff when the latter Democrat 
+was
+governor.
+
+??ENERGETIC CRITICISM
+
+??President Bush's energy plan, already under fire from Democrats and
+environmentalists, is dismissed by National Review, the conservative magazine,
+as so much political posturing.
+
+??"The hyperbolic attacks on the Bush plan by environmentalists (as an attempt
+to poison the air and kill the caribou) shouldn't trick conservatives into an
+exaggerated sense of its merit," the magazine says in an editorial in its
+current issue, dated June 11.
+
+??"The basic thrust of the administration's thinking on energy is sound: a
+growing economy requires more energy, which in turn entails more production.
+But the Bush plan itself is a political document, meant to placate corporate
+interests, environmentalists, and everyone in between, and so is festooned 
+with
+an embarrassment of subsidies and incentives that will, at best, prove an
+irrelevance.
+
+??"As Jerry Taylor of the Cato Institute writes in this issue, the phantom
+energy crisis is already healing itself. ?Power plants are being built at a 
+rate
+that outpaces Dick Cheney's benchmark of one plant a week. Altogether, almost
+100,000 new daily megawatts of electrcity capacity are scheduled to be 
+available
+nationwide by next year. ?This is twice the amount of electricity that 
+California now uses on an average day. ?While Cheney has been sitting with his
+advisers around a White House conference table, investors and entrepreneurs 
+have
+been digging, building, and refining his energy problem into oblivion. ?By the
+time all the Bush plan's tax credits have kicked in, there may well be an 
+energy
+glut. ?All of this is thanks to the most efficient energy plan known to man:
+market pricing."
+
+??WRONG ON BOTH COUNTS
+
+??"The buzz in the media after Sen. ?James Jeffords' switch put Democrats in
+control of the Senate was that President Bush must change his ways. ?He has to
+become more moderate. ?Why? ?Because only that will prevent more Republican
+defections and it's the president's one hope for getting his agenda through
+Congress. ?This is wrong on both counts," Fred Barnes writes in the Weekly
+Standard.
+
+??"Bush and GOP congressional leaders bent over backwards to accommodate
+Jeffords and liberal Democrats on education, the senator's top priority.
+Jeffords bolted anyway. ?On taxes, Bush stuck with his conservative tax cut
+until nearly the end, when he compromised just enough to assure passage.
+Jeffords voted with him," Mr. ?Barnes said.
+
+??"The truth about the impact of Jeffords' move is that no political 
+earthquake
+has occurred. ?The Senate is ideologically unchanged. ?The swing votes in the
+Senate, including John McCain, are important, but they already were. ?There's 
+no
+clear path to victory for the Bush agenda, after taxes and education, but that
+was always true. ?To pass a patients' bill of rights, a prescription-drug
+benefit, or missile defense, a bipartisan coalition of some sort will be
+essential.
+
+??"Yes, there's one big change with Democrats taking over: judges. ?Bush will
+have a harder time getting conservative nominees through a Senate Judiciary
+Committee run by Patrick Leahy, perhaps the most partisan Democrat on Capitol
+Hill. ?One more downbeat side effect: Jeffords' announcement overshadowed 
+Bush's
+tax-cut victory, denying him any political momentum he might have gotten from
+it."
+
+??INCOHERENT REBEL
+
+??"Before liberals put James Jeffords on Mount Rushmore, can we please stop 
+and
+note how he's already betrayed Democrats and his own avowed principles by
+deciding that his defection won't take effect until after President Bush's
+wrongheaded tax cut has been signed into law?" syndicated columnist Matthew
+Miller writes.
+
+??"Any traitor (I mean, 'man of conscience') worth his salt shoves the knife 
+in
+to the hilt - otherwise, what's the point? ?Machiavellis throughout history 
+have
+wisely advised that when you move against the king, you'd better finish him
+off," Mr. ?Miller said.
+
+??"Yet Jeffords took pains to make sure his switch wouldn't derail the
+centerpiece of Bush's agenda, the very agenda that inspired Jeffords' move and
+which Jeffords had the power to stop via his action.
+
+??"We are dealing, in other words, with a deeply incoherent rebel. ?This would
+be a private matter for Jeffords to sort out with his therapist were not his
+cowardice in this moment of 'courage' so consequential for the country."
+
+??THE LONELY VERMONTER
+
+??"In the final analysis, Vermont Sen. ?James M. ?Jeffords was out of step 
+with
+his party, making his departure appropriate, if politically inconvenient. 
+?Those
+who argue that it was the party out of step with Jeffords, some political
+analysts are saying, are those who wish the Republicans no good." UPI 
+political
+analyst Peter Roff writes.
+
+??"The conservative, low-tax, minimal-government Republican Party enjoys
+national parity with the Democrats, something the Northeastern liberal GOP 
+could
+not achieve. ?Jeffords is, in that regard, these observers say, out of step 
+with
+victory. ?One GOP consultant went so far as to say, 'If the Republicans were
+doing better in New England, Jeffords would not have been so lonely. ?Why is 
+it
+that the people from states where the GOP usually doesn't win think they can
+tell the rest of us how to run the party and what we all should believe? ?It
+doesn't make sense.' (spade)
+
+??"There are those in the GOP who regret the loss of the majority that
+Jeffords' defection brings, but very few, if any, are mourning the loss of the
+lonely Vermonter," Mr. ?Roff said.
+
+??LAST WORDS
+
+??Brill's Content asked PR pros how they would handle Vice President Richard 
+B.
+Cheney's heart problems.
+
+??"It's inconceivable that Mr. ?Cheney can put in the kind of time we're led 
+to
+believe he is without putting himself at risk," one public relations man, John
+Scanlon, told the magazine. ?"My recipe for controlling the situation would be
+photo-ops, access to his schedule, and a couple of exclusive articles. ?He's 
+got
+to convince people he's fit for the job."
+
+??Unfortunately, Mr. ?Scanlon did not live to see his quote in the magazine's
+June issue, the New York Post reports. ?He died of a heart attack.
+
+??* Greg Pierce can be reached at 202/636-3285 or by e-mail at
+gpierce@washingtontimes.com.
+
+LOAD-DATE: May 29, 2001
+
+??????????????????????????????42 of 98 DOCUMENTS
+
+????????????????Copyright 2001 News World Communications, Inc.
+
+?????????????????????????????The Washington Times
+
+?????????????????????May 29, 2001, Tuesday, Final Edition
+
+SECTION: PART A; NATION; Pg. A4
+
+LENGTH: 809 words
+
+HEADLINE: Bush faces tough sell on visit to California;
+
+Davis likely to be rebuffed on price caps
+
+BYLINE: Joseph Curl; THE WASHINGTON TIMES
+
+DATELINE: LOS ANGELES
+
+BODY:
+
+??LOS ANGELES - Twenty minutes - that's how long Gov. ?Gray Davis, who has
+accused the Bush administration of ignoring California's energy crisis, will
+have to sway President Bush in a meeting today to consider imposing federal
+price caps on wholesale power prices.
+
+??His plea likely will fall on deaf ears.
+
+??"That's simply not going to happen," said one senior Bush official. Both Mr.
+Bush and Vice President Richard B. ?Cheney, who on Friday again blamed the 
+state
+government of California for the energy crunch, oppose cap measures.
+
+??In his first visit to California since the presidential election, where he
+lost the state to former Vice President Al Gore by 54 percent to 41 percent, 
+Mr.
+Bush hopes to sell his national energy policy to a vocal group of opponents.
+But the hue and cry has been muted of late since residents have battled 
+rolling
+blackouts and sky-high gasoline prices.
+
+??A new poll released Friday shows 59 percent of Californians, many of whom
+have been longtime foes of nuclear energy, now believe the non-polluting 
+energy
+source may be the way to solve the state's problems.
+
+??Mr. ?Davis' popularity has plummeted. ?The Democrat, facing re-election next
+year and often mentioned as a presidential candidate, is viewed as having 
+"poor
+job performance" by 60 percent of Californians, according to a survey by the
+Public Policy Institute of California.
+
+??In a small gesture to California, Energy Secretary Spencer Abraham yesterday
+announced plans to increase transmission capacity in California, which he said
+would be a "big step" in easing rolling power blackouts.
+
+??Abraham ordered the Western Area Power Administration - an Energy Department
+arm responsible for marketing electricity from federal water projects in 15
+Western states - to wrap up planning for building extra transmission capacity.
+
+??The governor has repeatedly blamed Mr. ?Bush, who took office four months
+ago, for the energy crunch in California. ?He points the finger of blame far
+outside the state's boundaries, primarily at Washington and Mr. Bush's home
+state.
+
+??"The people that have dropped the ball are the federal government," Mr. 
+Davis
+said last week. ?"They need to reimpose a price cap because we're being
+obscenely gouged by price gougers out of Texas and the Southwest. ?. . . 
+There's
+a massive transfer of wealth going on from ordinary citizens in California to
+Texas."
+
+??Mr. ?Davis has also charged that utility companies are withholding power in
+order to drive up prices, a claim the Federal Energy Regulatory Commission has
+investigated and dismissed.
+
+??Mr. ?Bush and Mr. ?Cheney have often pointed out that California is second
+only to Rhode Island in conservation efforts, but the state is on the brink of
+an energy supply collapse.
+
+??Still, despite the state's failure to build new power plants, Mr. Davis says
+California is entitled to a federal bailout approved by Mr. Bush.
+
+??"I'm going to keep asking him to do it because we're part of America. The
+state, the last three years, has led American economic growth. ?. . . We're
+doing everything we can out here," he said.
+
+??In the Democratic response to the president's weekly radio address, Mr. 
+Davis
+accused the president, a former oil man, of being concerned only with the
+petroleum magnates.
+
+??"With all due respect, I urge you to stand up to your friends in the energy
+business and exercise the federal government's exclusive responsibility to
+ensure that energy prices are reasonable," he said.
+
+??Many analysts, however, blame the state's deregulation scheme and failure to
+construct adequate electrical generating capacity. ?The price wholesale power
+providers can charge utilities is not capped, but the fee those companies can
+charge users is capped - resulting in massive debt for providers.
+
+??The state was slow to respond to increased demand, the analysts say, even
+though the state is building 10 new power plants, four of which will come on
+line this summer.
+
+??In his national energy policy, Mr. ?Bush lays out 105 proposals that focus 
+on
+increasing domestic supply, improving the nation's ability to move energy
+between regions and increased conservation. ?But the policy is geared more
+toward long-term solutions - such as decreasing America's reliance on foreign
+oil - than short-term relief for Californians and motorists nationwide.
+
+??Mr. ?Cheney, who heads the president's energy task force and said Friday 
+that
+California knew "for more than a year" about the impending energy shortage, 
+has
+promoted nuclear power as essential to America's energy needs. ?He said that 
+at
+least some of the 65 power plants that need to be built annually to meet 
+future
+electricity demand ought to be nuclear.
+
+??A poll by the Field Institute last week found many Californians now agree.
+Although nuclear energy produces 20 percent of the nation's energy, 
+California 
+has just two nuclear plants.
+
+GRAPHIC: Photo, Gov. ?Gray Davis 
+
+LOAD-DATE: May 29, 2001
+
+??????????????????????????????43 of 98 DOCUMENTS
+
+????????????????????Copyright 2001 Chicago Tribune Company
+
+???????????????????????????????Chicago Tribune
+
+???????????????May 29, 2001 Tuesday, NORTH SPORTS FINAL EDITION
+
+SECTION: News; Pg. 6; ZONE: N
+
+LENGTH: 514 words
+
+HEADLINE: Bush backs WW II project
+
+BYLINE: From Tribune news services.
+
+DATELINE: LOS ANGELES
+
+BODY:
+
+??President Bush promised World War II veterans a Washington memorial that
+"will stand for the ages" and paid Memorial Day tribute to America's fallen
+soldiers before embarking on a three-day West Coast swing to try to ease his
+political problems in California.
+
+??Bush landed at ground zero of the nation's energy worries Monday night, 
+hours
+after Energy Secretary Spencer Abraham speeded up planning to relieve a
+notoriously overloaded electricity transmission line through California. ?
+
+??Abraham's action was timed to provide a bit of news for Bush to announce
+during his first presidential trip to California, where he is to hold a
+politically charged private meeting with Democratic Gov. Gray Davis on 
+Tuesday.
+Bush's aides said he will pledge to cooperate with California but will stick 
+to
+his position that no action by the federal government can prevent the rolling
+blackouts that are expected this summer.
+
+??Abraham ordered the Western Area Power Administration, a 15-state marketing
+arm of his department, to complete planning and seek outside financing for an
+increase in transmission capacity that he said would be "a big step in the 
+right
+direction, and a big step forward for Californians."
+
+??"California's electricity problems developed over a period of years and
+cannot be solved overnight," Abraham said in a news release. "However, we can
+move now on actions that will help avert the same types of problems from
+recurring year after year." Monday's action is designed to reduce the 
+bottleneck
+on California's Path 15, which connects the northern and southern parts of the
+state.
+
+??Davis, who is seeking re-election next year, has seen his poll ratings
+plummet as electricity prices soared, utilities hit dire financial straits and
+homes and businesses were surprised with blackouts.
+
+??For most of Monday, however, Bush focused on U.S. veterans and the solemn
+ceremonies in two states honoring those who never returned from America's 
+wars.
+
+??"Their losses can be marked, but not measured," Bush said at the traditional
+Memorial Day ceremonies at Arlington National Cemetery in Virginia. "We can
+never measure the full value of what was gained in their sacrifice. We live it
+every day, in the comforts of peace and the gifts of freedom."
+
+??Bush also laid a wreath at the Tomb of the Unknowns.
+
+??Later he traveled to Mesa, Ariz., to pay tribute to veterans at the Champlin
+Fighter Aircraft Museum. He asked the crowd to observe a nationwide moment of
+silence at 3 p.m. Arizona time.
+
+??"Any foe who might challenge our national resolve will be repeating the 
+grave
+error of defeated adversaries," the president said.
+
+??Bush opened the day at the White House, where he signed legislation to
+construct a World War II monument on the National Mall, a setting criticized 
+by
+some. Bush said the monument between the Washington Monument and Lincoln
+Memorial "will stand for the ages."
+
+??"I will make sure the monument gets built," the president told an audience 
+of
+veterans in the yellow-curtained East Room, among them former Sen. Bob Dole
+(R-Kan.), who has supported the memorial.
+
+??.
+
+GRAPHIC: PHOTOPHOTO (color): President Bush and Maj. Gen. James T. Jackson
+attend Monday's wreath-laying at Arlington National Cemetery's Tomb of the
+Unknowns. AP photo by Ron Edmonds.
+
+LOAD-DATE: May 29, 2001
+
+??????????????????????????????44 of 98 DOCUMENTS
+
+?????????????????????????????The Associated Press
+
+The materials in the AP file were compiled by The Associated Press. ?These
+materials may not be republished without the express written consent of The
+Associated Press.
+
+???????????????????????May 29, 2001, Tuesday, BC cycle
+
+?????????????????????????????7:55 AM Eastern Time
+
+SECTION: Domestic News
+
+LENGTH: 604 words
+
+HEADLINE: Bush announcing low-income aid, but no price caps
+
+BYLINE: By SCOTT LINDLAW, Associated Press Writer
+
+DATELINE: LOS ANGELES
+
+BODY:
+
+??President Bush traveled across the country to deliver news Gov. Gray Davis 
+doesn't want to hear: He won't force down soaring electricity prices that have
+cost California nearly $8 billion since January.
+
+??The Republican president and the embattled Democratic governor arranged a
+20-meeting Tuesday to talk about California's energy crisis, but there was no
+indication they would break their stalemate.
+
+??Bush opposes price limits on wholesale electricity that utilities buy,
+arguing they do nothing to address supply-and-demand issues at the heart of 
+the
+crisis.
+
+??Davis contends federal energy regulators are ignoring their mandate to 
+ensure
+"just and fair" electricity prices.
+
+??With no sign of a break in the deadlock, each side maneuvered for maximum
+advantage from Bush's first full day in California as president.
+
+??Davis, in an interview Tuesday on ABC's "Good Morning America," defended his
+record on licensing more power plants.
+
+??"We've licensed 15 plants. Ten are under construction, four will be online
+this summer, four next summer, and by the end of 2003 we will have built our 
+way
+out of this problem. But between now and then, we are getting gouged
+unbelievably," Davis said.
+
+??The Bush administration timed positive energy announcements to coincide with
+the president's visit.
+
+??At the Marine Corps base at Camp Pendleton, Bush was announcing the 
+expansion
+of a program that provides federal money to help low-income residents pay for
+power.
+
+??Bush was proposing $150 million, in addition to $300 million already 
+budgeted
+for a component of the Low Income Home Energy Assistance Program, to provide
+special help to cash-strapped residents of California and certain Midwest 
+areas
+such as Chicago, a senior administration aide said.
+
+??Bush was also reminding state residents of his order that military 
+facilities
+in the state cut peak-hour usage by 10 percent.
+
+??To alleviate an electricity bottleneck on a crucial south-north transmission
+path, the Department of Energy announced that the Western Area Power Authority
+will try to raise money from a variety of private and public entities to 
+finance
+a crucial additional lines.
+
+??"The Bush administration is taking a leadership role in addressing a
+long-neglected problem in California's electricity transmission system," said
+Energy Secretary Spencer Abraham. "California's electricity problems developed
+over a period of years and cannot be solved overnight. However, we can move 
+now
+on actions that will help avert the same types of problems from recurring year
+after year."
+
+??Davis had a letter for Bush from top economists who maintain price caps are
+justified and necessary.
+
+??Aides to the governor expressed amazement that Bush would travel all the way
+to California with no major announcement in hand, and predicted Davis would
+respond with "polite rage."
+
+??Mindful of the national stage he commanded, Davis planned a news conference
+to air his grievances. And he convened a panel of families he said have been
+victimized by the energy crisis in the same hotel where Bush was staying.
+
+??Davis wants Bush to pressure the Federal Energy Regulatory Commission to
+impose stiff price caps.
+
+??Tuesday, limited caps ordered last month by FERC go into effect in
+California, but only when electricity reserves fall below 7.5 percent in the
+state - a step Davis called inadequate.
+
+??Protesters planned demonstrations in Los Angeles and at Camp Pendleton, in
+San Diego County.
+
+??Bush also arranged a speech on energy and trade to the Los Angeles World
+Affairs Council and planned to president over a closed-door energy round-table
+discussion.
+
+GRAPHIC: AP Photos DSM106, KDJ102
+
+LOAD-DATE: May 29, 2001
+
+??????????????????????????????45 of 98 DOCUMENTS
+
+???????????????????The Associated Press State & Local Wire
+
+The materials in the AP file were compiled by The Associated Press. ?These
+materials may not be republished without the express written consent of The
+Associated Press.
+
+???????????????????????May 29, 2001, Tuesday, BC cycle
+
+?????????????????????????????7:31 AM Eastern Time
+
+SECTION: State and Regional
+
+LENGTH: 594 words
+
+HEADLINE: Stakes are high for Davis meeting with Bush
+
+BYLINE: By GARY GENTILE, AP Business Writer
+
+DATELINE: LOS ANGELES
+
+BODY:
+
+??With California facing a summer of outages, Gov. Gray Davis was to meet
+President Bush to press for a federal cap on energy prices.
+
+??But Davis wasn't expected to win any concessions during the 20-minute 
+Tuesday
+meeting where he's expected to point to Texas energy makers.
+
+??Davis has appeared on national news programs attacking Bush for opposing
+price controls on wholesale electricity, and suggesting the president has
+ignored price-gouging by Texas-based electricity generators.
+
+??"The president did not create this problem, but he is uniquely situated to
+solve it," Davis said Monday. "What I'm going to ask him to do, with all
+respect, is to enforce federal law. The money that leaves this state goes
+directly to energy companies in Texas and the Southwest."
+
+??If Bush refuses to administer price controls as expected, Davis can use that
+as ammunition in his sparring with the administration.
+
+??Bush has blamed California officials for the state's power woes and said
+price controls won't solve shortages. Instead, they said, Bush plans to stress
+his efforts to conserve energy in federal buildings and will bring one or two
+new initiatives to the table.
+
+??One of them commits the federal government to helping organize a consortium
+to build more power lines for the state.
+
+??Energy Secretary Spencer Abraham directed the Western Area Power
+Administration, a federal agency, to take the first steps to clear the way for
+building more transmission capacity between southern and northern California.
+That would help relieve a transmission bottleneck in the central part of the
+state.
+
+??While this will not help this summer, Abraham said in a statement the line
+improvements, when completed, "will help avert the same types of problems from
+recurring year after year."
+
+??The stakes of the meeting are high for both politicians.
+
+??Davis, who has been mentioned as a Democratic challenger to Bush in 2004,
+wants federal help to solve an energy crunch that threatens rolling outages 
+this
+summer and has cost state taxpayers nearly $8 million since January - the 
+price
+of buying power for two cash-starved private utilities. And his plan to rescue
+one of those companies reportedly is faltering.
+
+??Leaders of both the state Senate and Assembly oppose a $3 billion-plus plan
+to bail out Southern California Edison by buying its power lines, the Los
+Angeles Times reported Monday.
+
+??Bush, meanwhile, needs to mend fences in vote-heavy California. The
+Republican president lost badly here in November, and polls show most
+Californians dislike his handling of their energy crisis.
+
+??Bush's Tuesday agenda was heavy on energy issues. At the Marine Corps base 
+at
+Camp Pendleton, near San Diego, Bush was to highlight his order that federal
+agencies and installations cut back energy use. Then it was on to Los Angeles 
+to
+discuss his energy plan in a speech to the Los Angeles World Affairs Council.
+
+??Bush was confronted by the issue virtually as he stepped off the plane 
+Monday
+in Los Angeles. Rep. Brad Sherman, D-Los Angeles, escorted the Academic
+Decathlon national championship team from El Camino Real High School in 
+Woodland
+Hills to meet Bush. He told the president California needs regulation of
+electric generators.
+
+??"The president seems to believe just by instinct that rate regulation 
+reduces
+supply and also by instinct that all those in the energy industry are fair
+people who are not trying to game the system," Sherman said. "Anyone who 
+studies
+the facts in California knows that power is being withheld in order to drive 
+up
+the price."
+
+LOAD-DATE: May 29, 2001
+
+??????????????????????????????50 of 98 DOCUMENTS
+
+????????????????Copyright 2001 Burrelle's Information Services
+
+???????????????????????????????????ABC NEWS
+
+??????????????????????SHOW: WORLD NEWS NOW (2:00 AM ET)
+
+?????????????????????????????May 28, 2001, Monday
+
+TYPE: Newscast
+
+LENGTH: 447 words
+
+HEADLINE: PRESIDENT BUSH VISITS CALIFORNIA WHERE POLITICIANS ARE CRITICAL OF 
+HIS
+LACK OF ACTION FOR THEIR ENERGY CRISIS
+
+ANCHORS: DEREK McGINTY
+
+REPORTERS: JOSH GERSTEIN
+
+BODY:
+
+??DEREK McGINTY, co-anchor:
+
+??When Air Force One touches down in California today it will mark President
+Bush's first visit to the Golden State since taking office. Now that fact has
+not been lost on Governor Gray Davis who has accused the president of ignoring
+his state's power crisis. ?As ABC's Josh Gerstein tells us, Mr. Bush's visit
+could have major ramifications for his presidency and his party.
+
+??JOSH GERSTEIN reporting:
+
+??(VO) Since taking office, President Bush has visited 28 states, but until
+this week he had not found time on his schedule to visit the nation's most
+populous state, California.
+
+??Mr. DAN SCHNUR (GOP Political Consultant): Because the state is going 
+through
+such extraordinary times right now because of the energy crisis, his absence 
+has
+been much more noticeable, and the discussion about it's been much more
+heightened.
+
+??GERSTEIN: (VO) Democrats have begun an aggressive effort to paint the
+president and other Republicans as obstacles to resolving the energy crisis.
+
+??Offscreen Voice: (From TV Commercial) President Bush has offered no relief 
+to
+hard-pressed rate payers.
+
+??Text:
+
+??"The President...believe(s) that the issue is mostly a California matter..."
+
+??GERSTEIN: (VO) On Tuesday, Mr. Bush meets with California Governor Gray
+Davis. ?He, and other Democrats, want the federal government to impose caps on
+wholesale prices for electricity. 
+
+??Representative ANNA ESHOO (Democrat, California): Our people are hurting.
+We're bleeding in the sand. ?We need a tourniquet, and the president is the 
+one
+that can do this.
+
+??GERSTEIN: (VO) During his trip, President Bush plans to highlight the 
+federal
+government's conservation efforts, but aides say he will not endorse price 
+caps.
+
+??Mr. TUCKER ESKEW (Director, White House Media Affairs): The president
+believes that capping wholesale prices would do nothing to lower demand, or
+increase supply, the two fundamental solutions to any energy problem such as
+this.
+
+??GERSTEIN: Holding the line against price caps may have political costs. Most
+analysts give Mr. Bush little chance of winning California in 2004, but
+Republican congressmen there face re-election next year. ?So far, five of them
+have endorsed some kind of limit on electricity pricing.
+
+??Representative RANDY CUNNINGHAM (Republican, California): We're in an 
+extreme
+emergency right now. ?It takes extreme measures.
+
+??Unidentified Woman: We are in rolling blackouts.
+
+??GERSTEIN: (VO) While electricity may be in very short supply in California 
+this summer, the president and politicians of all stripes are likely to find
+there's more than enough voter anger to go around. ?Josh Gerstein, ABC News, 
+the
+White House.
+
+LOAD-DATE: May 29, 2001
+

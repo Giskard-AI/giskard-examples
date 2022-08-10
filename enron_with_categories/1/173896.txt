@@ -1,0 +1,153 @@
+Message-ID: <11100709.1075846161933.JavaMail.evans@thyme>
+Date: Tue, 1 Aug 2000 00:22:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: paula.rieker@enron.com
+Subject: GREAT NEWS ****FERC Order on Morgan Stanley Complaint Against ISO
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Paula Rieker
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+See below.  this is one of the issues that concerned us more than price caps, 
+because it could limit our ability to move power to other markets in the west.
+
+In addition, if you get questions from the analysts on "reregulation" or 
+price caps it is worth pointing out that the high prices prevailing in many 
+markets help our retail sales pitch to end use customers and create 
+opportunities for our wholesale price risk management services . . .  even a 
+$250 price cap is 5-10 times what large customers are accustomed to paying.
+---------------------- Forwarded by Steven J Kean/HOU/EES on 08/01/2000 07:18 
+AM ---------------------------
+
+
+Susan J Mara
+08/01/2000 03:07 AM
+To: David Parquet/SF/ECT@ECT, Tim Belden/HOU/ECT@ECT, Robert 
+Badeer/HOU/ECT@ECT, Dennis Benevides/HOU/EES@EES, Roger Yang/SFO/EES@EES, 
+Elsa Piekielniak/Corp/Enron@Enron, James D Steffes/HOU/EES@EES, Scott 
+Vonderheide/Corp/Enron@ENRON, Bruno Gaillard/SFO/EES@EES, Jeff 
+Dasovich/SFO/EES@EES, Mona L Petrochko/SFO/EES@EES, Sandra 
+McCubbin/SFO/EES@EES, Chris H Foster/HOU/ECT@ECT, Paul Kaufman/PDX/ECT@ECT, 
+Steven J Kean/HOU/EES@EES, Mary Hain/HOU/ECT@ECT
+cc:  
+Subject: GREAT NEWS ****FERC Order on Morgan Stanley Complaint Against ISO
+
+Dan Douglass summarized this.  This really puts CA and the ISO on notice that 
+they cannot confiscate the power as they seem ready to do -- FERC reiterates 
+that the generators can sell power wherever they want because the cap is a 
+cap on ISO purchases.  ANd if the ISO want to set a sale price cap it has to 
+file with FERC, wait 60 days and amend its contract
+---------------------- Forwarded by Susan J Mara/SFO/EES on 08/01/2000 01:01 
+AM ---------------------------
+
+
+"Daniel Douglass" <douglass@ArterHadden.com> on 07/31/2000 07:27:24 PM
+To: <peter.bray@att.net>, <JBarthrop@electric.com>, <mnelson@electric.com>, 
+<rschlanert@electric.com>, <Bruno_Gaillard@enron.com>, <kmagrude@enron.com>, 
+<mpetroch@enron.com>, <susan_j_mara@enron.com>, <athomas@newenergy.com>, 
+<bchen@newenergy.com>, <Jeff.Hanson@phaser.com>, <anchau@shellus.com>, 
+<andrew.madden@utility.com>, <ben.reyes@utility.com>, 
+<chris.king@utility.com>, <david.bayless@utility.com>
+cc:  
+Subject: FERC Order on Morgan Stanley Complaint Against ISO
+
+
+We have good news on the ISO price caps front.  The FERC has made it
+clear that ISO does not have the ability to mandate that generators sell to 
+ISO at its price caps and that the proper response to inadequate supply is to 
+lift the price caps.
+
+On Friday, the FERC issued its Order on Complaint in connection with the July 
+10 complaint filed by Morgan Stanley Capital Group Inc. ("MS").  As you may 
+recall, MS requested FERC to issue a stay of the ISO's maximum purchase price 
+authority and to direct the ISO to reverse any price cap reductions.  MS 
+sought Fast Track processing pursuant to Rule 206(h), which was granted by 
+FERC on the grounds that the complaint "warrants expeditious action."
+
+As a quick background summary for you, last November, FERC issued an order 
+approving Tariff Amendment 21 which extended ISO's price cap authority 
+through 11/15/00.  That order stated that the ISO "maximum purchase price was 
+not a cap on what the seller may charge the ISO, but a cap on what the ISO 
+was willing to pay."  The Commission said that sellers dissatisfied with the 
+price cap could "choose to sell those services into the California Power 
+Exchange or bilateral markets."
+
+FERC notes in Friday's Order that the 6/28 the ISO's Board resolution lowered 
+the caps to $500 and ISO further directed that, "To the extent permitted by 
+law, regulation and pre-existing contract, Management shall direct generators 
+to bid in all their capacity when system load exceeds 38,000 MW."
+
+The MS complaint alleged that the cap reduction was unlawful and would, 
+"threaten the stability and integroty of the marketplace."  MS also requested 
+an emergency technical conference to examine ISO's justification for the 
+price cap reduction.
+
+FERC denied the MS stay request, as well as its request that the $750 maximum 
+purchase price be reinstated.  The Commission reiterates that it is not 
+approving a cap on sellers' prices, because they can sell at whatever price 
+they want.  Rather ISO has simply stated the maximum price it is willing to 
+pay.  "Because sellers are not required to sell to the ISO, the ISO cannot 
+dictate their price."
+
+Importantly, however, FERC also states that, "ISO has no more or less ability 
+to procure capacity and energy than any other buyer of these services....if 
+the ISO is unable to elicit sufficient supplies at or below its announced 
+purchase price ceiling (because generators are free to sell elsewhere if they 
+choose), it will have to raise its purchase price to the level necessary to 
+meet its needs."  [Emphasis added]  FERC then notes that this may lead to an 
+increase in Out of Market ("OOM") calls and that OOM calls are not subject to 
+a maximum purchase price.
+
+Also, with regard to the ISO's resolution stating that generators must bid 
+their capacity into the ISO markets when system load exceeds 38,000 MW, FERC 
+states clearly that, "such a requirement is not permitted by our November  12 
+Order and the ISO tariff."  [Emphasis added]
+
+FERC goes on to say that any requirement to sell to ISO in conjunction with a 
+maximum purchase price would require significant revisions to ISO's market 
+rules, which could not be made effective without a corresponding amendment to 
+ISO's tariff.  This would require 60 days' advance notice, "and could not be 
+implemented prior to Commission approval.  As stated above, our November 12 
+Order was clearly based on the premise that the proper response to inadequate 
+supply (due to a low maximum purchase price) is to raise the maximum purchase 
+price."
+
+ISO is then "put on notice that any amendment to mandate sales must be 
+accompanied by a demonstration that this extreme measure is the proper 
+response to low supplies in the ISO markets."
+
+Concurrences were filed by Commissioners Massey and Hebert.  Massey suggests 
+that the state has to facilitate solutions to market issues, such as risk 
+management tools, removing constraints on hedging opportunities, introducing 
+real time pricing through real time metering and expediting approval of new 
+generation and transmission projects in California.  Hebert says that the 
+previous November Order tried to "straddle the fence" and that, "Today, the 
+Commission at least starts to lean slightly in the right direction of 
+recognizing that we have a role."  He then reiterates his preference for 
+removing all price caps.  He also suggests that, "Getting to the bottom of 
+the problem, in my view, requires us to begin a proceeding to rescind our 
+approval of the ISO as operator of the California grid.  The record supports 
+such a move."  He refers approvingly to the Collins resignation letter, 
+stating that it, "thoughtfully outlines consequences to the market of a 
+return to 'command and control.' "  Hebert states that, "The independence of 
+the ISO's governing structure stands threatened.  We should 'stand up,' to 
+quote the resignation letter."  Hebert advocates opening a section 206 
+proceeding now, as part of the recently announced inquiry into bulk power 
+markets, "including the California markets."
+
+This decision makes it clear that ISO cannot lower the caps at tomorrow's 
+meeting and expect that sellers will be required to sell to it at that 
+price.  This is an important development and very good news in our ongoing 
+efforts to seek economic sanity at the ISO.
+
+Please call if you have any questions.
+
+Dan
+
+

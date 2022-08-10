@@ -1,0 +1,135 @@
+Message-ID: <17579616.1075847628152.JavaMail.evans@thyme>
+Date: Wed, 28 Feb 2001 06:23:00 -0800 (PST)
+From: steven.kean@enron.com
+To: bernadette.hawkins@enron.com
+Subject: CA Supply Realities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Bernadette Hawkins
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+----- Forwarded by Steven J Kean/NA/Enron on 02/28/2001 02:22 PM -----
+
+	James D Steffes
+	02/26/2001 08:52 AM
+		 
+		 To: Alan Comnes/PDX/ECT@ECT, Chris H Foster/HOU/ECT@ECT, Christian 
+Yoder/HOU/ECT@ECT, Christopher F Calger/PDX/ECT@ECT, Cynthia 
+Sandherr/Corp/Enron@ENRON, Dan Leff/HOU/EES@EES, David W 
+Delainey/HOU/ECT@ECT, Dennis Benevides/HOU/EES@EES, Don Black/HOU/EES@EES, 
+Elizabeth Sager/HOU/ECT@ECT, Elizabeth Tilney/HOU/EES@EES, Eric 
+Thode/Corp/Enron@ENRON, Gordon Savage/HOU/EES@EES, Greg Wolfe/HOU/ECT@ECT, 
+Harry Kingerski/NA/Enron@Enron, Jubran Whalan/HOU/EES@EES, Jeff 
+Dasovich/NA/Enron@Enron, Jeffrey T Hodge/HOU/ECT@ECT, Joe 
+Hartsoe/Corp/Enron@ENRON, John J Lavorato/Corp/Enron@Enron, John 
+Neslage/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Kathryn 
+Corbally/Corp/Enron@ENRON, Keith Holst/HOU/ECT@ect, Kristin 
+Walsh/HOU/ECT@ECT, Leslie Lawner/NA/Enron@Enron, Linda 
+Robertson/NA/Enron@ENRON, Louise Kitchen/HOU/ECT@ECT, Marcia A 
+Linton/NA/Enron@Enron, Mary Schoen/NA/Enron@Enron, mday@gmssr.com, Mark 
+Palmer/Corp/Enron@ENRON, Marty Sunde/HOU/EES@EES, Mary Hain/HOU/ECT@ECT, 
+Michael Tribolet/Corp/Enron@Enron, Mike D Smith/HOU/EES@EES, Mike 
+Grigsby/HOU/ECT@ECT, Neil Bresnan/HOU/EES@EES, Paul Kaufman/PDX/ECT@ECT, 
+Phillip K Allen/HOU/ECT@ECT, Robert Badeer/HOU/ECT@ECT, Rebecca W 
+Cantrell/HOU/ECT@ECT, Richard B Sanders/HOU/ECT@ECT, Richard 
+Shapiro/NA/Enron@Enron, Rob Bradley/Corp/Enron@ENRON, Robert C 
+Williams/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Robert Frank/NA/Enron@Enron, 
+Robert Frank/NA/Enron@Enron, Robert Johnston/HOU/ECT@ECT, Robert 
+Neustaedter/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Sandra 
+McCubbin/NA/Enron@Enron, Scott Stoness/HOU/EES@EES, Shelley 
+Corman/Enron@EnronXGate, Steve C Hall/PDX/ECT@ECT, Steve Walton/HOU/ECT@ECT, 
+Steven J Kean/NA/Enron@Enron, Susan J Mara/NA/Enron, Tim Belden/HOU/ECT@ECT, 
+Tom Briggs/NA/Enron@Enron, Travis McCullough/HOU/ECT@ECT, Vance 
+Meyer/NA/Enron@ENRON, Vicki Sharp/HOU/EES@EES, Wendy Conwell/NA/Enron@ENRON, 
+William S Bradford/HOU/ECT@ECT
+		 cc: 
+		 Subject: CA Supply Realities
+
+For those that have not seen this analysis, attached please find a note from 
+Mary Schoen detailing the serious physical shortage problems that may occur 
+this Summer in CA.
+
+Jim
+
+----- Forwarded by James D Steffes/NA/Enron on 02/26/2001 08:51 AM -----
+
+	Mary Schoen
+	02/22/2001 02:55 PM
+		 
+		 To: Neil Bresnan/HOU/EES@EES, Alan Comnes/PDX/ECT@ECT, Jubran 
+Whalan/HOU/EES@EES, Kristin Walsh/HOU/ECT@ECT, Clayton Seigle/HOU/ECT@ECT, 
+Jeffrey Keeler/Corp/Enron@ENRON, James D Steffes/NA/Enron@Enron, Harry 
+Kingerski/NA/Enron@Enron, Richard Shapiro/NA/Enron@Enron, Janel 
+Guerrero/Corp/Enron@Enron, Jeff Dasovich/NA/Enron@Enron, Sandra 
+McCubbin/NA/Enron@Enron, Susan J Mara/NA/Enron@ENRON, Paul Kaufman/PDX/ECT@ECT
+		 cc: 
+		 Subject: CA Supply Realities
+
+Attached is a memo comparing the CEC's forecasted supply and a more realistic 
+look at what additional resources might be available this summer.
+
+The bottom line is that:
+
+1.  The CEC significantly underestimates the outages that may occur this 
+summer.  They estimate in their 5,000 MW supply deficit for the summer that 
+expected outages will be around 3,000MW.  However, November and December saw 
+significantly higher outage levels.  (7,265 MWs) The FERC has investigated 
+these outages and found no improprieties- just that the plants are overtaxed 
+from running at higher than normal capacities.
+
+2.  There are a lot of uncertainties surrounding the 1,244 MWs of projected 
+supply from rerating/restarting existing thermal and renewable projects.  It 
+is very unclear how much of this will be able to come on line by this summer, 
+if at all.  As evidenced by the e-mail I sent out this morning, local 
+communities may be very opposed to restarting shut down units.  In addition, 
+these units are likely to be uneconomical.
+
+3.  In the existing resource pool, there are roughly 1,430 MWs of peaking or 
+other generation units that are running up against their operating hour 
+limitations from air quality regulations.  The Governor has ordered the local 
+air quality districts to address these restrictions,  We are beginning to 
+seem some movement; however, the US EPA has yet to weigh in on these relaxed 
+standards.
+
+4.  The distributed generation/back-up generation capacity to make up some of 
+the shortfall is still an unknown.  While there has been some relaxing of the 
+limitations on run hours for back-up generation at "essential public 
+services" the increase in DG is expected from "clean" sources, not diesel 
+emergency generators.
+
+5.  The CEC is doing everything it can to get 50+ MW peaking units on-line by 
+this summer.  They are promising a 21-day permit application approval process 
+and are offering to pay half of the cost of offsets, for "clean" sources of 
+generation in critical areas.
+
+Please let me know if you have any questions or need additional information.
+
+
+
+CEC's Summer Forecasted Peak Demand - Resource Balance:
+
+
+ 
+List of Peakers running into their operating hour limitations:
+
+
+
+Also available in hard copy format only:
+(please e-mail me your fax number if you'd like a copy)
+
+Table 1:  Fully Executed CA ISO Summer Reliability Agreements (the ISO 
+Peaking Facilities)
+Table 2:  Summer 2001 Supply Options - Renewables Construction Status Summary
+Table 3:  Summer 2001 Supply Options - Rerate of Non-CEC Projects
+Table 4:  Summer 2001 Supply Options - CEC Rerate Status Summary
+Table 5:  Idle Biomass Plants Potentially Capable of Restart
+Mary Schoen
+Environmental Strategies
+Enron Corp
+713-345-7422

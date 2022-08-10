@@ -1,0 +1,21 @@
+Message-ID: <12566366.1075852466752.JavaMail.evans@thyme>
+Date: Thu, 2 Aug 2001 14:20:34 -0700 (PDT)
+From: john.shelk@enron.com
+To: d..steffes@enron.com
+Subject: RE: Update - Jeff Skilling Conference Call with John Q Anderson
+Cc: linda.robertson@enron.com, sarah.novosel@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: linda.robertson@enron.com, sarah.novosel@enron.com
+X-From: Shelk, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=2FCB405B-AAF18F39-86256A32-4CB53C>
+X-To: Steffes, James D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JSTEFFE>
+X-cc: Robertson, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=E6F34021-58C07703-86256984-56518C>, Novosel, Sarah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=E8015336-2D09A27C-862566B9-5830A9>
+X-bcc: 
+X-Folder: \JSTEFFE (Non-Privileged)\Steffes, James D.\NERC
+X-Origin: Steffes-J
+X-FileName: JSTEFFE (Non-Privileged).pst
+
+Jim --
+
+Will focus on the funding source as one of the issues in the drafts.  I assume we would want FERC to have to approve their budget, correct?  When you say "not industry funding" -- where else would it come from?  I assume we don't want to allow the "piper to call the tune" so to speak based on who pays the bill?  My recollection is that in the NERC version of the bill they "walled off" the funding in a manner we would find objectionable, but let me double check that fact.

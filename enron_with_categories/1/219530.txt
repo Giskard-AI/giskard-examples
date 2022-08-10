@@ -1,0 +1,37 @@
+Message-ID: <1258147.1075852493426.JavaMail.evans@thyme>
+Date: Fri, 26 Oct 2001 09:24:59 -0700 (PDT)
+From: john.shelk@enron.com
+To: charles.yeung@enron.com, sarah.novosel@enron.com
+Subject: RE: Enron Support of a Standards Setting Organization
+Cc: d..steffes@enron.com, jose.bestard@enron.com, andy.rodriquez@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: d..steffes@enron.com, jose.bestard@enron.com, andy.rodriquez@enron.com
+X-From: Shelk, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JSHELK>
+X-To: Yeung, Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cyeung>, Novosel, Sarah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snovose>
+X-cc: Steffes, James D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jsteffe>, Bestard, Jose </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=4969d7ad-eda10c9e-86256a87-7af435>, Rodriquez, Andy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Arodriqu>
+X-bcc: 
+X-Folder: \JSTEFFE (Non-Privileged)\Steffes, James D.\Deleted Items
+X-Origin: Steffes-J
+X-FileName: JSTEFFE (Non-Privileged).pst
+
+
+	I have reviewed the SSO principles -- look good to me.  Thanks for sending them to look at.
+
+ -----Original Message-----
+From: 	Yeung, Charles  
+Sent:	Friday, October 26, 2001 11:41 AM
+To:	Shelk, John; Novosel, Sarah
+Cc:	Steffes, James D.; Bestard, Jose; Rodriquez, Andy
+Subject:	Enron Support of a Standards Setting Organization
+
+John and Sarah
+
+In the aftermath of the NERC BOT resolutions last week that wraps in business practices under the NERC purview, we are being asked by Nevius and Gent if we are in support of NERC becoming the SSO.
+
+I have drafted a response that outlines what we need from an SSO.  We are not indicating if we support NERC or GISB/EISB - but are seeking the resolution of key fundamentals of an SSO before we sign on.
+
+Per Jim's request, please take a look at the words and let me know if you have any concerns.  I plan to send this to EPSA so they can borrow some of the language for a letter that the EPSA-NAERO working group agreed to send to NERC.  I also will send it to Dave Nevius under Jose and my signature.
+
+ << File: Enron Principles on Electric SSO.doc >> 

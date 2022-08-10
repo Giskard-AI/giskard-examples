@@ -1,0 +1,47 @@
+Message-ID: <25033143.1075858499361.JavaMail.evans@thyme>
+Date: Wed, 8 Aug 2001 06:12:37 -0700 (PDT)
+From: chris.stokley@enron.com
+To: p..o'neil@enron.com
+Subject: FW: California Refund Proceeding--Got some exhibits to
+ prepare--Confidential Atty Client Work Product
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-To: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Moneil>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\SENT
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+
+
+ -----Original Message-----
+From: 	Comnes, Alan  
+Sent:	Tuesday, August 07, 2001 7:49 PM
+To:	O'Neil, Murray P.; Ngo, Tracy; Stokley, Chris; Gary Fergus (E-mail); Alvarez, Ray; Dan Watkiss (E-mail); Ron Carroll (E-mail); Hall, Steve C.; Williams, Robert C.
+Cc:	Belden, Tim; Steffes, James D.; Sanders, Richard B.; Robertson, Linda
+Subject:	California Refund Proceeding--Got some exhibits to prepare--Confidential Atty Client Work Product
+
+I met with Gary Fergus and we determined the  need to prepare affidavits and/or exhibits as part of our August 15th showing in the Califronia refund case. 
+
+Exhbits in a FERC case require supporting documents and a sponsor (witness).
+
+ I am trying to contact various people on getting the data together but here are the parameters of the exhibits:
+
+Witness designations are preliminary.
+
+1. EPMI's receivables from ISO/PX
+What it shows:  ISO owes us $41.5 million and the PX $9.1 million plus any claims we want to make w.r.t. letters of credit with the PX
+Sponsor: Tracy Ngo (PX data) and Murray O'Neil (ISO data)  (Tracy has agreed to prepare the exhibit but wants support from Murray's group on the ISO numbers.) 
+
+2. EPMI's "receivables" from ISO for the underscheduling penalty
+What it shows:  ISO has yet to actually implement the underscheduling penalty but has been tracking it.  According to information provided Chris Stockly, EPMI would receive $30 million of penalty revenues 
+Sponsor:  Chris Stokley or Murray O'Neil
+
+3. Enron's PX credit receivables
+What it shows:  PG&E and SCE collectively owe EES $500 million
+Sponsor: Steve Swain or ??
+
+GAC

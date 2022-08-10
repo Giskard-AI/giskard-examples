@@ -1,0 +1,111 @@
+Message-ID: <20013213.1075842967596.JavaMail.evans@thyme>
+Date: Sun, 10 Sep 2000 14:07:00 -0700 (PDT)
+From: mona.petrochko@enron.com
+To: west.ga@enron.com, james.steffes@enron.com, harry.kingerski@enron.com, 
+	richard.shapiro@enron.com, steven.kean@enron.com, 
+	sarah.novosel@enron.com, cynthia.sandherr@enron.com, 
+	peggy.mahoney@enron.com, mark.palmer@enron.com
+Subject: CPUC Hearing in SD on 9/8
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mona L Petrochko
+X-To: West GA, Mary Hain@Enron, James D Steffes, Harry Kingerski, Richard Shapiro, Steven J Kean, Sarah Novosel, Joe Hartsoe@Enron, Cynthia Sandherr, Karen Denne@Enron, Peggy Mahoney, Mark Palmer
+X-cc: 
+X-bcc: 
+X-Folder: \Jeff_Dasovich_Dec2000\Notes Folders\All documents
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+In light of the Commerce Committee Hearing and the FERC Hearing on the 11th 
+and 12th, wanted to provide a quick synopsis of the CPUC Hearing in SD.
+
+It was the same quasi-legislative format as the previous hearing.  Speakers 
+were invited by the Commission and only the ALJ and the Commissioners could 
+cross-examine the witnesses.  Commissioners Lynch and Wood presided.  Michael 
+Kahn, chairman of the Electricity Oversight Board was there and participated 
+in some cross-examination as well.
+
+Speakers were:
+
+ISO:  
+Kellan Fluckiger, COO
+Anjali Sheffrin, Director of Market Analysis
+Frank Wolak, Chairman of Market Surveillance Committee
+
+Cal PX:
+David Jermain, former VP, Compliance, Audits & Reg. Affairs
+Seth Wilson, 
+
+South Coast Air Quality Management District:
+Carol Coy, Deputy Executive Director
+
+CPUC:
+Harvey Morris, Principal Attorney
+
+SDG&E:
+Donald Garber
+
+ISO's main message was that many factors contribute to the high prices in the 
+wholesale market:
+
+ 1.  Demand growth over past two years at or around 5% (98-99, 99-00)
+ 2.  Lack of generation additions in entire west
+ 3.  Reduced imports of electricity from NW, due to low hydro and policy to 
+retain water in spring.
+ 4.  Natural Gas price increases over 1999, at almost 2x's 1999 levels in 
+August
+ 5.  Nox emissions trading at or around $40/pound
+ 6.  Increased underscheduling from June-August
+
+ISO has concluded that the reduction in the price caps (from $500 to $250) 
+have increased the overall cost of electricity, with the highest total 
+cost/MWh ($180) experienced in August, relative to $167/MWh in June and $118 
+in July.  Reason given is that the caps have reduced markup (could be 
+interpreted as generator profit) in peak hours, but supply costs have been 
+driven up in lower load hours.  
+
+While ISO staff said they will seek an extension of its authority from FERC 
+to be set price caps, also raised concerns about the affect any further 
+reductions would have on the market.  They conclude that such a reduction 
+would deter new investment,  preclude generators from recovering fixed costs 
+of production, and increase dependence on OOM purchases (as a result of lower 
+imports).
+
+ISO staff will make a proposal to the ISO Board, October 6, to do the 
+following:
+
+1.  File for extension of price cap authority to FERC.
+2.  Request FERC to institute mandatory forward contract requirement on 
+generators for a significant portion of their capacity.
+3.  CPUC should allow full peak requirements to be forward contracted and 
+hedged by UDCs
+4.  CPUC and state should promote price responsive demand programs
+5.  Maintain sufficient planning reserves.
+
+ISO Staff also stated that:
+
+1.  Need to create disincentive for underscheduling for load and generation
+ a.  Charge OOM cost to underscheduled load
+ b.  Charge replacement reserve cost to underscheduled generation
+ c.  Additional charge for real-time market transactions
+
+2.  Attract and expedite new resources
+
+MARKET POWER:
+
+While the Commissioners spent the majority of the day picking apart the 
+underlying reasons for the rise in prices, the conclusion of the hearing was 
+President Lynch asking the ISO and PX to name names on who has been exerting 
+market power.  Both the PX and the ISO said that it would be impossible to 
+determine from the information they have.  Secondly, the analysis they have 
+done show that no single market participant is consistently exhibiting the 
+ability (opportunity) to exercise market power.  Therefore, at one point or 
+another, nearly every market participant has market power.
+
+Wolak suggested that in order to reduce the amount of market power in peak 
+periods, require forward contracting OR increase profit incentives in 
+off-peak period, where generators many times sell below short-run marginal 
+costs.
+
+No further quasi-legislative hearings are planned.

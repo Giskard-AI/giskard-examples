@@ -1,0 +1,23 @@
+Message-ID: <17855117.1075863428673.JavaMail.evans@thyme>
+Date: Wed, 27 Jun 2001 02:49:07 -0700 (PDT)
+From: j.kaminski@enron.com
+To: nknight@riskwaters.com
+Subject: 
+Cc: stig.faltinsen@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stig.faltinsen@enron.com
+X-From: Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VKAMINS>
+X-To: 'nknight@riskwaters.com'
+X-cc: Faltinsen, Stig </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/cn=Recipients/cn=SFaltins>
+X-bcc: 
+X-Folder: \VKAMINS (Non-Privileged)\Kaminski, Vince J\Sent Items
+X-Origin: Kaminski-V
+X-FileName: VKAMINS (Non-Privileged).pst
+
+I would like to nominate Dr. Stig Faltinsen from Enron Europe  as my guest at the London
+"Understanding and Applying Financial Mathematics to Energy Derivatives"
+conference, London, June 28-29.
+
+Vince

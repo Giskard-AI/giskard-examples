@@ -1,0 +1,100 @@
+Message-ID: <17588232.1075863426860.JavaMail.evans@thyme>
+Date: Mon, 18 Jun 2001 14:59:24 -0700 (PDT)
+From: j.kaminski@enron.com
+To: j_martin@baylor.edu
+Subject: RE: Have you seen this?
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VKAMINS>
+X-To: '"John D. Martin" <J_Martin@baylor.edu>@ENRON' <IMCEANOTES-+22John+20D+2E+20Martin+22+20+3CJ+5FMartin+40baylor+2Eedu+3E+40ENRON@ENRON.com>
+X-cc: 
+X-bcc: 
+X-Folder: \VKAMINS (Non-Privileged)\Kaminski, Vince J\Sent Items
+X-Origin: Kaminski-V
+X-FileName: VKAMINS (Non-Privileged).pst
+
+Yes,
+
+Thanks a lot.
+
+Vince
+
+ -----Original Message-----
+From: 	"John D. Martin" <J_Martin@baylor.edu>@ENRON [mailto:IMCEANOTES-+22John+20D+2E+20Martin+22+20+3CJ+5FMartin+40baylor+2Eedu+3E+40ENRON@ENRON.com] 
+Sent:	Monday, June 18, 2001 9:32 AM
+To:	Kaminski, Vince J
+Subject:	Have you seen this?
+
+"Conditional Value-at-Risk for General Loss Distributions"
+
+      BY:  TYRRELL R. ROCKAFELLAR
+              University of Washington
+              Department of Applied Mathematics
+           STANISLAV P. URYASEV
+              University of Florida
+              Department of Industrial and Systems Engineering
+
+Document:  Available from the SSRN Electronic Paper Collection:
+           http://papers.ssrn.com/paper.taf?abstract_id=267256
+
+           Other Electronic Document Delivery:
+           http://www.ise.ufl.edu/uryasev/CVaR2.pdf
+           SSRN only offers technical support for papers
+           downloaded from the SSRN Electronic Paper Collection
+           location. When URLs wrap, you must copy and paste
+           them into your browser eliminating all spaces.
+
+Paper ID:  U of Florida, ISE Dept. Working Paper No. 2001-5
+    Date:  April 4, 2001
+
+ Contact:  STANISLAV P. URYASEV
+   Email:  Mailto:uryasev@ise.ufl.edu
+  Postal:  University of Florida
+           Department of Industrial and Systems Engineering
+           PO Box 116595
+           303 Weil Hall
+           Gainesville, FL 32611-6595  USA
+   Phone:  352-392-3091
+     Fax:  352-392-3537
+ Co-Auth:  TYRRELL R. ROCKAFELLAR
+   Email:  Mailto:rtr@math.washington.edu
+  Postal:  University of Washington
+           Department of Applied Mathematics
+           408 L Guggenheim Hall
+           Box 352420
+           Seattle, WA 98195-2420  USA
+
+ABSTRACT:
+ Fundamental properties of conditional value-at-risk, as a
+ measure of risk with significant advantages over value-at-risk,
+ are derived for loss distributions in finance that can involve
+ discreetness. Such distributions are of particular importance in
+ applications because of the prevalence of models based on
+ scenarios and finite sampling. Conditional value-at-risk is able
+ to quantify dangers beyond value-at-risk, and moreover it is
+ coherent. It provides optimization shortcuts which, through
+ linear programming techniques, make practical many large-scale
+ calculations that could otherwise be out of reach. The numerical
+ efficiency and stability of such calculations, shown in several
+ case studies, are illustrated further with an example of index
+ tracking.
+
+ Keywords: Value-at-risk, conditional value-at-risk, mean
+ shortfall, coherent risk measures, risk sampling, scenarios,
+ hedging, index tracking, portfolio optimization, risk management
+
+
+JEL Classification: G0
+______________________________
+
+John D. Martin
+Carr P. Collins Chair in Finance
+Finance Department
+Baylor University
+PO Box 98004
+Waco, TX 76798
+254-710-4473 (Office)
+254-710-1092 (Fax)
+J_Martin@Baylor.edu
+web:    http://hsb.baylor.edu/html/martinj/home.html  

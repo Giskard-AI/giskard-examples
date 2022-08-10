@@ -1,0 +1,168 @@
+Message-ID: <522804.1075843910275.JavaMail.evans@thyme>
+Date: Mon, 22 Jan 2001 23:30:00 -0800 (PST)
+From: john.nowlan@enron.com
+To: mike.mcconnell@enron.com, jeffrey.shankman@enron.com
+Subject: GM - private and confidential - attorney/client privilege
+Cc: chris.mahoney@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.mahoney@enron.com
+X-From: John L Nowlan
+X-To: Mike McConnell, Jeffrey A Shankman
+X-cc: Chris Mahoney
+X-bcc: 
+X-Folder: \Mark_McConnell_June2001\Notes Folders\All documents
+X-Origin: MCCONNELL-M
+X-FileName: mmcconn.nsf
+
+As I mentioned at the Mgmt meeting yesterday  8-9 MTM plus 5 million likely 
+13-14 million worst case. I have accrued this amount below the line at 
+present and will await further meetings before taking any other actions. 
+Because of our presence in Spain and our role with GM , Vitol ,Veba and KPC 
+are meeting with Chris this week as they would like us to continue to supply 
+to them in Spain. We would also like to do this as it continues to give us 
+the outlet we wanted when we entered the GM deal but with better partners. It 
+also allows us to make money while we sort through the GM situation.
+---------------------- Forwarded by John L Nowlan/HOU/ECT on 01/23/2001 07:22 
+AM ---------------------------
+
+
+Robert Quick
+01/22/2001 12:33 PM
+To: John L Nowlan/HOU/ECT@ECT
+cc: Chris Mahoney/LON/ECT@ECT, Adam Nye/LON/ECT@ECT, Mark 
+Evans/Legal/LON/ECT@ECT, Justin Boyd/LON/ECT@ECT, Ted Murphy/LON/ECT@ECT 
+Subject: GM - private and confidential - attorney/client privilege
+
+
+---------------------- Forwarded by Robert Quick/LON/ECT on 22/01/2001 18:36 
+---------------------------
+
+
+Robert Quick
+22/01/2001 16:13
+To: John L Nowlan/HOU/ECT@ECT
+cc: Chris Mahoney/LON/ECT@ECT, Adam Nye/LON/ECT@ECT, Mark 
+Evans/Legal/LON/ECT@ECT, Justin Boyd/LON/ECT@ECT, Ted Murphy/LON/ECT@ECT 
+
+Subject: GM
+
+Chris, Adam and I met with the Spanish lawyers last Thursday night regarding 
+GM. We then met up with GM on the Friday.
+
+Basically GM Petroleos (the main GM company) has entered into the Spanish 
+equivalent of U.S. Ch.11. We have still not seen a copy of the petition 
+presented to the Court, but this shd be forthcoming in the next day or so. 
+The idea behind the petition for suspension of payments is to help companies 
+that are facing liquidity problems. GM wd certainly fit that bill, although 
+it remains doubtful as to whether GM can claim that its assets exceed its 
+liabilities. The effect of the petition is to provide a moratorium on the 
+repayment of any unsecured creditors, and on any judgments which those 
+creditors obtain. The petition does not however prevent any preferred or 
+secured creditors from enforcing their debts (in the latter case, to the 
+extent of their security). 
+
+The judge to whom the petition is presented appoints 3 administrators. 2 are 
+appointed from a list of accountants that the court maintains, and the third 
+(also appointed by the court) is a representative of one of the top third of 
+the list of creditors.
+
+Once the administrators are appointed, the financial control of GMP will be 
+their responsibility. They will authorize any future transactions, draw up 
+the definitive list of creditors, and examine the solvency or otherwise of 
+the company. In due course they will submit a report to the judge advising as 
+to whether the company is insolvent or not. If insolvent, the Court will 
+request that GMP provide a warranty for the difference between the amount 
+owed and the assets. If this is not met within 14 days, subsidiary 
+proceedings may be started to examine any personal liability of the 
+management. 
+
+Parallel with this, the administrators will be speaking to all the creditors 
+with a view to reaching an inter creditor arrangement on repayment of an 
+agreed level of debt. Even though secured creditors are not precluded in 
+enforcing their security during the suspension of payments procedure, it is 
+usual for them too to take part in these discussions.
+
+The outside lawyers seemed to think that the amount contained in the petition 
+is equivalent to USD 85 million. We have no real idea how this is broken 
+down, but the following shd be a rough guide:
+
+VAT authority - USD 25 million
+Veba - USD 15 million
+Enron - USD 5 million
+Total - USD 3million
+Bank debt - USD 22 million
+? - balance USD15 million
+
+The Spanish lawyers confirmed our suspicion that the mark to market exposure 
+may be difficult to prove as a debt. This exposure arises from the market 
+difference we agreed to sell Dec. shipments to GMP (which then cd not put up 
+the agreed purchase price to ensure delivery) and the current market price. 
+Chris can confirm what these losses are today. We wd have to sue on those 
+agreements (English arbitration), and then present to the administrators the 
+arbitration judgments. However, as the administrators report is usually ready 
+within 2-3months, I suspect that leaving aside any other factors there may be 
+a timing problem here. 
+
+The Spanish lawyers said that GMP Board may have some personal liability 
+issues. The Board is supposed to call a shareholders meeting if the company 
+is in financial difficulties. Moreover, if there has been stripping out of 
+assets from GMP, then those responsible may face criminal sanction
+
+On the issue of preferences, it wd appear that Spanish law is somewhat 
+inconsistent. On the one hand there is old jurisprudence to the effect that 
+any and all transactions entered into by the debtor before its insolvency can 
+be challenged by the administrators, irrespective of whether those 
+transactions wd constitute a preference. On the other hand there is 
+jurisprudence of equivalent weight which states that this is not the case, 
+and that only preferences may be challenged. The Spanish lawyers were not 
+able to say which system wd apply in the current scenario, but their 
+insolvency lawyer made the following points:
+
+there was no immediate threat from anyone against Enron or ECTRIC Spain. The 
+whole issue about preferences is not dealt with until the report by the 
+administrators is made to the judge. There is no chance of any nasty shocks 
+like injunctions on Arcos etc.
+the payment to Enron of USD50 million at the same time as the VAT authorities 
+were not being paid shd not overly worry Enron at the moment, as such 
+payments are unlikely to be seen as a preference.
+most companies (even those judged insolvent) end up being dissolved 
+voluntarily, probably as a result of the uncertainty of Spanish insolvency 
+law. If a voluntary arrangement is reached it is unlikely to provide for 
+anything but the most obvious preference (and the transfer of the strategic 
+oil from GM to ECTRIC Spain wd not fall within this category)
+The VAT authorities (probably the main creditor) are not pro active in these 
+sorts of proceedings and tend to take a back seat   
+
+For what t is worth, GM made the following points:
+
+GM's banks' inability to fund further prompted GMP management to make the 
+petition (this despite the fact that GM had previously assured Enron that the 
+GMP bank debt was minimal)
+petition is for Pta 10 billion
+GM lawyer said shd have made decision earlier to present the petition
+GM lawyer also said that GMP had made what he called "third party financing" 
+of Pta 6 billion, and accepted my suggestion that the administrators wd be 
+asking for such funds back 
+GMP wd be willing to put up Don Antonio's assets to secure Enron's continuing 
+supplies to it (we have heard that many times before). Without such supplies 
+GM stated that GMP was insolvent. They were not able to provide a reason as 
+to why such assets cd not be pledged beforehand
+GMP sees Enron as the "key", namely that the supplies if resumed wd trigger 
+the payment to GM of its outstanding receivables.  
+GM wants Enron to meet with the administrators next week.
+
+It is early days but I wd suggest the following:
+
+unlikely the old man's assets will be forthcoming
+likley the company will go into insolvency
+likley the creditors will reach a voluntary arrangement
+therefore unlikely there will be any clawback of earlier payments/strategic 
+storage oil
+equally, unlikely Enron will receive any recognition of its MTM debt 
+
+Chris, let me know if there is anything you wd like to add/clarify. otherwise 
+once we get the petition we will advise further. tks
+
+

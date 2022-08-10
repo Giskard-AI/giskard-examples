@@ -1,0 +1,271 @@
+Message-ID: <2963397.1075858883982.JavaMail.evans@thyme>
+Date: Sun, 8 Jul 2001 16:20:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: james.steffes@enron.com
+Subject: Re: ATTORNEY CLIENT PRIVILEGDE - Draft FERC Brief on Settlement
+ Process
+Cc: jeffrey.hodge@enron.com, robert.williams@enron.com, 
+	richard.shapiro@enron.com, linda.robertson@enron.com, 
+	alan.comnes@enron.com, jeff.dasovich@enron.com, susan.mara@enron.com, 
+	robert.frank@enron.com, ray.alvarez@enron.com, 
+	sarah.novosel@enron.com, dwatkiss@bracepatt.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+Bcc: jeffrey.hodge@enron.com, robert.williams@enron.com, 
+	richard.shapiro@enron.com, linda.robertson@enron.com, 
+	alan.comnes@enron.com, jeff.dasovich@enron.com, susan.mara@enron.com, 
+	robert.frank@enron.com, ray.alvarez@enron.com, 
+	sarah.novosel@enron.com, dwatkiss@bracepatt.com
+X-From: Steven J Kean
+X-To: James D Steffes <James D Steffes/NA/Enron@Enron>
+X-cc: Jeffrey T Hodge <Jeffrey T Hodge/Enron@EnronXGate>, Robert C Williams <Robert C Williams/Enron@EnronXGate>, Richard Shapiro <Richard Shapiro/NA/Enron@Enron>, Linda Robertson <Linda Robertson/NA/Enron@ENRON>, Alan Comnes <Alan Comnes/Enron@EnronXGate>, Jeff Dasovich <Jeff Dasovich/NA/Enron@Enron>, Susan J Mara <Susan J Mara/NA/Enron@ENRON>, Robert Frank <Robert Frank/NA/Enron@Enron>, Ray Alvarez <Ray Alvarez/NA/Enron@ENRON>, Sarah Novosel <Sarah Novosel/Corp/Enron@ENRON>, dwatkiss <dwatkiss@bracepatt.com>
+X-bcc: 
+X-Folder: \SKEAN (Non-Privileged)\Kean, Steven J.\Sent Items
+X-Origin: Kean-S
+X-FileName: SKEAN (Non-Privileged).pst
+
+see below.
+
+Federal price limits backfire=20
+Some generators withhold power rather than abide by rate caps=20
+David Lazarus, Chronicle Staff Writer=20
+Wednesday, July 4, 2001=20
+?2001 San Francisco Chronicle =20
+URL: http://www.sfgate.com/cgi-bin/article.cgi?file=3D/chronicle/archive/20=
+01/07/04/MN186091.DTL =20
+Officials in California and Nevada, after months of lobbying for federal re=
+gulators to cap Western power prices, warned yesterday that the newly impos=
+ed limits have had the unintended consequence of increasing a threat of bla=
+ckouts in the two states.=20
+The warnings were issued as California came within minutes of rolling black=
+outs yesterday afternoon, and one day after the first-ever rolling blackout=
+s in Las Vegas forced energy-hungry casinos to shut off fountains and reduc=
+e air conditioning.=20
+The two states are asking the Federal Energy Regulatory Commission to take =
+a closer look at the so-called price mitigation plan and come up with revis=
+ions that would deter power companies from withholding electricity during s=
+hortages.=20
+"We need some clarity to this order," said Oscar Hidalgo, a spokesman for t=
+he California Department of Water Resources, which is spending billions of =
+dollars to keep the state's lights on.=20
+"Generators need to be held accountable," he said.=20
+The crux of the problem is that price limits kick in during shortages, yet =
+power companies say these caps force them to sell power at below-market rat=
+es during periods of high demand.=20
+Some companies have responded by holding back power rather than face the ex=
+pense of shipping electricity from state to state. Each mile that electrici=
+ty must be transmitted adds to the overall cost.=20
+"No one's going to pay for transmission if the cost is near the caps," said=
+ Gary Ackerman, executive director of the Western Power Trading Forum, an e=
+nergy-industry association in Menlo Park.=20
+Ackerman said several companies in his organization decided that there was =
+no economic advantage to offering power in regional markets when price cont=
+rols are in effect.=20
+"This means individual regions like California or Las Vegas could end up no=
+t having enough," Ackerman said. "It increases the threat of blackouts."=20
+BLACKOUT ALERT CANCELED
+California authorities issued a blackout alert at 1:45 p.m. yesterday when =
+power reserves dipped to dangerously low levels. They canceled the alert ab=
+out an hour later, after finding additional supplies.=20
+"Everyone in the West is fighting for megawatts," said Stephanie McCorkle, =
+a spokeswoman for the California Independent System Operator, which oversee=
+s the state's power network.=20
+The Golden State's latest brush with lights-out conditions came a day after=
+ Nevada experienced its own rolling blackouts for the first time, prompting=
+ heavy power users such as the MGM Grand and Caesars Palace to dim their li=
+ghts.=20
+Don Soderberg, chairman of the Nevada Public Utilities Commission, said tha=
+t the sudden power emergency took state authorities by surprise and that th=
+ey are investigating to see what role the federal price limits may have had=
+ in exacerbating Monday's shortage.=20
+"We're looking very closely at this," he said. "There seems to be a potenti=
+al for unintended consequences."=20
+Specifically, Soderberg said Nevada is focusing on operators of older, less=
+- efficient plants who would find profit margins shrinking, if not vanishin=
+g, under capped prices.=20
+"We're going to see how the caps might have played into this," he said.=20
+The federal ceiling in 10 Western states, excluding California, is about $9=
+2 per megawatt hour. In California, a 10 percent surcharge is added because=
+ of the state's credit risk, bringing the price to just over $101.=20
+Ackerman at the Western Power Trading Forum said regional price controls ha=
+ve extended California's power crisis to neighboring states.=20
+"California sneezed and the rest of the region caught the virus," he said.=
+=20
+'LAWYERS LOOKING FOR LOOPHOLES'=20
+California and Nevada officials, however, said that they still have faith t=
+hat price limits can stabilize Western electricity markets but that federal=
+ regulators may have to tweak the system so that power companies cannot wit=
+hhold output.=20
+"The generators have banks of lawyers looking for loopholes (in the plan),"=
+ said Hidalgo at the Department of Water Resources.=20
+Unfortunately, it may take some time for the regulators to revisit an issue=
+ that they took up only with the greatest reluctance. For months, federal r=
+egulators refused to impose price controls, preferring instead to let suppl=
+y and demand determine costs.=20
+Hidalgo said that when it appeared that power companies were throttling bac=
+k on output Monday, California officials immediately dialed the hot line nu=
+mber provided by the Federal Energy Regulatory Commission in case of emerge=
+ncies.=20
+"No one answered," he said. "They were closed."=20
+State officials tried again yesterday, and this time were told that the com=
+mission would look into the matter. They were not given a time frame for wh=
+en the commission might come up with a response.=20
+E-mail David Lazarus at dlazarus@sfchronicle.com .=20
+?2001 San Francisco Chronicle    Page A - 1=20
+
+
+
+
+
+Out-of-state generators pull plug over uncertainty on price controls
+By Dale Kasler
+Bee Staff Writer
+(Published July 3, 2001)=20
+Confused by the federal government's new controls on electricity prices, ge=
+nerators withheld so much power from California on Monday that the state wa=
+s nearly plunged into rolling blackouts, state officials said.=20
+The confusion began when the state's electric grid operators declared a Sta=
+ge 1 power alert in the early afternoon, triggering the price caps for the =
+first time since they went into effect June 21.=20
+Out-of-state generators pulled about 1,500 megawatts of electricity off the=
+ table at midafternoon, enough to power about 1.1 million homes, because of=
+ uncertainty about how much they could charge under the new Federal Energy =
+Regulatory Commission pricing system, said Oscar Hidalgo, spokesperson for =
+the state Department of Water Resources. The department buys electricity fo=
+r the state's financially distressed utilities.=20
+"They didn't understand what they were going to be paid; there was confusio=
+n over the FERC order," Hidalgo said. "We saw 1,500 megawatts disappear."=
+=20
+The problem was exacerbated by a heat wave across the West, which forced Ca=
+lifornia to compete with other states for scarce electricity, he said. Roll=
+ing blackouts hit southern Nevada.=20
+Most California officials credit the FERC system, which is based on a varia=
+ble price cap, with reining in what had been a runaway wholesale power mark=
+et. But power generators have complained that the price caps, by limiting p=
+rofits, could discourage the production of critically needed electricity. A=
+nd as Monday's episode suggested, even the uncertainty about where the cap =
+will fall could lead to unexpected shortages.=20
+"That's the risk that you run (with price controls)," said Arthur O'Donnell=
+, editor of the newsletter California Energy Markets. "People want any kind=
+ of certainty at all."=20
+Hidalgo said the state avoided blackouts only because of last-minute import=
+s from the Bonne=07ville Power Administration, the federal agency that mark=
+ets government-produced hydroelectric power in the Pacific Northwest. The s=
+tate went into a Stage 2 power alert, the next-to-last level before blackou=
+ts are ordered. The alert was canceled in late afternoon.=20
+The blackouts would have been the first in California since May 8.=20
+FERC imposed a round-the-clock ceiling on power throughout the West. The pr=
+ice fluctuates and is tied to the production costs of the least-efficient p=
+lant operating in California during a "power alert" declared by the Indepen=
+dent System Operator, which runs the state's power-transmission grid. When =
+there's no alert, prices can't exceed 85 percent of the cap that was establ=
+ished during the latest alert.=20
+Until Monday, the maximum price held steady at about $101 a megawatt-hour i=
+n California. But when the ISO declared a Stage 1 power alert in early afte=
+rnoon, signifying that reserve supplies had dwindled to less than 7 percent=
+ of demand, confusion set in, Hidalgo and others said.=20
+Because of a steep drop in the price of natural gas, which fuels many Calif=
+ornia power plants, suppliers knew the cap would fall. But no one knew by h=
+ow much until the price was posted by the ISO.=20
+The ceiling for California fell to about $77 at 3 p.m. but was back up to $=
+98 in two hours, according to the ISO. Those prices include the 10 percent =
+premium that sellers can charge California because FERC said there's a cred=
+it risk in selling to the state.=20
+O'Donnell said it's likely suppliers will pull back from the market every t=
+ime the ISO declares a power alert.=20
+In-state generators have to operate their plants if summoned by the ISO. Bu=
+t out-of-state suppliers can withhold supplies, and on Monday it was the ou=
+t-of-staters that were pulling back, Hidalgo said.=20
+
+The Bee's Dale Kasler can be reached at (916) 321-1066 or dkasler@sacbee.co=
+m .=20
+
+
+
+
+
+Power Sales Halted by New Pricing Curbs=20
+Electricity: Confused suppliers, unsure what they will be paid, refuse to s=
+ell to state, which asks FERC for a ruling but doesn't get it.=20
+
+By NANCY VOGEL, Times Staff Writer=20
+
+     SACRAMENTO--Confusion over new federal price restrictions prompted sev=
+eral electricity sellers to back away from sales to California on Monday af=
+ternoon, pushing the state closer to blackouts, energy officials said.
+     The state lost sales that would have provided enough electricity to su=
+pply more than 1 million homes, said Ray Hart, deputy director of the Calif=
+ornia Department of Water Resources, which has been buying much of the stat=
+e's electricity since January.
+     At least five companies producing or marketing power "are telling us t=
+hat since they don't know what they're going to get paid, they're not going=
+ to take the risk, and so they're not going to sell the energy," Hart said.
+     The electricity sales fell through after power consumption soared in s=
+ummer heat and grid operators were forced to declare a Stage 1 emergency, m=
+eaning reserves had dipped below 7%. It was the first such emergency since =
+May 31.
+     Under a June 19 order by the Federal Energy Regulatory Commission inte=
+nded to bring down wholesale electricity markets across the West, a power e=
+mergency in California triggers the setting of a new price limit that appli=
+es to power plant owners from Washington to Arizona.=20
+     The new price is supposed to be based upon whatever it costs to run th=
+e most inefficient, expensive power plant selling electricity to California=
+ grid operators during the first full hour of a Stage 1 emergency.
+     But much uncertainty remains about exactly how and when the new price =
+is supposed to be established under the commission's order, and that appare=
+ntly drove away sellers, Hart said.
+     Shortly after the state issued the Stage 1 alert at 1:30 p.m., putting=
+ the old price limit of $90 per megawatt-hour in question, companies that h=
+ad committed to provide the state electricity hour by hour Monday afternoon=
+ backed out, Hart said. The companies include TransAlta Energy Marketing of=
+ Oregon, Constellation Power of Baltimore and Sempra Energy Trading, a unit=
+ of the San Diego-based energy conglomerate.
+     Forced to dip even deeper into the state's power reserves and declare =
+a Stage 2 emergency, water agency officials called the federal energy commi=
+ssion's hotline for clarification about what the new price should be and wh=
+en it should take effect. They got no answer.
+     Hart said commission officials reached at home promised to try to clar=
+ify their order today. One outstanding question is what obligations power s=
+uppliers have to deliver electricity to California in an emergency.
+     Both buyers and sellers in the market agree that the new price, when i=
+t is set, will probably be lower than $90 per megawatt-hour because the pri=
+ce of natural gas, the main fuel in California power plants, has dropped la=
+tely.
+     Temperatures soared several degrees higher Monday than grid operators =
+had anticipated. But they said they expected to avoid rolling blackouts in =
+part because the Bonneville Power Administration in Portland, Ore., had agr=
+eed to provide several hundred megawatts of Pacific Northwest hydropower ea=
+ch hour in exchange for a return of electricity from California later this =
+summer.
+     "Bonneville is giving us emergency power to get us through," Hart said=
+.=20
+
+Copyright 2001 Los Angeles Times=20
+
+
+
+
+
+James D Steffes
+07/06/2001 10:04 PM
+To:=09Jeffrey T Hodge/Enron@EnronXGate, Robert C Williams/Enron@EnronXGate
+cc:=09Steven J Kean/NA/Enron@Enron, Richard Shapiro/NA/Enron@Enron, Linda R=
+obertson/NA/Enron@ENRON, Alan Comnes/Enron@EnronXGate, Jeff Dasovich/NA/Enr=
+on@Enron, Susan J Mara/NA/Enron, Robert Frank/NA/Enron@Enron, Ray Alvarez/N=
+A/Enron@ENRON, Sarah Novosel/Corp/Enron@ENRON, dwatkiss@bracepatt.com=20
+
+Subject:=09ATTORNEY CLIENT PRIVILEGDE - Draft FERC Brief on Settlement Proc=
+ess
+
+The attached is a rough draft of a potential filing Enron would make in to =
+Judge Wagner in the Settlement process (it is unclear if this would remain =
+confidential per the gag order).
+
+Please provide Ray Alvarez your comments.  This would be filed as early as =
+Monday am.
+
+Jim
+
+=20
+

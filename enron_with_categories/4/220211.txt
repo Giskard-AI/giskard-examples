@@ -1,0 +1,120 @@
+Message-ID: <9002886.1075852513161.JavaMail.evans@thyme>
+Date: Thu, 9 Aug 2001 06:18:27 -0700 (PDT)
+From: d..steffes@enron.com
+To: c..williams@enron.com, susan.mara@enron.com, jeff.dasovich@enron.com
+Subject: PRIVILEGED AND CONFIDENTIAL ATTORNEY CLIENT COMMUNICATION
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+X-From: Steffes, James D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JSTEFFE>
+X-To: Williams, Robert C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rwillia2>, Mara, Susan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Smara>, Dasovich, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jdasovic>
+X-cc: 
+X-bcc: 
+X-Folder: \JSTEFFE (Non-Privileged)\Steffes, James D.\Sent Items
+X-Origin: Steffes-J
+X-FileName: JSTEFFE (Non-Privileged).pst
+
+Jeff & Sue --
+
+We need to discuss at 9am your time (as well as other things).
+
+Jim
+
+ -----Original Message-----
+From: =09Williams, Robert C. =20
+Sent:=09Wednesday, August 08, 2001 7:11 PM
+To:=09Dietrich, Janet; Frazier, Lamar; Wu, Andrew; Steffes, James D.; Keene=
+y, Kevin; Adzgery, Ronald
+Cc:=09Sharp, Vicki; Sanders, Richard B.; Haedicke, Mark E.; Mellencamp, Lis=
+a; Tribolet, Michael; Curry, Wanda; Huddleson, Diann
+Subject:=09EES Billing Issues
+
+Privileged and Confidential Attorney-Client Communication
+
+This is to recap our discussion today about two billing issues--recoupment =
+of the PX Credit and the $10 surcharge.  I would appreciate it if those of =
+you with more first-hand information, particularly Wanda and Diann, correct=
+ or clarify anything I've misstated.  Also, please forward this to anyone e=
+lse with an interest in this matter.
+
+A.  Recoupment of the PX Credit (also known as the "Negative CTC")
+
+     1.  Background:  The issue here relates to the fact that PG&E and SCE =
+are no longer reflecting credit balances on the bills for our customers.  P=
+rior to our returning the customers to bundled service in March, the bills =
+would reflect the PX Credit as an offset to T&D charges.  SCE and PG&E have=
+ now removed the PX Credit from the bill and are attempting to charge us fo=
+r T&D, despite the fact that they owe us hundreds of millions of dollars in=
+ PX Credits.  This is potentially harmful particularly in view of the opini=
+on of perhaps three of the Commissioners that the PX Credit can only be col=
+lected as a bill credit, and not in cash.  Mike Day, our regulatory lawyer,=
+ expressed his strong opinion that removing the Credit from the bills was i=
+mproper, and that we should challenge the action by making a filing with th=
+e CPUC.  Note:  the PX Credit to which I am referring here is that which ac=
+crued to prior to December 31, 2000; the utilities do not dispute that a PX=
+ Credit accrued during that time frame, and there is no dispute as to the p=
+roper methodology for computing the PX Credit for that time frame.  Further=
+more, PG&E and SCE are in virtual agreement with us as to the amount of the=
+ Credit that had accrued as of December 31, 2000.
+
+    2.   Action Items/Issues:  (a)  With respect to SCE, Legal is evaluatin=
+g filing a suit in federal court versus filing at the CPUC.  The CPUC has a=
+ process whereby we could prevent the utilities from disconnecting our cust=
+omers while the issue is being determined (by depositing the payments in an=
+ interest-bearing account controlled by the CPUC); while there is no equiva=
+lent procedure in federal court, one can request that the court enter an in=
+junction against the utilities disconnecting customers.   While the analysi=
+s is worth doing, I suspect that we will conclude that we have to go to the=
+ CPUC for relief.  (b)  With respect to PG&E, the banruptcy team is evaluat=
+ing whether to file at the CPUC or in bankruptcy court.
+
+    3.  Timing:  Late fees will begin accruing August 20.  The first discon=
+nect notices would not be received until September 19.
+
+    4.  Effect on other CTC issues:  Pursuing action at the CPUC or in cour=
+t to force the utilities to restore the PX Credit to our bills has no effec=
+t on the issues of how the CTC should be calculated post-January 17, and pr=
+ospectively.
+
+B.  $10 Surcharge
+
+     1.  Backgound:  Although when provisionally imposed in January the $10=
+ surcharge went to the utilities to keep them financially solvent,  when ma=
+de permanent in March it became dedicated to defray the DWR's purchases of =
+power on behalf of the utilities.  This evolution gives rise to two bases f=
+or EES to argue that it should not bear the financial burden of the $10 sur=
+charge.  First, since the $10 surcharge is now dedicated to purchasing gene=
+ration for bundled customers only, and not direct access customers, direct =
+access should not have to pay it.  This is the same logic that caused the C=
+PUC to exempt direct access customers from the $30 surcharge.
+Secondly, if legitimately applied to direct access, because it is of no dir=
+ect benefit to direct access customers it (arguably) can only be viewed as =
+a tax.  Under EES's contracts with its customers, taxes assessed at the del=
+ivery point are borne by the customer.  Note:  SCE, unlike PG&E, may not im=
+pose the $10 surcharge on direct access customers, according to a filing ma=
+de at the staff level at the CPUC, so this action may relate to PG&E only.
+
+     2.  Action Items/Issues:  (a)  Regulatory (Jim Steffes) has the lead i=
+n advising us about a challenge to the application of the $10 surcharge to =
+direct access customers at the CPUC.  It may be advisable for an industry g=
+roup rather than Enron to make the filing.  (b)  I would expect that we wou=
+ld follow the same procedure outlined above--depositing the payment with th=
+e CPUC--to prevent any customer from being disconnected.  In the interim we=
+ would likely bill the customer for the surcharge and promise a credit if o=
+ur challenge to the application of the surcharge to DA customers is success=
+ful. (c) A decision will need to be made on how far we go back--to July 1 w=
+hen the customers became DA again or to January 4 when the surcharge was fi=
+rst imposed.
+
+     3.  Timing.  Same timeframe as with the Recoupment issue since we will=
+ need to have CPUC challenge on file to prevent late fees and disconnect no=
+tices.
+
+     4.  Effect on other CTC issues:  Regulatory (Jim Steffes) will analyze=
+ with the appropriate people the effect, if any, of taking this position on=
+ other CTC issues (principally how CTC should be calculated post-January 17=
+, and prospectively).=20
+
+End.    =20
+
+ 

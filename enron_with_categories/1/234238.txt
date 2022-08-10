@@ -1,0 +1,486 @@
+Message-ID: <22064966.1075860515772.JavaMail.evans@thyme>
+Date: Wed, 26 Jan 2000 11:22:00 -0800 (PST)
+From: mark.elliott@enron.com
+To: richard.sanders@enron.com
+Subject: The Dutch power market situation: STRICTLY PRIVATE & CONFIDENTIAL -
+ ATTORNEY - CLIENT PRIVILEDGE
+Cc: michael.brown@enron.com, jeffrey.hodge@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.brown@enron.com, jeffrey.hodge@enron.com
+X-From: Mark Elliott
+X-To: Richard B Sanders
+X-cc: Michael R Brown, Jeffrey T Hodge
+X-bcc: 
+X-Folder: \Richard_Sanders_Dec2000\Notes Folders\All documents
+X-Origin: Sanders-R
+X-FileName: rsander.nsf
+
+Richard,
+
+Following our coversation of yesterday, I set out for you below the following:
+
+1.  An explanation (in draft) of the Dutch power market and the events 
+leading up to the current market "squeeze" by certain players, which we have 
+produced and discussed for our external lawyers.
+
+2.  A schematic of arguments which we produced for external lawyers before 
+Christmas just relating to the mis-application of capacity by TenneT.
+
+3.  A copy of our e-mail to Clifford Chance of last Wednesday summarising the 
+issues in order of priority for their advice.
+
+Please note that, purely on the swap element of this jigsaw, we are 
+attempting to arrange a conference with a Queen's Counsel for next Monday 
+afternoon.  Hence, it may be better for our meeting (with Jeff patched-in) to 
+take place next Tuesday - clearly the advice on all the elements involved (as 
+set out in 3) in toto will not be complete until we have had the conference 
+with the QC.
+
+I am due to receive tomorrow, however, from Clifford Chance their legal 
+strategy report on all the other issues raised in my e-mail (item 3) and 
+shall forward you a copy on receipt.   
+
+Kind regards 
+
+Mark         
+
+
+
+
+
+
+
+
+
+
+---------------------- Forwarded by Mark Elliott/LON/ECT on 26/01/2000 19:01 
+---------------------------
+
+
+Mark Elliott
+19/01/2000 15:11
+To: Tjepco.vanVoorstVader@cliffordchance.com
+cc: ed.patton@cliffordchance.com, Joe Gold/LON/ECT@ECT, Roy 
+Poyntz/LON/ECT@ECT, Ross Sankey/LON/ECT@ECT, Teun Van Biert/LON/ECT@ECT, Dirk 
+Van Vuuren/LON/ECT@ECT, Stephen Asplin/LON/ECT@ECT, Andreas 
+Lorenz/LON/ECT@ECT, Reuben Maltby/LON/ECT@ECT, Michael R Brown/LON/ECT@ECT, 
+Jeffrey T Hodge/HOU/ECT@ECT, Mark Schroeder/LON/ECT@ECT 
+
+Subject: URGENT: SECOND E-MAIL FOLLOWING CLIFFORD CHANCE MEETING IN AMSTERDAM 
+- Dutch txn - Year 2000 - Issues to work up into a legal strategy: STRICTLY 
+PRIVATE & CONFIDENTIAL - ATTORNEY - CLIENT PRIVILEDGE
+
+Tjepco,
+
+Following our useful meeting with yourself and your colleagues yesterday in 
+Amsterdam, I now set out below the various issues, in what we consider to be 
+the order of priority, relating to Dutch transmission for the Year 2000 upon 
+which we need your, and your colleagues', advice with respect to framing an 
+entire coordinated legal strategy (e.g., time-lines / scales, coordination 
+between actions, ?Nma v Courts or both, costs liabilities of Enron to 
+defendants if we lose) for Enron so as to apply the maximum, effective, legal 
+pressure on the various parties and to effect a resolution to such issues as 
+quickly as possible - the longer the current situation persists the more 
+money Enron will lose - whilst at the same time allowing us to weigh up the 
+"cost - benefit" analysis of all the various scenarios. 
+
+Please note the following when planning our legal strategy:
+
+- Enron Capital & Trade Resources Limited ("ECTRL") (an English incorporated 
+company) is our company which has entered into physical electricty sales 
+contracts to supply certain Dutch Distribution Companies. The physical supply 
+contracts are governed by Dutch law and are subject either to ICC arbitration 
+in either Paris, Rotterdam or the Hague or the NAI in Rotterdam or the Hague 
+(dependant upon the counterparty). 
+
+- ECTRL is also a Participant on the APX.
+
+- Enron Capital & Trade Resources International Corp. ("ECTRIC") (a company 
+incorporated  in Delaware, U.S.) is the Enron entity which, as principal, 
+enters into financial swaps, arranged through Enron Europe Finance & Trading 
+Limted ("EEFT") (an English incorporated company which is regulated by the 
+SFA),  with, among others,  Dutch Distribution companies.   The swap 
+contracts have all been documented on a "Deemed" ISDA basis (representative 
+confirms have already been sent to you on this aspect).
+
+Clearly although the first three issues are "TOP PRIORITY", the Secondary 
+Priority Issues are not far behind them and so we should be obliged to 
+receive your consolidated written report on all the issues on or before 
+Wednesday, 26th January, as we discussed yesterday.  When providing that 
+report, please also let us have at the same time estimates of your fees for 
+the whole of your team (incl. London and the US) ("ball-parks" are fine at 
+present) broken down into:
+
+- fees for Clifford Chance's preliminary advice, including the written 
+strategy report;
+
+- fees for Clifford Chance prosecuting the Sep take-or-pay issues;
+
+- fees for Clifford Chance prosecuting the APX issues;
+
+- fees for Clifford Chance prosecuting any actions / defences / counterclaims 
+on the swaps and / or physical contracts.
+
+Fee estimates for Clifford Chance prosecuting any of the Secondary Priority 
+issues can come later.
+          
+Please also pay particular attention to how we might obtain evidence to the 
+appropriate standard of market rigging on the APX etc., conspiracy, etc, re 
+defence / counterclaim to any non-payment by Enron on the Swaps (see Points 2 
++ 3 below).   
+
+1. IMMEDIATE PRIORITY - Query: What  Court actions do we have against TenneT 
+and / or SEP re allocation of capacity by TenneT   to SEP for Yr 2000 in 
+November 1999?
+
+ Issue 1 - Miss-allocation by TenneT of 1500 MW of cross-border capacity by 
+TenneT to SEP (first step in allocation which defined quota of balance of  
+cross-border capacity available to the market)
+
+ Issue 2 - Unlawful speculative reservation or other unlawful reservation of 
+capacity by SEP (e.g. re non take-or-pay elements).    
+
+ Issue 3 - Unlawful retention and / or unlawful application of capacity by 
+SEP once granted capacity by TenneT (blocking of essential facilities, 
+i.e.,   generation, to other parties)
+
+Resolution required: 
+The quickest way possible to deny Sep right to use TenneT capacity for 
+non-take or pay elements (nb relevant take or pay is energy component ie 
+obligation to import at border cf take or pay on "virtual" capacity) as soon 
+as possible
+The quickest way possible to have that capacity released to the APX in 
+accordance with existing "use it or lose it" principle or TenneT to allocate 
+to term market under "weekly" contract category established by DTE as soon as 
+possible.
+ 
+Evidence:  Herkstroter report (implied), 1999 despatch regime (implied), 
+general market "consensus", electricity plans?, DTE consultation paper on 
+transmission (reference to virtual power plants), EZ/DTE advice which limited 
+reservation to take or pay (hence only needed if some parts were non take or 
+pay).  Current despatch levels on term deals (imply Sep taking 1500 MW).  
+Query method of putting all of this in evidence, "discovery" etc. 
+   
+(PLEASE NOTE THAT THIS IS ALREADY INCLUDED AS AN ISSUE IN THE EXISTING NMA 
+COMPLAINT AGAINST TENNET (NOT SEP AT PRESENT) IN RESPECT OF ITS ALLOCATION 
+PROCESS ON COMPETITION GROUNDS COMMENCED THROUGH LOEFF CLAEYS IN DEC 1999).
+
+Points to note :  (1) Initial Clifford Chance view - Summary proceedings 
+against TenneT & Sep.  Time-line needed of when to commence,      length of 
+time to get to Court, ? best methodology of getting Sep contracts before the 
+Court, etc 
+
+     (2) Query value of Clifford Chance initial letter to TenneT and / or Sep 
+requesting confirmation that all Sep contracts are full      take-or-pay.
+
+
+2. IMMEDIATE PRIORITY - Query: Preparation of  Draft proceedings against the 
+APX
+
+ Issue 1 - Drafting of summary proceedings by ECTRL as a Participant against 
+APX for failing to enforce & to compel them to enforce the APX Rules on   
+ensuring firm cross-border capacity pre-bid & to prevent market manipulation.
+  
+  Note failure of APX to enforce its Rules causes losses both to:
+
+  (a) ECTRL on its physical sales onto APX from Germany (and Belgium) by 
+virtue of other parties preventing legitimate level of sales by    ECTRL by 
+breaching APX rules Art 12.1 etc.
+   
+  (b) ECTRL on its physical supply contracts (as prices on the APX are 
+artificially higher than contracted supply price);
+   plus
+
+  (c) ECTRIC on swaps - ECTRIC shorted APX floating price to certain APX 
+Participants whom we believe are now manipulating the APX,    causing 
+artificially high prices, hence securing more profit out of the swaps.  
+
+ Issue 2 - Query availability of shareholder (10%) action by ECTRL (in 
+concert with others) as shareholders of the Exchange against APX for     
+mis-management in failing to enforce APX Rules leading to (a) damage to 
+certain  Participants and / or (b) damage to APX's prospects as a main   
+European power exchange.   
+
+Resolution required / Tactics: (1) APX has published certain cross-border 
+transmission contract "audit" requirements which are to come into 
+effect       on 20.1.2000 (copy will faxed shortly) - we query effectiveness 
+of this "compromise" approach plus there isnothing       specific mentioned 
+re other manipulative conduct (e.g., "crossing").  Hence, Issue 1 above 
+required to be done       as, if APX measures fail, then we may need to file 
+suit quickly to bring matters to a head.       
+
+     (2) IMPORTANT - Irrespective of whether or not APX audit prevents 
+manipulation etc., need to consider taking       appropriate actions 
+againstAPX  or others in any event asap in order to flush out evidence re 
+manipulation /       conspiracy among certain Participants re any defence / 
+counterclaims to any non-payment on swaps etc - see        3 below.
+     
+     (3) Query benefit at this stage of shareholder letter to APX "setting 
+scene" for mis-management corporate action     
+
+Points to note: Time-line needed of when to commence, length of time to get 
+to Court., etc, plus, re (2) above, ? best methodology of gathering 
+sufficient    evidence in due time for defence / counterclaims on swap issues 
+- see 3 below.  
+ 
+3. IMMEDIATE PRIORITY - Query:  Do we have any legitimate grounds for 
+non-performing on our swap contracts / physical contracts,  and  what should 
+be our strategy re this (e.g., pre-emptive actions or defensive actions / 
+counterclaims)?  
+
+ Note: certain counterparties to contracts with Enron are causing loss to 
+Enron by, what we believe, is market manipulation of APX, collusion to 
+lock-up  market etc.  Certain other parties to such contracts with Enron we 
+do not believe are party to such conduct.  Losses to Enron are however 
+occurring as  follows:        
+  (a) to ECTRL on its physical sales onto APX from Germany (and Belgium) by 
+virtue of other parties preventing legitimate level of sales by    ECTRL by 
+breaching APX rules Art 12.1 etc.
+   
+  (b) to ECTRL on its physical supply contracts (as prices on the APX are 
+artificially higher than contracted supply price);
+   plus
+
+  (c) ECTRIC on swaps - ECTRIC shorted APX floating price to certain APX 
+Participants whom we believe are now manipulating the APX,    causing 
+artificially high prices, hence securing more profit out of the swaps. 
+
+ Issue 1 - Can ECTRIC legitimately withhold payments on the swaps?
+
+   - Query:  availability of pre-emptive damages or other forms of action(s) 
+against swap counterparties
+ 
+  -  Query: best jurisdiction (esp. re swaps - English, Dutch US)?
+
+Resolution needed:  need to obtain from a strategic perspective best 
+jurisdiction(s) and best course and causes of action on a pre-emptivebasis as 
+far as    possible - to avoid claims of forum shopping and bring maximum 
+pressure; plus advice needed on whether we should take pre-emptive    action 
+or to defend and / or counterclaim if we get sued if we do not perform on 
+swaps or physical contracts.
+ 
+Initial Clifford Chance view:  None / no suitable  pre-emptive action 
+available to Enron - defences / counterclaims only.  All proceedings likely 
+to be in England and subject to contracts' governing law (English) (under Art 
+17 Brussels' convention + Dutch conflict of laws principles).  Highly 
+unlikley that any U.S. action by Enron practically possible - U.S. courts 
+will consider forum shopping (unless can show that Dutch counterparty has 
+"minimum contacts in the US" (?means in detail?) - even then, U.S. courts 
+unlikely to give any appropriate relief - query enforcement problems in any 
+event.   Clifford Chance's initial "gut reaction" is to withhold payment - 
+wait for counterparty to sue which would probably be by way of summary 
+judgement (approx 2 - 3 months to get court in England).  If so, to defeat 
+summary proceedings thus delaying matters to full trial, ECTRIC would then 
+need to establish prima facie case for either defence on breach of  implied 
+term (v. difficult indeed but "gut reaction" is that London Commercial Court 
+could be swayed by an argument that actual counterparty has acted in bad 
+faith, e.g., manipulated mkt - fairly untested area) and / or counterclaim 
+for conspiracy to defraud (for which need to establish prima facie case of 
+conspiracy between counterparty and others to rig the mkt, etc).
+
+Notes: (1) Need to thoroughly investigate all options here (approx 70 % of 
+losses could be on the swaps)
+
+ (2) Need to consider evidence re mkt rigging / conspiracy to defraud, 
+practically whether this could effectively be brough to light by any 
+actions   against APX - see Issue (2)  of Point 2 APX above -  the "race" 
+between timescales of summary judgment in England versus any actions 
+against   APX under Dutch law to flush out evidence .  Any additional ways of 
+securing appropriate evidence to the relevant standard of proof (whether   
+through crt actions or otherwise) - whether in the UK, US or in the 
+Netherlands - and timescales?  E.g., availability of putting people on the 
+"Witness   Stand" in the Netherlands  
+ 
+ (3)  Queries re Clifford Chance initial view:
+
+  (a) Repercussions - action by counterparty not by way of summary judgment 
+but by way of filing insolvency petition under Section 123  IA    1986
+
+  (b) Any views altered re amenability of commercial crt if (i) Enron knew 
+last year that APX could be manipulated + if Enron itself had enterd into    
+similar, but smaller-scale, manipulation for short period last year?  
+
+ (4) Check: Ability of Dutch counterparties to swaps to speculate rather than 
+hedge by way of OTC Derivatives and any good faith/integrity issues re'   
+parties use of speculative cf hedging swaps combined with deliberate and 
+systematic market manipulation by swap counterparts.
+
+ (5) Query:  Any SFA repercussions for EEFT? 
+
+ Issue 2 - Liability of ECTRL under physical supply contracts.
+
+  - Does 20% liability cap on physical contracts work if ECTRL fails 
+intentionally to deliver?
+
+  - Does consequential losses exclusion on phyiscal contracts work if ECTRL 
+fails to deliver?          
+  
+  - Strategy (i.e., should we fail to deliver, pay undisputed amount of bill 
+and dispute rest of bill and let counterparty take us to arbitration?  OR, 
+can    this have any adverse repercussions re any other opart of our legal 
+strategy?)     
+
+
+4. SECONDARY PRIORITY - Query: What actions do we have against TenneT to 
+recoup our losses re allocation of capacity by   TenneT for Yr 2000 in 
+November 1999?
+
+Issue 1 - Misapplication in law of capacity (i.e. 800 MW) by TenneT to Market 
+parties (e.g., Enron) after Sep allocation : allocation favoured incumbents 
+based on market share - this caused a new entrant such as Enron loss.
+
+Issue 2 - General unreasonable behaviour / lack of good faith of TenneT
+Misleading market with early rules; addition of extra unfounded rules post 19 
+Nov (in reasonable knowledge that market parties had already acted on earlier 
+information from TenneT).
+1,2 Jan 2000 : closing Dutch market to imports (query whether this was also 
+for the UCTE system support activities; suspect not) in an unreasonable 
+fashion ie changed procedures when it had no need so to do.  The normal 
+procedures whereby TenneT curtailed in the event of a problem on the day 
+would have been sufficient to maintain system stability.
+Disingenous allocation of 2300 MW in off-peak capacity (night) at the same 
+time as indicating to the market that no more than 1000 or 1200 MW was 
+expected by TenneT to be available for use due to Sep's plant despatch 
+regime.  Reasonable action would have been to allocate no more than the 1000 
+MW to Sep and the market on a term basis with any additional capacity 
+available on a given day treated as (uncertain) spot capacity and allocated 
+to the APX.
+Lack of checking and/or other disingenuity re' failure properly to check Sep 
+take or pay obligations.
+Lack of transparency of information eg French grid problems result in cut of 
+300 MW available to APX.  No assistance from TenneT either to provide 
+guidance as to the real extent or duration of the problem or to take 
+reasonable steps to mitigate the problem by eg co-operating with market 
+parties aiming to put in place offsetting transit arrangements to alleviate 
+the congestion.
+
+PLEASE NOTE THAT THIS IS ALREADY SUBJECT TO THE SAME EXISTING NMA COMPLAINT 
+ON COMPETION GROUNDS REFERRED TO IN 1. ABOVE COMMENCED THROUGH LOEFF CLAEYS 
+IN DEC 1999.
+
+Resolution required:  Damages against TenneT
+
+Evidence:  Herkstroter report (implied), 1999 despatch regime (implied), 
+general market "consensus", electricity plans?, DTE consultation paper on 
+transmission (reference to virtual power plants), EZ/DTE advice which limited 
+reservation to take or pay (hence only needed if some parts were non take or 
+pay).  Current despatch levels on term deals (imply Sep taking 1500 MW).  Sep 
+newspaper quotes (intent to use 1500 MW day and night) - intended block on 
+capacity and refusal to contemplate change to superpeak pricing.  Query 
+method of putting all of this in evidence, discovery etc. 
+
+
+5. SECONDARY PRIORITY -  Query:  ability of Enron to claim damages against 
+APX for losses suffered owing to failure of APX to enforce its Rules and to 
+allow gaming, etc.
+
+Note failure of APX to enforce / have enforced its Rules causes losses both 
+to:
+
+(a) ECTRL on its physical sales onto APX from Germany (and Belgium) by virtue 
+of other parties preventing legitimate level of sales by ECTRL by breaching 
+APX rules Art 12.1 etc.
+   
+(b)  ECTRL on its physical supply contracts (as prices on the APX are 
+artificially higher than contracted supply price);
+plus
+
+(c)  ECTRIC on swaps - ECTRIC shorted APX floating price to certain APX 
+Participants whom we believe are now manipulating the APX, causing 
+artificially high prices, hence securing more profit out of the swaps.]
+      
+Resolution required:  Damages against the APX
+
+
+6. SECONDARY PRIORITY - Query: Actions against APX Participants for 
+manipulating the APX DAM causing losses to Enron
+
+Note manipulation of APX DAM by certain Participants causes losses both to:
+
+(a) ECTRL on its physical sales onto APX from Germany (and Belgium) by virtue 
+of others parties preventing legitimate level of sales by ECTRL by breaching 
+APX rules Art 12.1 etc. 
+
+(b) ECTRL on its physical supply contracts (as prices on the APX are 
+artificially higher than contracted supply price); plus
+
+(c) ECTRIC on swaps - ECTRIC shorted APX floating price to certain APX 
+Participants whom we believe are now manipulating the APX, causing 
+artificially high prices, hence securing more profit out of the swaps.
+
+
+Resolution required:  What action can we take against APX Participants (i) to 
+prevent them further manipulating APX and (ii) claiming our losses against 
+them on both ECTRL's physical supply contracts and ECTRIC's swaps?       
+
+In particular:   Query:  availability of injunction / summary proceedings 
+against APX Participants to prevent them from manipulating APX DAM
+
+
+7.  SECONDARY PRIORITY -  Query : Actions against SEP
+
+(a) Plant despatch : see below re' collusive behaviour.
+
+(b) Protocol : Sep refusing to contemplate changes to superpeak charges 
+(which in no way bear reasonable relation to supply/demand or electricity   
+production costs).
+
+Query : availability to Enron of injunctive and/or other relief against Sep 
+for (a) unlawful application and retention (eg query damages action against 
+Sep) and /or (b) nature plant despatch and / or (c) conduct re Protocol. 
+
+Evidence : Herkstroter report (implied), 1999 despatch regime (implied), 
+general market "consensus", electricity plans?, DTE consultation paper on 
+transmission (reference to virtual power plants), EZ/DTE advice which limited 
+reservation to take or pay (hence only needed if some parts were non take or 
+pay).  Current despatch levels on term deals (imply Sep taking 1500 MW).  Sep 
+newspaper quotes (intent to use 1500 MW day and night) - intended block on 
+capacity and refusal to contemplate change to superpeak pricing.  Query 
+method of putting all of this in evidence, discovery etc. 
+ 
+
+5. Query:  Actions available to Enron against Parties for collusive behaviour
+
+Supply market actions
+
+Deliberate and systematic attempts by certain parties (predominantly large 
+Dutch distcos) to deny new entrants ability to access capacity/energy at 
+reaonable prices by virtue of a) withholding capacity within NL ie Protocol 
+and b) breaching APX rules (gaming) in such a fashion as to block legitimate 
+access for those parties with foreign txn to sell legitimate volumes on APX 
+consistent with APX rules.   Effect of withholding capacity from market 
+compounded by (collusive) actions to manipulate APX prices by strategic 
+bidding.
+
+ - Protocol: Collusive behaviour suspected by Dutch Distcos re locking 
+parties out of re-contracting and use of Protocol to disadvantage of new  
+market entrants (e.g., see EnergieNed letter: ?? now in public domain + note 
+transcript of Wed 12.1.00 Arnhem Court case on Protocol re intent of parties 
+to  keep market short) 
+
+ - APX
+  - Art 25.3 APX DAM Regs - collusion by certain APX Participants suspected 
+re rigging APX prices
+
+  - Art 12.1 APX DAM Regs - collusion suspected by certain APX Participants 
+re failing to ensure that parties have firm cross-border capacity prior to   
+making bids on to APX   
+
+Sep/TenneT
+
+- Import allocation : collusion to fudge take or pay issue?
+- Plant despatch by Sep : collusion to ensure that Sep can despatch plants in 
+such a fashion as to minimise possible imports?
+
+Note : burden and standard of proof of collusive behaviour and ability and 
+means to obtain discovery of such behaviour.  Some evidence exists from ENECO 
+court case (transcript of Arnhem case public?) plus EnergieNed letter pls 
+taped APX participants meeting of 10 Jan 2000 (public or accessible to Enron 
+as participant?).
+
+
+Kind regards
+
+Mark

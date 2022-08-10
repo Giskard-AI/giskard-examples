@@ -1,0 +1,42 @@
+Message-ID: <7909324.1075852472810.JavaMail.evans@thyme>
+Date: Thu, 2 Aug 2001 14:16:15 -0700 (PDT)
+From: ray.alvarez@enron.com
+To: dwatkiss@bracepatt.com
+Subject: California Refund Proceeding Privileged and Confidential Attorney
+ Work Product Attorney-Client Communication
+Cc: d..steffes@enron.com, robert.frank@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: d..steffes@enron.com, robert.frank@enron.com
+X-From: Alvarez, Ray </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=EBE4476B-2D94882A-86256A14-75FF3B>
+X-To: dwatkiss@bracepatt.com
+X-cc: Steffes, James D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JSTEFFE>, Frank, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RFRANK>
+X-bcc: 
+X-Folder: \JSTEFFE (Non-Privileged)\Steffes, James D.\California Issues
+X-Origin: Steffes-J
+X-FileName: JSTEFFE (Non-Privileged).pst
+
+Dan,  I need your help to make sure we get the appropriate evidence of these receivables into the record, so as to offset refunds deemed to be due (if any, after netting purchases and sales).  As you will recall, we submitted some documentation of the $40MM receivable to Judge Wagner.  I expect that we will have to provide quite a bit (more) detail regarding this and the other receivables.  Also, who do you suggest for a witness on this, or will affidavits be sufficient?  Need your input on this, since we may have to do additional research and now is the time to do it before the August 13 prehearing conference.  Thanks!  Ray  
+---------------------- Forwarded by Ray Alvarez/NA/Enron on 08/02/2001 05:00 PM ---------------------------
+
+
+Ray Alvarez
+08/02/2001 04:31 PM
+To:	Richard B Sanders/Enron@EnronXGate, Robert C Williams/Enron@EnronXGate, gfergus@brobeck.com
+cc:	James D Steffes/Enron@EnronXGate, Alan Comnes/Enron@EnronXGate, Linda Robertson/NA/Enron@ENRON, Richard Shapiro/Enron@EnronXGate, dwatkiss@bracepatt.com 
+
+Subject:	California Refund Proceeding
+Privileged and Confidential
+Attorney Work Product
+Attorney-Client Communication
+
+In our litigation meeting last Tuesday, we learned that netting of spot purchases and sales is of paramount importance in limiting our exposure to refunds, under the FERC's July 26 Order, in both the California and Pacific Northwest proceedings.  However, in the California proceeding we are also afforded the opportunity in the Order to offset our receivables against any refund that would otherwise have to be paid by us.  Also, to the extent that our receivables exceed the refund amount, the Order provides for payment of interest to us in accordance with CFR Section 35.19a.  
+
+At present, I am aware of the existence of three receivables.  As you will recall, I mentioned at Tuesday's meeting that we should be able to treat as a receivable for purposes of offset, the revenues due us from the application of the CAISO underscheduling penalty.  I communicated the possibility of offsetting this receivable against any potential refund at this mornings Western Wholesale conference call, and subsequent research conducted by Alan Comnes indicates that the CAISO owes us $30MM, as per the CAISO's own numbers.
+
+The CAISO also owes us approximately $40MM due to nonpayment for one to two months of business.  These two figures alone, totalling approximately $70MM, exceed the estimate of our potential exposure in the California proceeding.
+
+Finally, the negative CTC issue is another receivable due us by IOU's that, under the plain language of the Order, could potentially be used to offset any refund amount.  I am not aware of the magnitude of this receivable but do understand that there are some sensitivities regarding this issue, including concerns about revealing the amount of the credit due us.  It is likely that the amount would become public if it is presented in the California proceeding.
+
+Please give us your thoughts as to the use of the CTC receivable to offset potential refunds in the California proceeding.

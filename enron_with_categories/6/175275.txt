@@ -1,0 +1,25 @@
+Message-ID: <19316738.1075847585161.JavaMail.evans@thyme>
+Date: Thu, 10 May 2001 02:41:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: nicholas.o'day@enron.com
+Subject: Re: Tokyo Presentation 15 May
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Nicholas O'Day
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+The presentation looks fine but consider adding this idea in a few slides:  
+the continuation of a regulated structure poses considerable risk for 
+utilities.  California's utilities were pushed to the brink of, or into, 
+bankruptcy because of a regualtory regime which allocated price risk to 
+them.  All parties are better off in a system where the regulated enterprise 
+is limited to natural monopoly functions and all other acitivities are 
+conducted in a marketplace.
+
+Also, did we cover the shortcomings of the Japanese market sufficiently?

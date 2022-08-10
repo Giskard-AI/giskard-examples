@@ -1,0 +1,36 @@
+Message-ID: <16848822.1075853125247.JavaMail.evans@thyme>
+Date: Tue, 23 Oct 2001 15:09:05 -0700 (PDT)
+From: michelle.cash@enron.com
+To: david.oxley@enron.com
+Subject: Privileged and Confidential -- Performance Bonus Language
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Cash, Michelle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MCASH>
+X-To: Oxley, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Doxley>
+X-cc: 
+X-bcc: 
+X-Folder: \MCASH (Non-Privileged)\Cash, Michelle\Sent Items
+X-Origin: Cash-M
+X-FileName: MCASH (Non-Privileged).pst
+
+David,
+
+You asked me to provide my opinion about the employment agreement provisions relating to target bonus amounts that are based on performance.  
+
+The bonus language contained in the majority of the agreements with a target bonus is as follows:
+
+	"Provided that Enron meets its earnings targets and provided that Employee is rated within the top 25% of the performance criteria under Enron's annual performance rating system or its equivalent for the calendar year in question, Employee's annual bonus amounts under the Plan for calendar years 2001, 2002, and 2003 (payable in 2002, 2003, and 2004, respectively), shall be based on an annual bonus target of $_____________."
+
+This language does not address a person's performance as compared to one's peers, but instead looks at the number of performance criteria and requires that a person be in the top 25% of those criteria.  Thus, if there are only 3 rating categories (i.e., 1, 2, 3, distributed as 10-80-10), then only the people in the top category would be within the top 25/33% of the rating criteria.  
+
+Given the huge change in our process, however, there is an argument that the above language cannot be applied to the current scheme and that instead, we should look at the top 25% of the peer group, instead of performance criteria, even though that was not the intent of the provision when it was drafted.
+
+As a result, I would suggest that the middle category be divided further into either 2 or 3 subcategories (i.e., 2A, 2B, or 2C).  That way, persons who fall out in categories 1 or 2A would be eligible for the target bonus.  If there is a decision not to break  down the middle 80 further, then it would be useful to look at those employees with a bonus target that we think is too high. For those employees, a more conservative approach may be to evaluate them on a scale that is more subdivided than the 10-80-10 breakdown and to document that they fell out in the bottom 75% of the categories under that process.  
+
+Of course, it goes without saying that we should ensure consistent treatment based on race, sex, national origin, age, etc. in this process.
+
+Please let me know if you have any questions.
+
+
+

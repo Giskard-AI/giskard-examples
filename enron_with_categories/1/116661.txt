@@ -1,0 +1,174 @@
+Message-ID: <25089651.1075843013297.JavaMail.evans@thyme>
+Date: Tue, 31 Oct 2000 01:40:00 -0800 (PST)
+From: rcarroll@bracepatt.com
+To: jdasovic@enron.com, jsteffe@enron.com, mary.hain@enron.com, smara@enron.com, 
+	seabron.adamson@frontier-economics.com, cfi1@tca-us.com, 
+	ellen@tca-us.com
+Subject: San Jose Mercury News - California Officials Investigate Electric
+ 'Megawatt Laundering'
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Ronald Carroll" <rcarroll@bracepatt.com>
+X-To: <jdasovic@enron.com>, <jsteffe@enron.com>, <mary.hain@enron.com>, <smara@enron.com>, <seabron.adamson@frontier-economics.com>, <cfi1@tca-us.com>, <ellen@tca-us.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Jeff_Dasovich_Dec2000\Notes Folders\All documents
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+California Officials Investigate Electric 'Megawatt Laundering'
+Steve Johnson , San Jose Mercury News, Calif.
+
+( October 31, 2000 )
+
+
+
+Oct. 30--While investigating this summer's stunning spike in electricity 
+prices, state authorities have heard stories about a curious phenomenon:
+
+On days when the weather is hot, batches of power generated in California are 
+sold to other states. A little later in the day, similar amounts of power are 
+sold back to California -- but at much higher prices.
+
+The question is, is it the same power? If so, that could be "megawatt 
+laundering" -- a multi-company conspiracy to evade California's wholesale 
+price cap, which covers power generated in California but not power sold into 
+California from elsewhere.
+
+Worried that such transactions could be costing consumers millions of 
+dollars, several energy specialists raised concerns about megawatt laundering 
+during a Federal Energy Regulatory Commission hearing a month ago in San 
+Diego. And earlier this month, state Sen. Steve Peace, D-La Mesa -- who 
+helped lead the push to deregulate electricity sales in California -- 
+formally asked the commission to investigate the practice, which he termed 
+"potentially illegal market coordination."
+
+But an unconfirmed news report last week said the federal agency had 
+concluded that generators had not abused the market. And others say concerns 
+about megawatt laundering are exaggerated.
+
+Among them is Jan Smutny-Jones, executive director of the Independent Energy 
+Producers Association, a power-firm trade group, and chairman of the 
+Independent System Operator, which oversees most of California's power grid.
+
+While acknowledging that such laundering is possible, Smutny-Jones said there 
+is no evidence it is actually occurring or is widespread.
+
+"This is one of those things that's turning into an urban legend," he said. 
+"I don't want to characterize this as a significant problem."
+
+Even some critics of the way power is purchased in California concede that 
+most of what has been labeled megawatt laundering probably reflects nothing 
+more sinister than the ability of some entrepreneurs to take advantage of a 
+good deal when they see one.
+
+Nonetheless, they see evidence that at least some California-produced power 
+is being sold out of and back into the state at a higher price. And they 
+blame that on loopholes in the system that they say ought to be closed 
+because the transactions are helping to drive up the cost of power.
+
+The Independent System Operator "invites this type of activity," said Frank 
+Wolak, a Stanford economist who chairs the non-profit corporation's market 
+surveillance committee, which has warned of the potential for megawatt 
+laundering in at least two reports this year. "The thing that makes all these 
+problems go is the fact that the ISO has said, `We'll pay whatever it takes 
+to keep the lights on,' and that's screwing consumers big time."
+
+In 1998, when the state's energy markets were deregulated, it was generally 
+assumed that opening up the sale of electricity to competition would make 
+power less expensive. As a precaution, however, officials at the Independent 
+System Operator instituted wholesale price caps, which they lowered twice 
+this summer to help keep a lid on costs. On July 1 this year, they reduced 
+the cap from $750 per megawatt per hour to $500, one megawatt being 
+sufficient power for 1,000 homes. Then, on Aug. 7, they cut it to $250.
+
+Unfortunately, things haven't worked out the way officials had hoped. 
+Wholesale prices rose dramatically this year. And while a freeze on retail 
+utility rates has temporarily shielded Pacific Gas & Electric Co. customers 
+from those soaring costs, home electricity prices have tripled in San Diego, 
+where a similar freeze already has come off.
+
+In the process, some generators learned that all it takes to get around the 
+state's wholesale price caps is a basic understanding of how the market 
+works. One of the best ways to get top dollar, they learned, was to hold off 
+selling their electricity until the Independent System Operator issues what 
+is known as an out-of-market call for energy, which amounts to an emergency 
+request for electricity.
+
+From May through September this year, the overall price of power in the state 
+averaged less than $125 per megawatt hour, according to authorities. But over 
+the same period, power sold in response to out-of-market calls averaged more 
+than $430.
+
+During the summer, when energy use is at a maximum, California typically 
+imports about one-fourth of the power it uses from other states. Since power 
+generated by firms in other states isn't limited by California's price cap, 
+those companies generally are in a better position than California firms to 
+make a killing on out-of-market sales. But by cutting a deal with a 
+collaborator in another state, energy specialists say, California generators 
+also can profit handsomely -- despite the cap.
+
+Here's how:
+
+Say a California generator has 100 megawatts. Instead of selling it in 
+California, where the firm can receive no more than $250 per megawatt hour 
+under the current cap, it finds a utility, an electricity broker or a 
+corporate affiliate with an equal amount of power in another state, such as 
+Arizona. Then -- just before an expected heat wave in California, which is 
+likely to result in an out-of-market call for power here -- it convinces the 
+other firm to do a trade.
+
+Under the deal, the California generator sends its 100 megawatts for one hour 
+to the company in Arizona, where there is no price cap, and earns $300 or 
+more per megawatt -- for a total of $300,000. In return, the Arizona firm 
+ships its 100 megawatts for one hour here. Since that power isn't subject to 
+California's cap, it earns perhaps $400 per megawatt -- for a total of 
+$400,000.
+
+Presumably, energy specialists say, the two firms then split the $100,000 
+difference.
+
+The potential profit from such deals is considerable. Generators in and out 
+of California received more than $110 million from out-of-market sales this 
+summer, according to the Independent System Operator. But determining if 
+megawatt laundering is really happening, how often and who might be 
+benefiting, is difficult.
+
+One California investigator said authorities first suspected that megawatt 
+laundering was occurring when they noticed that precisely the same amount of 
+power was being sold to another state and then sold back into California 
+minutes later. But other experts said the evidence has rarely been that 
+clear. While hundreds of megawatts is sold into and out of the state on any 
+given day, they said, the suspicion that firms were conspiring to sell the 
+same power back and forth has stemmed largely from unfounded speculation.
+
+One big problem for investigators trying to learn if the system has been 
+abused is that confidentiality rules keep many of the details about these 
+electricity transactions private.
+
+"Entities like us and others who may be suffering from the consequences of 
+this laundering don't necessarily have the documents" to prove it, said Gary 
+Stern, director of market monitoring for Southern California Edison, one of 
+the state's three main utilities. "We can only speculate based on things 
+we've heard from others about the practice....It's our hope that's one of the 
+things that's being examined" by the various federal and state agencies 
+investigating this summer's extraordinary rise in California power prices.
+
+Indeed, while some people say megawatt laundering can be substantially 
+limited by ending the practice of paying more than the wholesale cap for 
+out-of-state power, others argue that it's just as important to eliminate the 
+secrecy surrounding electricity transactions.
+
+"I'd like to see more information" made public, said Jim Bushnell, a 
+researcher at the University of California Energy Institute in Berkeley, who 
+specializes in analyzing the state's energy markets. "There are a lot of 
+rumors circulating around this," he said of megawatt laundering, "and it 
+would help clarify if this is a serious problem."
+
+
+
+-----
+
+To see more of the San Jose Mercury News, or to subscribe to the newspaper, 
+go to http://www.sjmercury.com

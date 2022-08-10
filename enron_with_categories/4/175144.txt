@@ -1,0 +1,40 @@
+Message-ID: <18545478.1075847577906.JavaMail.evans@thyme>
+Date: Thu, 24 May 2001 07:39:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: maureen.mcvicker@enron.com
+Subject: <<Concur Expense Document>> - JB 004
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Maureen McVicker
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+---------------------- Forwarded by Steven J Kean/NA/Enron on 05/24/2001 
+02:39 PM ---------------------------
+
+
+eserver@enron.com on 05/24/2001 03:37:44 PM
+To: "Steven.J.Kean@enron.com" <Steven.J.Kean@enron.com>
+cc:  
+
+Subject: <<Concur Expense Document>> - JB 004
+
+The following expense report is ready for approval:
+
+Employee Name: John Brindle
+Status last changed by:  Automated Administrator
+Expense Report Name: JB 004
+Report Total: $2,566.85
+Amount Due Employee: $2,566.85
+
+
+To approve this expense report, click on the following link for Concur 
+Expense.
+http://xms.enron.com
+
+

@@ -1,0 +1,21 @@
+Message-ID: <17667789.1075847581349.JavaMail.evans@thyme>
+Date: Tue, 15 May 2001 11:54:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: diane.goode@enron.com
+Subject: Re: Project April - Draft Response
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Diane Goode
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+One minor point:  the response to the first data request implies that all 
+employees went through the PRC process in 2000.  I am not sure this is 
+accurate.  It's fair to say that most did, but I believe that the field 
+employees who are organized into self-directed work teams do not go through 
+the PRC process.

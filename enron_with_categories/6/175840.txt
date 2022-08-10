@@ -1,0 +1,91 @@
+Message-ID: <3132169.1075847627554.JavaMail.evans@thyme>
+Date: Wed, 28 Feb 2001 06:50:00 -0800 (PST)
+From: steven.kean@enron.com
+To: bernadette.hawkins@enron.com
+Subject: Part 4, revised
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Bernadette Hawkins
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+----- Forwarded by Steven J Kean/NA/Enron on 02/28/2001 02:49 PM -----
+
+	BTC <BCragg@GMSSR.com>
+	02/15/2001 09:36 PM
+		 
+		 To: "'Alan.Comnes@enron.com'" <Alan.Comnes@enron.com>, 
+"'Chris.H.Foster@enron.com'" <Chris.H.Foster@enron.com>, 
+"'Christian.Yoder@enron.com'" <Christian.Yoder@enron.com>, 
+"'Christopher.F.Calger@enron.com'" <Christopher.F.Calger@enron.com>, 
+"'Cynthia.Sandherr@enron.com'" <Cynthia.Sandherr@enron.com>, 
+"'dleff@enron.com'" <dleff@enron.com>, "'David.W.Delainey@enron.com'" 
+<David.W.Delainey@enron.com>, "'dbenevid@enron.com'" <dbenevid@enron.com>, 
+"'dblack@enron.com'" <dblack@enron.com>, "'Elizabeth.Sager@enron.com'" 
+<Elizabeth.Sager@enron.com>, "'etilney@enron.com'" <etilney@enron.com>, 
+"'Eric.Thode@enron.com'" <Eric.Thode@enron.com>, "'gsavage@enron.com'" 
+<gsavage@enron.com>, "'Greg.Wolfe@enron.com'" <Greg.Wolfe@enron.com>, 
+"'Jeff.Dasovich@enron.com'" <Jeff.Dasovich@enron.com>, 
+"'Jeffrey.T.Hodge@enron.com'" <Jeffrey.T.Hodge@enron.com>, 
+"'JKLAUBER@LLGM.COM'" <JKLAUBER@LLGM.COM>, "'Joe.Hartsoe@enron.com'" 
+<Joe.Hartsoe@enron.com>, "'John.J.Lavorato@enron.com'" 
+<John.J.Lavorato@enron.com>, "'John.Neslage@enron.com'" 
+<John.Neslage@enron.com>, "'jwhalan@enron.com'" <jwhalan@enron.com>, 
+"'Kathryn.Corbally@enron.com'" <Kathryn.Corbally@enron.com>, 
+"'Keith.Holst@enron.com'" <Keith.Holst@enron.com>, 
+"'Kristin.Walsh@enron.com'" <Kristin.Walsh@enron.com>, 
+"'Leslie.Lawner@enron.com'" <Leslie.Lawner@enron.com>, 
+"'Linda.Robertson@enron.com'" <Linda.Robertson@enron.com>, 
+"'Marcia.A.Linton@enron.com'" <Marcia.A.Linton@enron.com>, 
+"'Margaret.Carson@enron.com'" <Margaret.Carson@enron.com>, 
+"'Mark.Palmer@enron.com'" <Mark.Palmer@enron.com>, "'msunde@enron.com'" 
+<msunde@enron.com>, "'Mary.Hain@enron.com'" <Mary.Hain@enron.com>, 
+"'Mary.Schoen@enron.com'" <Mary.Schoen@enron.com>, 
+"'Michael.Tribolet@enron.com'" <Michael.Tribolet@enron.com>, 
+"'msmith1@enron.com'" <msmith1@enron.com>, "'Mike.Grigsby@enron.com'" 
+<Mike.Grigsby@enron.com>, "'nbresnan@enron.com'" <nbresnan@enron.com>, 
+"'Paul.Kaufman@enron.com'" <Paul.Kaufman@enron.com>, 
+"'Phillip.K.Allen@enron.com'" <Phillip.K.Allen@enron.com>, 
+"'Rebecca.W.Cantrell@enron.com'" <Rebecca.W.Cantrell@enron.com>, 
+"'Richard.B.Sanders@enron.com'" <Richard.B.Sanders@enron.com>, 
+"'Richard.Shapiro@enron.com'" <Richard.Shapiro@enron.com>, 
+"'Rob.Bradley@enron.com'" <Rob.Bradley@enron.com>, 
+"'Robert.Badeer@enron.com'" <Robert.Badeer@enron.com>, 
+"'Robert.C.Williams@enron.com'" <Robert.C.Williams@enron.com>, 
+"'Robert.Frank@enron.com'" <Robert.Frank@enron.com>, 
+"'Robert.Johnston@enron.com'" <Robert.Johnston@enron.com>, 
+"'Sandra.McCubbin@enron.com'" <Sandra.McCubbin@enron.com>, 
+"'sstoness@enron.com'" <sstoness@enron.com>, "'Shelley.Corman@enron.com'" 
+<Shelley.Corman@enron.com>, "'Steve.C.Hall@enron.com'" 
+<Steve.C.Hall@enron.com>, "'Steve.Walton@enron.com'" 
+<Steve.Walton@enron.com>, "'Steven.J.Kean@enron.com'" 
+<Steven.J.Kean@enron.com>, "'Susan.J.Mara@enron.com'" 
+<Susan.J.Mara@enron.com>, "'Tim.Belden@enron.com'" <Tim.Belden@enron.com>, 
+"'Tom.Briggs@enron.com'" <Tom.Briggs@enron.com>, 
+"'Travis.McCullough@enron.com'" <Travis.McCullough@enron.com>, 
+"'Vance.Meyer@enron.com'" <Vance.Meyer@enron.com>, "'vsharp@enron.com'" 
+<vsharp@enron.com>, "'William.S.Bradford@enron.com'" 
+<William.S.Bradford@enron.com>, "'Harry.Kingerski@enron.com'" 
+<Harry.Kingerski@enron.com>, "'James.D.Steffes@enron.com'" 
+<James.D.Steffes@enron.com>
+		 cc: MBD <MDay@GMSSR.com>, JMB <JBennett@GMSSR.com>, "'Scott Govenar, Enron 
+lobbyist'" <sgovenar@govadv.com>, "'Samuel.Wehn@enron.com'" 
+<Samuel.Wehn@enron.com>, "'bogilby@mdbe.com'" <bogilby@mdbe.com>
+		 Subject: Part 4, revised
+
+
+Attached is a revised version of Mike Day's draft of Part 4 of the
+legislative package, on expedited permitting of new and expanded electric
+generating capacity.  I have tried to incorporate the thoughtful comments
+provided to me by Sam Wehn of ENA and Barry Ogilby of McCutcheon (outside
+counsel).  Since Mike will soon be off on a family vacation, please direct
+any comments or questions to me at 415-765-8413 or bcragg@gmssr.com.
+
+ <<PART4.DOC>>
+
+ - X21095.DOC

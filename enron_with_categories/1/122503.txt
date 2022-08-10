@@ -1,0 +1,4609 @@
+Message-ID: <9723172.1075843454304.JavaMail.evans@thyme>
+Date: Mon, 30 Apr 2001 01:17:00 -0700 (PDT)
+From: jmunoz@mcnallytemple.com
+To: abb@eslawfirm.com, andybrwn@earthlink.net, cabaker@duke-energy.com, 
+	rescalante@riobravo-gm.com, rbw@mrwassoc.com, 
+	curtis_l_kebler@reliantenergy.com, dean.nistetter@dynegy.com, 
+	dkk@eslawfirm.com, gtbl@dynegy.com, smutny@iepa.com, 
+	jeff.dasovich@enron.com, joer@calpine.com, 
+	john.g.larrea@williams.com, jmball@ns.net, kgough@calpine.com, 
+	kent.palmerton@williams.com, lale@dynegy.com, 
+	mmoretti@mccabeandcompany.net, mwilson@pstrategies.com, 
+	rmcnally@mcnallytemple.com, nam.nguyen@powersrc.com, 
+	knorton@mcnallytemple.com, paula.hall-collins@williams.com, 
+	jackp@calpine.com, rwhyde@duke-energy.com, roger.pelote@williams.com, 
+	stephanie-newell@reliantenergy.com, smara@enron.com, 
+	tross@mcnallytemple.com, tcwillia@duke-energy.com, 
+	alex.sugaoka@uaecorp.com, william_carlson@wastemanagement.com, 
+	billw@calpine.com, bellery@spi-ind.com, bob.gates@enron.com, 
+	cody.carter@williams.com, curt.hatton@gen.pge.com, 
+	david.parquet@enron.com, dean_gosselin@fpl.com, 
+	fernley.doug@epenergy.com, dnelsen@gwfpower.com, 
+	ed.tomeo@uaecorp.com, eileenk@calpine.com, eric.eisenman@gen.pge.com, 
+	frank.derosa@gen.pge.com, frazier_blaylock@ogden-energy.com, 
+	hap_boyd@enron.com, jack.hawks@gen.pge.com, elliottsa@earthlink.net, 
+	jgreco@caithnessenergy.com, jweisgall@aol.com, 
+	ccastillo@riobravo-gm.com, kellyl@enxco.com, 
+	khoffman@caithnessenergy.com, kfickett@usgen.com, 
+	lynn.a.lednicky@dynegy.com, marty_mcfadden@ogden-energy.com, 
+	paula_soos@ogden-energy.com, rjhickok@duke-energy.com, 
+	rskoebbe@powerworksinc.com, rllamkin@seiworldwide.com, 
+	ain@worldnet.att.net, siliff@riobravo-gm.com, steve_ponder@fpl.com, 
+	twetzel@thermoecotek.com, wfhall2@duke-energy.com, 
+	trusso@mcnallytemple.com, sadlersa@earthlink.net, mstultz@epsa.org, 
+	rtemple@mcnallytemple.com, tracy.fairchild@edelman.com, 
+	megan.beiser@edelman.com, deborah.fiorito@dynegy.com, 
+	lchurch@epsa.org, kaplan@iepa.com, tcwillia@duke-energy.com, 
+	rwhyde@duke-energy.com, tmcmorrow@manatt.com, 
+	suzy.l.rodriguez@dynegy.com, ppitts@wiredworld1.com, 
+	mnobili@cal-lobby.com, scott.chavez@sen.ca.gov
+Subject: IEP News 4/30
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Jean Munoz <jmunoz@mcnallytemple.com>
+X-To: "'Andy Brown (E-mail)'" <ABB@eslawfirm.com>, "'B Brown Andy (E-mail)'" <andybrwn@earthlink.net>, "'Baker Carolyn (E-mail)'" <cabaker@duke-energy.com>, "'Bob Escalante (E-mail)'" <rescalante@riobravo-gm.com>, "'Bob Weisenmiller (E-mail)'" <rbw@mrwassoc.com>, "'Curtis Kebler (E-mail)'" <curtis_l_kebler@reliantenergy.com>, "Dean. Nistetter (E-mail)" <Dean.Nistetter@dynegy.com>, "'Douglas Kerner (E-mail)'" <DKK@eslawfirm.com>, "'Greg Blue (E-mail)'" <gtbl@dynegy.com>, "'Jan Smutny-Jones (E-mail)'" <smutny@iepa.com>, "'Jeff Dasovich (E-mail)'" <Jeff.Dasovich@enron.com>, "'Joe Ronan (E-mail)'" <joer@calpine.com>, "'John Larrea (E-mail)'" <john.g.larrea@williams.com>, "'Julee Malinowski-Ball (E-mail)'" <jmball@ns.net>, "'Kassandra Gough (E-mail)'" <kgough@calpine.com>, "'kent Palmerton (E-mail)'" <kent.palmerton@williams.com>, "'Lynn Lednicky (E-mail)'" <lale@dynegy.com>, "Marie Moretti (E-mail 2)" <mmoretti@mccabeandcompany.net>, "'Marty Wilson (E-mail)'" <mwilson@pstrategies.com>, "'McNally Ray (E-mail)'" <rmcnally@mcnallytemple.com>, "''Nam Nguyen' (E-mail)'" <nam.nguyen@powersrc.com>, "'Norton Kelli (E-mail)'" <knorton@mcnallytemple.com>, "'Paula Hall-Collins (E-mail)'" <paula.hall-collins@williams.com>, "'Pigott Jack (E-mail)'" <jackp@calpine.com>, "'Richard Hyde (E-mail)'" <rwhyde@duke-energy.com>, "'Roger Pelote (E-mail)'" <roger.pelote@williams.com>, "'Stephanie-Newell (E-mail)'" <stephanie-newell@reliantenergy.com>, "'Sue Mara (E-mail)'" <smara@enron.com>, "'Tom Ross (E-mail)'" <tross@mcnallytemple.com>, "Tom Williams (E-mail)" <tcwillia@duke-energy.com>, "'Alex Sugaoka (E-mail)'" <alex.sugaoka@uaecorp.com>, "'Bill Carlson (E-mail)'" <william_carlson@wastemanagement.com>, "'Bill Woods (E-mail)'" <billw@calpine.com>, "'Bob Ellery (E-mail)'" <bellery@spi-ind.com>, "'Bob Gates (E-mail)'" <bob.gates@enron.com>, "'Cody Carter (E-mail)'" <cody.carter@williams.com>, "'Curt Hatton (E-mail)'" <Curt.Hatton@gen.pge.com>, "'David Parquet'" <david.parquet@enron.com>, "'Dean Gosselin (E-mail)'" <dean_gosselin@fpl.com>, "'Doug Fernley (E-mail)'" <fernley.doug@epenergy.com>, "'Duane Nelsen (E-mail)'" <dnelsen@gwfpower.com>, "'Ed Tomeo (E-mail)'" <ed.tomeo@uaecorp.com>, "'Eileen Koch (E-mail)'" <eileenk@calpine.com>, "'Eric Eisenman (E-mail)'" <eric.eisenman@gen.pge.com>, "'Frank DeRosa (E-mail)'" <frank.derosa@gen.pge.com>, "Frazier Blaylock (E-mail)" <frazier_blaylock@ogden-energy.com>, "'Hap Boyd (E-mail)'" <Hap_Boyd@enron.com>, "'Hawks Jack (E-mail)'" <jack.hawks@gen.pge.com>, "'Jim Willey (E-mail)'" <elliottsa@earthlink.net>, "'Joe Greco (E-mail)'" <jgreco@caithnessenergy.com>, "'Jonathan Weisgall (E-mail)'" <jweisgall@aol.com>, "'Kate Castillo (E-mail)'" <CCastillo@riobravo-gm.com>, "'Kelly Lloyd (E-mail)'" <kellyl@enxco.com>, "'Ken Hoffman (E-mail)'" <khoffman@caithnessenergy.com>, "'Kent Fickett (E-mail)'" <kfickett@usgen.com>, "'Lynn Lednicky (E-mail)'" <lynn.a.lednicky@dynegy.com>, "'Marty McFadden (E-mail)'" <marty_mcfadden@ogden-energy.com>, "'Paula Soos'" <paula_soos@ogden-energy.com>, "'Randy Hickok (E-mail)'" <rjhickok@duke-energy.com>, "Rick S. Koebbe (E-mail)" <rskoebbe@powerworksinc.com>, "'Rob Lamkin (E-mail)'" <rllamkin@seiworldwide.com>, "'Ross Ain (E-mail)'" <ain@worldnet.att.net>, "'Steve Iliff'" <siliff@riobravo-gm.com>, "'Steve Ponder (E-mail)'" <steve_ponder@fpl.com>, "'Tony Wetzel (E-mail)'" <twetzel@thermoecotek.com>, "'William Hall (E-mail)'" <wfhall2@duke-energy.com>, <trusso@mcnallytemple.com>, <sadlersa@earthlink.net>, <mstultz@epsa.org>, <rtemple@mcnallytemple.com>, <tracy.fairchild@edelman.com>, <megan.beiser@edelman.com>, <deborah.fiorito@dynegy.com>, <lchurch@epsa.org>, Katie Kaplan <kaplan@iepa.com>, <tcwillia@duke-energy.com>, <rwhyde@duke-energy.com>, <tmcmorrow@manatt.com>, <Suzy.L.Rodriguez@dynegy.com>, <ppitts@wiredworld1.com>, <mnobili@cal-lobby.com>, <scott.chavez@sen.ca.gov>
+X-cc: 
+X-bcc: 
+X-Folder: \Jeff_Dasovich_June2001\Notes Folders\All documents
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+Today's news, and some from the weekend, in the following order:
+
+A year later, energy crisis shows no signs of cooling off, By Ed Mendel , San 
+Diego Union Tribune April 30, 2001 (Quotes ???
+???Smutny on behalf of IEP)
+
+The Daily News of Los Angeles, April 27, 2001 Friday, Valley Edition, NEWS;
+????Pg. N9, 275 words, PROPOSED LAW PUTS BOUNTY ON ENERGY MANIPULATORS, Staff
+????And Wire Services (Quotes Smutny on behalf of IEP)
+ 
+San Jose Mercury News, April 27, 2001, Friday, SJ-ELECTRIC-SUIT, 245 words,
+????Santa Clara County, Calif., Joins Lawsuit against Electric Suppliers, By
+????John Woolfolk (Quotes Smutny on behalf of IEP)
+ 
+FERC Considers Imposing a Fee on Electricity Sales in California ?????
+???Updated: Monday, April 30, 2001 12:40 AM?ET ????-- Dow Jones News Wire? 
+?
+Los Angeles Times, April 30, 2001, Monday,, Home Edition, Page 3, 792 words
+????, CAPITOL JOURNAL; ?CALIFORNIA AND THE WEST; ??How Sales Tax Is Falling
+????Through a Loophole, GEORGE SKELTON, SACRAMENTO
+
+Los Angeles Times, April 30, 2001, Monday,, Home Edition, Page 3, 1808
+????words, CALIFORNIA AND THE WEST; ??THE CALIFORNIA ENERGY CRISIS; ??LIST OF
+????PG&E CREDITORS SHOWS FIRM'S WIDE REACH IN BUSINESS; ??BANKRUPTCY: IT
+????INCLUDES SMALL AND BIG COMPANIES, GOVERNMENT AGENCIES AND FORMER 
+EMPLOYEES.,
+????TIM REITERMAN, TIMES STAFF WRITER, SAN FRANCISCO
+
+Los Angeles Times, April 30, 2001, Monday,, Home Edition, Page 3, 1228
+????words, CALIFORNIA AND THE WEST; ??THE CALIFORNIA ENERGY CRISIS; ??POWER 
+WOES
+????COMPLICATE DISCUSSIONS ON BUDGET; ??FUNDING: GOV. DAVIS' PLAN FOR NEXT 
+YEAR
+????FACES DEMANDS FOR BILLIONS AS A RESERVE AND TO CUSHION ELECTRICITY RATE
+????HIKES., DAN MORAIN, TIMES STAFF WRITER, SACRAMENTO
+
+Los Angeles Times, April 30, 2001, Monday,, Home Edition, Page 7, 839 words
+????, COMMENTARY; ??WILL THE FERC SEE THE LIGHT ON THE LAW?, FRANK A. WOLAK,
+????Frank A. Wolak, an economics professor at Stanford University, is, 
+chairman
+????of the Market Surveillance Committee of the California, Independent System
+????Operator
+
+The New York Times, April 30, 2001, Monday, Late Edition - Final, Section
+????A; Page 1; Column 5; Business/Financial Desk, 1444 words, While a Utility
+????May Be Failing, Its Owner Is Not, By By RICHARD A. OPPEL Jr. and LAURA M.
+????HOLSON
+
+The San Francisco Chronicle, APRIL 30, 2001, MONDAY,, FINAL EDITION, NEWS;,
+????Pg. A3, 1108 words, NEWSMAKER PROFILE; ???Nettie Hoge; ???Taking on power;
+????Consumer advocate revels in uphill battle, Chuck Squatriglia
+
+The Washington Post, April 30, 2001, Monday, Final Edition, A SECTION; Pg.
+????A03, 1669 words, Energy Forecast for Summer: No Blackouts but Price 
+Spikes;
+????Grid Managers Promote Conservation, Await New Plants, William Claiborne,
+????Washington Post Staff Writer, CHICAGO
+
+The Associated Press State & Local Wire, April 30, 2001, Monday, BC cycle,
+????9:49 AM Eastern Time, State and Regional, 594 words, Developments in
+????California's energy crisis, By The Associated Press
+
+AP Online, April 29, 2001; Sunday, Domestic, non-Washington, general news
+????item, 1313 words, Geothermal Plants Need More Steam, JENNIFER COLEMAN,
+????MIDDLETOWN, Calif.
+
+The Associated Press State & Local Wire, April 29, 2001, Sunday, BC cycle,
+????State and Regional, 413 words, Guns in schools, deregulation delay on
+????lawmakers' agenda, By BRAD CAIN, Associated Press Writer, SALEM, Ore.
+
+Idaho Falls Post Register, April 29, 2001 Sunday, News; Pg. a1, 530 words,
+????Plenty of blame to go around for West's power woes, PAUL MENSER
+
+Los Angeles Times, April 29, 2001, Sunday,, Home Edition, Page 6, 1312
+????words, THE STATE; ??HOW KILOWATT SOCIALISM SAVED L.A. FROM THE ENERGY 
+CRISIS
+????, JEFF STANSBURY, Jeff Stansbury is a PhD candidate in American history at
+????UCLA. His, dissertation is on the role of the labor movement in the 
+building
+????of, L.A.'s infrastructure
+
+Los Angeles Times, April 29, 2001, Sunday,, Home Edition, Page 4, 558 words
+????, CONSERVATION SANDBAGS; ??THE DAVIS ADMINISTRATION NEEDS TO LAUNCH A 
+CRASH
+????EDUCATION COURSE TO CONVINCE CALIFORNIANS OF THE SERIOUSNESS OF THE
+????ELECTRICITY CRISIS AND THE NEED FOR FAR-REACHING ENERGY-SAVING MEASURES.
+
+Los Angeles Times, April 29, 2001, Sunday,, Home Edition, Page 27, 1316
+????words, BUSH: THE FIRST 100 DAYS; ??BUSH IS OFF TO A ROCKY START IN HIS
+????HANDLING OF ALL THINGS CALIFORNIAN; ??POLITICS: BUT WHY WOO THE GOLDEN 
+STATE
+????WHEN HE CAN'T CARRY IT IN AN ELECTION 'NO MATTER HOW HARD HE TRIES,' ONE
+????ANALYST POINTS OUT., RICHARD SIMON, TIMES STAFF WRITER, WASHINGTON
+
+Los Angeles Times, April 29, 2001, Sunday,, Home Edition, Page 2, 1290
+????words, WEEK IN REVIEW; ??TOP 10 STORIES / APRIL 23-27, Lisa Girion and
+????Terril Yue Jones and Sallie Hofmeister and James Bates and Peter Pae and
+????Jeff Leeds and Nancy Rivera Brooks and Peter Gosselin
+
+The New York Times, April 29, 2001, Sunday, Late Edition - Final, Section
+????4; Page 17; Column 1; Editorial Desk, 756 words, Reckonings; The Real 
+Wolf,
+????By PAUL KRUGMAN
+
+Sacramento Bee, April 29, 2001, Sunday, Pg. A1;, 1323 words, Diesel plants
+????spark concern They're expected to generate big air-quality problems when
+????predicted summer blackouts hit., Chris Bowman and Stuart Leavenworth Bee
+????Staff Writers
+
+Sacramento Bee, April 29, 2001, Sunday, Pg. A1, 1544 words, Why Edison,
+????PG&E split on strategy, Dale Kasler Bee Staff Writer
+
+Sacramento Bee, April 29, 2001, Sunday, Pg. A3, 679 words, What will be
+????fallout from California's energy meltdown?, Dan Walters
+
+The San Francisco Chronicle, APRIL 29, 2001, SUNDAY,, FINAL EDITION,
+????INSIGHT;, Pg. D1, 1419 words, The energy crisis is good for you, Louis
+????Freedberg
+
+Ventura County Star, April 29, 2001 Sunday, Editorials; Pg. B09, 704 words,
+????Reality is what's needed for real policy ?GOVERNOR: Consumers deserve to 
+get
+????real facts from Davis., Dan Walters
+
+Los Angeles Times, April 28, 2001, Saturday,, Home Edition, Page 19, 679
+????words, OFFICIALS CALL PRICE STABILITY PLAN ILLEGAL; ??UTILITIES: AGENCY
+????CHIEFS SAY THE FEDERAL PROPOSAL COULD ALSO CAUSE MORE BLACKOUTS THIS 
+SUMMER.
+????, NANCY VOGEL and MIGUEL BUSTILLO, TIMES STAFF WRITERS, SACRAMENTO
+
+Los Angeles Times, April 28, 2001, Saturday,, Home Edition, Page 19, 688
+????words, BILL COULD FOIL DAVIS' ELECTRICITY OFFENSIVE; ??POWER: CONGRESSMAN
+????WANTS TO LET SMALL PRODUCERS SELL ON WHOLESALE MARKET. BACKERS SAY PLAN
+????WOULD BOOST SUPPLY, BUT FOES SEE IT COSTING CALIFORNIA DEARLY., JULIE 
+TAMAKI
+????and MIGUEL BUSTILLO, TIMES STAFF WRITERS, SACRAMENTO
+
+Los Angeles Times, April 28, 2001, Saturday,, Home Edition, Page 2, 137
+????words, BRIEFLY / ENERGY; ??PUC ORDERS UTILITIES TO POST BLACKOUT DATA, 
+Nancy
+????Rivera Brooks
+
+Sacramento Bee, April 28, 2001, Saturday, Pg. A3;, 1109 words, Cities take
+????new look at public power The state's uncertain electricity picture has 
+local
+????officials deciding it's time to revisit the idea of municipal utilities.,
+????Carrie Peyton Bee Staff Writer
+
+
+
+
+A year later, energy crisis shows no signs of cooling off
+By Ed Mendel 
+San Diego Union Tribune
+April 30, 2001 
+
+SACRAMENTO -- The first anniversary of the California energy crisis is coming 
+up next month, and as the Queen of England once remarked when the royal 
+family seemed to deregulate, it's been an "annus horribilis." 
+
+The horrible year for California began last May when electricity prices 
+suddenly began to soar, triggering a debate about the cause of the mysterious 
+price increase that is likely to continue for years.
+
+It started when a three-day heat wave, from May 21 to May 24, set records in 
+some areas of the state and drove up the demand for electricity as 
+Californians sought relief with air conditioning.
+
+More record heat June 14 in the San Francisco Bay Area strained the 
+overloaded system of Pacific Gas & Electric and resulted in rolling 
+blackouts, the planned temporary power outages that some fear may be routine 
+this summer.
+
+The average price of electricity on the now-defunct Power Exchange soared to 
+$120 per megawatt hour in June, five times higher than the same month the 
+previous year, and remained roughly at that level until skyrocketing to $377 
+in December.
+
+San Diego sounded the statewide alarm last summer as San Diego Gas & 
+Electric, the first utility to be deregulated, passed along much of the 
+higher cost of electricity to its customers, until legislation rolled back 
+and capped the utility's rates in September.
+
+The executive director of a San Diego consumers group, the Utility Consumers' 
+Action Network, thinks the generators and the marketers of power, using 
+sophisticated computer methods, learned something as the heat wave drove up 
+the demand for power.
+
+"It was the first time the generators had an opportunity to see how high the 
+price could go," said UCAN'S Michael Shames. "It was their primer. It was 
+Gouge 101."
+
+State Sen. Steve Peace, D-El Cajon, who chaired a two-house committee that 
+completed the deregulation plan in 1996, had seen routine monitoring data 
+suggesting that the power market was being manipulated to drive up prices.
+
+Peace took the unusual step last June of personally urging the adoption of a 
+much lower price cap by the board of the agency that makes last-minute power 
+purchases to maintain the grid, the Independent System Operator.
+
+But the motion failed by a single vote. The consumer representative who cast 
+the decisive vote against the lower cap resigned afterward with a blast at 
+Peace, complaining of heavy-handed pressure.
+
+Peace is unapologetic. He believes that stronger action by the ISO last June 
+would have sent a signal that might have discouraged market manipulation.
+
+"It's just like the Federal Reserve mis-timing an interest-rate move," Peace 
+said.
+
+The former ISO chairman, who represents generators, cited an ISO report 
+attributing the price increase last May to the heat wave, power plant 
+outages, less hydroelectric power and higher prices for the natural gas used 
+by power plants.
+
+"I think all of those things showing up at the same time resulted in 
+significantly higher prices," said Jan Smutny-Jones of the Independent Energy 
+Producers.
+
+Why power prices remained at high levels and even soared last winter, instead 
+of dropping as usual, is more difficult to explain.
+
+The ISO contended last month that generators overcharged by more than $6 
+billion from last May through February. But federal regulators, who have 
+their critics, have found only $125 million in overcharges, making it an 
+"annus marvelous" for generators.
+
+
+Ed Mendel is Capitol bureau chief for the Union-Tribune. 
+
+
+Copyright 2001 Union-Tribune Publishing Co. 
+The Daily News of Los Angeles
+April 27, 2001 Friday, Valley Edition 
+SECTION: NEWS; Pg. N9
+LENGTH: 275 words
+HEADLINE: PROPOSED LAW PUTS BOUNTY ON ENERGY MANIPULATORS
+BYLINE: Staff And Wire Services
+
+BODY:
+
+??California stepped up its war on the power industry Thursday as state
+legislators offered to pay millions of dollars to "bounty hunters" who provide
+information leading to the arrest and conviction of energy executives and 
+others
+who manipulate the electricity market.
+
+???California "is being plundered by an energy cartel," said Lt. Gov. Cruz
+Bustamente, who is promoting a bill that would level criminal penalties for
+exploiting energy markets. ?"If what they are doing isn't illegal, it ought to
+be."
+
+???Bustamente was one of a crowd of state leaders who went before microphones.
+
+???On the floor of the Assembly, Speaker Bob Hertzberg, D-Van Nuys, rallied 
+his
+Democratic colleagues behind a bill to create a state power authority with
+equally blistering attacks on private power suppliers.
+
+???But after Thursday's hearing before a Senate committee formed to 
+investigate
+alleged price-fixing in the energy market, committee chairman Joe Dunn, 
+D-Garden
+Grove, told a reporter: "I've never seen this much smoke when there wasn't a
+fire."
+
+???Power generators insist they are operating fairly and say there is no
+evidence of them acting outside the law.
+
+???Jan Smutny-Jones, executive director of the Independent Energy Producers
+Association, dismissed the harsh rhetoric as unproductive. "Putting people in
+prison isn't going to encourage more generation," Smutny-Jones said, warning
+that the political posturing would make energy generators think twice about
+investing in California.
+
+???Also on Thursday, experts said federally ordered caps on wholesale
+electricity prices won't necessarily mean California will escape rolling
+blackouts this summer.
+
+
+Copyright 2001 San Jose Mercury News
+San Jose Mercury News
+April 27, 2001, Friday
+
+KR-ACC-NO: SJ-ELECTRIC-SUIT
+
+LENGTH: 245 words
+
+HEADLINE: Santa Clara County, Calif., Joins Lawsuit against Electric Suppliers
+
+BYLINE: By John Woolfolk
+
+BODY:
+
+
+??Santa Clara County agreed Thursday to join a lawsuit against power 
+suppliers,
+alleging they conspired to raise prices and boost profits while subjecting
+consumers to higher bills and rolling blackouts.
+
+??The county is the first to join the suit originally filed by San Francisco 
+in
+January. ?The suit seeks refunds for consumers of more than $ 1 billion in
+alleged excess electricity profits.
+
+??"The San Francisco suit contains significant allegations of manipulation and
+collusion by the wholesalers, resulting in the disastrous consequences we're 
+all
+familiar with," said lead deputy county counsel Alan Tieger. "We looked at the
+evidence on which those allegations were grounded and found they were indeed
+supported by the evidence, expert and otherwise."
+
+??The suit names a dozen electricity generating and marketing companies,
+including Duke Energy and Enron Energy Marketing.
+
+??Similar claims have been filed by three water districts in the San Diego
+area, and two class-action lawsuits by private attorneys on behalf of 
+consumers
+are pending against power suppliers.
+
+??The companies have vigorously denied the charges.
+
+??"I don't think there will be any evidence of illegal activity by anyone,"
+said Jan Smutny-Jones, executive director of the Independent Energy Producers
+Association, when asked about various government probes.
+
+
+??-----
+
+??To see more of the San Jose Mercury News, or to subscribe to the newspaper,
+go to http://www.sjmercury.com
+ 
+
+
+FERC Considers Imposing a Fee on Electricity Sales in California  ????
+Updated: Monday, April 30, 2001 12:40 AM?ET ????? 
+?
+Such a surcharge, at least in the short run, would fall hardest on the state 
+of California, which since January has spent more than $5 billion buying 
+power because the utilities have been unable to meet their obligations. For 
+now, the idea is nothing more than a proposal that occupies one paragraph 
+buried in a 39-page order issued Thursday concerning changes to California's 
+flawed deregulated electricity market. The commission is seeking public 
+comment on the surcharge proposal for 30 days. After that, it will decide 
+whether to implement it.
+
+The fee was proposed by Commission Chairman Curt Hebert, a Mississippi 
+Republican, as a way "to stabilize the market," he said Friday, "since part 
+of the problem in California has to do with nonpayment of bills by the 
+utilities." But the provision also has the potential to funnel billions of 
+dollars to energy suppliers at a time when those payments are the subject of 
+intense negotiation.
+
+One of the utilities, PG&E Corp.'s Pacific Gas & Electric Co. (PCG, news, 
+msgs), filed for protection from creditors under U.S. bankruptcy law on April 
+6, hoping to settle its claims with power suppliers for something less than 
+face value. Representatives of Pacific Gas & Electric and Edison 
+International's (EIX, news, msgs) Southern California Edison declined to 
+comment on the FERC proposal Friday.
+
+The surcharge idea faces stiff opposition from some state officials, one of 
+whom said it amounts to an "unwarranted intrusion" into state jurisdiction. 
+Loretta Lynch, president of the California Public Utilities Commission, said 
+imposition of a surcharge would put pressure on wholesale-power costs that 
+already are too high. Bulk power cost $7 billion in California in 1999 and 
+topped $27 billion last year as prices careened out of control. Ms. Lynch 
+said she opposes the surcharge provision and the entire order given Thursday, 
+but that it will be up to the full commission to decide how -- or whether -- 
+to file a challenge at FERC.
+
+A spokesman for Gov. Gray Davis said "the governor would be strongly opposed 
+to any attempt to siphon money away from the state" and expects to lodge an 
+objection.
+
+
+Los Angeles Times
+
+?????????????????????April 30, 2001, Monday, Home Edition
+
+SECTION: Part A; Part 1; Page 3; Metro Desk
+
+LENGTH: 792 words
+
+HEADLINE: CAPITOL JOURNAL;
+
+CALIFORNIA AND THE WEST;
+
+How Sales Tax Is Falling Through a Loophole
+
+BYLINE: GEORGE SKELTON
+
+
+
+DATELINE: SACRAMENTO
+
+BODY:
+
+
+??Dot-coms are in distress and laying off. Silicon Valley is a home buyer's
+bazaar. The Nasdaq is nauseous. So is this any time to be siccing the tax
+collector on Internet retailers?
+
+??You bet. Coddling these techie traders with tax favors doesn't seem to be
+helping them much anyway. So why not treat e-tailers like everyone else, like
+brick-and-mortar merchants? Treat everybody evenhandedly.
+
+??That's the view of Assemblywoman Carole Migden (D-San Francisco), assertive
+chair of the Assembly Appropriations Committee. For the second straight year,
+Migden is pushing a bill she says will close a loophole that benefits some
+Internet retailers. She insists it's about fairly enforcing existing law, not
+about a new Web tax, as critics claim.
+
+??Present law requires Internet e-tailers to collect the sales tax if they 
+have
+a physical presence in California, such as a traditional brick-and-mortar 
+store.
+But some big outfits have created separate out-of-state subsidiaries to handle
+their Internet orders. Same goods, same ads--with a large tax loophole because
+the subsidiary ostensibly does not have a physical presence in California.
+
+??Never mind that an unsatisfied customer of bookseller Barnes & Noble 
+dot-com,
+for example, can return the Internet purchase to the local Barnes & Noble 
+store.
+
+??Many e-tailers with dual "bricks-and-clicks" operations do collect the sales
+tax from Internet customers. Migden cites Macy's, Wal-Mart, REI, 
+Hewlett-Packard
+and Eddie Bauer. Others refuse, she says: Barnes & Noble, Borders Books, KB
+Toys, Gateway Computers, Radio Shack.
+
+??Her bill simply "clarifies" that the sales tax applies when the e-tailer is
+affiliated with a California business, sells identical products, and they 
+market
+jointly.
+
+??"Right now," Migden contends, "certain big businesses blatantly violate the
+tax law and put hard-working, honest small business people at a disadvantage."
+
+
+??*
+
+??Gov. Gray Davis is miffed at Migden, she hears. He vetoed her bill last 
+year,
+declaring "it would send the wrong signal about California's international 
+role
+as the incubator of the dot-com community." Internet marketing "must be given
+time to mature," he maintained.
+
+??Now Migden's at it again. "The governor's exercised. He thinks I'm jamming
+him," she says. "But I'm moving the bill. He can veto it if he wants. I'm
+putting it on his desk."
+
+??It already has cleared the Assembly tax committee and will shoot out of her
+panel Wednesday, headed for the Assembly floor. Last year, Democrats backed 
+the
+bill. Republicans opposed it, siding with the Democratic governor. 
+
+??Davis fears some future opponent will claim he signed a bill to tax the
+Internet. Migden is frustrated by that Internet tax tag, calling it "a lazy
+misinterpretation."
+
+??"I'm not picking on e-commerce," she protests. "I'm picking on the
+multinationals who are arrogantly evading the law in complicity with the state
+Board of Equalization."
+
+??That would be, in particular, Republican board member Dean Andal of 
+Stockton.
+"It's the usual liberal nut case bill," Andal says. "Just a bill chasing no
+problem."
+
+
+??*
+
+??The BOE administers the sales tax. And Andal does agree that if an Internet
+purchase can be returned to a store, the e-tailer legally must collect the 
+tax.
+"We've been looking into that," he says.
+
+??The board shouldn't have to look far. Barnes & Noble tells e-customers right
+on its Web site that "you can return purchases to ANY Barnes & Noble store for
+in-store credit."
+
+??But other than that, Andal contends, a company has a constitutional right to
+create an out-of-state subsidiary to avoid taxes.
+
+??And, he notes, we're talking about relative pennies: $ 17 million annually,
+the BOE estimates, compared to $ 39 billion in total California sales tax
+collections. That lost revenue would cover only about seven hours worth of
+electricity the state now is buying for utilities.
+
+??But e-tailing is bound to grow. Tax avoidance could become significant,
+benefiting dot-coms while discriminating against small retailers and the poor
+who cannot afford Internet access.
+
+??Migden will be in a strong position to change sales tax policy if she wins
+her race next year for the five-member BOE. She's the early front-runner.
+
+??Her concern--her reverence--is for the local booksellers, the mom-and-pop
+merchants, the neighbor shopkeepers who can be smothered by the big tax 
+evaders.
+"The little guy with the books stacked in the back," she says, "sweeping the
+sidewalk, putting on extra locks, obeying the law and collecting taxes--trying
+to make a go."
+
+??Davis wants to be seen as a futuristic, New Age pol, worthy of campaign
+donations from wealthy Web masters. But he can manage that without tromping on
+his Democratic roots as protector of the little guy.
+
+LOAD-DATE: April 30, 2001
+
+?????????????????????????????13 of 103 DOCUMENTS
+
+??????????????????????Copyright 2001 / Los Angeles Times
+
+??????????????????????????????Los Angeles Times
+
+?????????????????????April 30, 2001, Monday, Home Edition
+
+SECTION: Part A; Part 1; Page 3; Metro Desk
+
+LENGTH: 1808 words
+
+HEADLINE: CALIFORNIA AND THE WEST;
+
+THE CALIFORNIA ENERGY CRISIS;
+
+LIST OF PG&E CREDITORS SHOWS FIRM'S WIDE REACH IN BUSINESS;
+
+BANKRUPTCY: IT INCLUDES SMALL AND BIG COMPANIES, GOVERNMENT AGENCIES AND 
+FORMER
+EMPLOYEES.
+
+BYLINE: TIM REITERMAN, TIMES STAFF WRITER
+
+
+
+DATELINE: SAN FRANCISCO
+
+BODY:
+
+
+??It reads like a phone book: Able Auto Body, Able Building Maintenance, Able
+Fence Co., Able Printing, Able Termite & Pest Control. . . .
+
+??These companies are among about 50,000 entries on Pacific Gas & Electric
+Co.'s roster of creditors recently filed in U.S. Bankruptcy Court.
+
+??Another company, A&J Electrical Cable Corp. of Hayward, has supplied PG&E
+with utility cables since 1980. But now the unpaid bills are hitting the $
+100,000 mark--and that is a big deal to a relatively small business.
+
+??"Who would ever think that PG&E would be in bankruptcy?" said owner 
+Magdalene
+Reilly. "This is something affecting people. I've got a lot of paychecks on
+Friday.
+
+??"We have orders for the rest of the year from PG&E ," she added. "It is a
+question: Do you decide to ship? . . . We probably will. They are a good
+customer."
+
+??When PG&E filed for Chapter 11 protection from creditors April 6, businesses
+from California to Canada were caught by surprise. The names of the 20 biggest
+creditors, some with billion-dollar claims, were filed with the court. The
+utility also submitted a list of potential creditors--more than 3,500 pages
+worth.
+
+??The roster speaks to the remarkable economic clout and reach of a company
+that prospered for almost a century before plunging into the third-biggest
+bankruptcy case in U.S. history. It provides a glimpse into the relationships
+between a giant utility--the state's largest--and businesses of all sorts and
+sizes. And it underscores the high stakes as a bankruptcy judge reorders 
+PG&E's
+financial affairs and decides in the coming months, if not years, who should 
+be
+paid and how much.
+
+??The case, said U.S. bankruptcy trustee Linda Ekstrom Stanley, "has a ripple
+effect. . . . Creditors are affected, and they can't pay their bills either."
+
+??There are small companies and conglomerates that sold power to PG&E.
+
+??There are financial institutions from Wall Street to San Francisco's
+Montgomery Street that lent money or provided services.
+
+??There are government agencies at all levels, even the California Public
+Utilities Commission.
+
+??There are some retired PG&E employees and officers, including at least one 
+of
+the company's former chief executive officers.
+
+??But there also are vendors that have provided goods and services to PG&E for
+years: tree trimming around power lines, bodywork for the utility's truck 
+fleet,
+fencing for its vast land holdings, calibration of meters, fans to cool
+electrical transformers, printing of brochures, signs for office doors, flight
+suits for aviators who patrol power lines, limousine service for traveling
+executives.
+
+??No dollar amounts are attached to names on the master list. But records and
+interviews with dozens of creditors show that the sums owed range from 
+hundreds
+of millions of dollars to very little--or nothing at all. Many of the smaller
+creditors were unaware they were on the roster until contacted by The Times.
+
+??PG&E used to buy pump filters from California Pump & Supply in Sacramento.
+
+??"We just closed out their account because they owed us $ 29," said office
+manager Lisa Giordano. "It's a hassle to get anyone over there. I just wrote 
+it
+off."
+
+??The utility bought $ 38 worth of plants from Forest Nursery in Los Osos, 
+west
+of San Luis Obispo. "It's nothing to go to court about, especially since they
+paid it," said bookkeeper Lori Parsons.
+
+??A wine wholesaler, an ice cream company and a coastal hotel are listed. So 
+is
+Sing A Long Productions in Burlingame, which supples disc jockeys and karaoke.
+
+??"I am sure we have done business with PG&E and other companies that have
+parties from time to time," said owner Nick Foster. "Maybe somebody forgot 
+that
+we did not get paid."
+
+??PG&E spokesman Ron Low said the list includes everyone to whom the utility
+wrote a check in the last two years, such as homeowners who received energy
+conservation rebates and retirees who received checks related to benefits.
+
+??"It was an attempt to notify anybody who possibly could have a claim against
+the company and to cast the widest net possible," he said.
+
+??Several PG&E retirees, such as Robert W. Oliver of Berkeley, were baffled by
+their inclusion on the list. "I draw a little pension," said Oliver, who was a
+personnel executive and left the company in 1980. "It's a vested pension."
+
+??Another retiree on the list is former Chief Executive Richard A. Clarke.
+
+??He and about 10 other former high-ranking PG&E executives or their survivors
+have retained an attorney to help ensure that their retirement benefits are
+protected during the bankruptcy case.
+
+??"We don't want someone to get the idea that this is a bunch of well-heeled
+executives trying to get a piece of the action," said the attorney, John T.
+Hansen. "Some in our group are widows of former executives who depend on the
+pensions they receive as survivors."
+
+??Hansen said some retired executives have deferred-compensation packages that
+might be considered a general unsecured bankruptcy claim.
+
+??One concern, he said, is that PG&E Chairman Robert D. Glynn Jr. wrote
+recently in a San Francisco Chronicle op-ed article that health care plans and
+other benefits "for employees and most retirees" will continue.
+
+??"We would want to know what 'most' is," Hansen said. "We want to sort it
+out."
+
+??Low of PG&E said fewer than 100 retired employees, most former officers,
+"have a portion of their pension that is unsecured." That means their claims
+will be handled in Bankruptcy Court with those of other unsecured creditors
+whose debts are not backed by utility assets.
+
+??The spokesman emphasized that ex-employees could be on the list because they
+received a check from the company for something.
+
+??Companies and individuals on the list, PG&E said, will be contacted and 
+given
+an opportunity to state their claims, which the utility will file with the 
+court
+May 11.
+
+??Meanwhile, the effects of the bankruptcy filing continue to ripple beyond 
+the
+utility.
+
+??PG&E's action hit AA Safe & Lock Co. in Santa Cruz particularly hard. The
+firm replaces keys and locks for PG&E offices and trucks.
+
+??"We are a small business, and it is a big account," said owner Paul Bing, 
+who
+declined to say what the utility owes. "We haven't been doing as much for them
+since the whole crisis started."
+
+??A Hayward firm that conducts environmental testing when PG&E remodels or
+razes buildings is out money too. Ken Byk, president of Forensic Analytical,
+would not provide a figure but said: "I am obviously concerned. . . . They 
+are a
+good customer, but any time you run into these problems, it's disappointing."
+
+??California Steam Inc. of Sacramento services PG&E pressure washers and water
+recyclers at its truck-cleaning facilities. "I have just a couple of invoices
+out," said service manager Bruce Amlin. The debt, he said, is less than $ 500.
+
+??A similar amount is owed to California Turbo Inc. in Ontario. Sales manager
+Cam Young said the utility has not paid for eight fans used to cool 
+electrical 
+transformers. "We're a small business," Young said, adding with a laugh: "We
+might have to eat peanut butter and jelly for four or five months."
+
+??Within days of the bankruptcy filing, PG&E sent about 12,000 creditors
+letters that began: "Valued Goods and Services Provider: . . . Unfortunately,
+the bankruptcy code precludes payment for goods and services received prior to
+the date of filing. Payments on this pre-petition debt will be settled as part
+of the plan of reorganization." The company assured vendors that they will be
+paid for any future purchases.
+
+??Some are not only forgiving, they are outspokenly loyal to PG&E.
+
+??The relationship between the utility and AG Signs of Stockton spans two
+decades. When Tony Guebara was starting his company, PG&E gave him business.
+"They try to help the little guy," he said. "Just about everybody in town is a
+vendor. They have people here who paint their trucks."
+
+??AG Signs now has five employees and supplies PG&E with door lettering for
+trucks, name plaques for office doors and signs and flags for construction
+sites.
+
+??Guebara said the utility's debt does not worry him: "PG&E has treated me 
+real
+well. If I lose a couple of bucks because of this adversity, that is OK. . . 
+. I
+don't think we've seen the last of PG&E."
+
+??Many businesses and individuals said they had no idea why the company
+believes it owes them money.
+
+??Being included on the creditors list left the Vallejo Camp Fire Girls & Boys
+and other charitable organizations somewhat confused. Officials of one 
+Berkeley
+church could only speculate that it was listed because PG&E stock was 
+bequeathed
+to the congregation decades ago.
+
+??Twylah Lemargie, manager of the Cancer Aid Thrift Shop in Grass Valley, said
+the utility is not even a customer. "PG&E did come in and replaced lots of our
+ceiling lights with the long tubes," she said. "But it was done free as an
+energy saver."
+
+??A number of vendors said PG&E's account is paid up.
+
+??The utility rented temporary housing units for workers on a hydroelectric
+project about two years ago, but California RV Rentals in Rio Lindo is still
+named as a creditor. "They don't owe me money," said Sandra Weaver, the 
+manager.
+"If they want to give me some, it's OK."
+
+??Many creditors are health clubs and health care providers: medical and 
+dental
+offices, foot and joint specialists, pharmacies, chiropractors.
+
+??When informed that the Castro Valley Chamber of Commerce was on the 
+creditors
+list, the woman who answered the phone laughed uproariously. Then Executive
+Director Bonnie Dettmer came to the line.
+
+??"I'm going to guess it's membership dues," she said. "They are a member and
+they have been very supportive. I would bet they belong to every chamber of
+commerce."
+
+??One creditor is the state agency that PG&E says drove the company into
+insolvency by not allowing full recovery of its wholesale power costs.
+
+??"They owe us $ 5.9 million . . . for environmental impact reports on PG&E
+projects," said Paul Clanon, director of the Public Utilities Commission's
+energy division. "It's a serious amount of money but currently is not having 
+an
+impact."
+
+
+
+??Top 10 Creditors
+
+??The creditors owed the most money by Pacific Gas & Electric Co., according 
+to
+the company's Chapter 11 filing:
+
+???Creditor ???????????????????????????????????Money owed
+
+???Bank of New York ????????????????????????$2.20 billion
+
+???California Power Exchange ???????????????$1.96 billion
+
+???Bankers Trust Co. ???????????????????????$1.30 billion
+
+???California Independent System Operator ??$1.12 billion
+
+???Bank of America* ?????????????????????????$938 million
+
+???US Bank ??????????????????????????????????$310 million
+
+???Calpine Gilroy Cogeneration LP ????????????$58 million
+
+???Calpine Greenleaf Inc. ????????????????????$49 million
+
+???Crocket Cogen ?????????????????????????????$48 million
+
+???Calpine King City Cogen LLC ???????????????$45 million
+
+
+
+
+
+??* Heading a group of banks
+
+??Source: U.S. Bankruptcy Court, Northern DIstrict of California
+
+GRAPHIC: GRAPHIC: Top 10 Creditors, Los Angeles Times PHOTO: Magdalene Reilly,
+owner of A&J Electrical Cable Corp. of Hayward, says her company has supplied
+Pacific Gas & Electric with utility cables since 1980, and that their unpaid
+bills are now hitting the $100,000 mark. ?PHOTOGRAPHER: ROBERT DURELL / Los
+Angeles Times PHOTO: "They try to help the little guy," says Tony Guebara, 
+owner
+of AG Signs in Stockton, of PG&E. He has been doing business with utility for
+two decades. ?PHOTOGRAPHER: ROBERT DURELL / Los Angeles Times
+
+LOAD-DATE: April 30, 2001
+
+?????????????????????????????14 of 103 DOCUMENTS
+
+??????????????????????Copyright 2001 / Los Angeles Times
+
+??????????????????????????????Los Angeles Times
+
+?????????????????????April 30, 2001, Monday, Home Edition
+
+SECTION: Part A; Part 1; Page 3; Metro Desk
+
+LENGTH: 1228 words
+
+HEADLINE: CALIFORNIA AND THE WEST;
+
+THE CALIFORNIA ENERGY CRISIS;
+
+POWER WOES COMPLICATE DISCUSSIONS ON BUDGET;
+
+FUNDING: GOV. DAVIS' PLAN FOR NEXT YEAR FACES DEMANDS FOR BILLIONS AS A 
+RESERVE
+AND TO CUSHION ELECTRICITY RATE HIKES.
+
+BYLINE: DAN MORAIN, TIMES STAFF WRITER
+
+
+
+DATELINE: SACRAMENTO
+
+BODY:
+
+
+??Jockeying over the state's next spending plan, a tradition that usually 
+takes
+place in the summer, already is turning intense as the energy crisis casts a
+pall over what otherwise might have been relatively painless budget squabbles.
+
+??A key state senator, worried about the slowing economy, is looking for 
+places
+to pare as much as $ 4 billion from Gov. Gray Davis' proposed $ 104.7-billion
+budget. And Republicans are beginning to demand that the state spend billions 
+in
+general tax money to cushion electricity rate hikes of up to 40% being imposed
+on consumers and businesses.
+
+??Davis won't sign the budget for the 2001-02 fiscal year into law until late
+June at the earliest. But with California mired in the energy crisis and the
+economy slowing, the new budget is shaping up to be especially vexing.
+
+??California's largest utility and a major private employer, Pacific Gas &
+Electric, is in bankruptcy. The state has spent $ 5.2 billion in general tax
+money to buy electricity, with no end in sight. Even before summer 
+temperatures
+hit, Sacramento shelled out $ 90 million to buy electricity in a single day 
+last
+week.
+
+??And the Wall Street rating firm Standard & Poor's, unsure that the state 
+will
+be reimbursed for the power purchases, lowered California's credit rating two
+notches for the first time since the recession of the 1990s.
+
+??Brightening an otherwise cloudy situation, income tax payments are meeting 
+or
+exceeding predictions. More than $ 8 billion in checks from April income tax
+returns have flooded into the Franchise Tax Board, said Department of Finance
+economist Ted Gibson. On one day last week, the state's haul was $ 3.6 
+billion,
+a record.
+
+??"Receipts are very much on track, I'm relieved to tell you," Gibson said.
+
+??But even as budget writers were exhaling, the payments merely offered proof
+that the economy was strong last year, back when then-President Bill Clinton 
+was
+heralding the longest period of economic growth in U.S. history, and
+Californians' lexicon did not include the term "rolling blackout."
+
+??State income and sales tax receipts softened in the first few months of 
+2001,
+an indication that people will be earning less this year--and paying less in
+taxes next year.
+
+??Seeing trouble ahead, Senate Budget Committee Chairman Steve Peace (D-El
+Cajon) wants to boost the state's emergency reserve, which was $ 1.9 billion 
+in
+January. To do that, Peace last week called on budget committee members to 
+come
+up with a list of cuts totaling $ 2 billion to $ 4 billion.
+
+??Without a larger reserve heading into 2002, Peace said, the slowing economy
+could force the state to make deep cuts or raise taxes next year, at a time 
+when
+most legislators and Davis will be running for reelection.
+
+??"The thing to be worried about is not the current year, but the trend line,"
+Peace said.
+
+??He adds a caveat for the spending plan that by law must be in place by July
+1: There will be cuts if legislators fail to approve legislation that state
+Treasurer Phil Angelides says he needs to obtain short-term loans and market
+long-term bonds to finance electricity purchases.
+
+??Davis and Angelides are preparing the largest bond sale--a way that
+government borrows money--in U.S. history, as much as $ 12.4 billion. The 
+state
+would use the proceeds to ease the shock to utility customers of record high
+electricity prices this year. The bond debt would be paid off over a period of
+perhaps 15 years.
+
+??Given the size and complexity of the bond issue, many legislators say
+Angelides may not be able to sell it for months.
+
+??Davis, however, has an immediate need for money. The governor must release a
+revised state budget within weeks. So, he is pushing for legislators to 
+approve
+legislation that would allow Angelides to obtain a short-term loan of as much 
+as
+$ 6 billion.
+
+??At least some of the proceeds of the long-term bonds would be used to pay 
+off
+the short-term loan--sort of like using one credit card to pay the balance on 
+a
+second piece of plastic.
+
+??Republican legislators are balking at the idea.
+
+??Back in December, before the state entered the power buying business, GOP
+legislators had called for $ 3.2 billion in tax cuts. With the energy crisis
+complicating the financial situation, some Republicans are contending that 
+Davis
+should use as much as $ 5 billion from the budget surplus to soften the impact
+of electricity rate hikes.
+
+??"That will be a de facto tax cut," said Senate Republican leader Jim Brulte
+of Rancho Cucamonga. "Our Democratic friends want to do the bridge financing 
+so
+they can increase the size of government."
+
+??Republicans are in the minority. But they have a significant voice, because
+state law requires that both houses of the Legislature approve spending
+decisions by a two-thirds vote.
+
+??The state Constitution says the budget must be in place by the July 1 start
+of the new fiscal year. Davis signed his first two budgets on time. Given this
+year's uncertainties, however, some legislators are thinking twice about 
+making
+July vacation plans.
+
+??The sudden turnaround may come as a shock to many legislators and lobbyists
+who seek slices of the state budget pie.
+
+??In recent years, legislators have grown used to the multibillion-dollar
+windfalls of tax payments, which allowed them to deliver new swimming pools,
+school programs, museums, parks, social and health care spending, and tax cuts
+to their constituents. Indeed, the budget in Davis' first two years grew 37%,
+even as the Democratic governor and legislators cut taxes by $ 3.9 billion.
+
+??In a Legislature populated by term-limited newcomers, only a handful of
+current legislators were in the Capitol in the early 1990s, when the worst
+recession to hit California since the Great Depression caused the state budget
+to actually shrink. Then-Gov. Pete Wilson and the Legislature reacted to a $
+14-billion budget gap by raising taxes by more than $ 5 billion and slashing
+spending.
+
+??"It is not going to be the pie-in-the-sky budget some of us thought it would
+be last year and even as late as January," said Sen. Jack O'Connell (D-San 
+Luis
+Obispo).
+
+??Veterans of the annual summer rite say there is no template for the coming
+budget fights. Jean Ross of the California Budget Project, a private budget
+watchdog and advocacy group, said Davis and legislators not only must pay
+attention to the economy.
+
+??They also must take into account many unknowns: Will the judge overseeing
+PG&E's bankruptcy proceeding seek to raise rates further? Will federal energy
+regulators be able to effectively limit wholesale electricity costs? What will
+the economic impact be of summer blackouts?
+
+??"It's a lot more complex and unpredictable than other years," Ross said.
+
+??Legislators say they are lowering their sights. But letters from state
+senators requesting money for their favored projects fill five large red
+binders. "You wouldn't know there is a money shortage based on requests in
+appropriations," said Assembly Appropriations Committee Chairwoman Carole 
+Migden
+(D-San Francisco), preparing for what she calls her "hatchet role" of blocking
+bills that require spending.
+
+??For his part, Davis has not decided to significantly cut back on his
+proposals, ranging from a sales tax "holiday" timed for back-to-school 
+shopping
+to plans to clean sewage from beaches. He won't reveal those decisions until 
+he
+releases his revised spending plan.
+
+LOAD-DATE: April 30, 2001
+
+?????????????????????????????15 of 103 DOCUMENTS
+
+??????????????????????Copyright 2001 / Los Angeles Times
+
+??????????????????????????????Los Angeles Times
+
+?????????????????????April 30, 2001, Monday, Home Edition
+
+SECTION: Metro; Part B; Page 7; Op Ed Desk
+
+LENGTH: 839 words
+
+HEADLINE: COMMENTARY;
+
+WILL THE FERC SEE THE LIGHT ON THE LAW?
+
+BYLINE: FRANK A. WOLAK, Frank A. Wolak, an economics professor at Stanford
+University, is, chairman of the Market Surveillance Committee of the 
+California,
+Independent System Operator
+
+
+
+BODY:
+
+
+??Out-of-state firms selling into the California wholesale electricity market
+at exorbitant prices have been blamed for the current electricity crisis. They
+are, claim many observers, exercising their market power to raise wholesale
+electricity prices.
+
+??Although it is not illegal under California or U.S. antitrust law for a firm
+to exercise its market power, it is illegal to do so under the Federal Power
+Act. The Federal Energy Regulatory Commission, or FERC, which regulates the
+California wholesale electricity market, is the entity charged with enforcing
+this law. Its refusal to take sufficient actions that would result in "just 
+and
+reasonable" wholesale electricity rates is the fundamental cause of 
+California's
+current energy crisis. It is highly unlikely that anything it has done in the
+last week has changed things at all.
+
+??In 1935, Congress passed the Federal Power Act and required the Federal 
+Power
+Commission (the predecessor to FERC) to set "just and reasonable" wholesale
+electricity prices. Just and reasonable prices are those that recover 
+production
+costs, including a "fair" rate of return on the capital invested by the firm.
+Moreover, if the FERC finds that wholesale electricity prices are unjust and
+unreasonable, the Federal Power Act gives it wide-ranging discretion to take
+actions that result in just and reasonable prices. The FERC can also order
+refunds for any payments by consumers in excess of just and reasonable prices.
+
+??Almost 10 years ago, the FERC began to allow generators to receive market
+prices instead of prices set through a cost-of-service regulatory process.
+However, there is no guarantee that market prices meet the just and reasonable
+standard required by the Federal Power Act. Markets often set prices
+substantially in excess of the production costs for significant periods of 
+time.
+This occurs because one or more firms operating in the market have what
+economists call market power--the ability of a firm to raise market prices and
+profit from it.
+
+??However, if no firm possesses market power, the market price should be very
+close to a price that only recovers production costs. In such a circumstance,
+the price set by the market satisfies the just and reasonable standard of the
+Federal Power Act.
+
+??Before it allows any market participant to receive a market price rather 
+than
+a cost-based price set through a regulatory process, the FERC requires each
+participant to demonstrate that it does not have market power. In other words,
+each market participant must submit sworn testimony to the FERC demonstrating 
+it
+does not have the ability to raise market prices and profit from this 
+behavior.
+
+??Each of the out-of-state generators made these filings before they began
+selling into the California market, which started in April 1998. Each firm had
+its authority to receive market prices approved by the FERC for a three-year
+period that ends before this summer for several of the firms. It is virtually
+impossible to determine on a prospective basis whether a firm possesses market
+power. Moreover, the methodology used by the FERC to make this determination
+uses analytical techniques that have long been acknowledged by the economics
+profession as grossly inadequate. The events of the past 10 months have
+demonstrated that contrary to their filings stating otherwise, all of the
+out-of-state generators possess significant market power.
+
+??A number of independent studies have shown that the market power exercised 
+by
+these firms has resulted in unjust and unreasonable rates from May 2000, until
+now. Moreover, in its Dec. 15, 2000 report on the California electricity 
+market,
+the FERC concluded that wholesale electricity prices during the summer and
+autumn of 2000 were unjust and unreasonable and reflected the exercise of
+significant market power.
+
+??Despite its own conclusion, the FERC thus far has refused to set just and
+reasonable prices for wholesale electricity in California. Instead, the FERC
+implemented market rule changes that have enhanced the ability of these firms 
+to
+set excessive wholesale electricity prices. In addition, it has refused to 
+order
+refunds for any overpayment during the summer and autumn of 2000 for the 
+prices
+that it deemed unjust and unreasonable.
+
+??Fortunately for California consumers, the California Public Utilities
+Commission and Gov. Gray Davis refused to be accomplices in the FERC's 
+decision
+not to enforce the Federal Power Act. They refused to pass on to California
+consumers prices that the FERC itself had determined were unjust and
+unreasonable.
+
+??Because these out-of-state firms must apply for renewal of their 
+market-based
+pricing authority before this summer, the FERC has one more opportunity to set
+just and reasonable prices for wholesale electricity in California. It has
+before it several proposals that would enforce all provisions of the Federal
+Power Act. The health of the California and national economies would be 
+severely
+undermined if the FERC continues to ignore its legal obligations.
+
+LOAD-DATE: April 30, 2001
+
+?????????????????????????????16 of 103 DOCUMENTS
+
+??????????????????Copyright 2001 The New York Times Company
+
+??????????????????????????????The New York Times
+
+?????????????????April 30, 2001, Monday, Late Edition - Final
+
+SECTION: Section A; Page 1; Column 5; Business/Financial Desk
+
+LENGTH: 1444 words
+
+HEADLINE: While a Utility May Be Failing, Its Owner Is Not
+
+BYLINE: ?By By RICHARD A. OPPEL Jr. and LAURA M. HOLSON
+
+BODY:
+
+??Pacific Gas and Electric, the giant California utility, may have just made
+one of the largest bankruptcy filings in history, but it has been a banner 
+year
+for the rest of its parent company, the PG& E Corporation.
+
+??In Bethesda, Md., far from the energy crisis in California, another PG& E
+subsidiary, National Energy Group, earned $162 million last year and ranked as
+the nation's third-largest power trader. Compensation for the unit's 
+executives
+soared. Many investors now believe that the subsidiary, just a decade in the
+making, is by itself worth more than its 96-year-old utility sibling.
+
+???How did National Energy get so big so fast? By using cash, partly generated
+by its sister utility, to buy unregulated power plants in the Northeast, 
+expand
+trading-floor operations and sell power across the country. The exact numbers
+are in dispute, but much of Nationals Energy's profits last year came from
+California.
+
+??Most other large utilities have done the same thing over the past decade,
+building national or even global power companies from roots in local 
+monopolies.
+But nowhere is the success of these unregulated businesses more of an issue 
+than
+in California, where PG& E's investments may be challenged in bankruptcy 
+court.
+
+??Still, such transfers of assets were fundamental to deregulation plans in 
+two
+dozen states, and they were encouraged by federal rules designed to build a 
+new
+wholesale marketplace in electricity.
+
+??And today, the offspring of the nation's utilities dominate that market,
+after industry leader Enron. ?Eight of the nation's 10 largest power marketers
+are affiliates or spinoffs of regulated utilities, controlling about 42 
+percent
+of power trading.
+
+??It is largely these unregulated power producers and traders whose sales of
+power in California have prompted accusations by state leaders of price 
+gouging,
+and demands for the price caps that federal regulators took their first, 
+halting
+steps toward embracing last week.
+
+??The profitability of the utilities' unregulated operations is becoming clear
+as companies report earnings for the first three months of the year.
+
+??For example, Reliant Energy reported that operating income at its 
+unregulated
+wholesale energy business soared to $216 million in the first quarter, or 16
+percent more than at its regulated utility, which serves Houston. This week,
+Reliant expects to spin off its unregulated businesses through an initial 
+public
+stock offering that would put a market value on the new company of as much as
+$8.8 billion -- more than the rest of Reliant.
+
+??A number of other major utility companies have spinoffs or trading and
+generation units that now earn nearly as much as, or more than, their core
+utility operations. These include Duke Energy in Charlotte, N.C.; Sempra 
+Energy
+of San Diego; the Southern Company in Atlanta; the Constellation Energy Group 
+in
+Baltimore; and Utilicorp United in Kansas City, Mo.
+
+??In some places, the growth of the unregulated businesses continues to raise
+questions of fairness -- particularly where utilities have been permitted to
+transfer plants to the new units at deep discounts to their market value.
+Critics say that ratepayers, whose bills paid for the plants' construction,
+should benefit more when the plants are sold.
+
+??In Florida, a commission on energy deregulation formed by Gov. Jeb Bush has
+proposed permitting such transfers on the grounds that they are needed to 
+create
+a new wholesale marketplace. Opponents, including the Florida Municipal 
+Electric
+Association, which represents utilities owned by local governments, say the 
+plan
+would produce a $9 billion windfall that should go to ratepayers.
+
+??In California, some creditors of Pacific Gas and Electric have signaled that
+they will want the bankruptcy court in San Francisco to review parent PG& E's
+efforts to keep its unregulated businesses out of creditors' reach.
+
+??And the California Public Utilities Commission is investigating whether PG& 
+E
+and Edison International, whose Southern California Edison utility unit is 
+also
+near insolvency, have improperly transferred cash to their parents and to
+unregulated sister companies.
+
+??A recent audit ordered by the commission showed that Pacific Gas and 
+Electric
+transferred $4.1 billion to PG& E from 1997 to 1999. Most of that went to
+dividends and stock repurchases, but $838 million was invested in other
+subsidiaries, primarily its National Energy Group unit. Southern California 
+Edison transferred $4.8 billion to its parent company between 1996 and 
+November
+2000, a separate audit showed; Edison International invested $2.5 billion in 
+its
+unregulated Mission Group subsidiaries during the same period.
+
+??Executives of the companies say the transfers were proper. Audits have shown
+that "we followed the rules and didn't do anything wrong," said PG& E's chief
+executive, Robert Glynn. "We did not ask consumers in California to support 
+any
+of the losses that occurred in those businesses when we started them up," he
+said. Now, forcing the unregulated units to support their ailing sister 
+utility,
+he said, "would be no different than calling up shareholders and saying, 'The
+California electric bills are pretty high; send some money in so we can give 
+it
+back to them.' "
+
+??Loretta Lynch, the president of the utilities commission, took a different
+view. "Should we look backward," she asked, "and say, 'Hey, wait a minute --
+that corporate structure profited by all of our power payments to them in the
+past, and they should participate in helping us through to get to a solution 
+in
+the future?' "
+
+??The cornerstone deal of PG& E's unregulated energy business was struck four
+years ago, when it acquired the hydroelectric and fossil-fueled generation
+plants of New England Electric System for $1.6 billion. PG& E is now one of 
+the
+largest generators in the Northeast, operating plants that can light up to 
+five
+million average-sized homes.
+
+??While California officials say Pacific Gas and Electric's woes have been
+caused, at least in part, by market manipulation by out-of-state generators, 
+the
+Justice Department has been investigating possible market abuses involving 
+PG& E
+and two other companies in New England. Mr. Glynn said that PG& E had done
+nothing wrong and that the company has responded to Justice Department 
+requests
+for information.
+
+??Overall, PG& E's National Energy Group has 30 power plants in 10 states, and
+others under development or construction that include one in Athens, N.Y., 
+that
+is expected to begin supplying electricity to New York City in 2003. It also
+operates an energy trading operation in Bethesda and controls a natural gas
+pipeline into Northern California.
+
+??To Wall Street, the utility companies' investments in unregulated businesses
+were a necessary survival tactic, as investors demanded faster-growing 
+profits.
+
+??"The stock market was going like gangbusters, and the utilities' returns of
+11 percent weren't cutting it," said Richard Cortright, a utility analyst at
+Standard and Poor's, the bond rating agency.
+
+??Moreover, as deregulation loomed, industry executives saw no choice but to
+make new investments. "It looked like the utility opportunity was going to 
+start
+shrinking," Mr. Glynn said.
+
+??Consumer groups question whether utilities would have invested more in
+improving basic service if they had not had the option of putting money
+elsewhere.
+
+??Mike Florio, a lawyer with The Utility Reform Network, a consumer group in
+San Francisco, cited findings last year by state regulators that from 1987 to
+1995, Pacific Gas & Electric spent nearly $550 million less on maintaining
+electric and gas facilities than had been factored into its rates. Separately,
+in 1999, the utility agreed to pay about $29 million to settle charges that
+consumers were endangered because it failed to trim trees near high-voltage
+power lines.
+
+??"Several hundred million dollars didn't get spent for maintenance, and that
+ultimately falls to the bottom line as profit," Mr. Florio said.
+
+??Mr. Glynn said the utility had always spent appropriate sums on maintenance,
+coming within one-half of one percent of the amount built into rates over a
+20-year period.
+
+??In the big picture, he said, it was hard to see how PG& E had been a winner
+in deregulation, even before its utility's humiliating bankruptcy. "If you 
+look
+at what happened, the net of it was a loss," Mr. Glynn said, "because the 
+value
+leaked out on the regulated utility side faster than we were able to build it 
+on
+the nonregulated side."
+
+About This Report
+
+??This article is part of a joint reporting effort with the PBS series
+"Frontline," which will broadcast a documentary about California's energy 
+crisis
+on June 5.
+
+
+??http://www.nytimes.com
+ 
+GRAPHIC: Charts: "The Biggest Power Marketers"
+Most of the biggest unregulated power marketers and traders are owned by the 
+the
+country's biggest electric utilities or have been spun off by them. Here are 
+the
+top 10, based on 2000 sales.
+
+Companies owned or spun off from utilities: Enron Power and affliliates
+MEGAWATTS SOLD IN 2000 (IN MILLIONS): 590.2
+MARKET SHARE: 13.03%
+CHANGE FROM 1999: + 97%
+
+Companies owned or spun off from utilities: American Electric Power Service
+MEGAWATTS SOLD IN 2000 (IN MILLIONS): 401.3
+MARKET SHARE: 8.86
+CHANGE FROM 1999: +84
+
+Companies owned or spun off from utilities: PG&E Energy and affiliates
+MEGAWATTS SOLD IN 2000 (IN MILLIONS): 282.6
+MARKET SHARE: 6.24
+CHANGE FROM 1999: +62
+
+Companies owned or spun off from utilities: Duke Energy and affiliates
+MEGAWATTS SOLD IN 2000 (IN MILLIONS): 276.2
+MARKET SHARE: 6.10
+CHANGE FROM 1999: +226
+
+Companies owned or spun off from utilities: Reliant Energy and affiliates
+MEGAWATTS SOLD IN 2000 (IN MILLIONS): 204.3
+MARKET SHARE: 4.51
+CHANGE FROM 1999: +166
+
+Companies owned or spun off from utilities: Mirant Americas Energy and
+affiliates
+MEGAWATTS SOLD IN 2000 (IN MILLIONS): 202.6
+MARKET SHARE: 4.47
+CHANGE FROM 1999: +23
+
+Companies owned or spun off from utilities: Aquila Energy Marketing
+MEGAWATTS SOLD IN 2000 (IN MILLIONS): 186.7
+MARKET SHARE: 4.12
+CHANGE FROM 1999: +4
+
+Companies owned or spun off from utilities: Cinergy operating companies
+MEGAWATTS SOLD IN 2000 (IN MILLIONS): 166.4
+MARKET SHARE: 3.67
+CHANGE FROM 1999: +246
+
+Companies owned or spun off from utilities: Constellation Power Source
+MEGAWATTS SOLD IN 2000 (IN MILLIONS): 162.3
+MARKET SHARE: 3.58
+CHANGE FROM 1999: +222
+
+Companies owned or spun off from utilities: Williams Energy and affiliates
+MEGAWATTS SOLD IN 2000 (IN MILLIONS): 138.4
+MARKET SHARE: 3.05
+CHANGE FROM 1999: +127
+
+(Source: Platt Power Markets Week)(pg. A17)
+
+"Outdoing Their Parents"
+Taking advantage of deregulation, many of the country's biggest power 
+utilities
+have set up unregulated subsidiaries to trade and produce power. These
+subsidiaries have become extremely profitable, often outperforming their
+regulated corporate siblings.
+
+UTILITY: Duke Energy
+OPERATING INCOME (MILLIONS)
+1Q '00: +$465
+1Q '01: +460
+UNREGULATED BUSINESS: North American Wholesale Energy
+OPERATING INCOME (MILLIONS)
+1Q '00: +82
+1Q '01: +348
+RELATIONSHIP OF UNREGULATED BUSINESS TO UTILITY
+North American Wholesale Energy is a subsidiary of Duke Energy.
+
+UTILITY: Reliant Energy
+OPERATING INCOME (MILLIONS)
+1Q '00: +$202
+1Q '01: +186
+UNREGULATED BUSINESS: Wholesale Energy
+OPERATING INCOME (MILLIONS)
+1Q '00: -22
+1Q '01: +216
+RELATIONSHIP OF UNREGULATED BUSINESS TO UTILITY
+Reliant Energy plans to sell 18 percent of Reliant Resources -- mostly 
+Wholesale
+Energy -- this week.
+
+UTILITY: Southern
+OPERATING INCOME (MILLIONS)
+1Q '00: +$439
+1Q '01: +483
+UNREGULATED BUSINESS: Mirant
+OPERATING INCOME (MILLIONS)
+1Q '00: +169
+1Q '01: +279
+RELATIONSHIP OF UNREGULATED BUSINESS TO UTILITY
+Southern completed the spinoff of Mirant on April 2.
+
+(Source: S.E.C. filings)(pg. A17)
+
+LOAD-DATE: April 30, 2001
+
+?????????????????????????????17 of 103 DOCUMENTS
+
+?????????????????Copyright 2001 The Chronicle Publishing Co.
+
+?????????????????????????The San Francisco Chronicle
+
+????????????????????APRIL 30, 2001, MONDAY, FINAL EDITION
+
+SECTION: NEWS; Pg. A3
+
+LENGTH: 1108 words
+
+HEADLINE: NEWSMAKER PROFILE;
+
+Nettie Hoge;
+
+Taking on power;
+
+Consumer advocate revels in uphill battle
+
+SOURCE: Chronicle Staff Writer
+
+BYLINE: Chuck Squatriglia
+
+BODY:
+Given a choice, Nettie Hoge would rather be out in her garden right about now,
+digging in the dirt.
+
+???Instead, the head of The Utility Reform Network is digging into 
+California's
+energy mess, making sure the average Joe doesn't take it in the kisser as
+lawmakers, regulators and utility brass hats try to keep the lights on and
+utilities afloat.
+
+???It's grueling work, full of long hours that leave precious little time for
+the gardening Hoge so adores. Not that she's complaining. Hoge, 50, honestly
+loves her job and insists she wouldn't do anything else.
+
+???"I've got a mutant gene," she said with a laugh as she relaxed, for just a
+moment, in a spartan office littered with messy piles of paperwork. "I've 
+always
+wanted to do this."
+
+???TURN has been keeping tabs on companies like Pacific Gas and Electric Co.
+and Pacific Bell for more than 25 years. Hoge and her crew lobby the Public
+Utilities Commission, counsel lawmakers, analyze reports and file the 
+occasional
+lawsuit. They are, in short, professional gadflies who represent the public 
+in a
+system that some say favors big business.
+
+???"The biggest protector of the consumer, by far, has been TURN," said Bob
+Gnaizda, public policy director for the Greenlining Institute in San 
+Francisco.
+"(Hoge) has made TURN into the leading consumer utility advocate in the 
+nation."
+
+???It's not glamorous work, nor is it particularly lucrative. Hoge, a lawyer 
+by
+training, took a pay cut when she accepted the $75,000-a-year job in 1995. 
+And,
+truth be told, most folks have no idea Hoge is in their corner.
+
+???"There are other rewards," she said. "You don't get the adoration of Joe
+Citizen standing up and yelling, 'Yay TURN!' But there's an excitement about
+being involved in the discussions where the big decisions are made."
+
+???The youngest of four children, Hoge bounced around the middle of the 
+country
+as she grew up, following her career Army officer father from Kansas to 
+Oklahoma
+to Texas.
+
+???"All the places where you can shoot big guns," she joked.
+
+???Hoge graduated from high school in Pullman, Wash. After a stint at the
+University of Southern California, she graduated Phi Beta Kappa from 
+Washington
+State University and earned a law degree from the University of San Francisco.
+
+???Hoge's entire career has been spent protecting the underdog. During a
+two-year stint as a law school graduate at Brobeck, Phleger & Harrison in San
+Francisco, "I got into trouble for doing too much pro bono work," Hoge 
+recalled.
+"The partners would come around each month to check our billable hours. Mine
+were always zero."
+
+???Since taking the helm almost six years ago, Hoge has led TURN to some
+impressive consumer victories. They include persuading the Public Utilities
+Commission to create a $352 million fund to underwrite rural telephone service
+and bringing an end to ratepayer subsidies of PG&E's Diablo Canyon nuclear 
+power
+plant in 2002.
+
+???Hoge, a stickler for detail, has a reputation for giving exhaustive answers
+to even mundane questions.
+
+???"Everybody agrees she knows what she's talking about," said Harvey
+Rosenfield, president of the Foundation for Taxpayer and Consumer Rights. "In
+many respects, TURN is the intellectual force in this debate. Those of us who
+are deeply involved in this issue rely upon Nettie to lay out the facts for 
+us."
+
+???Hoge is surprised people think her wonkish, but admits she is circumspect.
+
+???"My big fear is being marginalized and having people think we (at TURN)
+don't know what we're talking about," she said. "Maybe I overcompensate."
+
+???Few doubt Hoge's smarts, but she has plenty of critics among the utilities,
+lawmakers and lobbyists she has crossed swords with over the years. However,
+none of them will say anything publicly.
+
+???"We have no comment on her," said Shawn Cooper, a spokesman for Pacific Gas
+and Electric Corp., the parent company of the foundering utility.
+
+???It was the same story with Southern California Edison and many of the
+legislators who have criticized Hoge and TURN in recent years.
+
+???Hoge isn't surprised her adversaries are keeping mum.
+
+???"There's nothing for them to gain by saying anything negative about us
+because the public is on our side," she said.
+
+???Still, TURN has drawn criticism from Carl Wood, generally considered the
+most ardent consumer advocate on the PUC.
+
+???"Frankly, I would have expected myself to be on the same page with (TURN)
+more than I actually am," Wood said. "I'm not sure they wholeheartedly believe
+in regulation, and I think it comes from a distrust of regulators. But maybe 
+I'm
+taking it personally."
+
+???Wood chastised TURN for supporting utility divestiture of generating plants
+as California's deregulation effort got under way. And he said Hoge places too
+much emphasis on the utilities' role in the energy mess instead of focusing on
+the profiteering of power generators.
+
+???"The utilities have some culpability, but they are not the main driver
+behind the crisis," Wood said. "TURN's interventions do not reflect that
+reality."
+
+???Still, he gave TURN high marks and credited Hoge with making it a far more
+effective advocate.
+
+???Hoge admits she has had her hands full with the energy crisis, saying she
+and her staff "are trying to keep our health and sanity."
+
+???Asked if she would have joined TURN if she had known how crazy California's
+energy market would become and how hard she would have to work, Hoge was
+characteristically wary.
+
+???"I don't think anyone would want to sign up for this," she said after a
+moment's pause. "On the one hand, it's very serious, very rewarding work. But 
+on
+the other hand, sometimes you're just beating your head against the wall."
+
+???Still, Hoge doesn't plan to give up the fight anytime soon.
+
+???"But at some point I'd like to retreat and spend some time contemplating 
+the
+forest for the trees."
+
+???Or the garden for the plants.
+
+??-----------------------------------------------
+
+??Nettie Hoge -- Age: 50.
+
+???-- Residence: Oakland.
+
+???-- Job: Executive director, The Utility Reform Network, October 1995 to
+present. The utility and telecommunications industry watchdog group in San
+Francisco represents consumers before the Public Utilities Commission, the
+Legislature and elsewhere.
+
+???-- Education: Bachelor's degree in communications, Phi Beta Kappa, from
+Washington State University, 1976. Law degree, cum laude, from University of 
+San
+Francisco, 1985.
+
+???-- Background: Most of Hoge's 25-year career has been spent protecting the
+little guy, first as a social worker and later as an attorney with Consumers
+Union and the California Department of Insurance under Insurance Commissioner
+John Garamendi.E-mail Chuck Squatriglia at csquatriglia@sfchronicle.com.
+
+GRAPHIC: PHOTO, (1) Nettie Hoge is respected for her encyclopedic knowledge of
+regulatory issues., (2) Nettie Hoge has headed The Utility Reform Network for
+six years. "I've always wanted to do this," she says. / John O'Hara/The
+Chronicle
+
+LOAD-DATE: April 30, 2001
+
+?????????????????????????????20 of 103 DOCUMENTS
+
+??????????????????????Copyright 2001 The Washington Post
+
+?????????????????????????????The Washington Post
+
+????????????????????April 30, 2001, Monday, Final Edition
+
+SECTION: A SECTION; Pg. A03
+
+LENGTH: 1669 words
+
+HEADLINE: Energy Forecast for Summer: No Blackouts but Price Spikes; Grid
+Managers Promote Conservation, Await New Plants
+
+BYLINE: William Claiborne, Washington Post Staff Writer
+
+DATELINE: CHICAGO
+
+BODY:
+
+
+??The rest of the United States is virtually certain to escape rolling
+blackouts this summer like the ones that have plagued California, but record
+price hikes for electricity are likely in many places, energy experts agree.
+
+???Despite their confidence that they can survive everything but an extremely
+hot summer without power outages, managers of the nation's interconnecting
+electrical power grids are anxiously awaiting new power plants that are
+scheduled to come on-line. They are also promoting more frugal consumption by
+power customers and seeking ways to avoid distribution logjams during peak
+demand periods this summer.
+
+???"We see a big distinction between California and the rest of the country,"
+said David Costello, an economist in charge of short-term forecasting for the
+Energy Information Administration, the statistical arm of the Department of
+Energy. "We have no real reason to believe anyplace is unusually at risk."
+
+???But record spikes in the price of electricity are a given for this summer,
+some industry analysts say, because a growing proportion of power plants now 
+run
+on natural gas, which has doubled in price over the past year.
+
+???The DOE estimates that electricity demand will grow 2.3 percent nationally
+this year, with much higher increases in the West and the South. At the same
+time, the reserve capacity margin that utilities try to build into their 
+systems
+to handle the hottest days -- when use of air conditioners and other 
+appliances
+taxes supplies -- has been falling in some regions to well less than the 
+desired
+15 percent above peak summer loads.
+
+???That means utilities may have to import large volumes of electricity over
+transmission systems that were not designed to handle them. What power 
+officials
+are hoping to avoid are critical shortfalls in generating capacity in some
+regions, followed by overwhelming strains on aging high-voltage transmission
+lines as power is bought and sold across the country in increasingly 
+competitive
+electricity markets.
+
+???Even though scores of new power plants have been built in the Northeast,
+South and Midwest in recent months and many more are on the drawing boards, 
+the
+expected 15 percent increase in new generation will not be fully on-line for
+another two years. That leaves parts of the nation vulnerable to outages if
+there are prolonged heat waves this summer, or if utilities are unable to 
+start
+up new or rebuilt gas-fired power plants as scheduled, according to energy
+experts.
+
+???Despite all those potential problems, there is no reason to believe that
+California's power nightmares will spread to the rest of the country, 
+officials
+said.
+
+???This year, utilities have announced they are adding 40 to 50 gigawatts of
+new generating capacity to gas-fired plants across the nation, compared with
+only 22 gigawatts that were added last year, Costello said. He said that even 
+if
+half of those announced plants never materialize, this year's new capacity is
+certain to be as great or greater than last year's, meaning that the predicted
+increased consumption can probably be met. A gigawatt is 1,000 megawatts, or
+enough to power about 1 million homes.
+
+???"We don't know that [transmission] infrastructure has really been fixed, 
+but
+my sense is they're in better shape overall as far as capacity is concerned,"
+Costello said.
+
+???The nation's 203,600-mile high-voltage network has undergone relatively few
+changes in 50 years, during which deregulation has prompted electricity 
+wholesalers to sell power at even greater distances to reach more lucrative
+markets, adding to the pressure on the grid system.
+
+???California, in a sense, has been serving as a stalking horse for other
+states, some of which also deregulated their electricity systems and are
+consciously avoiding doing anything that resembles the California model.
+
+???Eugene Gorzelnik, spokesman for the North American Electric Reliability
+Council (NERC), which oversees the interlocking power grids, said: "Obviously,
+there will be problems in California and there's nothing that's going on that
+will solve those problems. But a lot of [utilities] people are looking at
+California and saying to themselves, 'Can I do this in a way they didn't?'
+That's a positive development."
+
+???Apart from California, the worst problems are expected in adjoining western
+states, as Golden State electrical grid managers scramble to buy electricity 
+at
+a time when power production at the region's hydroelectric dams is already 
+being
+cut because of shrinking water levels in reservoirs.
+
+???The Northwest Power Planning Council recently reported that the demand for
+electricity has grown 24 percent in the past decade while new generation has
+grown only 4 percent.
+
+???NERC is not expected to issue its long-awaited pre-summer electricity
+reliability assessment -- a document that forecasts peak generation and
+consumption -- until next month. But in interviews, officials of many of the 
+10
+regional reliability councils that comprise the national grid system appeared
+fairly sanguine about the prospect of avoiding widespread brownouts this 
+summer.
+
+???"Assuming normal weather and assuming our generating units come off
+maintenance on schedule, we don't anticipate any particular problems meeting 
+our
+loads," said Bill Reinke, executive director of the Southeastern Electricity
+Reliability Council.
+
+???Reinke said the region was adding 300 miles of new transmission lines, has
+5,600 megawatts of new generating capacity -- enough to power 5.6 million 
+homes
+-- and is seeking to identify potential transmission bottlenecks so it can 
+take
+preemptive corrective measures against distribution failures.
+
+???Outside the West, the greatest potential for blackouts may be in New York,
+where the near certainty of transmission logjams in an antiquated 
+infrastructure
+prompted Consolidated Edison Co. to request approval for 11 combustion turbine
+mini-generators in case of a power shortage. Residents and conservationists 
+are
+appealing court approval of the generators on environmental grounds.
+
+???Stephen Allen, spokesman for the Northeast Power Coordinating Council said,
+"If the 400 megawatts the generators provide go on-line, it'll still be tight,
+but New York should be okay." He said Upstate New York should have surplus
+electricity to sell to New York City, although some experts say transmission
+bottlenecks could make it difficult for New York City to import power on
+abnormally hot days.
+
+???New York City customers, who have already had their electricity rates
+increased 40 percent in the last two years, could see prices rise an 
+additional
+50 percent because of the deregulated power industry's dependence on gas-fired
+generation, according to some analysts.
+
+???Allen said that since last June, New England has added mostly gas-fired
+plants that generate more than 1,000 megawatts and should have an additional
+2,000 megawatts on-line before the end of the summer. He said the region 
+should
+have a 15 percent to 18 percent capacity margin.
+
+???The Mid-Atlantic Area Council, made up of Maryland, Virginia, the District
+of Columbia, Delaware, New Jersey and Pennsylvania, is expecting a reserve
+margin of more than 16 percent and an increase of 2,100 megawatts in 
+generating
+capacity over last year, to about 60,000 megawatts, according to the council's
+president, Phillip G. Harris. Harris said the council met last year's peak of
+49,288 megawatts with no problems, though the summer of 2000 was relatively
+cool.
+
+???Harris cited several reasons "why we are not like California," including a
+decision to centralize all planning, which California did not; the creation 
+of a
+regional market instead of a state-based marketplace like California's, and a
+policy of only slow, incremental changes in the grid.
+
+???"A single misstep can have huge consequences," Harris said. "We're 
+tinkering
+with something that has worked for 100 years, so you better do it right."
+
+???In the Midwest, utilities expect a peak demand this summer of 55,221
+megawatts, compared with 52,214 megawatts last summer, according to Richard
+Bulley, executive director of the six-state Mid-America Interconnected 
+Network.
+But keeping pace with the nearly 6 percent increase in demand is the addition 
+of
+5,470 megawatts of capacity, Bulley said.
+
+???"We do not anticipate any major limitations on the region's bulk
+transmission system, and we project a healthy reserve margin of more than 18
+percent," he said.
+
+???Since 1998, 33 companies have proposed projects in Illinois totaling 25,000
+megawatts of gas-fired power. Although no one expects all of that to come
+on-line, the state's total generating capacity is just under 34,000 megawatts,
+meaning that even if only a modest amount of the anticipated power was added,
+the region would have a cushion, even in a hot summer.
+
+???Officials of Commonwealth Edison Co., the biggest utility in Illinois, say
+that new or rebuilt electrical distribution facilities should prevent a repeat
+of the kind of disastrous power outages that crippled offices in Chicago's 
+Loop
+last summer, when lines broke and transformers burst into flames.
+
+???Few power grids are in as good shape as Texas's. The state anticipates a 23
+percent power margin this summer and the addition of 9,188 megawatts of new
+generating capacity this year, according to Heather Tindall, spokeswoman for 
+the
+Electric Reliability Council of Texas (ERCOT). Texas utilities have 27 new 
+power
+plants under construction and 31 more in the planning stages, she said.
+
+???As a result, ERCOT is forecasting almost 70,000 megawatts of generating
+capacity this summer, compared with a peak demand of 57,600 megawatts on one
+111-degree day last summer.
+
+???Tindall said that after studying California's system, the Texas grid made a
+"concerted effort" to operate theirs differently. For example, she said, Texas
+supports utilities entering into long-term contracts for power, while in
+California, power companies did not enter into such contracts and were forced 
+to
+pay exorbitant prices at peak times.
+
+
+
+LOAD-DATE: April 30, 2001
+
+?????????????????????????????21 of 103 DOCUMENTS
+
+???????????????????The Associated Press State & Local Wire
+
+The materials in the AP file were compiled by The Associated Press. ?These
+materials may not be republished without the express written consent of The
+Associated Press.
+
+???????????????????????April 30, 2001, Monday, BC cycle
+
+?????????????????????????????9:49 AM Eastern Time
+
+SECTION: State and Regional
+
+LENGTH: 594 words
+
+HEADLINE: Developments in California's energy crisis
+
+BYLINE: By The Associated Press
+
+BODY:
+
+??Developments in California's energy crisis:
+
+??MONDAY:
+
+??- Members of the Assembly Subcommittee on Natural Gas Costs and Availability
+unveil legislation to cut natural gas prices.
+
+??- The state remains free of power alerts as electricity reserves stay above 
+7
+percent.
+
+??FRIDAY:
+
+??-Gov. Gray Davis calls a federal regulatory order "a Trojan horse" that will
+profit power generators at California ratepayers' expense. The Federal Energy
+Regulatory Commission is considering requiring the state's electric grid
+operator to add a surcharge on power sales to pay generators the money they 
+are
+owed by the state's two large financially strapped utilities.
+
+??- State power buyers have asked for another $500 million to buy electricity 
+for the customers of three cash-strapped utilities. That brings the total 
+amount
+authorized for power purchases to $6.2 billion since mid-January, when the 
+state
+began purchases power for Pacific Gas and Electric Co., Southern California 
+Edison and San Diego Gas and Electric. 
+
+??- Gov. Gray Davis says state office buildings cut energy use by an average 
+of
+20 percent in January and February, saving taxpayers $286,000 in utility 
+bills.
+
+??- State officials negotiating long-term power contracts for customers of
+three cash-strapped utilities have secured five more contracts. Four of the
+contracts signed in March by the Department of Water Resources will provide 
+466
+megawatts of electricity during times of peak demand this summer, according to
+DWR documents. One megawatt is roughly enough power for 750 homes.
+
+??- California Public Utilities Commission attorneys are advising state
+agencies to avoid submitting monetary claims against Pacific Gas and Electric 
+Co. despite the company's bankruptcy. The PUC is trying to retain their 
+electric
+rate-setting authority over the utility and says submitting claims could bring
+the state under the court's jurisdiction as a creditor, which could allow the
+judge to set electric rates.
+
+??- Shares of Edison International closed at $9.90, up 15 cents. PG&E Corp.
+closed at $8.94, up 20 cents.
+
+??-The state remains free of power alerts as reserves stay above 7 percent.
+
+??WHAT'S NEXT:
+
+??- Davis' representatives continue negotiating with Sempra, the parent 
+company
+of San Diego Gas and Electric Co., to buy the utility's transmission lines.
+Davis says he expects to have an agreement within two weeks.
+
+??THE PROBLEM:
+
+??High demand, high wholesale energy costs, transmission glitches and a tight
+supply worsened by scarce hydroelectric power in the Northwest and maintenance
+at aging California power plants are all factors in California's electricity 
+crisis.
+
+??Edison and PG&E say they've lost nearly $14 billion since June to high
+wholesale prices the state's electricity deregulation law bars them from 
+passing
+on to consumers. PG&E, saying it hasn't received the help it needs from
+regulators or state lawmakers, filed for federal bankruptcy protection April 
+6.
+
+??Electricity and natural gas suppliers, scared off by the two companies' poor
+credit ratings, are refusing to sell to them, leading the state in January to
+start buying power for the utilities' nearly 9 million residential and 
+business
+customers. The state is also buying power for a third investor-owned utility,
+San Diego Gas & Electric, which is in better financial shape than much larger
+Edison and PG&E but also struggling with high wholesale power costs.
+
+??The Public Utilities Commission has raised rates as much as 46 percent to
+help finance the state's multibillion-dollar power buys.
+
+LOAD-DATE: April 30, 2001
+
+?????????????????????????????22 of 103 DOCUMENTS
+
+???????????????????????Copyright 2001 Associated Press
+
+??????????????????????????????????AP Online
+
+????????????????????????????April 29, 2001; Sunday
+
+SECTION: Domestic, non-Washington, general news item
+
+LENGTH: 1313 words
+
+HEADLINE: ?Geothermal Plants Need More Steam
+
+BYLINE: JENNIFER COLEMAN
+
+
+DATELINE: MIDDLETOWN, Calif.
+
+BODY:
+
+???Geothermal plants in The Geysers area north of the Napa Valley have tapped
+steam fields to produce electricity since the 1960s. The 350-degree steam 
+rushes
+more than 1,500 feet up from the earth, spinning turbines that create a 
+constant
+flow of electricity. 
+
+??But mismanagement of the steam fields beneath the hilly northwestern
+California region that straddles the Sonoma and Lake county lines has led to a
+large decline of pressure and a drop of more than 50 percent in the amount of
+power the plants produce.
+
+??The geothermal decline comes as California already faces short supplies of
+hydroelectricity from the drought-ridden Pacific Northwest and growing
+competition for megawatts from other power-starved states.
+
+??State power grid managers estimate they're losing about 900 megawatts of
+geothermal electricity due to the gradual depletion of the steam fields. 
+That's
+enough power for roughly 675,000 homes.
+
+??''They just overproduced. It is a renewable source of power, but it's
+renewable over geologic time,'' says Katherine Potter, a spokeswoman for 
+Calpine
+Energy, which owns 19 of the 21 geothermal power plants in The Geysers region,
+which incidentally has no geysers.
+
+??The first electricity produced by tapping into pockets of steam trapped in
+the earth made its debut in 1904 in Larderello, Italy. That plant, rebuilt due
+to World War II damage, is still operating. The first U.S. geothermal plant 
+was
+a small operation at The Geysers built in 1962.
+
+??Steam fields are created when water flows through fissures in the rock deep
+in the earth and is heated by hot magma. Geothermal plants tap into that
+pressure and use it to spin turbines. The plants' cooling towers release 
+plumes
+of white steam, which can be seen for miles on a clear day.
+
+??While The Geysers is a unique geologic formation called a dry steam field,
+there is the potential for thousands of megawatts of geothermal power from 
+other
+regions that could use the more common ''wet steam'' process, said Karl 
+Gawell,
+executive director of the Geothermal Energy Association in Washington D.C.
+
+??Wet steam plants tap into superheated water in the earth, separate the steam
+and use it to power generators. The water and the condensed steam is pumped 
+back
+into the earth.
+
+??CalEnergy Corp. owns 10 power plants in Imperial County that produce about
+330 megawatts of power, enough for about 247,500 homes. Those plants and 
+others
+like them haven't seen a decline in pressure like Calpine's plants.
+
+??Geothermal energy is second only to hydroelectricity as a continuous, cheap
+source of power, said Jan Stewart, Calpine's public relations manager.
+
+??The plants in The Geysers reached their peak power production in the 1980s,
+producing about 2,000 megawatts of electricity enough to power about 1.5 
+million
+homes.
+
+??At that time, about 30 companies were involved in various geothermal 
+ventures
+in the area and didn't work together, Stewart said.
+
+??''The resource wasn't being managed properly. As a result, it was a very
+fractured environment,'' she said. ''If one plant shut down, the steam would 
+be
+vented to the atmosphere, instead of being rerouted to another plant where it
+could be used.''
+
+??In the 1960s and '70s when The Geysers got started, there was ''a real
+wildcatter's mentality'' among power generators, said Rich Ferguson, energy
+chairman for Sierra Club California.
+
+??''Basically, they took out the water in the form of steam faster than Mother
+Nature was putting it back in,'' he said.
+
+??The available steam declined, and the area now puts out about 850 megawatts,
+sufficient power for roughly 637,500 homes.
+
+??Since then, geothermal engineers have learned more about managing the
+resource, Ferguson said.
+
+??The superheated, self-contained system at The Geysers has no
+
+??ater running through it. ?''The Geysers is unique worldwide. There really
+aren't other dry steam fields,'' Gawell said. ''In effect, there was never a
+sustainable level of production, you always would have depleted it eventually.
+It's like a giant pressure cooker. As soon as you put the first straw in, you
+began to deplete the resource.''
+
+??Calpine is experimenting with replenishing the steam fields by pumping
+treated waste water back into the earth. It began three years ago, when Lake
+County stopped pumping its treated waste water into Clear Lake.
+
+??Now, more than 8 million gallons of treated waste water is returned daily to
+the earth. The experiment appears to be working _ power output is up 68
+megawatts.
+
+??''People like the stewardship that Calpine provides now,'' Ferguson said. ''
+Calpine has taken on as a long-term goal to make that sustainable.''
+
+??Calpine is building a 50-mile pipeline to Santa Rosa and plans to pump
+another 11 million of treated waste water daily from that city. The company
+expects that will boost production another 85 megawatts.
+
+??Even with the new project, power grid managers say they're planning for
+diminishing geothermal electricity.
+
+??''We've lost a considerable portion of their output due to the decline in 
+the
+output of the steam,'' said Jim McIntosh, director of grid operations for the
+Independent System Operator. ''All supplies are very important to us at this
+point.''
+
+??The plants are relatively low-maintenance once they're running _ only one
+engineer staffs each of the 19 Calpine plants in The Geysers.
+
+??But geothermal plants are more expensive to build than natural gas-fired
+power plants, Gaywell said.
+
+??''It's like choosing between two identical cars one is $10,000 and the other
+is $30,000, but the $30,000 car comes with a lifetime supply of fuel,'' he 
+said.
+''People are shortsighted on investments and it takes more money upfront to
+build geothermal.''
+
+??Most geothermal resources are on public land, lengthening the building
+process because more permits are needed, Gawell said.
+
+??Two new plants are in the application process in California.
+
+??Researchers estimate there are 2,500 megawatts of untapped geothermal
+resources in Nevada, Gawell said. Idaho, New Mexico and Oregon also have sites
+that could be tapped, he said.
+
+??''Many of these sites were looked at in the '80s, but then nothing happened
+because in the '90s natural gas was too cheap to meter,'' he said.
+
+??Ferguson said the state spent $540 million over the last four years on
+incentives for renewable energy projects, including geothermal, solar, wind 
+and
+biomass, and he expects the plan will be renewed when it expires in December.
+
+??''We think there will be an equivalent amount of money,'' he said. ''All the
+technologies have to compete against each other, but geothermal should do 
+pretty
+good.''
+
+
+??___
+
+
+??There are three types of geothermal power plants. Here's a look at how they
+work:
+
+???Dry steam: Such plants are rare, producing steam and not hot water. The
+Geysers region is the world's largest dry steam field. Steam from the earth is
+piped to the power plant, where it spins turbines to create electricity. After
+the remaining steam condenses back to liquid, it is returned to the earth.
+
+???Wet steam: This type of geothermal plant is more common. There are several
+such plants in Southern California. Hot water and steam are brought to the
+surface, separated and the steam is used to power turbines. The water is
+returned to the earth as is the condensed steam.
+
+???Binary: These plants use hot water and steam from the earth to heat another
+liquid, such as isobutane, which has a lower boiling point than water. That
+liquid's steam is used to power turbines to make electricity. When the steam
+cools and becomes liquid it's returned to the tank and reused. This type of
+system is self-contained and has no emissions.
+
+
+??___
+
+
+??On the Net:
+
+??Geothermal Education Office: http://geothermal.marin.org
+ 
+??California ISO: http://www.caiso.com
+ 
+??Calpine Corp.: http://www.calpine.com
+ 
+
+
+?????(PROFILE
+
+
+?????(CO:Calpine Corp; TS:CPN; IG:ELC;)
+
+
+?????)
+
+
+LOAD-DATE: April 29, 2001
+
+?????????????????????????????24 of 103 DOCUMENTS
+
+???????????????????The Associated Press State & Local Wire
+
+The materials in the AP file were compiled by The Associated Press. ?These
+materials may not be republished without the express written consent of The
+Associated Press.
+
+???????????????????????April 29, 2001, Sunday, BC cycle
+
+SECTION: State and Regional
+
+LENGTH: 413 words
+
+HEADLINE: Guns in schools, deregulation delay on lawmakers' agenda
+
+BYLINE: By BRAD CAIN, Associated Press Writer
+
+DATELINE: SALEM, Ore.
+
+BODY:
+
+??Backers of a bill to prevent holders of concealed handgun licenses from
+bringing their weapons onto school property will spend the coming week trying 
+to
+force a Senate vote on the issue.
+
+??Also this week, House Speaker Mark Simmons is planning to schedule a hearing
+on his bill to pull the plug - at least for now - on a key part of an electric
+deregulation law that's due to take effect this fall for large businesses.
+
+??The guns-in-schools bill has been on life support for weeks, with a key
+Senate committee chairman refusing to schedule a hearing on the bill on 
+grounds
+that it is overly contentious and wouldn't pass anyway.
+
+??The sponsor of the bill, Sen. Ryan Deckert, D-Beaverton, and other 
+supporters
+aren't giving up, however.
+
+??They are hoping to use a parliamentary maneuver that would enable them to
+move the school guns issue to the full Senate for debate by attaching it to
+another education-related bill.
+
+??Gun owner groups say SB508 is unnecessary because there have been no
+documented cases of law-abiding carriers of concealed handguns causing any
+problems at schools.
+
+??But a key supporter of the bill, Sen. Ginny Burdick, D-Portland, says she is
+convinced the measure would pass in both the House and Senate - if it can be
+brought up for vote.
+
+??"I don't think we should wait to have dead children before we ban guns in
+schools," said Burdick, who was a chief sponsor of a measure passed by voters
+last fall expanding background checks at gun shows.
+
+??California's power woes that were precipitated by that state's move to
+deregulation are giving Oregon lawmakers second thoughts about their decision 
+to
+approve a phased-in deregulation of the electricity market in Oregon.
+
+??A bill passed by the 1999 Legislature is supposed to open Oregon's electric
+markets to industrial and large commercial customers, beginning this October.
+
+??The 1999 law is supposed to free large businesses to buy power on the open
+market, and does not deregulate electric rates for residential customers.
+
+??Still, Simmons says that drought conditions and the power market turmoil
+caused by California's energy crisis require reconsideration of the law.
+
+??For that reason, the House speaker is planning hearings this week on his
+proposal to enact a 15-month delay in Oregon's electricity restructuring 
+efforts.
+
+??"This just gives the opportunity for the energy markets to settle for a
+while," the Elgin Republican said.
+
+??Similar legislation is pending in the Senate.
+
+
+
+LOAD-DATE: April 30, 2001
+
+?????????????????????????????25 of 103 DOCUMENTS
+
+???????????????????????Copyright 2001 The Post Register
+
+??????????????????????????Idaho Falls Post Register
+
+????????????????????????????April 29, 2001 Sunday
+
+SECTION: News; Pg. a1
+
+LENGTH: 530 words
+
+HEADLINE: Plenty of blame to go around for West's power woes
+
+BYLINE: PAUL MENSER
+
+BODY:
+
+??When it comes to power, the West is a mess.
+
+??Because of its botched deregulation attempts, California bears a lot of the
+blame - but not all of it, said Susan F. Tierney, a former assistant secretary
+in the Energy Department, now a consultant for Lexecon, a Cambridge, Mass.,
+consulting firm.
+
+??Like planets lining up to usher in an age of hysteria, a combination of
+unforeseen circumstances have put the Northwest behind the eight ball. In
+addition to California's self-created tangle, oil and natural gas prices are
+rising and a drought is stymieing the region's hydropower production.
+
+??The situation is less volatile in other parts of the country. In the
+Northeast, South and Midwest, where growth has been modest and generating
+capacity has been more stable, there's less discrepancy between supply and
+demand.
+
+??Undergirding the West's situation was some serious lack of foresight, 
+Tierney
+said.
+
+??When it looked like California power customers would be able to get
+electricity from whoever offered it at the cheapest price, utilities worried
+about recovering the money they'd spent building plants and transmission lines
+in the '70s and early '80s. So they sold off their power plants and bought 
+power
+on the wholesale market, where it was cheap and plentiful.
+
+??Not trusting the marketplace, California legislators capped the rates
+utilities could charge residential customers. When wholesale power prices went
+up, they couldn't pass those increases on to consumers.
+
+??"At the time, they did not realize that in a couple of years there would not
+be an adequate power supply," Tierney said.
+
+??California's economic explosion of the late '90s, coupled with a failure to
+build any new plants, brought the crisis to a head. Computers are not by
+themselves big energy consumers, but the factories that make them are. The
+Internet, with all its server farms and data hotels, also became a heavy power
+user.
+
+??When demand in California finally caught up with supply, "all of a sudden,
+utilities had to buy power, and it became a seller's market," Tierney said.
+
+??But most of the Northwest's power comes from hydroelectric dams, and there
+has to be water in the rivers to power the turbines at the dams. In a drought
+year like this, the power has to come from somewhere else, most likely oil- 
+and
+natural gas-fired plants, which fire up when demand is high.
+
+??Because demand is so high this year, generators can charge exorbitant 
+prices,
+knowing that California and the Northwest have nowhere else to buy power.
+
+??Also, natural gas prices have gone through the roof in the last 18 months 
+and
+aren't likely to come down until next year at the earliest. Until 18 months 
+ago,
+the price of natural gas had been at a prolonged low, so companies weren't
+interested in expensive drilling projects.
+
+??The problem is not likely to be permanent. As exploration and extraction 
+pick
+up, prices will come down. The public has already begun to hear a conservation
+message, and the Federal Energy Regulatory Commission is being deluged with
+applications for new power plant construction.
+
+??Staff writer Paul Menser can be reached at 542-6752, or via e-mail at
+pmenser@idahonews.com.
+
+LOAD-DATE: April 29, 2001
+
+?????????????????????????????26 of 103 DOCUMENTS
+
+??????????????????????Copyright 2001 / Los Angeles Times
+
+??????????????????????????????Los Angeles Times
+
+?????????????????????April 29, 2001, Sunday, Home Edition
+
+SECTION: Opinion; Part M; Page 6; Opinion Desk
+
+LENGTH: 1312 words
+
+HEADLINE: THE STATE;
+
+HOW KILOWATT SOCIALISM SAVED L.A. FROM THE ENERGY CRISIS
+
+BYLINE: JEFF STANSBURY, Jeff Stansbury is a PhD candidate in American history 
+at
+UCLA. His, dissertation is on the role of the labor movement in the building 
+of,
+L.A.'s infrastructure
+
+
+
+BODY:
+
+
+??Why is Los Angeles an island of tranquillity in the electric-power crisis
+that has rocked California and threatens to spread across the nation?
+
+??News stories have repeatedly told us that the city's ownership and operation
+of its own generating stations is the principal reason. By staying clear of 
+the
+state's 1996 deregulation scheme for private utilities, the Department of 
+Water
+and Power was able to hold onto its power plants.
+
+??So far, so good. But when we ask how Los Angeles came to enjoy public power
+in the first place, the answer commonly given makes a hash of history.
+
+??Most historians and political scientists credit the city's progressive 
+reform
+movement of 1890-1915 for having wisely settled on a municipal utility. True,
+some of the entrepreneurs, lawyers and reform-minded professionals who called
+themselves "the best men" during that era agitated for the city-built Owens
+Valley aqueduct and its generating stations. But many reformers opposed the
+city's effort to distribute its own power. Because they had allied themselves
+with railway magnate Henry Huntington, who owned an electric company, or 
+because
+they favored regulation over municipal ownership, they wanted L.A.'s three
+private electric companies to sell and profit from aqueduct power. Meyer
+Lissner, a reform attorney often portrayed as a champion of public power,
+opposed the holding of a decisive 1911 citywide straw poll on the subject
+because he knew most Angelenos would cast their ballots for municipal 
+ownership.
+That, he said, would be "unfair" to the three utilities.
+
+??The most steadfast partisans of public power were not progressive reformers
+like Lissner but the city's much-maligned labor unions, and for a simple 
+reason.
+While mistrust of oligopoly ran through nearly all sectors of society, it 
+burned
+hottest in working-class wards. Without organized labor's dogged campaign for
+"gas and water socialism," as well as its willingness to hand control of these
+resources to the anti-union regimes of Mayors George Alexander and Henry Rose,
+there would be no DWP today.
+
+??Organized labor played a key role in the city's original decision to
+municipalize its water distribution system. On Oct. 24, 1892, 700 union 
+members
+met to demand that the city build a small neighborhood waterworks as a step
+toward public control of the entire water supply. From that day on, L.A.'s
+unions never wavered in their call for a public water supply publicly managed.
+They mobilized the rank and file for the water-company buyouts of 1901-04, 
+and,
+in 1906, the Public Ownership Party's citywide campaign primed voters to pour 
+$
+23 million into construction of the Owens River aqueduct a year later. The
+aqueduct was the sine qua non of public power. At a time when most progressive
+reformers were mute on the subject, organized labor insisted that the aqueduct
+be used to generate electricity for the city's streets, homes and businesses.
+
+??A broad consensus backed the city's construction of hydroelectric plants
+while the aqueduct was being built, but most of the city's politicians and
+corporate lobbyists were committed to public subsidies, not public ownership, 
+of
+aqueduct power. The 1911 straw poll, in which city voters declared their 
+support
+for municipal ownership and distribution of Owens River power, upset their
+plans.
+
+??The most consistent fighters for public power during the decades after the
+straw poll were the Central Labor Council, International Brotherhood of
+Electrical Workers, other unions and city employees who stuffed campaign
+envelopes, canvassed precincts and got out the vote. Voters who favored
+municipally owned power and initiatives bolstering the DWP tended to be 
+working
+class and Democratic; those opposed were mainly middle and upper class and
+Republican.
+
+??In this polarized political climate, Mayor Alexander called for a $
+6.5-million bond issue to complete the aqueduct-power distribution network; he
+left open the question of who would sell the power to consumers. Unions and
+socialists tied their support for the bonds to a city charter reform that 
+would
+guarantee them a long-sought role in city government through proportional
+representation. When the reform failed at the polls, they withheld support 
+from
+the power bonds, and these, too, went down to defeat in 1913. Much of the 
+rancor
+workers felt was aimed at progressives like Lissner, head of the Good 
+Government
+Organization, who fought labor's charter plank because it would bring 
+socialists
+onto the City Council.
+
+??The labor movement's dedication to public ownership soon reasserted itself,
+however. With a citywide election coming up that June, five unionists seeking
+council seats on the Socialist Party ticket revived labor's long-standing 
+demand
+for city operation of all public utilities at cost. They urged the City 
+Council
+to hold a new power-bond election with a clear public ownership mandate. They
+attacked the power companies' efforts to buy aqueduct power from the city and
+sell it to Angelenos at a profit. Soon, the great majority of unions in the
+Central Labor Council were locked in what turned out to be a decisive struggle
+against the power oligopoly made up of Southern California Edison, Pacific 
+Light
+& Power and Los Angeles Gas & Electric. 
+
+??An unprecedented event brightened the bonds' chances. A machinist, Fred C.
+Wheeler, won a seat on the City Council, the first unionist to do so in the 
+20th
+century. Wheeler led a successful fight against an attempt to split the
+power-bond issue into two separate ballot propositions, one to complete the
+aqueduct's generating stations, the other to create a city-owned distribution
+system. Such a division would probably have doomed public power.
+
+??The large majority of unionists who favored public power had little time to
+savor Wheeler's victory. While pressing the attack on the three electric
+companies, they faced a small but angry split in their own ranks. Dissenters 
+in
+the Building Trades Council and a few of its unions argued that labor's
+grievances against the progressive regimes of 1909-14 had turned the argument
+for municipal ownership on its head. What good was municipal ownership in the
+hands of a council and mayor who had caused the arrest of hundreds of peaceful
+picketers during the citywide strikes of 1910, had underpaid aqueduct workers
+and fed them bad food and had denied unionists influential city jobs? The 
+final
+blow was the council's rebuff of a petition signed by thousands of workers 
+for a
+"living wage" law. Was it not folly to reward labor's foes with control of the
+aqueduct's power?
+
+??Union activists who favored the bonds conceded that the dissenters were
+correct in their assessment of "progressive" city government. But the
+progressive star was fading. What counted in the long run was whether Los
+Angeles could wrest the city's electric power system from the grasp of private
+utilities. The Central Labor Council's unions took this challenge to heart and
+voted, 60-4, for a resolution favoring the bonds.
+
+??On its own, as well as in coalition with other groups, the labor movement
+marshaled its rank and file on behalf of public power. It turned out hundreds 
+of
+poll-watchers and canvassers on election day. The pro-bond unions never did 
+win
+over the dissenting faction; rather, they overwhelmed it at the polls. On May 
+8,
+1914, L.A.'s voters emphatically endorsed the power bonds by a hefty 71%-29%,
+with the city's working-class wards providing by far the largest margin of
+victory.
+
+??Within a year, Los Angeles sold its bonds and began buying out the three
+investor-owned utilities. The first public power flowed into local homes and
+businesses in 1916. Two decades later, the DWP eliminated the last of its
+private competition and consolidated the working-class legacy of kilowatt and
+water socialism that has served the city so well in the current energy crisis.
+
+GRAPHIC: GRAPHIC-DRAWING: (no caption), JENNIFER HEWITSON / For The Times
+
+LOAD-DATE: April 29, 2001
+
+?????????????????????????????27 of 103 DOCUMENTS
+
+??????????????????????Copyright 2001 / Los Angeles Times
+
+??????????????????????????????Los Angeles Times
+
+?????????????????????April 29, 2001, Sunday, Home Edition
+
+SECTION: Opinion; Part M; Page 4; Editorial Writers Desk
+
+LENGTH: 558 words
+
+HEADLINE: CONSERVATION SANDBAGS;
+
+THE DAVIS ADMINISTRATION NEEDS TO LAUNCH A CRASH EDUCATION COURSE TO CONVINCE
+CALIFORNIANS OF THE SERIOUSNESS OF THE ELECTRICITY CRISIS AND THE NEED FOR
+FAR-REACHING ENERGY-SAVING MEASURES.
+
+BODY:
+
+
+??Natural disasters and crises can be devastating but are relatively simple 
+and
+easy to grasp. A brush fire you fight with shovels. An earthquake, you clean 
+up
+the rubble afterward and strengthen buildings in anticipation of the next. But
+California's energy crisis is far different and more complex. It's a quiet
+disaster on scattered, invisible fronts. Most people see it only when their 
+own
+lights go out.
+
+??There also is no precedent for this crisis in California and no accurate way
+to forecast how bad it can get, either the blackouts or the financial
+consequences. But as May approaches, it's certain that most Californians are 
+not
+adequately informed about the severity of the problem or what they can do to
+limit its impact.
+
+??Gov. Gray Davis, the utilities and others need to engage in a crash 
+education
+program that will convince Californians of the seriousness of the problem and
+motivate them to undertake their own conservation programs in homes and
+businesses. California has been a pioneer in power conservation, and its
+citizens will listen to persuasive reasoning.
+
+??As the chairwoman of the state Senate's Energy Committee, Sen. Debra Bowen
+(D-Marina del Rey) deals with problems ranging from utility company insolvency
+to rate "gaming" by energy producers. "But I'm really worried about this
+summer," she said last week, referring to the potential for day after day of
+rolling blackouts. She told of one businessman in her district who reported he
+will lose an estimated $ 30,000 every time his power is cut. Why not at least
+schedule blackouts so people can plan for them? she asked. Why not?
+
+??In San Francisco, the Bay Area Economic Forum released a study indicating
+that power woes could deliver a $ 17-billion blow to the state's economy in 
+lost
+production, the cost of rate increases and increased product prices. That may 
+be
+conservative. The study did not include the $ 5.1 billion the state has spent 
+so
+far to buy power for the insolvent private utilities.
+
+??Republicans in the Legislature are stalling bills that would float a $
+10-billion revenue bond issue to finance power purchases and keep the state
+fiscally above water. They have latched onto a powerful issue, Davis'
+unwillingness to detail how he's spending the taxpayers' billions. Davis says 
+he
+needs secrecy for competitive reasons as he bargains with power companies,
+though he is letting out a slightly wider trickle of figures.
+
+??Wall Street, already wary about the credit-worthiness of the state, thinks
+poorly of the delay in issuing the bonds. Republicans should put a temporary
+hold on their battle with Davis and get the measure to the governor's desk 
+this
+week.
+
+??Lawmakers were slow in passing an $ 850-million conservation program, Bowen
+acknowledges. But Davis put the new program on a fast track Friday and made a
+smart choice in S. David Freeman, former chief of the Los Angeles Department 
+of
+Water and Power, to run the conservation effort.
+
+??Freeman, 75, is a canny veteran of electric power politics. Davis may abhor
+giving out bad news, but Freeman need not shrink from it. Freeman should be on
+radio and television every day telling California just how bad the problem is
+and what they can do about it. If this were a flood, we'd be stacking 
+sandbags.
+Our sandbags are conservation programs. We need to start stacking them now.
+
+LOAD-DATE: April 29, 2001
+
+?????????????????????????????28 of 103 DOCUMENTS
+
+??????????????????????Copyright 2001 / Los Angeles Times
+
+??????????????????????????????Los Angeles Times
+
+?????????????????????April 29, 2001, Sunday, Home Edition
+
+SECTION: Part A; Part 1; Page 27; National Desk
+
+LENGTH: 1316 words
+
+HEADLINE: BUSH: THE FIRST 100 DAYS;
+
+BUSH IS OFF TO A ROCKY START IN HIS HANDLING OF ALL THINGS CALIFORNIAN;
+
+POLITICS: BUT WHY WOO THE GOLDEN STATE WHEN HE CAN'T CARRY IT IN AN ELECTION
+'NO MATTER HOW HARD HE TRIES,' ONE ANALYST POINTS OUT.
+
+BYLINE: RICHARD SIMON, TIMES STAFF WRITER
+
+
+
+DATELINE: WASHINGTON
+
+BODY:
+
+
+??So what if President Bush has opposed electricity price controls sought by
+California officials? Or that he has proposed cutting aid to states for
+incarcerating illegal immigrants convicted of crimes? Or that he has visited 
+26
+states in his first 100 days in office--but not the most populous?
+
+??Bush really does care about California, the White House insists, even if the
+state preferred Al Gore on election day. Administration officials said they 
+have
+done a lot and plan to do more to lessen the electricity turmoil expected this
+summer.
+
+??"I don't think he's treated California any differently than any other 
+state,"
+said Rep. George P. Radanovich (R-Mariposa).
+
+??Some Californians feel otherwise.
+
+??"The Bush administration's treatment of California started at indifference,
+moved to neglect and has now reached actual harm," complained Phil Schiliro,
+chief of staff for Rep. Henry A. Waxman (D-Los Angeles).
+
+??Sen. Dianne Feinstein (D-Calif.) has asked three times for a meeting with
+Bush to discuss the energy crisis. Her response from the White House: a form
+letter with her name misspelled.
+
+??Bush has called for requiring public agencies to buy costly earthquake
+insurance, a measure opposed by California lawmakers of both parties. He has
+proposed cutting an earthquake preparedness program. And he provided no money 
+in
+his proposed budget to clean up a pile of uranium processing waste in Utah
+leaking into the Colorado River.
+
+??"That's our water supply," political analyst Sherry Bebitch Jeffe said. 
+"What
+kind of message is that?"
+
+??John J. Pitney Jr., associate professor of government at Claremont McKenna
+College, said Bush's apparent indifference makes political sense.
+
+??"It's hard to argue that Bush should spend any political capital in
+California," he said. "The 2000 election suggested that he cannot carry the
+state no matter how hard he tries. The Republicans have already lost several
+House seats and have probably hit rock bottom. . . . From a purely political
+angle, there's little point in giving California any money or attention that
+could otherwise go to more competitive states, such as Florida."
+
+??But Jeffe, senior scholar at USC's School of Policy, Planning and
+Development, said Bush's failure to visit the state is hurting GOP efforts to
+rebuild itself in California. "We are ground zero for the kind of Latino
+outreach that he said he wanted to do."
+
+??And veteran California Republican political strategist Kenneth L. Khachigian
+said Bush at least needs to prepare for the electricity problems predicted for
+summer.
+
+??"If you get three or four days of successive blackouts, air conditioners
+going out, traffic lights going out, a second bankruptcy--whether he wants it 
+or
+not--it's his problem," Khachigian said. "It would be wise for him to have a
+proactive stance, not just reactive."
+
+??Tough Act to Follow
+
+??Some political analysts have suggested that if Bush becomes too involved in
+California's troubles, what is now Democratic Gov. Gray Davis' problem could
+become Bush's. But, Khachigian said, "there's a fine line between taking
+responsibility for a problem and claiming that California isn't part of the
+United States."
+
+??In dealing with heavily Democratic California, Bush has made this much 
+clear:
+He is no Bill Clinton.
+
+??Bush has a hard act to follow. When Clinton was president, he visited
+California often and rewarded it with federal largess. And California in 
+return
+showered him with buckets of campaign dollars and electoral votes.
+
+??But Rep. Ed Royce (R-Fullerton) said California will benefit from Bush's
+presidency too. "As Californians bear a disproportionately higher tax burden,
+they stand to benefit greatly from the president's tax relief plan."
+
+??While House spokeswoman Claire Buchan assured that Bush will visit 
+California
+soon. His wife already has done so.
+
+??As proof that California is on their mind, administration officials point to
+the three Californians in the Cabinet--Ann M. Veneman of Agriculture, Norman 
+Y.
+Mineta of Transportation and Anthony J. Principi of Veterans Affairs--and 
+others
+in top White House jobs.
+
+??Bush also has appointed California Latinos to high-level posts: Huntington
+Park Councilwoman Rosario Marin as treasurer, Los Angeles entrepreneur Hector 
+V.
+Barreto Jr. as head of the Small Business Administration and former San Mateo
+County Supervisor Ruben Barrales as deputy assistant for
+intergovernmental affairs.
+
+??Critics said that a Californian at the top does not guarantee that the
+Cabinet departments will develop California-friendly policies. The proposed
+Agriculture budget, for example, provides only $ 5 million--not the $ 15 
+million
+that California lawmakers said they need--to fight the glassy winged
+sharpshooter, an agricultural pest that threatens the state's wine industry.
+
+??A spokesman for Veneman assured that additional funding will be considered,
+if requested by California lawmakers. And Rep. Mike Thompson (D-St. Helena), 
+who
+assailed Bush for missing opportunities to help California, nonetheless
+expressed confidence in Veneman. "She's going to keep pounding away to make 
+sure
+that the California wine industry gets what it needs."
+
+??Some Good News
+
+??Though he has proposed cuts in some programs that are important to
+California, Bush has taken some actions that please state officials. He has
+proposed a permanent research and development tax credit--an action that would
+particularly benefit Silicon Valley.
+
+??His proposed budget includes additional money to crack down on illegal
+immigration and drug smuggling and unsafe trucks crossing into California from
+Mexico. And he has proposed increased funding to reduce backlogs at 
+immigration
+offices.
+
+??In one area, Bush even bested Clinton. He proposed $ 14 million to clean 
+Lake
+Tahoe, more than the $ 3 million recommended by Clinton last year.
+
+??And although he has drawn flak for proposing cuts in programs to promote
+energy efficiency and alternative fuels, his proposal to boost assistance to
+low-income families for insulating their homes and reducing their utility 
+bills
+would nearly double California's allocation, to $ 8 million next year.
+
+??No Bush policy has been more criticized in California than his approach to
+the state's energy woes--particularly his adamant opposition to price 
+controls.
+Steve Maviglio, a spokesman for Davis, said Bush and his aides "got off to a
+strong start" by extending federal orders sought by the state to keep power
+flowing into California.
+
+??"Since then . . . they've been AWOL," Maviglio said. In a reference to price
+controls, he added: "They're skirting around the edges of the problem without
+taking the bold action they need to take."
+
+??"The feds are the only ones who can step in and bring some sanity to the 
+cost
+of electricity in California," Thompson said.
+
+??Administration officials said they have taken steps "from our first hours in
+office" to address the energy crisis. They said they have responded favorably 
+to
+all the state's requests except price controls, which Bush contends would
+discourage the building of power plants.
+
+??While some seek to portray Bush's opposition to price controls as
+unsympathetic to California's plight, a number of California's House 
+Republicans
+also oppose price controls. And even those who support them argue that the 
+issue
+misses the larger point.
+
+??Rep. Randy "Duke" Cunningham (R-San Diego), an advocate of price controls,
+nevertheless said: "I agree with the administration that the state alone 
+remains
+responsible for solving this crisis."
+
+??Added Rep. Mary Bono (R-Palm Springs): "I don't believe Bush should bear the
+brunt of responsibility that the Clinton administration left over."
+
+??Tim Ransdell, executive director of the California Institute for Federal
+Policy Research, doubted that Bush would ignore California. "California
+represents one-eighth of the nation. One in eight Americans can't be ignored."
+
+LOAD-DATE: April 29, 2001
+
+?????????????????????????????29 of 103 DOCUMENTS
+
+??????????????????????Copyright 2001 / Los Angeles Times
+
+??????????????????????????????Los Angeles Times
+
+?????????????????????April 29, 2001, Sunday, Home Edition
+
+SECTION: Business; Part C; Page 2; Financial Desk
+
+LENGTH: 1290 words
+
+HEADLINE: WEEK IN REVIEW;
+
+TOP 10 STORIES / APRIL 23-27
+
+BYLINE: Lisa Girion and Terril Yue Jones and Sallie Hofmeister and James Bates
+and Peter Pae and Jeff Leeds and Nancy Rivera Brooks and Peter Gosselin
+
+
+
+BODY:
+
+
+??1. Economic Growth a Welcome Surprise: The U.S. economy grew at an
+unexpectedly strong 2% annual rate in the first three months of the year, 
+thanks
+largely to buoyant shopping by American consumers. The gross domestic
+product--the country's total output of goods and services--expanded at twice 
+the
+pace it did in the final three months of 2000 and at twice what analysts had
+expected, the government said Friday. Although many analysts said the economy
+remains balanced between strong growth and recession, economic optimists 
+exulted
+over the report. Fed Chairman Alan Greenspan added to the celebratory mood by
+saying that a key trend behind the economy's strong performance of the last
+decade--its ability to improve productivity--is likely to resume despite the
+current slowdown.
+
+??(Peter Gosselin)
+
+
+??*
+
+??2. Stocks Rise on Good News: The GDP report boosted stock prices, which
+already had gotten a lift from better-than-expected home sales figures earlier
+in the week. The Dow Jones industrial average rose 117.70 to close at 
+10,810.05
+on Friday, up 2.2% for the week, while the S&P 500 index climbed 18.53 to
+1,253.05. The Nasdaq, which had fallen Thursday on concerns over weak 
+technology
+profits, rose 40.80 to 2,075.68, finishing the week down 4.1%. Meanwhile, the
+yield on the benchmark 10-year Treasury note rose to 5.33% from 5.19%.
+
+??(Times Staff Writer)
+
+
+??*
+
+??3. Power Crisis Zaps State Bond Rating; Price Controls OKd: The mounting 
+cost
+to the state general fund of buying electricity for California consumers
+prompted Standard & Poor's Corp. to downgrade $ 25 billion of California's 
+general obligation bonds. S&P lowered California's bond rating by two notches,
+to A-plus from AA. The move could add hundreds of millions of dollars to the
+state's borrowing costs, bond experts said. Separately, federal regulators
+approved a plan to control electricity prices in California during times of
+supply shortages. The Federal Energy Regulatory Commission tied prices during
+power emergencies to the cost of natural gas and emission controls, among 
+other
+things, with the least efficient generator setting the market price. Critics
+said the order contains loopholes that will allow market manipulation.
+
+??(Nancy Rivera Brooks)
+
+
+??*
+
+??4. FTC Pans Music Industry Marketing: A much-anticipated sequel to last
+year's Federal Trade Commission report on the marketing of violent 
+entertainment
+to children slammed the record industry for failing to heed regulators'
+recommendations. Though it gave some credit to the film and video-game
+industries for revising the way they marketed to young audiences, the FTC 
+found
+the five major record conglomerates continued to advertise "explicit-content"
+albums on popular teen shows such as MTV's "Total Request Live" and BET's "Top
+10 Live." Just before the release of the first report, the Recording Industry
+Assn. of America had blunted some of the criticism by introducing a policy
+against ads for such albums on TV shows or in publications whose audience is
+mostly 16 years old or younger. But the RIAA said it rescinded the policy in
+September.
+
+??(Jeff Leeds)
+
+
+??*
+
+??5. Gas Prices Continue Upward Spiral: The average price of self-serve 
+regular
+gasoline spurted higher again in California and around the nation on an 
+increase
+in demand and a switch by refiners to the more costly summer gasoline blend
+required in parts of the country by air-quality regulations. Prices in
+California got an extra boost from a fire at a Los Angeles-area refinery owned
+by Tosco Corp. and by a change in Tosco's pricing strategy. In late March, 
+Tosco
+increased wholesale prices to its dealers in Southern California and Arizona 
+and
+tied prices to the cost of gasoline in the spot market. Some other major
+suppliers have begun matching the Tosco increase, market experts said. Some
+market watchers foresee gas at $ 3 a gallon or more.
+
+??(Nancy Rivera Brooks)
+
+
+??*
+
+??6. General Dynamics Renews Newport News Bid: General Dynamics Corp. agreed 
+to
+acquire Newport News Shipbuilding Inc. in a $ 2.1-billion deal that would 
+create
+the nation's largest military shipbuilder and leave only one maker of U.S.
+aircraft carriers and submarines. The proposed merger, which the Pentagon had
+rejected two years ago, marks the latest in a renewed wave of consolidations 
+in
+the defense industry and would again make General Dynamics one of the largest
+private employers in San Diego. General Dynamics executives said they are
+confident of receiving the necessary approvals because this time they will be
+dealing with the Bush administration, which may view the takeover differently.
+
+??(Peter Pae)
+
+
+??*
+
+??7. Disney Earnings Beat Estimates: Walt Disney Co.'s second-quarter 
+operating
+results exceeded Wall Street's expectations as the company's studio and 
+consumer
+products units improved, although Disney did post a net loss stemming largely
+from a one-time charge related to the restructuring of its Internet portal.
+Disney also confirmed that it will shrink its venerable animation unit, with a
+union official estimating as many as 300 jobs of about 1,000 in Burbank could 
+be
+cut. Separately, President Robert Iger confirmed that layoffs will be needed 
+to
+reach Disney's previously announced goal of cutting 4,000 jobs companywide.
+Disney's studio and consumer products groups showed improved results in the
+quarter, while earnings were flat in its theme parks and softer in 
+broadcasting.
+
+??(James Bates)
+
+
+??*
+
+??8. New FCC Chief Vows Deregulation: Repudiating decades-old media ownership
+rules, Federal Communications Commission Chairman Michael K. Powell said he
+envisions a broad rollback of restrictions, which could bring about a tidal 
+wave
+of consolidation. In his most candid remarks about the role of the FCC since
+taking office, Powell said he would move in early May to eliminate regulations
+that prevent one company from owning a newspaper and a television station in 
+the
+same city. Powell also told broadcasters meeting in Las Vegas that Viacom Inc.
+was likely to prevail in its challenge of federal rules that prevent any
+broadcaster from owning stations that reach more than 35% of the nation's
+television viewers.
+
+??(Sallie Hofmeister)
+
+
+??*
+
+??9. Ford Takes More Heat Over Explorer Tires: Ford Motor Co. came under the
+most direct criticism leveled against it yet regarding last year's massive
+Firestone tire recall. Two prominent consumer safety groups issued a report
+saying that the auto maker was largely to blame for accidents in which Ford
+Explorer sport-utility vehicles, equipped with Firestone tires, spun out of
+control after the tires lost their treads. Though they blamed
+Bridgestone/Firestone for producing tires prone to failure, Public Citizen and
+Safetyforum.com said Ford bore the bulk of the responsibility for dictating an
+insufficiently robust tire design and designing the Explorer so it would 
+overly
+stress the tires and tip over too easily once a tire blew.
+
+??(Terril Yue Jones)
+
+
+??*
+
+??10. American Airlines Sued Over Health Coverage: A flight attendant filed a
+complaint with the Equal Employment Opportunity Commission in Los Angeles,
+charging that American Airlines discriminated against some employees by 
+refusing
+to offer insurance coverage for birth control, Pap tests and infertility
+treatments. The case could test the position the EEOC took in December that 
+the
+federal Pregnancy Discrimination Act forbids employers from excluding
+contraceptives from prescription drug plans.
+
+??(Lisa Girion)
+
+
+??*
+
+??These and additional stories from last week are available at
+http://www.latimes.com/business, divided by category. Click on "Money and
+Investing," "Entertainment Business" and other topics.
+
+??* Please see Monday's Business section for a preview of the week's events.
+
+GRAPHIC: PHOTO: Though Disney's second-quarter profit beat Wall Street
+predictions, its theme-park earnings were flat. ?PHOTOGRAPHER: Associated 
+Press
+
+LOAD-DATE: April 29, 2001
+
+?????????????????????????????30 of 103 DOCUMENTS
+
+??????????????????Copyright 2001 The New York Times Company
+
+??????????????????????????????The New York Times
+
+?????????????????April 29, 2001, Sunday, Late Edition - Final
+
+SECTION: Section 4; Page 17; Column 1; Editorial Desk
+
+LENGTH: 756 words
+
+HEADLINE: Reckonings;
+The Real Wolf
+
+BYLINE: ?By PAUL KRUGMAN
+
+BODY:
+
+??Recently I received a letter from an economist I respect, chiding me for my
+"Naderite" columns on the California energy crisis. He just didn't believe 
+that
+market manipulation by power companies could possibly be an important issue; 
+it
+sounded too much to him like the sort of thing one hears from knee-jerk
+leftists, who blame greedy capitalists for every problem, be it third-world
+poverty or high apartment rents. The left has cried "Wolf!" so many times that
+sensible people have learned to discount such claims.
+
+??But now a bona fide wolf has arrived, whose predatory behavior is doing
+terrible damage to our most populous state -- and nobody will believe it.
+
+???True, California would be heading for a summer of power shortages even if 
+it
+had never deregulated. And even if there was workable competition in the
+wholesale electricity market, prices in that market would spike during periods
+of peak demand, transferring billions of dollars from either taxpayers or
+consumers to the generators.
+
+??But the evidence is now overwhelming that there isn't workable competition 
+in
+California's power market, and that the actions of generators "gaming the
+system" have greatly magnified the crisis. The key fact is that California has
+somehow remained in a state of more or less continuous power shortage and very
+high wholesale prices regardless of the level of demand. A rash of outages has
+kept the electricity market conveniently -- and very profitably -- short of
+supply even during periods of low demand, when there ought to be lots of 
+excess
+capacity.
+
+??As Frank Wolak, the Stanford economist who also advises the state's power
+grid, has pointed out, an outage at a power plant is a lot like an employee
+calling in sick. You can't tell directly whether he is really sick or has 
+chosen
+to take the day off for other reasons, but you can look for circumstantial
+evidence. And such evidence has convinced Mr. Wolak that "generators use 
+forced
+outages strategically to withhold capacity from the market" -- a view shared 
+by
+a growing number of other researchers.
+
+??Which brings us to the latest move by the Federal Energy Regulatory
+Commission. On Wednesday, the commission apparently decided to offer 
+California
+some relief, and put new price caps in place on the California electricity 
+market. I say "apparently" because the more you look at the plan the less 
+likely
+it seems to be any help at all. Indeed, the measure was passed on a 2-to-1 
+vote,
+with William Massey -- the one commissioner who has been sympathetic to calls
+for price controls -- voting against it on the grounds that it would be
+ineffectual.
+
+??What's wrong with FERC's plan? First, it caps prices only in emergency
+conditions -- ignoring the fact that electricity prices have stayed at
+hard-to-explain levels even when there is no emergency. In effect, the plan is
+laid out as if the electricity market were really competitive, in spite of all
+the evidence that it is not.
+
+??Second, even those emergency price caps are full of loopholes, offering
+extensive opportunities for what Mr. Wolak calls "megawatt laundering" --
+selling power to affiliated companies that for one reason or another are
+exempted from the price controls (for example, the controls do not apply to
+"imports" from neighboring states), then selling it back into the California
+market. Severin Borenstein of the University of California Energy Institute 
+adds
+that because the allowed price depends on the cost of generation at the least
+efficient plant, generators will have a clear incentive to produce
+inefficiently: "I predict we will find some plants we never heard of before 
+that
+are suddenly operating again, and they will be pretty inefficient."
+
+??The general verdict seems to be that this is not a serious plan. There are
+serious proposals to mitigate the crisis out there -- indeed, last fall Mr.
+Wolak submitted a proposal that was well received by other experts -- but FERC
+has ignored all of them.
+
+??The charitable interpretation is that FERC still doesn't get it, that it 
+just
+can't bring itself to believe that this time the wolf is real. The 
+uncharitable
+interpretation is that last week's action was meant to fail. The Medley 
+Report,
+an online newsletter, calls the FERC plan "a grand exercise in posturing 
+without
+substance . . . a very clever temporary move by the Bush administration to
+deflect any political fallout" from the looming disaster.
+
+??Whatever the explanation, the plain fact is that FERC and the administration
+have yet to offer California any significant relief.
+
+??http://www.nytimes.com
+ 
+LOAD-DATE: April 29, 2001
+
+?????????????????????????????35 of 103 DOCUMENTS
+
+??????????????????Copyright 2001 McClatchy Newspapers, Inc.
+
+????????????????????????????????Sacramento Bee
+
+??????????????????April 29, 2001, Sunday METRO FINAL EDITION
+
+SECTION: MAIN NEWS; Pg. A1; POWER CRUNCH
+
+LENGTH: 1323 words
+
+HEADLINE: Diesel plants spark concern They're expected to generate big
+air-quality problems when predicted summer blackouts hit.
+
+BYLINE: Chris Bowman and Stuart Leavenworth Bee Staff Writers
+
+BODY:
+
+??When blackouts roll across California in the coming months - as captains of
+the crippled electricity grid say they surely will - tens of thousands of
+miniature powerhouses will whine, cough and rumble to the rescue.
+
+??These backup plants will ignite the same fuel that powers locomotives, ships
+and 18-wheel trucks. And they'll be spewing the same pollution - only more so,
+because most are old, with little or no emissions controls.
+
+??They are diesel-powered generators, the dirtiest of internal combustion
+engines. And unlike trucks and other vehicles, they've largely escaped 30 
+years
+of air pollution restrictions because they were intended only for emergencies,
+as when a storm or earthquake knocks out power.
+
+??But, now, as a season of multiple planned blackouts appears imminent, many
+California businesses are expected to fire up the old stogies more often than
+was ever imagined.
+
+??And the generators will kick in when their expelled gases can do the most
+harm. The hot weather that taxes air conditioners and drains electricity 
+supplies also accelerates the conversion of engine exhaust to ozone gas, the
+ingredient in smog that inflames airways and impairs breathing.
+
+??"That is why we think this is going to be the most challenging summer ever
+for air quality," said Luna Salaver, spokeswoman for the Bay Area Air Quality
+Management District, a nine-county region with thousands of unregulated 
+standby
+generators.
+
+??"On those hot days when we want people to stop driving and doing things that
+pollute the air, the generators will kick in, and air quality will worsen,"
+Salaver said.
+
+??No one knows how many diesel generators are scattered around the state at
+hospitals, universities, factories and businesses. But air districts report
+there are at least 641 in Sacramento; up to 5,000 in the Bay Area; 1,200 in 
+the
+San Joaquin Valley; and thousands more in the smog-plagued valleys of Southern
+California.
+
+??Some are relatively clean, particularly if they have been built or
+retrofitted in the last few years. But most are tiny pollution factories, and
+were intended only to be run for short periods following natural disasters.
+
+??According to the state Air Resources Board, a typical diesel generator emits
+about 50 to 100 times more smog-forming compounds per unit of energy than a
+typical gas-fired power plant. When the plants run for hours, people downwind
+can get a heavy dose of the tiny, toxic particles contained in diesel exhaust.
+
+??"Go down to the Greyhound bus station and have them turn on their engines 
+and
+hang around there - that's what it's like," said Michael Scheible, deputy
+executive officer of the state Air Resources Board, which regulates engines 
+and
+fuels.
+
+??Environmentalists say generators should be cranked up only during power
+outages. But in recent months, farmers and manufacturers have pressured
+regulators to redefine an emergency and allow generators to be used well 
+before
+a blackout is ordered.
+
+??Business groups say regulators need to be sensitive to data centers, chip
+makers and other manufacturers that can't afford even a one-second 
+interruption
+in power.
+
+??"We would like some kind of statewide policy on when and where we can use 
+the
+diesel generators," said Gino DiCaro, a spokesman for the California
+Manufacturers and Technology Association. "Obviously, we would like to use 
+them
+more than we can now."
+
+??"We need to basically let go of this air-quality issue," said Mike Jennings,
+a Fresno energy consultant whose clients include members of the 
+food-processing
+and dairy industries.
+
+??State air and energy regulators are pushing energy conservation as the best
+way to avoid power outages. Nonetheless, the California Energy Commission has
+been compiling a list of generators statewide to see how their use could be
+coordinated, a move that stirs hope from business groups.
+
+??"Six months ago, nobody wanted to talk about this because diesel was a big,
+bad word," DiCaro said. "Now, at least we have agencies like the Energy
+Commission and the Public Utilities Commission talking about how diesel
+generators can fit into our electrically unreliable world."
+
+??Environmentalists worry that, as the summer drags on, Gov. Gray Davis will
+allow unrestricted use of the diesels.
+
+??So far, the governor's staff has "held firm," said Gail Ruderman Feuer, an
+attorney with the Natural Resources Defense Council, a national environmental
+group. "But if blackouts start happening in a big way, they could change their
+tune."
+
+??Along with other forecasters, officials with the California Independent
+System Operator, manager of the state's electricity grid, expect a flurry of
+blackouts in coming months. The next two months could be critical, because 
+most
+new power plants under construction won't go on line before July. In addition,
+California will be losing one of its largest generators of electricity today
+when one of two units at the Diablo Canyon nuclear power plant is taken 
+off-line
+for 35 days of scheduled refueling.
+
+??"You should be ready for the worst-case scenario," said Del Evans, Pacific
+Gas and Electric Co.'s head of power load management, at a media briefing last
+week.
+
+??For sellers and makers of diesel generators, the gloomy predictions are a
+gold mine. Small businesses, farmers, manufacturers - all are rushing to buy
+generators before the blackouts hit.
+
+??"We are busier than we have ever been," said Rob Bly, president of Tuban
+Industrial Products Co., which assembles about 300 generators a year at its
+plant in Sacramento. "We are twice as busy as we were in the height of the Y2K
+madness."
+
+??Bly says the generators he makes are "10 times cleaner" than ones of a 
+decade
+ago. Still, he acknowledges, diesel is diesel.
+
+??"If you are a hospital and you want standby power, you can't use propane. 
+The
+fire marshall won't let you," said Bly. "That leaves you with just one thing,
+and that is diesel."
+
+??Responding to such concerns, state Sen. Rico Oller, R-Andreas, introduced a
+bill this year to exempt thousands of backup generators from pollution 
+controls
+whenever any power alert is called. The bill, however, was blocked by a Senate
+committee, and environmentalists say air districts have already relaxed their
+rules enough.
+
+??"One of the big concerns is the cancer risk," Ruderman Feuer said. Air board
+studies, she noted, have found that a person's lifetime cancer risk increases 
+50
+percent if he or she lives near a big diesel generator that runs 250 hours a
+year.
+
+??In January, the U.S. Environmental Protection Agency allowed air districts 
+to
+loosen their restrictions on generators. In turn, the South Coast Air Quality
+Management District extended the number of hours that diesel generators could 
+be
+operated each year. The San Joaquin Valley Air Pollution Control District went
+even further, allowing businesses to run generators when state power reserves
+drop to 1.5 percent or when the ISO predicts blackouts anywhere in the Valley.
+
+??The Sacramento Metropolitan Air Quality Management District still requires
+businesses and public agencies to wait for blackouts before generators are 
+fired
+up. Altogether, the district has permits for 641 generators, including major
+clusters at data centers and companies such as Intel.
+
+??In the Bay Area, regulators are even more uncertain of what could happen 
+this
+summer. Unlike other regions of the state, the Bay Area never required permits
+for diesel generators smaller than 250 horsepower. (In Sacramento, the 
+threshold
+is 50 horsepower.)
+
+??As a result, only 12 of the region's estimated 5,000 generators are subject
+to pollution controls.
+
+??Salaver, the district's spokeswoman, said officials assumed the generators
+would be used only during earthquakes, and therefore didn't need any 
+regulation.
+
+??"Now, we find people are operating generators even if we are in a Stage Two
+alert," Salaver said. "That is not what emergency generators are for."
+
+??* * *
+
+??The Bee's Chris Bowman can be reached at (916) 321-1069 or
+cbowman@sacbee.com.
+
+GRAPHIC: Sacramento Bee / Jay Mather Mark Karakas checks a newly assembled
+diesel generator at Tuban Industrial Products in Sacramento.
+Sacramento Bee / Sheldon Carpenter Lights out, generators on Diesel-powered
+generators can save lives during emergencies, but they spew far more pollution
+per unit of energy than other power sources and could significantly degrade 
+air
+quality during the blackouts expected in the next six months.
+Smog-forming compounds Power source / Pounds of nitrogen oxides per
+megawatt-hour of electricity Existing diesel generator / 25 to 30 Diesel
+generator wiht latest pollution controls / 7 Uncontrolled gas-fired power 
+plant
+/ 2 to 4 Controlled older gas-fired power plant / 0.1-0.15 New "combined 
+cycle"
+gas-fired power plant / 0.05
+Cancer causing particulates (PM) Power source / Pounds of PM per megawatt-hour
+of electricity Existing diesel generator / 1 to 3 Diesel generator wiht latest
+pollution controls / 0.1 to 0.5 Gas-fired power plant / 0.03 to 0.07
+Snapshot of generators Number of emergency diesel generators in selected air
+districst: Bay Area Air quality Management District Generators: 3,000 to 5,000
+Sacramento Metropolitan Air Quality Management District Generators: 641
+San Joaquin Valley Air Pollution Control District Generators: 1,200
+South Coast Air Quality Management District Generators: 5,000
+Sources: California Air Resources Board, regional air quality districts
+
+LOAD-DATE: April 30, 2001
+
+?????????????????????????????36 of 103 DOCUMENTS
+
+??????????????????Copyright 2001 McClatchy Newspapers, Inc.
+
+????????????????????????????????Sacramento Bee
+
+??????????????????April 29, 2001, Sunday METRO FINAL EDITION
+
+SECTION: MAIN NEWS; Pg. A1
+
+LENGTH: 1544 words
+
+HEADLINE: Why Edison, PG&E split on strategy
+
+BYLINE: Dale Kasler Bee Staff Writer
+
+BODY:
+
+??One utility was more entrepreneurial, accustomed to the rough-and-tumble of
+free markets - and apparently believed only a radical remedy would cure its
+ills.
+
+??The other was a more political animal, conversant with the language of
+Sacramento - and confident that negotiations and compromise with state 
+officials
+could fix its problems.
+
+??Different cultures and different circumstances sent Southern California 
+Edison and Pacific Gas and Electric Co. on separate paths this month. Edison,
+run by a former president of the Public Utilities Commission, negotiated a
+rescue package with Gov. Gray Davis. PG&E, with fewer ties to government and
+possessed of an independent streak, walked away from Davis and straight into
+U.S. Bankruptcy Court.
+
+??As California's energy crisis hurtles toward a summer of blackouts and 
+higher
+rates, experts are debating which company found the best solution for digging
+its way out of billions in debt.
+
+??"We now have two models; it'll be interesting to see who recovers the
+quickest," said Mitch Wilk, a former PUC president who is now an energy
+consultant in San Francisco.
+
+??At first blush, Edison and PG&E had plenty in common. Both utilities were
+afflicted with the same problem: runaway wholesale electricity costs they
+weren't able to recover from customers because of a state-mandated rate 
+freeze.
+Both had been teetering on the edge of bankruptcy since January, when their
+losses depleted their cash reserves and credit.
+
+??But PG&E was far sicker financially than Edison. Its debts from the state's
+flawed deregulation scheme reached $6.6 billion vs. $3.5 billion for Edison.
+That's because Edison serves a smaller territory and has more long-term supply
+contracts, so it was buying far less electricity than PG&E on the horrendously
+expensive spot market.
+
+??Faced with a comparatively manageable loss, Edison was receptive to selling
+its share of California's transmission grid to the state, a deal that would
+generate $2.76 billion. The proceeds, along with funds from a proposed 
+long-term
+bond sale, would pay off Edison's debts, according to the terms of the deal.
+
+??Although PG&E says it was willing to sell its transmission lines, too, there
+was a crucial difference in the two companies' backgrounds that ultimately 
+would
+influence their approach to the financial crisis.
+
+??Unlike Edison, PG&E is a natural gas company as well as an electric company.
+PG&E, a subsidiary of PG&E Corp., had survived the bruising wars of natural 
+gas
+deregulation in the late 1980s and early 1990s. The experience took PG&E out 
+of
+the cozy world of the regulated monopoly - in which the utility had exclusive
+rights to its service territory but was subject to state price controls - and
+into the world of competition.
+
+??The experience gave PG&E more of a free-market bent, said a former PUC
+staffer who requested anonymity.
+
+??So even though Davis' aides say the governor offered PG&E a plan that would
+have paid off its debts - including $3 billion to $4 billion for its share of
+the grid - the utility balked at a key provision. While the original
+deregulation called for the cap on customer prices to end in 2002, Davis was
+insisting the utility remain regulated for a decade.
+
+??PG&E wanted an immediate end to Public Utilities Commission regulation, and
+would agree only to a cursory review of rates through "a jury-rigged
+arbitration," Davis said last week.
+
+??"I believe PG&E was in denial," Davis said in an interview with Bee editors
+and reporters.
+
+??PG&E says it wasn't demanding an end to regulation. Rather, what it wanted -
+and what Davis' negotiator Michael Peevey agreed to in principle - was to let
+the utility charge ratepayers for all its costs of buying wholesale 
+electricity,
+said PG&E spokesman Ron Low.
+
+??In that same deal, reached Feb. 25 in Los Angeles, PG&E made a "handshake
+agreement" to sell its transmission grid, Low said. He wouldn't reveal the
+price.
+
+??In the weeks that followed, the governor's team reneged, Low said. "The
+discussions and negotiations broke down because they would not agree to the
+basic principles that were reached by (PG&E Chairman) Bob Glynn and Michael
+Peevey," Low said.
+
+??PG&E also became disgusted with a series of PUC rulings in late March and
+early April that it believed would seriously hinder its ability to recover its
+debts.
+
+??Things came to a head April 5 when Davis proposed a rate increase and
+outlined his rescue plan in a televised address. A few minutes later, Joseph
+Fichera, a Wall Street financier advising Davis, and other Davis advisers 
+held a
+conference call in which they fleshed out the details for investors. Edison
+officials and directors listened in, but PG&E didn't, Fichera said.
+
+??"They had made up their minds," Fichera said, referring to PG&E officials.
+
+??The next morning, with Glynn dismissing Davis' speech as "a lot of words,"
+the utility filed for bankruptcy protection.
+
+??That afternoon, Davis called PG&E "selfish" and pointedly went into a
+negotiating session with John Bryson, the chairman and chief executive of
+Edison's parent Edison International.
+
+??For Davis, the meeting was crucial. Although Edison had tentatively agreed 
+in
+February to sell its transmission lines, the deal wasn't sewn up and Davis was
+nervous the PG&E bankruptcy would prompt Edison's creditors to "jerk Edison 
+into
+bankruptcy," Davis said last week.
+
+??That afternoon, "conceptually we reached an agreement," Davis said. The deal
+was announced the following Monday.
+
+??Consumer advocates and some legislative leaders blasted the agreement as a
+giveaway, and said Davis hastily sweetened the terms for Edison because he
+needed to show progress on the energy crisis in the wake of the PG&E 
+imbroglio.
+
+??Not true, Davis said; the basic terms were already on the table before PG&E
+filed for bankruptcy. Either way, Edison was receptive to negotiating with
+Davis.
+
+??Edison's background is different from PG&E's. Because it isn't in the 
+natural
+gas business, it doesn't have the track record PG&E does with free markets. It
+is more comfortable in the regulatory and political realm, experts say.
+
+??Notably, Bryson was president of the PUC in the 1970s - when Davis was Gov. 
+Jerry Brown's chief of staff.
+
+??"He knows Gray Davis," said ex-PUC President Wilk. "He may feel a higher
+level of comfort in dealing with a very adversarial process. He felt he could
+rely on the governor."
+
+??Politically savvy, Edison is one of the utility industry's biggest
+contributors to national political campaigns, and it usually spends more than
+PG&E on California campaigns. Edison International's board of directors 
+includes
+Los Angeles attorney Warren Christopher, the former U.S. secretary of state 
+and
+an elder statesman of the Democratic Party.
+
+??Though it's open to negotiations, Edison isn't a pussycat. To the contrary,
+experts say.
+
+??"It was usually Edison that was more combative than PG&E," said Tom
+Willoughby, a retired PG&E lobbyist.
+
+??Wilk agreed, adding: "I find it curious that PG&E's being painted as the
+confrontational, aggressive company and Edison as the get-along,
+let's-work-with-the-regulators company."
+
+??Edison hasn't been shy about going to Sacramento for favors; last year, for
+example, Edison wanted some changes made in the operation of the state's power
+grid. Instead of talking to the grid manager, the Independent System Operator,
+Edison went to the Legislature, a source said. Lawmakers then pressured the 
+ISO
+to make the changes.
+
+??One more factor may have played into Edison's willingness to deal with the
+governor.
+
+??Last year it became involved in a protracted dispute with the Federal Energy
+Regulatory Commission, which oversees the transmission grid, over how much
+profit Edison could earn from the grid.
+
+??Edison eventually won its point, but the case influenced the utility's
+thinking when Davis offered to buy the grid. According to industry consultant
+Barbara Barkovich, Edison figured, why wrestle with the federal government 
+over
+profits when it simply could raise billions through a cash sale?
+
+??Besides, Edison has a back-up plan if the Legislature scraps the grid
+purchase, as many lawmakers have threatened. The company has said it would
+follow PG&E's lead and file for bankruptcy.
+
+??But its willingness to negotiate with the governor will have served it well,
+even if it goes into bankruptcy, said Nancy Day, a utility industry veteran
+consulting for the Legislature.
+
+??Day said she believes the governor's appointees on the PUC will "punish" 
+PG&E
+for its behavior. If Edison winds up in bankruptcy court, it "won't be 
+punished
+for it," Day said.
+
+??PUC President Loretta Lynch couldn't be reached for comment.
+
+??Energy companies at a glance Edison Main subsidiary: Southern California
+Edison Headquarters: Rosemead, Los Angeles County Customers: 4.2 million in
+Southern California Chairman: John Bryson Performance: Lost $1.94 billion in
+2000 on revenue of $11.72 billion Stock ticker symbol: EIX
+
+??PG&E Main subsidiary: Pacific Gas and Electric Co. Headquarters: San
+Francisco Customers: 13 million in Northern, Central California Chairman: 
+Robert
+Glynn Jr. Performance: Lost $3.36 billion in 2000 on revenue of $26.23 
+billion.
+Stock ticker symbol: PCG
+
+??* * *
+
+??The Bee's Dale Kasler can be reached at (916) 321-1066 or 
+dkasler@sacbee.com.
+
+GRAPHIC: Bryson
+Glynn
+
+LOAD-DATE: April 30, 2001
+
+?????????????????????????????37 of 103 DOCUMENTS
+
+??????????????????Copyright 2001 McClatchy Newspapers, Inc.
+
+????????????????????????????????Sacramento Bee
+
+??????????????????April 29, 2001, Sunday METRO FINAL EDITION
+
+SECTION: MAIN NEWS; Pg. A3
+
+LENGTH: 679 words
+
+HEADLINE: What will be fallout from California's energy meltdown?
+
+BYLINE: Dan Walters
+
+BODY:
+
+??No one knows for certain how - or when - California's energy crisis will
+conclude. It is an inordinately complicated four-dimensional chess game that 
+has
+so far defied politicians' simplistic - perhaps simple-minded - efforts at
+resolution.
+
+??That said, one may speculate reasonably on the financial, social and
+political consequences for California in the months and years ahead.
+
+??Financially, Californians - especially the 70 percent who are served by
+private electric utilities - will feel the pinch for years, if not decades, to
+come. Before the crisis hit, California's power rates were already among the
+highest in the nation. Given the nearly $20 billion in power purchase debts 
+that
+the utilities and the state have accumulated so far, the stubbornly high
+wholesale prices and other data, it's not unreasonable to project that
+Californians in private utility areas will see their rates double, or rise 
+even
+higher.
+
+??Politicians have been laying the rhetorical groundwork for big increases,
+although they've been disingenuous about the outer parameters. The burden will
+fall most heavily on business customers and, coupled with doubts about power
+reliability and rising natural gas prices, will damage the state's ability to
+attract job-creating investment. States with low and stable energy prices
+already are using the crisis as a recruiting tool. In February, Intel 
+President
+Craig Barrett told the Wall Street Journal: "As long as California is a Third
+World country, we won't build $2 billion manufacturing plants here."
+
+??The inevitable escalation of utility rates will create distortions within 
+the
+state as well, since utility rates for the 30 percent of Californians served 
+by
+publicly owned utilities are not likely to rise by more than token amounts. 
+The
+municipal utilities' rates were roughly a third lower than private utilities'
+rates prior to the crisis. By the time the dust settles, they may be just half
+as much. It will contribute to the balkanization of California that was 
+already
+being defined by such factors as housing prices, ethnicity and income levels.
+Low-cost regions will become magnets for people and jobs while high-price
+regions will be shunned.
+
+??The energy crisis will certainly be the defining issue of the 2002 
+elections,
+and perhaps for others to follow. Gov. Gray Davis' popularity has plummeted
+since he took charge of the crisis, laying waste to his intentions to seek an
+easy re-election next year as a middle-of-the-road, business-friendly,
+tough-on-crime education reformer.
+
+??With his popularity waning, Davis may be compelled to turn left, shoring up
+his base by catering to demands of labor unions, environmentalists, trial
+lawyers and other liberal elements of the Democratic Party. That, in turn, 
+would
+undermine the triangulating strategy he has pursued, in which he took 
+Democratic
+voters for granted and cultivated business executives and social 
+conservatives.
+Business interests are worried, for example, that Davis may now feel compelled
+to sign union-friendly legislation, such as boosts in workers' compensation 
+and
+unemployment benefits, that he vetoed in the past.
+
+??Davis' relations with fellow Democrats in the Legislature have turned from
+cool to poisonous, with lawmakers openly trashing his leadership and 
+management
+of the energy crisis and worrying that he'll try to shift the blame to them if
+the crisis turns to disaster. If Democratic leaders fear that voters will be 
+in
+a throw-the-bums-out mood next year, they may throttle back on intentions to
+maximize their party strength in drawing new legislative districts. Such
+maximization would require spreading Democratic voters out among many 
+districts,
+and such margin-thinning could make Democrats vulnerable in an energy
+crisis-spawned voter rebellion. Democrats may well strive for fewer but safer
+seats.
+
+??These are but a few of the potential effects that California will experience
+long after the immediate crisis has faded, whenever that may be.
+
+??* * *
+
+??The Bee's Dan Walters can be reached at (916) 321-1195 or
+dwalters@sacbee.com.
+
+LOAD-DATE: April 30, 2001
+
+?????????????????????????????38 of 103 DOCUMENTS
+
+?????????????????Copyright 2001 The Chronicle Publishing Co.
+
+?????????????????????????The San Francisco Chronicle
+
+????????????????????APRIL 29, 2001, SUNDAY, FINAL EDITION
+
+SECTION: INSIGHT; Pg. D1
+
+LENGTH: 1419 words
+
+HEADLINE: The energy crisis is good for you
+
+SOURCE: Insight Senior Writer
+
+BYLINE: Louis Freedberg
+
+BODY:
+Here's a message for pampered and overindulged citizens of the Golden State 
+who
+complain unceasingly about high energy bills and the day-to-day prospect of
+rolling blackouts: Stop whining.
+
+???It's not a crisis -- it's an opportunity. The energy "crisis" is good for
+us.
+
+???For decades, we burned lights whenever we wanted, bought more and more
+energy-guzzling appliances, bigger and bigger television sets. Today, as
+citizens of the richest state in the world's only superpower, who is going to
+tell us when to stop?
+
+???"We talk about having to hit mules over the head with a 2 by 4 to get their
+attention, but I don't think human beings are much more responsive or
+foresighted. I hate to see people suffering, but on the other hand, if that is
+the way we learn, so be it," says Ernest Callenbach, the Berkeley author of 
+the
+futuristic 1975 novel, "Ecotopia." Callenbach's work was a major influence on
+the alternative energy policies of former Gov. Jerry Brown.
+
+???Nowhere has the ethic of unlimited consumption been more out of control 
+than
+in the Bay Area, where the energy demands of high tech outstripped what the
+electricity grid could supply. Aside from the energy needs of the industry
+itself, the wealth it generated encouraged avaricious lifestyles that include
+power-swilling mansions and freeways clogged with monster sport utility
+vehicles.
+
+???Perhaps the 34 days of blackouts some experts predict for this summer will
+bring the discipline that eludes us. Except for the hardships the crisis has
+inflicted on the poor, Californians still enjoy a sybaritic lifestyle that, in
+ways, would put to shame the pharaohs of Egypt or the court of Louis XIV. 
+Lights
+still burn when they're not needed. Except for very occasional blackouts,
+electricity still flows 24 hours a day. Our daily routines have barely been
+affected. A visitor from another state or country would have a hard time 
+finding
+signs of our highly publicized "crisis."
+
+???As we brace for deregulated electric bills courtesy of the state Public
+Utilities Commission, imagine what life was like for Native Americans who 
+lived
+for millennia in a bounteous Bay Area without microwaves, waffle irons, air
+conditioning or 24-cubic-foot refrigerators. No one is suggesting that we 
+revert
+to those days. But let's consider the thought that we may actually be better 
+off
+without the piles of appliances whose tangle of cords clogs our homes and
+offices.
+
+???Smug Californians love to point to the state's ranking as a miserly 
+consumer
+of energy -- only three other states consume less per capita -- to rebut
+accusations that we have become greedy energy hogs. Tougher efficiency 
+standards
+have helped, but so has our great weather. "California has a uniquely good
+climate to be efficient," says Dan Kammen, director of the Renewable and
+Appropriate Energy Laboratory at the University of California at Berkeley.
+"Compared to countries with much harsher climates, we have not done enough."
+
+???There's no denying the sudden, sharp pain caused by the crisis -- from
+threats of sky-high electric bills to fears that California's economic engine 
+is
+near collapse. But if we handle it right, all kinds of positive energy will
+result. Potential benefits extend from the spiritual (a revival of the
+conservation ethic) to the curative (making the state immune to power-problem
+overloads) to the liberating (throwing off for good our dependence on the 
+Texas
+energy overlords).
+
+???Consumers, shocked into action by tripled or quadrupled energy bills, are
+already rushing to Bay Area hardware stores, snapping up setback thermostats,
+hot water heater blankets, insulating window film and outdoor clotheslines. 
+Alan
+Ginsberg of Satco Products in Hayward, who imports from China container-loads 
+of
+squiggly shaped energy-saving fluorescent bulbs, says, "They're flying out the
+door."
+
+???More significantly, the crisis impels the state to move ahead with the
+construction of badly needed power plants. It puts on the agenda of public
+debate the fundamental question of whether our energy system should be in the
+hands of giant utilities or run by municipalities or by the state. It 
+certainly
+unveiled the greed of out-of-state energy producers who have sucked billions 
+of
+dollars from California.
+
+???The crisis has also made us focus on fundamental flaws in our energy grid,
+such as the 4,500-megawatt electricity shortage that emerged in the 1990s 
+while
+we were all reveling in California's boom times.
+
+???By exposing those who got us into this predicament -- producers, utilities,
+regulators and politicians -- there's a chance we'll get out of it with a more
+rational and efficient energy grid and be better prepared to deal with
+challenges down the road. If that happens, Gov. Gray Davis might yet confound
+critics who say his political prospects are sinking faster than you can say
+"megawatt."
+
+???The ease and convenience of modern life fools us into thinking that power,
+water and food are infinite. Flip a switch and the lights magically go on. 
+Turn
+a faucet and water flows. These days, the biggest challenge in gathering our
+daily bread is the hunt for a space in the supermarket parking lot.
+
+???And we want it all, leading us straight into denial. We want instant,
+abundant power -- but we don't want any new power plants, especially in our
+backyards. Coal is dirty. Natural gas is expensive. Dams kill salmon. Nuclear
+power? Forget about it. The contradictions haven't mattered -- so long as an
+endless supply of electrons flowed from our wall outlets. But that mindless
+ease, the crisis taught us, is history.
+
+???The energy crisis warns us that we must become more self-sufficient or risk
+slipping toward oblivion if we continue to spend billions of dollars on
+shrinking non-renewable energy sources such as coal and natural gas.
+
+???The Roman Empire fell because of the decadence of its ruling elites. And 
+the
+British empire, dependent on raw materials from the colonies, began to 
+collapse
+when it became too expensive to import goods across oceans.
+
+???A new consciousness about where electricity comes from is the first step
+toward using less of it. It could also translate into a greater awareness of
+other environmental causes.
+
+???If we get the message, "the net outcome (of the energy crisis) will be a
+quite profound shift in consciousness in energy conservation," predicts 
+Michael
+Lerner, executive director of Commonweal, a health and environmental institute
+in Bolinas.
+
+???Such a turnaround is no snap.
+
+???During the last energy crisis in the 1970s, there was a similar rush toward
+conservation. President Jimmy Carter installed solar panels on the White House
+roof. President Ronald Reagan took them down. He also phased out tax credits 
+and
+other inducements to encourage development of renewable energy sources.
+
+???Closer to home, one of former Gov. George Deukmejian's first acts was to
+abolish the Office of Appropriate Technology established by Gov. Jerry Brown 
+to
+move us away from our dependence on non-renewable fossil fuels.
+
+???Since then, we have regressed further. Even record high gasoline prices 
+have
+done nothing to depress the sales of SUVs, which now account for the largest
+share of automobile and light truck sales (20 percent at last count).
+
+???But today's crisis could lead to permanent changes in behavior, if only
+because the technology needed to harness sun, wind and other renewable energy
+sources has become far more cost effective than a generation ago. California 
+already gets 12 percent of its energy from these "alternative" sources, and 
+the
+market incentives to develop them further has never been higher.
+
+???Stratospherically high electricity bills could finally force on us the
+technological changes and the discipline that Europeans -- who use two-thirds 
+as
+much energy per capita as we do -- and the Japanese -- who use only half as 
+much
+-- have had to embrace.
+
+???This difficult moment in California's history has already yielded some
+ecological epiphanies, like those experienced by Ernest Callenbach's 
+neighbors.
+They installed solar photovoltaic cells on their roof. The installation now 
+puts
+surplus electricity back into the energy grid, instead of sucking more out of
+it.
+
+???"The magical moment is the idea that by having a photovoltaic cell on your
+roof, you can make your electric meter run backward," said Callenbach. 
+"Instead
+of it going to the right, you actually see it going in the other direction. 
+You
+say to yourself, 'Oh Lord, Oh Lord, I have seen the future.' "
+
+??Email Louis Freedberg at lfreedberg@sfchronicle.com
+ 
+GRAPHIC: GRAPHIC, Don McCartney/The Chronicle
+
+LOAD-DATE: April 29, 2001
+
+?????????????????????????????44 of 103 DOCUMENTS
+
+??????????????????????Copyright 2001 Ventura County Star
+
+?????????????????????????????Ventura County Star
+
+????????????????????????????April 29, 2001 Sunday
+
+SECTION: Editorials; Pg. B09
+
+LENGTH: 704 words
+
+HEADLINE: Reality is what's needed for real policy
+GOVERNOR: Consumers deserve to get real facts from Davis.
+
+BYLINE: Dan Walters
+
+BODY:
+
+??Gov. Gray Davis is continuing to tell Californians that he's on top of the
+state's energy crisis and, as he said at one gathering last week, "in three
+years this problem will be a distant memory." Fat chance. All major aspects of
+the situation are growing worse, not better, minute-by-minute.
+
+??Politicians took over the crisis in January as the state's major utilities
+exhausted their cash reserves and lines of credit. Davis began what he said 
+then
+would be a short-term, emergency program of power purchases to keep electrons
+flowing into homes and businesses.
+
+??From that moment forward, the situation has steadily deteriorated, moving
+toward a three-pronged disaster: severe summer blackouts, the bankruptcy of 
+the
+utilities and sharply escalating power bills. With the bankruptcy filing by
+Pacific Gas & Electric Co. and decisions by Davis and the Public Utilities
+Commission to begin ratcheting up utility rates, two of the three negative
+scenarios are now in place. And everyone involved in the crisis expects
+blackouts this summer as demands for power soar and supplies dwindle.
+
+??The Davis strategy, if there is one, is to continue the state's massive 
+power
+purchases while negotiating longer-term and presumably cheaper supply 
+contracts,
+encourage conservation, help utilities pay off their debts by selling their
+intercity transmission system to the state and tapping ratepayers, and build
+more power plants to ease the supply crunch.
+
+??Currently, the governor is touting his deal with Edison International, 
+parent
+company of Southern California Edison, to sell its portion of the grid and is
+working on a similar deal with Sempra, the parent of San Diego Gas and 
+Electric.
+But PG&E's bankruptcy casts doubt on the viability of the cash-for-grid 
+concept
+and legislators, particularly Davis' fellow Democrats, are very skeptical of 
+the
+Edison deal.
+
+??Clearly, Davis rushed into the Edison deal just three days after PG&E filed
+bankruptcy, in hopes of erasing the political stain of the latter action, but
+its provisions are being labeled a "bailout" by critics. It places only a 
+token
+financial burden on Edison International while guaranteeing the profitability 
+of
+its utility subsidiary by charging its customers whatever is required to cover
+its costs and past debts.
+
+??Meanwhile, the state is spending -- by Davis' own account -- about $70
+million a day or $2-plus billion a month on spot power purchases, paying 
+roughly
+five times what consumers are being charged at the retail level. And the 
+current
+futures market for power indicates that wholesale power prices will jump by
+another 50 percent by mid-summer; higher prices and greater purchases could
+increase the drain on the state treasury to as much as $5 billion a month.
+
+??State Treasurer Phil Angelides is desperately trying to arrange a "bridge
+loan" to relieve pressure on the state's rapidly vanishing reserves, but Wall
+Street is reluctant to lend without a fuller explanation of what's happening 
+and
+a specific authorization from a suspicious Legislature.
+
+??He said Tuesday that Davis, who has maintained secrecy on power purchases,
+must offer a comprehensive and public plan for dealing with the financial
+squeeze.
+
+??Meanwhile, bankers are sending strong signals that the state government is
+becoming as poor a lending risk as the utilities.
+
+??Davis, for some reason, is unwilling to declare this situation the emergency
+that it is truly becoming -- one that could take a toll of human life if major
+blackouts shut down air conditioners, respirators and traffic lights. He 
+insists
+on issuing his periodic -- and wholly unrealistic -- assurances that things 
+will
+turn out all right, even declaring to reporters this past Tuesday that "we 
+think
+we'll have this thing licked by the end of fall."
+
+??It's time for someone -- the governor, preferably, but someone -- to lay out
+for Californians exactly what's happening, the downside financial and power
+supply risks, and what's being done to deal with the looming disaster facing
+this state.
+
+??It's time for politicians to treat us as adults who can face reality, not as
+children to be fed sugarcoated sound bites and slogans.
+
+??-- Dan Walters writes for the Sacramento Bee.
+
+LOAD-DATE: April 29, 2001
+
+?????????????????????????????49 of 103 DOCUMENTS
+
+??????????????????????Copyright 2001 / Los Angeles Times
+
+??????????????????????????????Los Angeles Times
+
+????????????????????April 28, 2001, Saturday, Home Edition
+
+SECTION: Part A; Part 1; Page 19; Metro Desk
+
+LENGTH: 679 words
+
+HEADLINE: OFFICIALS CALL PRICE STABILITY PLAN ILLEGAL;
+
+UTILITIES: AGENCY CHIEFS SAY THE FEDERAL PROPOSAL COULD ALSO CAUSE MORE
+BLACKOUTS THIS SUMMER.
+
+BYLINE: NANCY VOGEL and MIGUEL BUSTILLO, TIMES STAFF WRITERS
+
+
+
+DATELINE: SACRAMENTO
+
+BODY:
+
+
+??Two top state energy officials said Friday that a federal plan to stabilize
+electricity prices in California could increase the odds of blackouts this
+summer and most likely is illegal.
+
+??In a barrage of complaints attacking the Federal Energy Regulatory
+Commission, the state's top power regulator and the head of the board 
+overseeing
+California's transmission grid said they might challenge the federal order in
+court.
+
+??The order was approved on a 2-1 vote Wednesday and released to the public
+late Thursday.
+
+??"We're going to take whatever actions we can to oppose this to the extent 
+our
+lawyers tell us it's illegal," said Michael Kahn, an attorney named by Gov. 
+Gray
+Davis to head the board overseeing the California Independent System Operator.
+Cal-ISO manages the transmission grid reaching three-quarters of the state.
+
+??In a conference call with reporters, Kahn and Loretta Lynch, president of 
+the
+California Public Utilities Commission, said the order also seems to indicate
+that FERC is unwilling to force power sellers to rebate any of the 
+extraordinary
+profits earned before last October in California's market, where wholesale
+electricity prices began soaring last May.
+
+??And, according to Kahn, the federal order illegally ties limits on power
+prices to a requirement that California link its transmission grid with those 
+of
+other states.
+
+??"It's not within their authority to have this kind of linkage," he said.
+
+??The federal order is scheduled to take effect May 29. Though it is not clear
+how the order will play out in the state's electricity market, Lynch and Kahn
+said they do not believe it will bring down power costs or help the state 
+avoid
+blackouts, as intended.
+
+??"They're creating a whole new, wholesale blackout system," said Lynch,
+referring to a section of the order that allows large customers, such as steel
+mills and food processors, to get paid to shut down when grid operators are
+struggling to find enough electricity to meet demand.
+
+??Though a somewhat similar program has helped California avoid blackouts, the
+federal order requires state power buyers to name the price to which 
+electricity
+must rise before they shut down customers.
+
+??The requirement of naming a price could lead to more blackouts, said 
+Stanford
+University economist Frank Wolak, because it prevents power buyers from paying
+more if that's what it takes to keep electricity flowing.
+
+??"Stating your price and sticking to it means that somebody could call your
+bluff," Wolak said. "The generators just say, look, we can't supply all you 
+want
+at the price you want to pay.
+
+??"So they supply everything they can at the price we're willing to pay--and 
+no
+more--and we have rotating blackouts," he said.
+
+??Lynch said that no matter how this aspect of the FERC order unfolds, "it
+ain't for Washington bureaucrats to decide when the lights go out in 
+California.
+"
+
+??Grid operators at Cal-ISO must quickly buy batches of electricity to
+constantly match supply and demand on the transmission system serving most of
+the state, excluding the city of Los Angeles. When Cal-ISO cannot find enough
+power, it must order Southern California Edison, Pacific Gas & Electric and 
+San
+Diego Gas & Electric to trigger rotating blackouts.
+
+??The state suffered such controlled outages on four days in January and 
+March,
+and many such days are predicted for this summer as air conditioning drives up
+demand for power.
+
+??In other energy news Friday, Gov. Gray Davis announced in Los Angeles that
+electricity use in California state office buildings dropped by an average of
+20% in the first two months of this year, compared to the same months of 2000.
+State workers have been under orders since late last year to turn off
+nonessential lights, computers, printers and other electrical appliances. Some
+agencies have even changed workers' schedules, eliminating "flextime" so that
+everyone works the same hours and the offices can open later and close 
+earlier,
+shortening the energy-using day.
+
+
+??*
+
+??Times staff writer Mitchell Landsberg in Los Angeles contributed to this
+story.
+
+LOAD-DATE: April 28, 2001
+
+?????????????????????????????50 of 103 DOCUMENTS
+
+??????????????????????Copyright 2001 / Los Angeles Times
+
+??????????????????????????????Los Angeles Times
+
+????????????????????April 28, 2001, Saturday, Home Edition
+
+SECTION: Part A; Part 1; Page 19; Metro Desk
+
+LENGTH: 688 words
+
+HEADLINE: BILL COULD FOIL DAVIS' ELECTRICITY OFFENSIVE;
+
+POWER: CONGRESSMAN WANTS TO LET SMALL PRODUCERS SELL ON WHOLESALE MARKET.
+BACKERS SAY PLAN WOULD BOOST SUPPLY, BUT FOES SEE IT COSTING CALIFORNIA 
+DEARLY.
+
+BYLINE: JULIE TAMAKI and MIGUEL BUSTILLO, TIMES STAFF WRITERS
+
+
+
+DATELINE: SACRAMENTO
+
+BODY:
+
+
+??A Texas congressman plans to introduce legislation next week that would 
+allow
+California's small power producers to sell their supplies on the wholesale
+market--a move that could threaten Gov. Gray Davis' plan to end the state's
+energy crisis.
+
+??The proposal by Republican Rep. Joe Barton, the influential chairman of the
+House energy and air quality subcommittee, would permit producers of 
+alternative
+and renewable energy to suspend their contracts with the state's two biggest
+investor-owned utilities and sell their supplies to a third party.
+
+??Proponents say the bill could dramatically bolster the state's electricity
+supplies by luring producers whose plants have been shut down by payment
+disputes to restart them in time for summer, when supplies are expected to be
+tight and blackouts are feared.
+
+??But allowing producers to sell to a third party would essentially devastate
+Davis' plan to rescue the utilities and get the state out of the business of
+making emergency electricity purchases.
+
+??The governor's plan is based on California locking down the costs of
+electricity from the utilities and small power producers for several years, 
+at a
+reduced cost.
+
+??During that time, the state would buy the remaining portion of the
+electricity the utilities need to serve their customers. Meanwhile, the
+utilities would regain their financial footing by selling assets to the state 
+in
+exchange for being allowed to recover a portion of their back debt through a
+surcharge on electricity bills.
+
+??If the alternative producers were allowed to sell their power on the
+wholesale market, the state could be forced to purchase much more electricity 
+on
+the expensive open market.
+
+??That would dramatically increase California's already massive power costs,
+forcing the state to further raise electricity rates and borrow even more than
+the record $ 12 billion in bonds it is planning to finance the plan. The state
+has spent more than $ 5 billion buying electricity that the utilities cannot
+afford, and Davis expects to spend $ 15 billion by year's end.
+
+??"It is a way of busting the budget for the state of California," said Joseph
+Fichera, a Wall Street energy consultant hired by the Davis administration. He
+called the potential release of the small producers a "disaster scenario" for
+the state.
+
+??Added Stephen E. Frank, chairman, president and chief executive of Southern
+California Edison: "Releasing them from their contractual obligations will
+simply exacerbate the problem, because they would then be selling into the
+market at additionally higher rates and just compound the state's problems."
+
+??But Eugene Peters of the Electric Power Supply Assn. disputed that
+contention. The state, he said, is already buying replacement supplies on the
+open market because of reduced output by small producers.
+
+??"If 3,000 megawatts are made available again, it will have a potentially
+profound effect on what people pay for power by bolstering overall 
+electricity 
+supplies," Peters said.
+
+??Utility executives contend that only 1,200 megawatts are offline because of
+payment problems.
+
+??California is home to nearly 700 small energy producers, which generate more
+than a quarter of the electricity consumed in the state. They differ from 
+their
+big out-of-state counterparts, which have been getting paid by the state.
+
+??The Barton proposal will be the subject of public hearings Tuesday and
+Thursday, and could move to the full House Energy and Commerce Committee for a
+vote the next week. Barton could not be reached for comment Friday.
+
+??The alternative-energy provision is one of several in his emergency energy
+bill. Others designed to help the West through a difficult summer of price
+spikes and energy shortages range from offering federal aid to relieving a
+bottleneck in the transmission system to permitting governors to secure 
+waivers
+from environmental rules to boost power supplies.
+
+??The provisions dealing with waivers of environmental rules have been among
+the most controversial, drawing opposition from environmentalists.
+
+
+??*
+
+??Times staff writer Richard Simon in Washington contributed to this story.
+
+LOAD-DATE: April 28, 2001
+
+?????????????????????????????51 of 103 DOCUMENTS
+
+??????????????????????Copyright 2001 / Los Angeles Times
+
+??????????????????????????????Los Angeles Times
+
+????????????????????April 28, 2001, Saturday, Home Edition
+
+SECTION: Business; Part C; Page 2; Financial Desk
+
+LENGTH: 137 words
+
+HEADLINE: BRIEFLY / ENERGY;
+
+PUC ORDERS UTILITIES TO POST BLACKOUT DATA
+
+BYLINE: Nancy Rivera Brooks
+
+
+
+BODY:
+
+
+??Responding to customer complaints, the California Public Utilities 
+Commission
+ordered Southern California Edison and San Diego Gas & Electric to tell
+customers more about when they will be blacked out during times of extreme 
+power
+shortages. The PUC told Edison and SDG&E to begin listing on electricity bills
+by June 1 the "outage block" into which each customer falls. ?The utilities 
+then
+must use their Web sites to tell customers which blocks are slated for 
+blackouts
+should more rotating outages be required. Pacific Gas & Electric Co. already
+lists outage block numbers on its customer bills. A pop-up box on PG&E's Web
+site shows which blocks are next in line for blackouts. Edison and SDG&E said
+they have been working on implementing such notification on their own and will
+comply with the PUC ruling.
+
+LOAD-DATE: April 28, 2001
+
+?????????????????????????????53 of 103 DOCUMENTS
+
+??????????????????Copyright 2001 McClatchy Newspapers, Inc.
+
+????????????????????????????????Sacramento Bee
+
+?????????????????April 28, 2001, Saturday METRO FINAL EDITION
+
+SECTION: MAIN NEWS; Pg. A3; POWER CRUNCH
+
+LENGTH: 1109 words
+
+HEADLINE: Cities take new look at public power The state's uncertain 
+electricity
+picture has local officials deciding it's time to revisit the idea of 
+municipal
+utilities.
+
+BYLINE: Carrie Peyton Bee Staff Writer
+
+BODY:
+
+??From the shipwreck of California's electric industry, Albert Vera sees a
+chance to build a life raft.
+
+??"This is an opportunity that shall never come again," the former Culver City
+mayor told city and county officials gathered this week in Sacramento.
+
+??Every rate hike, every blackout, every corporate bonus is more evidence for
+believers that it's time for local government to get into the power business.
+They pin their hopes on municipal utility drives in San Francisco, Corona, San
+Diego County and beyond.
+
+??Over the past few years, however, only a handful of cities have set up their
+own electric departments, and they are mostly limited entities that fall short
+of full-fledged utilities. More commonly, cities - including Davis, Lincoln 
+and
+Culver City - have studied the idea and rejected it, at least temporarily.
+
+??They all face the same question, said Santa Rosa City Manager Jeffrey Kolin:
+
+??"Is the investment worth the risk? Most of us would say we don't know yet."
+
+??Kolin's city, like scores of others across the state, has decided it is time
+to study the issue anew, motivated by the prospect of soaring electric bills,
+repeated blackouts, and Pacific Gas and Electric Co.'s bankruptcy filing.
+
+??"All their citizens are screaming," said Yvonne Hunter, a lobbyist for the
+League of California Cities.
+
+??The highest visibility fight will likely come in November, when San
+Franciscans go to the polls to decided whether to create their own utility in 
+a
+city that houses PG&E's corporate headquarters.
+
+??"We will take it very seriously," PG&E spokesman John Nelson said.
+
+??Shortly after deregulation in 1996, several drives for ratepayer-owned
+utilities stumbled or stalled. An effort in the far north state to create a
+multicounty public power agency was rejected by state regulators because some
+local governments objected.
+
+??Now, with a bill to create a state power authority moving through the
+Legislature, some believe the climate may be changing.
+
+??"One of the things this crisis has proved is the value of local control,"
+said Jerry Jordan, head of the California Municipal Utilities Association.
+
+??Since January, the cities of Hercules in the Bay Area and Corona in Southern
+California have formed utilities to deliver electric service to new
+neighborhoods - a strategy that sidesteps potential condemnation fights with 
+the
+existing utility. The county of San Diego is trying to get special legislative
+authority to create a regional power agency without a popular vote.
+
+??"We could produce power better, cheaper and faster than the private sector,"
+county Supervisor Dianne Jacob said.
+
+??Not so, say PG&E and Southern California Edison.
+
+??"There's been much more talk of it, but as soon as most folks sit down and
+take a look at the realities ... they realize that they would have to buy on 
+the
+same market, at the same outrageous prices that we and the state have been
+paying," Nelson said. "The talk quickly evaporates."
+
+??For-profit utilities have long argued that government shouldn't usurp the
+role of private industry in delivering electricity. PG&E contends that the
+factors that once made public power attractive - such as access to low-cost
+electricity from federal dams - have evaporated.
+
+??In addition, cities that try to withdraw from PG&E or Edison now probably
+would still have to funnel money their way for years to come, to pay off
+still-unsold state bonds that will stretch out a single year's power costs for
+up to 15 years.
+
+??With so many unknowns, the next few years are likelier to produce more
+studies than new utilities, said a number of city officials who attended a
+seminar in Sacramento this week, sponsored in part by the American Public 
+Power
+Association.
+
+??Former New York state Sen. Al Coppola told the group the session should have
+been titled: "Independence from the greedy robber baron utilities."
+
+??Public power backers share three key beliefs:
+
+??* They can charge customers less because they don't have to pay dividends to
+investors or pay taxes on their sales; they can respond to local preferences 
+on
+issues like which customers pay the lowest rates and how blackouts are staged;
+and existing utilities will do everything in their power to oppose them.
+
+??"Edison did the right thing - (use) fear," to discourage Culver City from
+creating an electric arm in 1995, Vera, the city's former mayor, told the 
+group.
+
+??And Glenn Prentice, head of the newly created Corona electric utility, said
+in an interview that a half-dozen other cities have contacted him for more
+information, but he declined to name them.
+
+??"If I do, Edison will start the attack on them. We're talking about a lot of
+money," he said. "We're here to serve the public. They're here to make money."
+
+??PG&E sees new utilities as "competition for our business," and it has a
+policy of lobbying hard against them, Nelson said.
+
+??Less than 18 months ago, it warned residents of the Placer County town of
+Lincoln that a city power enterprise would be costlier and less dependable 
+than
+PG&E, and its officials labeled the effort a "tax dodge."
+
+??But by January of this year, PG&E barely blinked when Hercules set up a
+utility to deliver power and telecommunications service in new neighborhoods.
+
+??"We got more resistance from AT&T and PacBell," said Raj Pankhania, 
+assistant
+to the city manager of Hercules.
+
+??Pankhania has been researching utility drives across the state and has seen
+no groundswell for public power, although he believes it can bring cities 
+added
+revenue and more local control.
+
+??That could change this summer, Prentice said.
+
+??"It really depends on how bad the blackouts are."
+
+??A blackout that left one city councilmember's daughter at a darkened school
+was part of what led the Riverside County city of Corona to vote April 4 to 
+form
+its own electric arm, he said. Heavy industry became anxious, too.
+
+??"They said to the city council, 'Do something!' " Prentice said.
+
+??Skipping detailed studies, Corona quickly decided to create a utility that
+will build small power plants, under 50 megawatts, to serve city operations 
+and
+new neighborhoods in the city of 127,000 east of Disneyland.
+
+??In time, said Hercules' Pankhania, cities like his could become the living
+laboratory for whichever system can deliver better service and lower rates.
+
+??Hercules' plans calls for the older two-thirds of its homes and businesses 
+to
+retain their PG&E service and the newest third to be served by the city 
+utility.
+
+??"The existing homeowner will definitely compare five to 10 years down the
+road," he said. "Then let the people decide which way they want to go."
+
+??* * *
+
+??The Bee's Carrie Peyton can be reached at (916) 321-1086 or
+cpeyton@sacbee.com.
+
+LOAD-DATE: April 29, 2001
+
+
+
+
+ 

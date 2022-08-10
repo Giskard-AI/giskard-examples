@@ -1,0 +1,368 @@
+Message-ID: <27385216.1075846164025.JavaMail.evans@thyme>
+Date: Thu, 3 Aug 2000 20:46:00 -0700 (PDT)
+From: dsgeorge@firstworld.net
+To: dsgeorge@firstworld.net
+Subject: WSP: Market Ripe for Manipulation...
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: <dsgeorge@firstworld.net>
+X-To: "Dick George" <dsgeorge@firstworld.net>
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+Cc list suppressed...
+Public opinion is the pendulum that swings law...dsg
+
+August 4, 2000
+
+Deregulation Leaves Electricity Market Ripe for
+Manipulation by Power Firms
+
+By REBECCA SMITH and JOHN J. FIALKA
+Staff Reporters of THE WALL STREET JOURNAL
+
+It's a market ripe for manipulation: surging demand for
+an indispensable commodity, weak oversight and a
+chaotic new set of rules amid a transition from heavy
+regulation to open competition. This is the state of
+the U.S. electricity business in the summer of 2000.
+And sure enough, there's growing evidence that some
+power companies are finding lucrative ways to exploit
+the system -- at consumers' expense.
+
+The tactics include manipulating wholesale electricity
+auctions, taking juice from transmission systems when
+suppliers aren't supposed to and denying weaker
+competitors access to transmission lines. None of this
+is illegal, and much of it might be considered basic
+competition. But as an electricity shortage plunges
+sweltering California into an energy crisis and fears
+of even worse shortages rattle the Northeast, the
+practices of power suppliers face more scrutiny than
+ever. (See related article.)
+
+Steamy Conditions
+
+A hot summer day last year shows one kind of
+manipulation. On July 28, 1999, wholesale electricity
+prices in the Middle Atlantic states hit $935 per
+megawatt hour. That was seven times what it costs to
+generate power at the most expensive plant in the
+region. An analysis of trading data from that day shows
+that PECO Energy Corp. and PPL Corp., the old
+Philadelphia Electric Co. and Pennsylvania Power &
+Light, made the most of steamy conditions.
+
+In the region's power market, deregulated in 1997, a
+new corporation called PJM Interconnection LLC runs the
+transmission system once operated piecemeal by eight
+utilities. It also operates a daily electricity auction
+that sorts the hourly bids of 540 generating plants.
+The cheapest plants are called on first, but when the
+weather is hot and demand is acute, higher offers are
+taken as well. To attract as many bidders as possible,
+the highest bid, each hour, sets the price for the
+entire market for that hour.
+
+Grid and Bear It
+
+Rise in average wholesale electricity prices at key
+transmission-interconnection points for the month of
+May from 1997 to 2000.
+TRANSMISSION-INTERCONNECTION POINT
+           % CHANGE 1997-2000
+Texas                                        +293%
+Louisiana-Mississippi-Arkansas              +216
+Tennessee Valley Authority                  +165
+California-Oregon border                    +162
+New York-West                             +138
+Chicago area                                  +130
+New England                                 +117
+New York-East                               +101
+Upper Midwest                               +99
+Florida                                       +89
+Mid-Atlantic region                           +80*
+   *Includes only years 1999-2000
+
+Source: Federal Energy Regulatory Commission, RDI Power
+
+What PECO and PPL did was offer much of their output at
+low prices so that the majority of their plants would
+be called into service. But knowing demand was so high,
+they offered power from their tiniest plants at vastly
+higher bids, in a way that often set the peak price for
+a number of hours. Consumers that day ended up paying
+millions of extra dollars for power.
+
+Cases like this show that during the transition to
+deregulation, "there's a good argument the system has
+broken down," says William Massey, a commissioner at
+the Federal Energy Regulatory Agency. FERC, which
+polices the nation's bulk power markets, began the
+deregulation movement in 1996.
+
+It wasn't supposed to be this way. In the old days,
+utilities generated electricity and delivered it to
+customers in exclusive territories. To protect
+consumers from gouging, rates were regulated. But while
+supply had to be able to meet peak demand at all times,
+demand varied widely within regions, between regions
+and from one season to another. The result was
+tremendous reliability but also inefficiency and waste.
+
+Deregulation, now under way in half the country and
+functioning nationally at the wholesale level, allows
+new players -- some affiliated with utilities, some
+not -- to build power plants and sell electricity.
+Prices are supposed to be set by competitive markets.
+Risks are borne by investors, not ratepayers.
+
+At the same time, utilities are surrendering control of
+long-haul transmission lines to new nonprofit
+operators, like the one in the Middle Atlantic region,
+which are supposed to ensure fair access to the grid --
+the multistate system of high voltage lines.
+
+Under this new regime, energy prices should have
+dropped as companies raced to compete with one another.
+But the massive U.S. energy infrastructure wasn't
+designed to serve as the backbone of a free market. On
+hot summer days, when there's little or no surplus
+electricity in the nation's most populous regions,
+generators can charge prices far in excess of their
+production costs and be confident they'll get tapped
+for service by grid operators who must keep the lights
+on at any cost. Utility holding companies that still
+control transmission lines have an added advantage:
+They can effectively lock out cheaper competitors.
+California Cuts Price Cap for Electricity Once Again
+(Aug. 2)Price Cap Is Set for Electricity That Is Sold
+in New England (July 27)PPL, KeySpan Say Earnings
+Surpassed Wall Street Targets (July 27)Energy Trading,
+Internet Operations Help Enron's Net Income Jump 30%
+(July 25)PG&E Posts 36% Rise in Net to $248 Million
+(July 21)
+The new regional grid operators, called independent
+system operators, or ISOs, eventually will be in charge
+of preventing manipulation. But as nongovernmental
+organizations, they won't have basic investigative
+tools, like subpoena powers or the ability to impose
+significant penalties. FERC, which does have those
+powers, rarely uses them, preferring to let the market
+discipline itself.
+
+A Strange Drop
+
+Sometimes it's difficult to know what constitutes an
+abuse of the market. In July 1999, engineers noticed
+that a substantial amount of power was being taken from
+the grid for which there was no explanation. They
+contacted the North American Electric Reliability
+Council, the industry group charged by Congress with
+overseeing the grid since the late 1960s. After a
+lengthy investigation, NERC determined that Cinergy
+Corp., a utility holding company, had surreptitiously
+taken enough power over a three-day period, about 9,600
+megawatt hours, to light a small city for a month.
+
+Cincinnati-based Cinergy had underestimated power
+demands. Rather than buy electricity on the open market
+at ferociously high prices or cut power to Cincinnati,
+it quietly borrowed power from the system when demand
+was peaking and later replaced it in the cool of the
+night when demand wasn't so high.
+
+James E. Rogers, Cinergy's chief executive, received a
+letter from A.R. Garfield, the chairman of NERC's
+regional power-coordination center, accusing his
+company of showing "blatant disregard" for the rules
+and of using the grid "as a supplemental resource
+without regard to the reliability or integrity of the
+system."
+
+But Cinergy paid no fine. That's because it runs its
+own transmission "control area" and is trusted to
+enforce NERC's voluntary rules, even when it is the
+violator. Smaller utilities in Cinergy's area, by
+contrast, face contractual penalties of as much as
+$35,000 per megawatt for unilaterally borrowing from
+the grid, a practice known as "leaning on the ties."
+
+Dancing on the Edge?
+
+Mr. Garfield is still steamed about Cinergy's actions,
+which he said removed part of the system's essential
+reserve needed to avoid cascading blackouts, or a chain
+of uncontrollable outages that could darken whole
+sectors of the country. "How fair is it that someone
+can dance on the edge like that and get away with it?"
+he asks.
+
+Mr. Rogers points to old rules that permit utilities to
+temporarily borrow small amounts of power during
+emergencies. "We were very careful to make sure, when
+we leaned on the ties ... we didn't bring the whole
+system down," he says. Nevertheless, he concedes, "in a
+competitive world, those rules need to be changed." The
+region's regulators have since gone to FERC for
+authority to charge "borrowers" for the market value of
+the electricity they take off the grid.
+
+Leaning on the ties is only one way fair competition is
+being frustrated on the country's transmission system,
+a vast web of connections that resembles the nation's
+highway system before the construction of the
+interstates. While there are plenty of routes to get
+electricity from outlying power plants directly to big
+cities, there are relatively few routes connecting
+regions. That makes it possible for some big companies
+to shut out competitors.
+
+A Snag in Transmission
+
+St. Louis-based Aquila Energy hit that snag when it
+tried to use a transmission corridor owned by New
+Orleans-based Entergy Corp. to move electricity to a
+buyer in East Texas. Entergy granted the request,
+initially, but then it canceled, saying it didn't have
+sufficient space on its lines.
+
+Aquila didn't buy it. After analyzing
+transmission-capacity data, the company argued to FERC
+that Entergy did have enough space on its lines and so
+was in effect breaking a rule that required it to
+provide transmission-line access when possible. Without
+access to Entergy's lines, Aquila was forced to
+compensate the buyer and lost nearly $300,000 on the
+deal. From whom did the Texas customer end up buying
+the power? A unit of Entergy -- and for a higher price
+than it would have paid Aquila.
+
+FERC said Entergy had been within its rights to
+restrict access in this case, because it had
+transmission problems. But FERC found that Entergy, on
+other occasions, had hoarded transmission capacity that
+should have been made available to the market. Entergy
+declines to comment.
+
+Such scenarios are costly for consumers, and they are
+among the reasons the electricity industry is enjoying
+flush times. In the second quarter just ended,
+companies ranging from AES Corp. in Arlington, Va., to
+Enron Corp. in Houston reported huge profit increases,
+some as much as 50%. To be sure, a lot of those profits
+are coming from extraordinary demand growth and a
+pickup in energy trading. But Sean Murphy, president of
+Southern Energy New England, a unit of Southern Cos.,
+Atlanta, Ga., worries that the industry has gotten too
+greedy and risks retribution. "Pigs get fat, but hogs
+get slaughtered," he says.
+
+Tremendous Volatility
+
+New federal data show that average wholesale power
+prices have more than doubled at 14 of 17 key pricing
+points across the country in the past three years. By
+May of this year, prices had risen across a broad
+range -- by 89% in Florida, for example, and by 294% in
+Texas. But even these increases mask the tremendous
+volatility that has struck all the major wholesale
+markets during the past year. In the case of the
+Midwest, where prices in July 1999 hit $9,000 per
+megawatt hour, it was as if a $1.89 gallon of gas
+suddenly sold for $567.
+
+Prices like these have prompted growing calls for
+investigations into whether electric companies are
+gouging their customers. Some consumer groups, lukewarm
+to deregulation in the first place, now are agitating
+for re-regulation. Residential electricity bills have
+doubled in San Diego, which is notable because it's the
+first city in the nation to be served by a utility
+that's buying all of its energy on the competitive
+market.
+
+Politicians are sounding the alarm in the Pacific
+Northwest. There, wholesale prices peaked at a record
+$1,300 per megawatt hour during the last week in June.
+Energy-intensive industries like mines and aluminum
+smelters are cutting back on production and temporarily
+laying off workers. "We may be seeing too much
+opportunism in the market," says Montana Gov. Marc
+Racicot. Demands by Mr. Racicot and his counterpart in
+Washington, Gary Locke, were instrumental in prompting
+FERC to open a national investigation in late July into
+possible market abuses.
+
+A Six-Month Lag
+
+One big premise on which deregulation rests is that a
+free flow of information will let markets police
+themselves and operate efficiently. But a key tool for
+market monitoring, the data on utility Web sites used
+to book transmission orders, is often unreliable.
+There's a six-month lag on the release of bidding data,
+which are coded to mask the identities of bidders.
+
+What's more, the four FERC-controlled ISOs operating in
+California, the Middle Atlantic states, New England and
+New York don't have the authority to compel market
+participants to give them internal documents, like
+bilateral contracts, and other information they don't
+want to hand over. Without such documents, "there's a
+lot more looking than finding," says Bill Museler,
+chief executive of the New York ISO.
+
+Even if the ISOs do find something problematic, there
+isn't much they can do about it. The tariffs, contracts
+and bylaws under which they operate generally prohibit
+them from releasing company-specific data and so
+exposing wrongdoers. And with the exception of
+California, the ISOs' own board meetings are closed to
+the public. "The reality is, confidentiality rules
+protect the guilty," says Frank Wolak, a professor of
+economics at Stanford University and chairman of the
+California ISO's Market Surveillance Committee. "And
+there are no codes of conduct to instill a sense of
+fair play."
+
+That can be a huge problem on hot days. In California,
+an independent exchange runs a daily forward auction in
+which it tries to match the next day's anticipated
+demand to bids by generators. But this summer,
+generators often have offered less power than they know
+will be needed, so that they can submit higher bids
+later when the ISO is forced to pay stiffer prices for
+emergency power. On occasion, ISO engineers have had
+just 40 minutes to frantically phone around and nail
+down suppliers, knowing that if they fail they could be
+forced to begin rolling blackouts. The bidding
+strategy, while legal, "undermines reliability and
+forces the ISO to do some real gymnastics," says Kellan
+Fluckiger, chief operations officer for the California
+ISO.
+
+Generators say they aren't to blame for the mad
+scramble. Utilities, buying power for their customers,
+often order less power than they really need for fear
+that a big order will drive up the overall market price
+to prohibitive levels.
+
+The only real recourse available to the ISOs is to
+rewrite the rules governing their local markets. But
+FERC is reluctant to let them meddle too often because
+generators are investing billions of dollars based on
+existing market rules. There's another reason, too,
+says Ron Rattey, a veteran FERC economist who in June
+wrote a 10-page internal memo criticizing the agency
+for not doing more to ferret out unfair conduct. "Every
+single ISO has identified strategic abuses," he says.
+"And every time the ISOs make adjustments to the rules,
+the market participants find new ways around them."
+
+Write to Rebecca Smith at rebecca.smith@wsj.com and
+John J. Fialka at john.fialka@wsj.com

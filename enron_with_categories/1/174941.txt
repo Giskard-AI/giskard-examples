@@ -1,0 +1,42 @@
+Message-ID: <32467700.1075846198563.JavaMail.evans@thyme>
+Date: Mon, 31 Dec 1979 16:00:00 -0800 (PST)
+From: steven.kean@enron.com
+Subject: california energy prices
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: 
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+Summary of what we discussed the other night:
+
+Background:
+
+
+power -- power prices have moved above $1000/mwh in the Northwest and are 
+showing $600-700 for the first quarter of 01; forward prices in California 
+have also moved well above the "soft cap" of $150.  Sellers are exporting 
+power from California to the Northwest.
+
+gas -- balance of the month gas in California was trading at $26-27 with Jan 
+trading at $19, feb at $12-14 and Summer at $8.
+
+The Cal gas and power utilities remain unhedged (price caps are in place for 
+retail power and utilities continue to buy power from the ISO and PX while 
+gas utilities, we believe, are primarily buying at spot prices even under 
+their long term deals).  The power utilities will continue to book large 
+deferrals and gas utilities will be passing costs through a month or two 
+after incurring them. The impact of the gas price increases will begin 
+showing up in Jan billings to consumers.
+
+curtailment rules (gas):  More work to be done here, but it appears that gas 
+utilities will curtail deliveries in the following order:  interruptible 
+first (with some priority for cogens); firm service (with utilities 
+alternating or rolling between generation load and nongeneration load); and 
+core customers last.  Curtailment rules apparently allow the utilities to 
+confiscate gas sold to direct access customers

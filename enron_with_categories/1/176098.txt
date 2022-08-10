@@ -1,0 +1,74 @@
+Message-ID: <16765312.1075847639709.JavaMail.evans@thyme>
+Date: Fri, 2 Feb 2001 19:50:00 -0800 (PST)
+From: mary.hain@enron.com
+To: phillip.allen@enron.com, robert.badeer@enron.com, tim.belden@enron.com, 
+	shelia.benke@enron.com, donald.black@enron.com, 
+	william.bradford@enron.com, rick.buy@enron.com, 
+	andre.cangucu@enron.com, alan.comnes@enron.com, 
+	wanda.curry@enron.com, jeff.dasovich@enron.com, 
+	karen.denne@enron.com, mike.grigsby@enron.com, 
+	mark.haedicke@enron.com, mary.hain@enron.com, steve.hall@enron.com, 
+	joe.hartsoe@enron.com, keith.holst@enron.com, 
+	robert.johnston@enron.com, paul.kaufman@enron.com, 
+	steven.kean@enron.com, harry.kingerski@enron.com, 
+	susan.mara@enron.com, sandra.mccubbin@enron.com, 
+	travis.mccullough@enron.com, mark.metts@enron.com, 
+	sarah.novosel@enron.com, mark.palmer@enron.com, 
+	linda.robertson@enron.com, richard.sanders@enron.com, 
+	gordon.savage@enron.com, richard.shapiro@enron.com, 
+	vicki.sharp@enron.com, mike.smith@enron.com, shari.stack@enron.com, 
+	james.steffes@enron.com, marty.sunde@enron.com, 
+	stephen.swain@enron.com, mitchell.taylor@enron.com, 
+	michael.tribolet@enron.com, robert.williams@enron.com, 
+	greg.wolfe@enron.com, roger.yang@enron.com, 
+	christian.yoder@enron.com, dwatkiss@bracepatt.com, 
+	carrrn@bracepatt.com, andrea.settanni@enron.com
+Subject: Challenge to exercise of Eminent Domain - Confidential Attorney
+ Work Product
+Cc: debra.davidson@enron.com, paula.warren@enron.com, mercy.gil@enron.com, 
+	karen.heathman@enron.com, lysa.akin@enron.com, 
+	leticia.botello@enron.com, joseph.alamo@enron.com, 
+	janette.elbertson@enron.com, bernadette.hawkins@enron.com, 
+	sharon.purswell@enron.com, maureen.mcvicker@enron.com, 
+	rubena.buerger@enron.com, dolores.fisher@enron.com, 
+	cindy.derecskey@enron.com, lora.sullivan@enron.com, 
+	twanda.sweet@enron.com, ginger.dernehl@enron.com, 
+	leasa.lopez@enron.com, iris.waser@enron.com, jan.king@enron.com, 
+	marcia.linton@enron.com, carol.moffett@enron.com, 
+	esmeralda.hinojosa@enron.com, kathryn.sheppard@enron.com, 
+	rosario.boling@enron.com, emy.geraldo@enron.com, 
+	stephanie.truss@enron.com, anna.mehrer@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: debra.davidson@enron.com, paula.warren@enron.com, mercy.gil@enron.com, 
+	karen.heathman@enron.com, lysa.akin@enron.com, 
+	leticia.botello@enron.com, joseph.alamo@enron.com, 
+	janette.elbertson@enron.com, bernadette.hawkins@enron.com, 
+	sharon.purswell@enron.com, maureen.mcvicker@enron.com, 
+	rubena.buerger@enron.com, dolores.fisher@enron.com, 
+	cindy.derecskey@enron.com, lora.sullivan@enron.com, 
+	twanda.sweet@enron.com, ginger.dernehl@enron.com, 
+	leasa.lopez@enron.com, iris.waser@enron.com, jan.king@enron.com, 
+	marcia.linton@enron.com, carol.moffett@enron.com, 
+	esmeralda.hinojosa@enron.com, kathryn.sheppard@enron.com, 
+	rosario.boling@enron.com, emy.geraldo@enron.com, 
+	stephanie.truss@enron.com, anna.mehrer@enron.com
+X-From: Mary Hain
+X-To: Phillip K Allen, Robert Badeer, Tim Belden, Shelia Benke, Donald M- ECT Origination Black, William S Bradford, Rick Buy, Andre Cangucu, Alan Comnes, Wanda Curry, Jeff Dasovich, Karen Denne, Mike Grigsby, Mark E Haedicke, Mary Hain, Steve C Hall, Joe Hartsoe, Keith Holst, Robert Johnston, Paul Kaufman, Steven J Kean, Harry Kingerski, Susan J Mara, Sandra McCubbin, Travis McCullough, Mark Metts, Sarah Novosel, Mark Palmer, Linda Robertson, Richard B Sanders, Gordon Savage, Richard Shapiro, Vicki Sharp, Mike D Smith, Shari Stack, James D Steffes, Marty Sunde, Stephen Swain, Mitchell Taylor, Michael Tribolet, Robert Williams, Greg Wolfe, Roger Yang, Christian Yoder, dwatkiss@bracepatt.com, carrrn@bracepatt.com, andrea settanni
+X-cc: Debra Davidson, Paula Warren, Mercy Gil, Karen K Heathman, Lysa Akin, Leticia Botello, Joseph Alamo, Janette Elbertson, Bernadette Hawkins, Sharon Purswell, Maureen McVicker, Rubena Buerger, Dolores Fisher, Cindy Derecskey, Lora Sullivan, Twanda Sweet, Ginger Dernehl, Leasa Lopez, Iris Waser, Jan M King, Marcia A Linton, Carol Moffett, Esmeralda Hinojosa, Kathryn Sheppard, Rosario Boling, Emy Geraldo, Stephanie Truss, Anna Mehrer
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+Although I don't yet have all the facts, Steve Hall said that late yesterday 
+(Friday) afternoon, the Governor exercised eminent domain over the IOU 
+forward contracts that the PX had been in the process of auctioning to pay PX 
+participants.  I would like Bracewell to research at least the following two 
+possible ways this action is unlawful.  First, this violates the banking 
+provisions of the PX tariff (Section 6).  These provisions requires the PX to 
+hold all PX accounts in trust for PX participants.  Second, these are 
+wholesale contracts and the State only has the right to exercise eminent 
+domain concerning retail service.  I don't have any law to support the second 
+idea but think it should be researched nonetheless.  

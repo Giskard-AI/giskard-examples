@@ -1,0 +1,221 @@
+Message-ID: <12535565.1075843453551.JavaMail.evans@thyme>
+Date: Mon, 30 Apr 2001 00:44:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: richard.shapiro@enron.com, susan.mara@enron.com, jeff.dasovich@enron.com, 
+	james.steffes@enron.com
+Subject: On Market Power in California
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Steven J Kean
+X-To: Richard Shapiro, Susan J Mara, Jeff Dasovich, James D Steffes
+X-cc: 
+X-bcc: 
+X-Folder: \Jeff_Dasovich_June2001\Notes Folders\All documents
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+fyi.
+---------------------- Forwarded by Steven J Kean/NA/Enron on 04/30/2001=20
+07:43 AM ---------------------------
+
+
+Rosalee Fleming on 04/26/2001 04:00:22 PM
+To: Steven J Kean/NA/Enron@Enron
+cc: =20
+
+Subject: On Market Power in California
+
+Ken wanted you to have a copy
+---------------------- Forwarded by Rosalee Fleming/Corp/Enron on 04/26/200=
+1=20
+03:51 PM ---------------------------
+
+
+Willliam Hogan <William_Hogan@harvard.edu> on 04/25/2001 06:34:08 AM
+To: ER:;
+cc: =20
+Subject: On Market Power in California
+
+
+FYI.? The complete version of the following paper is available on my web pa=
+ge=20
+at:
+
+www.whogan.com
+
+
+
+????????ON THE EXERCISE OF MARKET POWER THROUGH
+STRATEGIC WITHHOLDING IN CALIFORNIA
+Scott Harvey and William W. Hogan
+April 24, 2001
+
+EXECUTIVE SUMMARY
+
+Beginning in June of 2000, the shock of unexpectedly high prices in the=20
+California electricity market convinced everyone of the need for policies t=
+o=20
+correct the apparent market failures.? The public debate and policy=20
+discussions have been dominated by a focus on market power as a principal=
+=20
+problem amenable to regulatory solution.? However, design of effective=20
+policies to moderate prices or mitigate their effects depends on the=20
+diagnosis of the underlying causes.? High prices attributable largely to an=
+=20
+exercise of market power in electric generation would point to particular=
+=20
+market participants and behaviors that could be targeted for regulatory=20
+action.? By contrast, high prices attributable to bad electricity market=20
+design would indicate a need for changes in the design.? High prices=20
+attributable to higher fuel prices, environmental constraints and capacity=
+=20
+shortages, on the other hand, would prompt actions to address the cost of=
+=20
+fuel and environmental limitations and indicate that retail loads should=20
+receive the appropriate price signal for conservation.
+
+Suppliers could affect market prices by strategically withholding some=20
+capacity in order to profit on the capacity actually sold in the market.? B=
+ut=20
+charging high prices during periods of scarcity is not classified as=20
+exercising market power if there is no strategic withholding of supply.?=20
+Likewise, refusing to supply without being paid is not an exercise of marke=
+t=20
+power.? Although the potential for withholding exists for many suppliers, t=
+he=20
+focus of attention has been on the exercise of market power by thermal=20
+generators in California.
+
+On its face, the experience of extremely high prices suggests that the=20
+exercise of market power could be important.? But at the same time the data=
+=20
+show that there have been profound changes in the California market such th=
+at=20
+the thermal generators have actually increased their production more than=
+=20
+demand has grown.? If anything, thermal generators that hit annual output=
+=20
+limits produced too much rather than too little in the summer of 2000.?=20
+Furthermore, the widespread impacts of higher electricity prices throughout=
+=20
+the western market, both on and off peak,? indicate that if the exercise of=
+=20
+market power is important it is occurring to an extent and through channels=
+=20
+unprecedented in this or other electricity markets.? In short, this is a=20
+complicated story, and there is ample room for further investigation of the=
+=20
+data and diagnosis of causes.
+
+Examination of the major analyses of the exercise of market power reveals=
+=20
+that the estimated magnitude of the possible strategic withholding of=20
+electric generation is small enough to make it important to verify the=20
+simplifying assumptions.? If strategic withholding were large and pervasive=
+,=20
+then the real details of the California electricity market could be ignored=
+.?=20
+But it is by now apparent that the evidence is not clear, and any finding o=
+f=20
+the presence or absence of strategic withholding of generation in the=20
+California electricity market could turn on the simplifying assumptions use=
+d=20
+in the analysis of the data.? For example, annual limits on production=20
+dictate that plants should not run in many hours when prices are higher tha=
+n=20
+direct incremental costs; hence, examinations of output decisions for=20
+individual hours or months are necessarily incomplete.? The variation in re=
+al=20
+time conditions is large enough to produce significant reductions in output=
+=20
+compared to the expectations given day-ahead prices; hence, with capacity=
+=20
+constraints average optimal production is necessarily less than optimal=20
+production at average prices.? Limits on the ramping rate of generation=20
+units, start-up costs, minimum load costs and other operational=20
+inflexibilities imply that a dispatch day is not just twenty-four separate=
+=20
+hours and must be analyzed chronologically, recognizing these factors.? And=
+=20
+so on.? Accounting for such effects can reverse the implications of the=20
+previous evidence.? Unfortunately, the real details are neither simple nor=
+=20
+incidental.
+
+It is difficult to conduct a study of market power based solely on publicly=
+=20
+available data.? A fuller analysis would require data available only to the=
+=20
+California Independent System Operator, and has not been done.? Many factor=
+s=20
+contributed to higher electricity prices in California, and the market powe=
+r=20
+theme is only, at most, part of the story.? The import of the previous=20
+analyses is not to prove that market power has been exercised in the=20
+California electricity market but, rather, to suggest that it might be=20
+important.? The import of the sensitivity analysis here is not to prove tha=
+t=20
+market power has not been exercised in the electricity market? but, rather,=
+=20
+to suggest that it is unlikely to be the dominant factor and may not even b=
+e=20
+significant.? With the available data in the public domain, and the special=
+=20
+complications introduced by the California market design, the margin of err=
+or=20
+in estimating the extent of the possible exercise of market power through=
+=20
+strategic withholding of electric generation is of the same order of=20
+magnitude as the effect being measured.? On balance, to date the publicly=
+=20
+available data provides no reason for the Federal Energy Regulatory=20
+Commission to change its conclusion that there is no evidence of strategic=
+=20
+withholding nor any proof that no strategic withholding has occurred.
+
+By contrast, there is general agreement that the California electricity=20
+market design is =01&seriously flawed.=018? Furthermore, there is evidence =
+that the=20
+policy responses that have been adopted in California have accelerated an=
+=20
+already serious market collapse.? Hence, without dismissing the possibility=
+=20
+of the exercise of market power, the principal policy focus should be on=20
+fashioning workable solutions for the other more serious problems in market=
+=20
+design that relate to the underlying causes of the market meltdown.
+
+Separate from market power mitigation, California should pay its bills, rai=
+se=20
+incremental prices to retail customers, and move as quickly as possible to=
+=20
+operating a coordinated and efficient market with consistent pricing for al=
+l=20
+that includes unit commitment, day-ahead scheduling, and real-time=20
+balancing.? Although not a panacea, these steps would address immediate=20
+problems and set the stage for longer-term initiatives to expand generation=
+=20
+capacity, transmission infrastructure, and the reach of an efficient market=
+=20
+to the western interconnected grid.
+
+
+
+
+
+
+William W. Hogan
+John F. Kennedy School of Government
+Harvard University
+79 John F. Kennedy Street
+Cambridge, MA 02138
+617-495-1317 (o)
+617-495-1635 (f)
+william_hogan@harvard.edu
+web page: www.whogan.com
+or
+http://ksgwww.harvard.edu/people/whogan
+
+
+

@@ -1,0 +1,69 @@
+Message-ID: <26181614.1075844207094.JavaMail.evans@thyme>
+Date: Tue, 15 May 2001 11:18:00 -0700 (PDT)
+From: john.shelk@enron.com
+To: richard.shapiro@enron.com, linda.robertson@enron.com, tom.briggs@enron.com, 
+	joe.hartsoe@enron.com, sarah.novosel@enron.com, 
+	carin.nersesian@enron.com, james.steffes@enron.com
+Subject: Senate Energy Hearing Today
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: John Shelk
+X-To: Richard Shapiro, Linda Robertson, Tom Briggs, Joe Hartsoe, Sarah Novosel, Carin Nersesian, James D Steffes
+X-cc: 
+X-bcc: 
+X-Folder: \Richard_Shapiro_June2001\Notes Folders\All documents
+X-Origin: SHAPIRO-R
+X-FileName: rshapiro.nsf
+
+The Senate Energy Committee held an oversight hearing today on siting 
+impediments to energy infrastructure.  The four witnesses were Jerry 
+Halvorsen of INGAA, William Nugent of Maine for NARUC, David Cook, general 
+counsel of NERC, and Stan Szwed, vp-transmission of FirstEnergy Corp.  The 
+hearing was well attended by committee Republicans, but only Sen. Bingaman 
+and Sen. Landrieu on the Democratic side, and then only briefly.
+
+Highlights
+
+NARUC's Nugent urged the Committee to move swiftly to confirm Wood and 
+Brownell to FERC, noting their confirmation hearing is tomorrow.
+
+Consensus that energy infrastructure is not able to keep up with projected 
+energy demand, both gas and electric.
+
+Surprising willingness (even among western Republican senators who are 
+normally pro-states rights, pro-private property rights) that Congress should 
+at least seriously consider, if not implement, some form of federal authority 
+over power transmission siting.  Specifics were not nailed down, with some 
+senators expressing more support for treating electric like FERC already has 
+power over natural gas, while others were inclined more toward a FERC back 
+stop or last resort authority when state decisionmaking breaks down.  The 
+drift was certainly toward some enhanced federal role.
+
+NERC released is Summer Assessment today that is more pessimistic than 
+California ISO on the extent of expected rolling blackouts and shortages this 
+summer.  NERC seees a capacity shortage in the Pacific Northwest this 
+winter.  While NY/NE is adequate this summer, Cook says it bears watching 
+because of bouts of high heat in the region and a high level of unplanned 
+outages that often occur in the region in the summer.
+
+Chairman Murkowski engaged in a series of questions with INGAA's Halvorsen 
+designed to lay the blame for the natural gas capacity problem to California 
+and corresponding high price levels on the actions of LDCs in California not 
+supporting expansion of interstate pipelines.  Halvorsen's testimony includes 
+a chart of specific cases where LDCs intervened.  In his verbal testimony, 
+Halvorsen singled out Sempra as a source of opposition, including Sempra 
+filings against expansions by Transwestern and Kern River.
+
+Chairman Murkowski got Halvorsen to say that the actions of the California 
+LDCs and the intrastate nature of all gas pipelines in California effectively 
+denied California consumers the benefit of open access for natural gas.  
+Murkowski implied he would entertain a change in the Natural Gas Act as it 
+relates to the status of interstate pipelines going in to California.
+
+Sen. Domenici joined the increasing chorus of members of Congress raising 
+questions about why natural gas prices are low at the wellhead for his 
+producers in New Mexico, but so high into California.  He asked the panel who 
+is making the money in the differential, but none of the witnesses wanted to 
+tackle the question.  This is just one more indication of the growing 
+interest in the natural gas aspects of the California situation.

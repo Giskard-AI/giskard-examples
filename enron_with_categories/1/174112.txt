@@ -1,0 +1,136 @@
+Message-ID: <27300460.1075846168389.JavaMail.evans@thyme>
+Date: Fri, 18 Aug 2000 07:23:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: robin.kittel@enron.com
+Subject: Re: FERC INVESTIGATION IN CA - What should they be looking for?
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Robin Kittel
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+---------------------- Forwarded by Steven J Kean/HOU/EES on 08/18/2000 02:23 
+PM ---------------------------
+From: Tim Belden@ECT on 08/17/2000 07:34 AM PDT
+To: James D Steffes/HOU/EES@EES
+cc: Jeff Dasovich/SFO/EES@EES, Mary Hain/HOU/ECT@ECT, Susan J 
+Mara/SFO/EES@EES, Mona L Petrochko/SFO/EES@EES, Bruno Gaillard/SFO/EES@EES, 
+Sarah Novosel/Corp/Enron@ENRON@EES, Paul Kaufman/PDX/ECT@ECT, Joe 
+Hartsoe/Corp/Enron@ENRON@EES, Steven J Kean/HOU/EES@EES, Richard 
+Shapiro/HOU/EES@EES 
+Subject: Re: FERC INVESTIGATION IN CA - What should they be looking for?  
+
+Here are some more thoughts:
+FERC should take a hard look at why the ISO is almost always in an "inc" 
+situation in real time.  Without structural incentives to go short into real 
+time, I would expect the CAISO to "inc" in some hours and "dec" in others -- 
+with no consistent patterns.
+The IOU's have four choices for purchasing power:  PX Block Forward, PX Day 
+Ahead, PX Day Of, and CAISO Ex Post.  They had ample opportunity to purchase 
+lower cost power in the PX Block Forward but didn't buy enough.  That left 
+them short in the Day Ahead.  They can reduce Day Ahead prices by moving some 
+of their load to the Ex Post market.  Dave Parquet did an Econ 101 
+presentation on this incentive at the CAISO board meeting in June.
+The ISO remains primarily in "inc" mode even during the shoulder months when 
+prices are lower, another indicator that the real time "inc" problem is 
+driven by the load side rather than the supply side.  The IOU's continue to 
+go short into the ISO Ex Post market even when the CAISO Ex Post price is 
+consistently above the PX Day Ahead price.
+There is evidence that the IOU's are not willing to pay above the CAISO price 
+cap for energy from the PX in the Day Ahead market.  Does it matter that the 
+price cap for the ISO also acts as a PX price cap?
+The NOx market in California is very tight.  How has this contributed to 
+higher costs and has the complete lack of available NOx credits prevented any 
+generators from running?
+How large was the impact of the below normal water year on the supply side?  
+The attached presentation quantifies this effect in the Northwest.  (I have a 
+theory on how hydro capacity completely overstates reserve margins in the 
+west from an economic perspective.  I can go into more detail if you wish.)
+Friction between California PX and ISO markets and other western markets.  
+For example, why are actual flows going into the state yet prices out side of 
+the state are higher?  Another example of anomylous behavior is at COB on 
+8/11 and 8/12.  There was congestion from California TO the northwest those 
+days in the Day Ahead market.  In real time the NW ended up being a net 
+seller of about 3,000 MW from the NW TO California.
+Demand Side - we really need to press on this issue because all of the 
+proponents of price caps claim that as soon as the demand side is "workably 
+competitive" then there is no need for price caps.  Is large-scale economic 
+demand response required for a competitive market?  What if demand response 
+is there, but at very high prices?  The demand response in California is a 
+joke.  With 2700 MW of interuptible, why did the utilities and the CAISO only 
+get around 600 MW of economic demand response.  Much of this response comes 
+at $1500/MWh.  The assymetric treatment of supply side resources and demand 
+side resources can be justified on environmental grounds, but not economic 
+grounds.  So why this assymetric treatment?  This gets to the question of the 
+fine line between "scarcity rents" which are ok, and market power which is 
+not.  If power is scarce, and demand truly values it at $1500/MWh then 
+shouldn't that be the price.  At what price would the rest of the 
+interuptible load economically curtail?  Bottom line -- there are about 2,000 
+MW of load that should be able to respond to price signals that chooses not 
+to or values power at more than $1500/MWh.
+Burden of proof -- what empirical measures should be used to assess market 
+power?  The reports published to date have been unimpressive.  The Market 
+Analysis Unit report, for example, does a bunch of handwaving and then 
+concludes that there is market power.  But they never explain why.  I would 
+think that proof might be something like this:  Generator X sets price y% of 
+the time when loads exceed Z MWs.  Or, four generators set price 80% of the 
+time when prices exceed $200/MWh.  They have all the data to be able to tell, 
+yet they don't provide any empirical measures.  The only test I've heard of 
+so far is the UC Energy Institute report that demonstrates that generators 
+are submitting bids above their marginal cost.  The PX report states that 
+supply bids are fewer and at higher prices than last year.  They fail to 
+mention the fact that there are 5,000 fewer MW of hydro this year relative to 
+last.
+
+
+
+James D Steffes@EES
+08/17/2000 06:18 AM
+To: Tim Belden/HOU/ECT@ECT, Jeff Dasovich/SFO/EES@EES, Mary Hain/HOU/ECT@ECT, 
+Susan J Mara/SFO/EES@EES, Mona L Petrochko/SFO/EES@EES, Bruno 
+Gaillard/SFO/EES@EES, Sarah Novosel/Corp/Enron@ENRON, Paul 
+Kaufman/PDX/ECT@ECT, Joe Hartsoe/Corp/Enron@ENRON
+cc: Steven J Kean/HOU/EES@EES, Richard Shapiro/HOU/EES@EES 
+Subject: FERC INVESTIGATION IN CA - What should they be looking for?
+
+As we begin to meet with FERC Staff on the Wholesale market issues related to 
+CA problems, I think that we need to put together a list of questions that 
+FERC needs to be asking Western power market participants.  
+
+The following are some questions that I think are important to have FERC ask; 
+I'm sure there are more.
+
+1. Were California utilities underscheduling load into the PX day ahead 
+market?  
+2. How many MWs did the CA ISO procure during each hour during the Summer 
+2000?  How does this compare with CA ISO procurement during 1999?
+3. Has PG&E changed its bidding behavior associated with its Hydro facilities 
+in 2000?  
+3. Are there baseload facilities that were operated differently in 2000 than 
+in 1999?
+4. Were any generation plants off-line due to unplanned maintenance during 
+Summer 2000?
+5. How did the CA ISO demand side program work?  Why didn't more load 
+participate?  
+6. What options did SDG&E have to "hedge" its retail rates?  What were prices 
+in the CAL PX block forward market on Jan 15, 2000 and May 15, 2000?
+7. How high did natural gas prices go in California for generation during 
+Summer 2000?
+8. Were other Western power markets prices higher (year-on-year)?
+9. Did the CA ISO Board face political pressure to reduce bid caps?  Is this 
+appropriate for a FERC jurisdictional entity?
+10. What specific details is SDG&E referring to in its Complaint on 
+"unworkably competitive" CA ISO markets?  Can these be fixed "quickly"?
+
+Please add other questions.
+
+Jim
+ 
+
+
+

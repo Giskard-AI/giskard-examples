@@ -1,0 +1,17 @@
+Message-ID: <14103554.1075858884564.JavaMail.evans@thyme>
+Date: Tue, 26 Jun 2001 18:51:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: maureen.mcvicker@enron.com
+Subject: Test
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Maureen McVicker <Maureen McVicker/NA/Enron@Enron>
+X-cc: 
+X-bcc: 
+X-Folder: \SKEAN (Non-Privileged)\Kean, Steven J.\Sent Items
+X-Origin: Kean-S
+X-FileName: SKEAN (Non-Privileged).pst
+
+testing

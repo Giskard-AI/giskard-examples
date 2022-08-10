@@ -1,0 +1,881 @@
+Message-ID: <29090106.1075849299376.JavaMail.evans@thyme>
+Date: Fri, 6 Jul 2001 03:06:00 -0700 (PDT)
+From: miyung.buster@enron.com
+To: ann.schmidt@enron.com, bryan.seyfried@enron.com, elizabeth.linnell@enron.com, 
+	filuntz@aol.com, james.steffes@enron.com, janet.butler@enron.com, 
+	jeannie.mandelker@enron.com, jeff.dasovich@enron.com, 
+	joe.hartsoe@enron.com, john.neslage@enron.com, 
+	john.sherriff@enron.com, joseph.alamo@enron.com, 
+	karen.denne@enron.com, mark.palmer@enron.com, 
+	mark.schroeder@enron.com, markus.fiala@enron.com, 
+	michael.brown@enron.com, mona.petrochko@enron.com, 
+	nicholas.o'day@enron.com, peggy.mahoney@enron.com, 
+	peter.styles@enron.com, richard.shapiro@enron.com, 
+	rob.bradley@enron.com, shelley.corman@enron.com, 
+	stella.chan@enron.com, steven.kean@enron.com, susan.mara@enron.com, 
+	mike.roan@enron.com, alex.parsons@enron.com, 
+	andrew.morrison@enron.com, lipsen@cisco.com, 
+	janel.guerrero@enron.com, shirley.hudler@enron.com, 
+	kathleen.sullivan@enron.com, tom.briggs@enron.com, 
+	linda.robertson@enron.com, lora.sullivan@enron.com, 
+	jennifer.thome@enron.com, jkradin@marathon-com.com, 
+	rlichtenstein@marathon-com.com, syamane@marathon-com.com, 
+	ken@kdscommunications.com, hgovenar@govadv.com, sgovenar@govadv.com, 
+	bhansen@lhom.com, carin.nersesian@enron.com, 
+	robert.neustaedter@enron.com, john.shelk@enron.com, 
+	chris.holmes@enron.com, evan.hughes@enron.com, 
+	roberta.staehlin@enron.com, lamar.frazier@enron.com, 
+	ban.sharma@enron.com, pat.shortridge@enron.com, 
+	karen.moore@enron.com, kurt.lindahl@enron.com, 
+	marcus.dotson@enron.com, alan.comnes@enron.com, 
+	melinda.pharms@enron.com, lysa.akin@enron.com, luiz.maurer@enron.com
+Subject: Energy Issues
+Cc: angela.wilson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: angela.wilson@enron.com
+X-From: Miyung Buster
+X-To: Ann M Schmidt, Bryan Seyfried, Elizabeth Linnell, filuntz@aol.com, James D Steffes, Janet Butler, Jeannie Mandelker, Jeff Dasovich, Joe Hartsoe, John Neslage, John Sherriff, Joseph Alamo, Karen Denne, Mark Palmer, Mark Schroeder, Markus Fiala, Michael R Brown, Mona L Petrochko, Nicholas O'Day, Peggy Mahoney, Peter Styles, Richard Shapiro, Rob Bradley, Shelley Corman, Stella Chan, Steven J Kean, Susan J Mara, Mike Roan, Alex Parsons, Andrew Morrison, lipsen@cisco.com, Janel Guerrero, Shirley A Hudler, Kathleen Sullivan, Tom Briggs, Linda Robertson, Lora Sullivan, Jennifer Thome, jkradin@marathon-com.com, rlichtenstein@marathon-com.com, syamane@marathon-com.com, ken@kdscommunications.com, hgovenar@govadv.com, sgovenar@govadv.com, bhansen@lhom.com, Carin Nersesian, Robert Neustaedter, John Shelk, Chris Holmes, Evan Hughes, Roberta Staehlin, Lamar Frazier, Ban Sharma, Pat Shortridge, Karen Moore, Kurt Lindahl, Marcus Dotson, Alan Comnes, Melinda Pharms, Lysa Akin, Luiz Maurer
+X-cc: Angela Wilson
+X-bcc: 
+X-Folder: \Jeff_Dasovich_Oct2001\Notes Folders\All documents
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+Please see the following articles:
+
+Sac Bee, Fri, 7/6: Two more say Duke withheld power: 
+The company says it was responding to the state grid operator
+
+Sac Bee, Fri, 7/6: Lockyer seeks SEC investigation of PG&E's financial 
+transfers
+
+LA Times, Fri, 7/6: California State Seeks SEC Probe of PG&E Transfers
+
+LA Times, Fri, 7/6: THE NATION Little Progress on Energy Rebate, Judge Hints
+
+SF Chron, Fri, 7/6: Davis energy team denied pay 
+State controller says work for Edison is a conflict of interest
+
+SF Chron, Fri, 7/6: Ex-staff speaks out against Duke 
+Two more charge prices manipulated
+
+SF Chron, Fri, 7/6: Vallejo to produce its own energy 
+Conservation, generators expected to make city self-sufficient
+
+Mercury News, Fri, 7/6: SEC asked to see if PG&E Corp. violated law with 
+subsidiary 
+
+Mercury News, Fri, 7/6: Judge may speed up electricity refund talks
+
+Mercury News, Fri, 7/6: Davis keeps state addicted to fossil fuels  
+(Commentary)
+
+Chicago Trib, Fri, 7/6: Economics fuels power solution in California Price 
+relief gains political support
+
+Wash. Post, Fri, 7/6: California Changes Stance on Refunds; Two Sides Far 
+Apart In Energy Talks
+
+WSJ, Fri, 7/6: U.S. Hearing Officer May Impose Pact
+To End California Power-Overcharge Case
+
+------------------------------------------------------------------------------
+--------------------------------------------
+
+Two more say Duke withheld power: The company says it was responding to the 
+state grid operator.
+By Kevin Yamamura
+Bee Capitol Bureau
+(Published July 6, 2001) 
+Two more former workers from a Duke Energy power plant came forward Thursday 
+to bolster recent claims by colleagues that the power generator withheld 
+production to drive up prices. 
+But Duke attributed witness accounts of fluctuating generation to 
+instructions from the state's transmission-grid operator. 
+Richard J. Connors, an auxiliary operator, and E. Robert Edwards, an 
+electrician, said generation units at Duke's Chula Vista plant sat idle 
+during emergency periods for no apparent reason. 
+Three of their former co-workers -- two mechanics and a control room operator 
+-- told lawmakers two weeks ago that Duke had disposed of new parts and 
+varied its production. 
+While that testimony drew significant attention, it was countered Monday by a 
+report released by the state's Independent System Operator that showed the 
+ISO had in fact ordered Duke's up-and-down output Jan. 16-18. 
+On Thursday, the Charlotte, N.C.-based company leaned on the ISO report in 
+its defense. 
+"The ISO could have dispatched those units at will," said Duke spokesman Tom 
+Williams, referring to unused equipment. 
+But Lt. Gov. Cruz Bustamante, who has filed a lawsuit against generators, 
+contended that the ISO had based its orders on Duke's dubious bidding 
+history. 
+"These ISO orders came only after Duke had continuously manipulated the 
+market with price-gouging schemes forcing the ISO to regulate production," 
+Bustamante said. 
+Connors and Edwards each worked more than 20 years at the South Bay plant in 
+Chula Vista. 
+For most of that time, the plant was owned by San Diego Gas & Electric. Two 
+years ago, Duke purchased South Bay and retained Connors and Edwards under 
+state-mandated agreements that ended in April. 
+Edwards said that during power blackouts in January, he saw a 225-megawatt 
+unit off-line. Other units, he said, were operating far below capacity. 
+"Our No. 1 priority in life was to make money," Edwards said. 
+Williams rebutted the claims as observations from those "who did not have the 
+complete picture." 
+"It's dead on, dead true that there are times when that plant is not running 
+at full capacity and there is a Stage 3," Williams said. "There may be 
+blackouts in San Francisco. But the reason why it's not running is because 
+the power can't move up Path 15 (a north-south bottleneck)." 
+Bustamante, however, maintained that Duke has continued to manipulate the 
+market, calling Connors and Edwards the "tip of the iceberg" in the 
+price-gouging investigation. 
+State Sen. Joe Dunn, D-Santa Ana, chairman of the Senate committee 
+investigating price manipulation, said Connors and Edwards may testify before 
+lawmakers after further evaluation. 
+Dunn added that his committee has talked to potential whistleblowers from 
+other power generators who said they have seen production decreases and 
+suspicious activities. It is undetermined whether they will testify, he said. 
+
+The Bee's Kevin Yamamura can be reached at (916) 326-5542 or 
+kyamamura@sacbee.com. 
+
+
+
+
+Lockyer seeks SEC investigation of PG&E's financial transfers 
+By Ed Fletcher
+Bee Capitol Bureau
+(Published July 6, 2001) 
+State Attorney General Bill Lockyer on Thursday asked the federal Securities 
+and Exchange Commission to scrutinize financial transfers made to PG&E Corp. 
+from its subsidiary that has filed for bankruptcy protection. 
+"SEC scrutiny is essential to protect the public interest, ratepayers and the 
+people of the state of California," Lockyer said in a prepared statement. 
+Charges that PG&E Corp. hastened the bankruptcy filing of Pacific Gas and 
+Electric Co. have been made before, responded Greg Pruett, a vice president 
+of PG&E Corp. 
+"That is an issue that has been investigated multiple times by the Public 
+Utilities Commission earlier this year, by an Assembly oversight committee, 
+and in each of these audits there has been no conclusion that the transfers 
+were inappropriate or that they were injurious to PG&E Co.," Pruett said. 
+In its filing with the SEC, the attorney general's office said that "without 
+meaningful review by the SEC, it cannot be determined what impact the 
+transfer of assets ... may have on the financial condition of the bankrupt 
+utility." 
+An SEC spokesman said the commission has yet to examine the petition. 
+Among other concerns raised by Lockyer's office is the transfer of more than 
+$4 billion from 1997 to 1999 to PG&E Corp. from PG&E Co. 
+The majority of the $4 billion came from the sales of PG&E power plants, as 
+was required by deregulation. 
+"The bulk of the money went to pay debt that was incurred to actually build 
+those plants," Pruett said. 
+The rest of the transfers were to pay stockholder dividends, he said. 
+PG&E filed for Chapter 11 bankruptcy protection in April after having run up 
+$6.6 billion in debt. 
+
+The Bee's Ed Fletcher can be reached at (916) 326-5548 or 
+efletcher@sacbee.com. 
+
+
+
+
+
+Business; Financial Desk 
+California State Seeks SEC Probe of PG&E Transfers
+NANCY RIVERA BROOKS
+? 
+07/06/2001 
+Los Angeles Times 
+Home Edition 
+Page C-2 
+Copyright 2001 / The Times Mirror Company 
+California Atty. Gen. Bill Lockyer on Thursday asked the Securities and 
+Exchange Commission to investigate PG&E Corp. for potential abuses of its 
+responsibilities as a utility holding company. 
+At issue is a series of transactions over the last several years in which 
+PG&E Corp. transferred funds from its utility, Pacific Gas & Electric Co., 
+which now is operating under Bankruptcy Court protection. The money--more 
+than $4 billion since 1997--flowed to the parent company and to unregulated 
+sister companies of the utilities. 
+The transfers have been scrutinized by the California Public Utilities 
+Commission and the state Legislature with no finding of wrongdoing, said PG&E 
+Corp. spokesman Greg S. Pruett. 
+The SEC currently exempts PG&E from almost all requirements of the Public 
+Utility Holding Company Act because the San Francisco utility operates 
+primarily within California . That law regulates transactions between holding 
+companies and their utility subsidiaries. 
+Lockyer wants the SEC to withdraw PG&E's exemption, citing $13 billion in 
+PG&E assets outside of California . 
+"All the primary evils addressed by PUHCA are relevant to PG&E Corp.," 
+Lockyer's petition to the SEC stated. 
+In Bankruptcy Court on Thursday, PG&E said it is close to reaching an 
+agreement with Calpine Corp. to pay more than $267 million it owes the San 
+Jose-based power generator and to preserve contracts for 453 megawatts of 
+relatively cheap electricity . 
+In all, PG&E buys about 2,600 megawatts of electricity from nearly 25 
+alternative generators, which are seeking repayment and release from their 
+contracts through Bankruptcy Court.
+
+
+
+
+
+
+
+
+
+National Desk 
+THE NATION Little Progress on Energy Rebate, Judge Hints
+RICARDO ALONSO-ZALDIVAR
+? 
+07/06/2001 
+Los Angeles Times 
+Home Edition 
+Page A-30 
+Copyright 2001 / The Times Mirror Company 
+WASHINGTON -- The federal mediator seeking a settlement for billions of 
+dollars in alleged electricity overcharges in California signaled Thursday 
+that the talks are in trouble, and analysts said hope for a deal seems to be 
+fading. 
+Curtis L. Wagner Jr., chief judge of the Federal Energy Regulatory 
+Commission, said he may issue a report on the closed-door talks as early as 
+today if he sees no progress. 
+"The judge will perhaps issue a preliminary assessment of the talks," said 
+Tamara Young-Allen, a spokeswoman for FERC. "He will do this only if he feels 
+the talks aren't moving along as he sees fit." 
+Originally, a preliminary report from the judge was not part of the plan. 
+Wagner had previously said all sides would labor in private through the 
+weekend to try to get a deal by Monday's midnight deadline. If that failed, 
+the judge said he would take seven days to craft a proposed settlement for 
+FERC's governing board. 
+Kit Konolige, a power industry analyst with Morgan Stanley in New York, said 
+Wagner's announcement on Thursday amounted to a judicial distress signal. 
+"The judge wouldn't say something like this if the parties were close to a 
+settlement," said Konolige. "I suppose he may be trying to jump-start things, 
+but I think most people believed the sides were so far apart going into the 
+talks that it seemed like a long way to go to reach a settlement." 
+Although Wagner has imposed a gag order on participants, several people with 
+knowledge of the negotiations said Thursday that major power generators and 
+California officials have not budged from dug-in positions since the talks 
+began last week. 
+They also said the judge is extremely frustrated with the state and with 
+several large power suppliers. 
+California is demanding $9 billion in refunds. According to sources, the 
+generators have offered less than $1 billion. And some major power sellers 
+are insisting they do not owe anything. 
+Many experts say California has little hope of obtaining the $9 billion since 
+only $5.4 billion of that is attributable to sellers under FERC's 
+jurisdiction. On the other hand, it seems clear from statements by FERC 
+commissioners that the board is prepared to extract significant refunds from 
+generators. 
+Wagner is said to be probing for a compromise figure between $1 billion and 
+$9 billion. It could take the form of a mix of cash payments and discounts on 
+long-term contracts for power. 
+FERC's governing board ordered Wagner to hold the talks to see if a 
+compromise could be struck on three big issues: refunds, guarantees that 
+generators will be paid, and ways to shift more of the state's power 
+purchases to long-term contracts. 
+The board also made clear that it would impose its own settlement if the 
+state and power sellers were unable to come to an agreement. 
+Wagner said Thursday that if he issues a preliminary report today, he will 
+give all the parties a chance to respond publicly on Monday. Such a report 
+might embarrass some of the key players, since Wagner is known for his 
+plain-spoken conclusions. The judge would then prepare a settlement 
+recommendation for the FERC board by July 16. 
+However, he also said he is willing to work through the weekend to reach a 
+settlement if it appears within striking distance. 
+The talks are in a large hearing room on the second floor of the FERC 
+building near Washington's Union Station. Access is strictly controlled and 
+special badges have been issued to the more than 140 lawyers participating. 
+Some people with knowledge of the negotiations said Wagner's threat to issue 
+a report may be a bid to see if one of the parties will make a move. 
+"It was like a shot across the bow," said one source. 
+* 
+RELATED STORIES 
+Energy savers: College students help businesses cut waste. B1 
+SEC probe: The state urges a review of PG&E fund transfers. C2 
+'No' vote: Reliant Energy workers reject union representation. C2 
+
+
+
+
+
+
+
+Davis energy team denied pay 
+State controller says work for Edison is a conflict of interest 
+Robert Salladay, Chronicle Sacramento Bureau
+Friday, July 6, 2001 
+,2001 San Francisco Chronicle 
+URL: 
+http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2001/07/06/M
+N198197.DTL 
+Sacramento -- State Controller Kathleen Connell is refusing to pay two former 
+Clinton- Gore campaign operatives hired by Gov. Gray Davis, even though one 
+of the consultants dropped his Southern California Edison contract amid 
+conflict-of- interest allegations. 
+Mark Fabiani and Chris Lehane were collectively known as the "Masters of 
+Disaster" for their work in the Clinton White House during various federal 
+investigations. They also worked for Vice President Al Gore during the 2000 
+presidential campaign. 
+Because of their work for Davis, Connell says the contract Fabiani and Lehane 
+signed with Edison is a conflict of interest under state ethics rules. Davis 
+is negotiating with Edison on a bailout for the utility. 
+Late last week, at the bottom of a press release, Davis announced that 
+Fabiani was no longer a communications consultant because his work had been 
+"successfully implemented." Lehane, on the other hand, has dropped his 
+contract with Edison and signed a new agreement with Davis. 
+Lehane's new contract includes reimbursement for travel and meal expenses, 
+which he didn't have before, and requires him to work a maximum of 66 hours a 
+month at $150 an hour. His total payments are capped at $76,000 for work from 
+June 26 to Nov. 20, 2001. 
+In his release, Davis said Lehane would be paid the same amount as former 
+communications director Phil Trounstine, about $9,900 a month. But Connell, 
+like Davis a Democrat, said Trounstine undoubtedly worked more than 66 hours 
+in a month for his $9,990. 
+"We don't intend to be paying it," Connell said of the contract for both men. 
+"They represented Southern California Edison. You have to have a singular 
+relationship with the state of California and not show a conflict." 
+Previously, the Davis administration said there was no conflict because 
+Edison and Davis wanted the same things out of their negotiations. Earlier 
+this week, Davis spokesman Steve Maviglio said attorneys had different 
+opinions over whether the two consultants had violated ethics rules. 
+Davis spokeswoman Hilary McLean said the governor had signed an executive 
+order allowing him to enter into consulting contracts with anyone he believed 
+could help him solve the state's energy crisis. She said Lehane had been 
+working full-time on public policy, even though his contract caps his salary. 
+The National Tax-Limitation Committee, a Sacramento group that mostly 
+monitors legislation, sued last month alleging that Fabiani and Lehane were 
+violating the state Political Reform Act because of the Edison contract. 
+In a recently filed disclosure statement, Fabiani also listed more than $10, 
+000 worth of consulting work for Cisco Systems, another company that 
+frequently brings issues before state authorities, including Davis. 
+The state Fair Political Practices Commission also is looking into a 
+complaint filed by GOP Secretary of State Bill Jones that Fabiani and Lehane 
+violated state ethics rules. 
+E-mail Robert Salladay at rsalladay@sfchronicle.com. 
+,2001 San Francisco Chronicle ? Page?A - 3 
+
+
+
+
+
+Ex-staff speaks out against Duke 
+Two more charge prices manipulated 
+Robert Salladay, Chronicle Sacramento Bureau
+Friday, July 6, 2001 
+,2001 San Francisco Chronicle 
+URL: 
+http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2001/07/06/M
+N122949.DTL 
+Sacramento -- Two more former employees at Duke Energy's Chula Vista power 
+plant came forward yesterday with allegations that the company manipulated 
+the energy market to drive up prices, although they offered no hard proof and 
+little new information. 
+Their accusations bring to five the number of Duke plant workers who say they 
+observed suspicious behavior, including the disappearance of parts needed for 
+repairs, the idling of generators for no apparent reason, and continual 
+stopping and starting that critics of Duke suspect was designed to withhold 
+power and artificially increase prices. 
+E. Robert Edwards, a 50-year-old electrician, related one conversation with a 
+Duke foreman sometime in January that prompted suspicion. 
+"I asked the foreman why Unit 4 wasn't running," Edwards said yesterday at a 
+press conference. "We had a 225-megawatt generator sitting there, and he just 
+shrugged his shoulders and said, 'I really can't tell you. I'm not privy to 
+that information.' " 
+State lawmakers have been focusing on whether Duke manipulated prices during 
+three days in January, when the company at one point offered a single 
+megawatt of power for a record-shattering $3,880. Duke says it was following 
+orders from the Independent System Operator, which runs the state's power 
+grid, 
+when it repeatedly turned its generators on and off during those three days. 
+An ISO memo recently released by Duke confirms the company's contention it 
+was under orders. But January logs from the ISO and the generators don't 
+offer an explanation for every allegation of price manipulation, since Duke 
+has refused to release a detailed list of the prices it offered and paid 
+during that period. 
+The two workers who came forward yesterday, Edwards and 46-year-old Richard 
+J. Connors, both worked more than 20 years in the business. They left the 
+South Bay Plant in Chula Vista in April, two years after Duke purchased it 
+from San Diego Gas & Electric as part of deregulation. 
+SOME SHIFTS UNPOPULAR
+"It is true units were taken offline, mostly on the weekends for whatever 
+reason," said Connors, a former auxiliary operator. "It got to the point as 
+an operator that you were dreading working swing shifts on Sunday or 
+graveyard Monday morning because you knew you were going to be running around 
+putting units back online." 
+Edwards said he had seen a company warehouse eventually emptied of parts that 
+are used to repair broken generators, although he didn't know where the parts 
+went. Forcing a longer wait for repair parts was designed to dry up the power 
+supply and push prices higher, lawmakers and other investigators suspect. 
+Edwards, however, admitted the warehouse was being cleaned out even when 
+SDG&E ran the plant. Duke contends the workers weren't familiar with Duke's 
+inventory system and couldn't possibly know why parts were being moved. 
+Duke and other energy companies are facing scrutiny by two legislative 
+committees, a 19-member Sacramento County grand jury, state Attorney General 
+Bill Lockyer, the California Public Utilities Commission and federal 
+regulators. 
+BUSTAMANTE ALSO SUING
+Lt. Gov. Cruz Bustamante, who introduced Edwards and Connors yesterday, also 
+is suing a variety of generators in state court for alleged price 
+manipulation and bad business practices. He said Edwards and Connors 
+"reiterated what we've know all along -- Duke has been gouging California 
+consumers through its use and abuse of the South Bay Plant." 
+Duke offers a variety of defenses for its actions during the three days in 
+January and throughout the energy crisis. Tom Williams, a spokesman for Duke, 
+said Edwards and Connors had offered nothing new yesterday. 
+Beyond the ISO's 37 separate orders to stop and start generators during the 
+three days in January, Williams said state air regulations required the 
+company to shut the plant at certain times because it was running out of 
+emissions credits that limit the amount of air pollution it can put out. 
+Duke, which controls about 5 percent of the state energy market, also 
+contends the state's power transmission lines can't always handle an increase 
+in load. 
+"Yes, it's true there are times when that plant is not running at full 
+capacity, and there is a Stage Three (alert), and there may be blackouts in 
+San Francisco," Williams said. "The reason why it's not running is the power 
+cannot move up Path 15," the transmission line bottleneck near Los Banos. 
+E-mail Robert Salladay at rsalladay@sfchronicle.com. 
+,2001 San Francisco Chronicle ? Page?A - 3 
+
+
+
+
+Vallejo to produce its own energy 
+Conservation, generators expected to make city self-sufficient 
+Jason B. Johnson, Chronicle Staff Writer
+Friday, July 6, 2001 
+,2001 San Francisco Chronicle 
+URL: 
+http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2001/07/06/M
+N138966.DTL 
+Vallejo leaders, looking to escape mounting gas and electric bills, are 
+planning to build enough new power generators that the city government will 
+be self-sufficient when it comes to energy. 
+City officials said they believe that Vallejo is the first city in the nation 
+to take such an approach. 
+"This is going to be a showplace," said Scott Sossen, the chief executive 
+officer of Edge Capital Group, a funding agency based in Orange County. Edge 
+will be supervising the work along with O'Hara Energy Corp. of Nevada. 
+The plan comes at a time when the city expects to see its energy costs double 
+next year if it continues buying its power from PG&E. 
+"It couldn't be more timely," said Mayor Tony Intintoli. 
+Vallejo leaders are in the process of contracting with private business to 
+build new wind, solar and microturbine generators. Construction of a one- 
+megawatt solar generator could start within 30 to 60 days. 
+Conservation is also part of the plan, and energy-efficiency improvements are 
+already under way at Vallejo City Hall and the fire and police stations. 
+City officials hope to add enough sources of power generation to make all 
+city offices -- which consume about 10 megawatts a year -- self-sufficient by 
+the end of the year. 
+The Vallejo City Council gave tentative approval to the project late last 
+month and will continue its discussions on the plan next week. 
+Vallejo taxpayers won't have to pay any money in advance, because Edge will 
+finance the project's first $50 million in capital costs. 
+In return, a portion of the city's projected financial savings will be shared 
+with the Edge and O'Hara. 
+"This is a fairly sizable project," said Kevin Chambers, the chief executive 
+officer at O'Hara. "Energy-efficient capital is difficult to find because it 
+is such a new field." 
+O'Hara is installing high-tech energy management systems at all city-owned 
+property to reduce energy consumption. Final sites for the construction of 
+new wind, solar and microturbine generators have not been chosen. 
+In recent years, the energy bill for Vallejo city government has averaged 
+between $2 million and $3 million per year. That includes the police and fire 
+departments, City Hall and water-pumping stations. 
+Vallejo is part of a group of 50 local governments in Northern California 
+that pooled their resources to buy electricity and natural gas, keeping 
+prices down. But the group's current contract expires Dec. 30. 
+As a result, the city expects its energy bill to double next year, from 9.2 
+cents per kilowatt hour to 20 cents per kilowatt hour. 
+"It's been very positive what we've been doing, and it hasn't cost us 
+anything," said City Manager David Martinez. "We're going to be very 
+optimistic that this is going to be a good thing for the city." 
+City officials hope to eventually extend the plan to Vallejo's 4,500 
+businesses and 37,000 households. 
+E-mail Jason B. Johnson at jbjohnson@sfchronicle.com. 
+,2001 San Francisco Chronicle ? Page?A - 23 
+
+
+
+
+
+
+
+
+
+SEC asked to see if PG&E Corp. violated law with subsidiary 
+Published Friday, July 6, 2001, in the San Jose Mercury News 
+BY JENNIFER BJORHUS 
+
+Mercury News 
+
+
+California Attorney General Bill Lockyer asked the federal Securities and 
+Exchange Commission on Thursday to step in to investigate whether PG&E Corp. 
+violated federal law in taking billions of dollars from its bankrupt 
+subsidiary. 
+``SEC scrutiny is essential to protect the public interest, ratepayers and 
+the people of the state of California,'' Lockyer said in a statement. 
+More than $4 billion flowed from the Pacific Gas & Electric utility to parent 
+PG&E Corp. from 1997 to 1999, according to Lockyer's petition, representing 
+nearly 70 percent of the cash that flowed to the parent company during that 
+period. PG&E Corp. spent $2.7 billion to buy back its stock, $1.5 billion to 
+pay dividends to shareholders and invested $800 million in its other 
+subsidiaries, according to the petition filed Thursday in Washington. 
+Those figures are similar to figures from a state-ordered independent audit 
+of PG&E Corp.'s finances released in late January. 
+By moving assets from the utility to other businesses, the company 
+potentially harmed the utility and violated the federal Public Utility 
+Holding Company Act in several ways, according to the petition. 
+The SEC is the nation's top cop for publicly held companies. But the 
+commission has not reviewed PG&E Corp.'s asset movements, saying the company 
+is exempt from scrutiny under the Public Utility Holding Company Act because 
+it's mainly a California operation and such intrastate operations are exempt. 
+The attorney general's office argues that PG&E Corp., with more than $13 
+billion of its assets outside the state, can no longer claim it is primarily 
+an intrastate company. The SEC should step in, it argues. 
+The petition surprised PG&E Corp. officials, who said they had no idea the 
+attorney general's office had an issue with the company's exemption from the 
+federal law, said company spokesman Greg Pruett. 
+Pruett said PG&E Corp.'s actions were appropriate because the federal utility 
+law only applies if a company has one or more of the following activities in 
+several states: electric transmission and distribution, gas distribution or 
+utility-owned generation. 
+``We have none of those things except in California,'' Pruett said, adding 
+that the National Energy Group, a PG&E Corp. affiliate, ``has natural gas 
+transmission but no distribution.'' 
+``The power plants that NEG owns or operates are not part of a utility and 
+thus aren't regulated by PUCHA, and it has an energy-trading arm that is also 
+not regulated by PUCHA,'' he said. 
+The petition further asks the SEC to order PG&E Corp. to cooperate fully with 
+the California Public Utilities Commission. The state commission is 
+investigating whether PG&E Corp.'s corporate structure and its relationship 
+with its bankrupt utility violate state utility regulations. 
+The petition states it expects a response from the SEC within 60 days. 
+But SEC spokesman John Heine said there's no statutory deadline for a 
+response. He said he had not seen the petition and could not comment. 
+
+
+Contact Jennifer Bjorhus at jbjorhus@sjmercury.com or (408) 920-5660. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Judge may speed up electricity refund talks 
+Published Friday, July 6, 2001, in the San Jose Mercury News 
+BY RICARDO ALONSO-ZALDIVAR 
+
+Los Angeles Times 
+
+
+WASHINGTON -- A federal mediator seeking a settlement for billions of dollars 
+in alleged electricity overcharges in California signaled Thursday that the 
+talks are in trouble. 
+Curtis L. Wagner Jr., chief judge of the Federal Energy Regulatory 
+Commission, said he may issue a report on the closed-door talks as early as 
+today if progress is not made. 
+``The judge will perhaps issue a preliminary assessment of the talks,'' said 
+Tamara Young-Allen, a FERC spokeswoman. ``He will do this only if he feels 
+the talks aren't moving along as he sees fit.'' 
+Wagner had previously said all sides would labor in private through the 
+weekend to try to get a deal by the deadline of Monday at midnight. If that 
+failed, the judge said, he would take seven days to craft a proposed 
+settlement for FERC's governing board. 
+California is demanding $9 billion in refunds. According to sources, the 
+generators have offered less than $1 billion. 
+Wagner is said to be probing for a compromise figure that could take the form 
+of a mix of cash payments and discounts on long-term contracts for power.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Davis keeps state addicted to fossil fuels 
+Published Friday, July 6, 2001, in the San Jose Mercury News 
+BY JOE COSTELLO 
+BEFORE this year's energy ``crisis,'' Gray Davis wanted to be known as the 
+education governor. However, Davis and his advisers' energy teachings have 
+revealed alarming failures, setting back state energy policy not one or two 
+years, but one or two decades. 
+While George W. Bush proposed an energy policy tied to fossil fuels, 
+disproportionate building of centralized generation plants, too little energy 
+efficiency, lowering environmental standards and increased global warming 
+emissions, Davis enacted it. 
+First, Davis has tied the state for the next decade or longer to contracts 
+with facilities that are exclusively fossil fuel generation. Second, he has 
+encouraged an unprecedented surge in the building of new centralized fossil 
+fuel plants. Finally, he has pushed the lowering of environmental standards 
+to increase production from the dirtiest fossil fuel facilities. 
+The state's new energy purchasing department has spent zero on renewable 
+generation. David Freeman, the governor's energy czar, giving lip service to 
+alternatives, has negotiated close to $50 billion in long-term contracts with 
+fossil fuel generators. 
+By comparison, the governor has authorized investment of only $13 million in 
+expanding solar generation. Photovoltaic cells produce electricity directly 
+from the sun's energy, offering a clean, efficient solution to the state's 
+future peak energy demand. While the governor talks a lot about energy 
+efficiency, the state's funding of demand programs is about 1 percent of the 
+funding for supply. Most egregious, the vast majority of state energy 
+efficiency money is funneled back to the utilities. 
+While environmentalists deride the Bush administration proposals, in 
+California organizations such as the Natural Resources Defense Council 
+actively support Davis' fossil fuel energy policy. 
+The Davis energy policy has stuck California with the same old electric 
+system for at least the next decade. Money has literally been burned instead 
+of invested in innovation and creation of a cleaner and more efficient 
+system. The best hedge against price spikes is a diversity of fuel sources, 
+unfortunately California's electric system is now tied to an even greater 
+degree to fossil fuels. 
+After binding the state economy to the past, the Davis end game is logical. 
+Davis and his energy advisers want to spend tens of billions of dollars for 
+the utilities' restoration -- the very companies that for so long stifled 
+industry innovation and remain most responsible for California's energy 
+fiasco. 
+There is still an opportunity to make the best out of a bad situation. 
+Instead of bailing out the utilities, they should be dismantled and sold off. 
+A combination of a dozen or so local government and publicly owned companies 
+should be created with a goal of innovating the industry. An auction could be 
+held that would sell customer blocks and with it the state's long-term 
+contracts. Choice should be reinstated with the lifting of the suspension on 
+direct access to alternative suppliers. 
+Instead of moving the state to the next level of energy development, the 
+education governor's remedial energy teachings will force California to 
+repeat its energy lessons. 
+
+
+Joe Costello is an energy and communications consultant based in Larkspur. 
+
+
+
+
+
+
+
+
+
+
+
+Business 
+Economics fuels power solution in California Price relief gains political 
+support
+Robert Gibbons, BridgeNews
+? 
+07/06/2001 
+Chicago Tribune 
+North Sports Final ; N 
+Page 3 
+(Copyright 2001 by the Chicago Tribune) 
+Political pressure coming from the U.S. Congress and politicians from Western 
+states seems to have influenced the approach to the power crisis, despite 
+opposition to price caps in the Bush administration. 
+The Federal Energy Regulatory Commission in June expanded price mitigation 
+measures on wholesale electricity sales in California during periods when 
+blackouts are possible. 
+The measures encourage generators to sell power into the state to prevent 
+emergency alerts from being declared, which trigger price caps. The move came 
+with support growing in Congress, especially among representatives of Western 
+states on both sides of the aisle, for legislation that would have capped 
+wholesale prices in the region. 
+The macroeconomic force may have been the difference between the $7 billion 
+cost of power for California in 1999 and its rise to approximately $27 
+billion in 2000. The cost is estimated to reach between $50 billion and $70 
+billion in 2001. 
+With that kind of money at stake, suddenly the concern becomes less a 
+question of who is responsible for the problem, but rather, how it can be 
+solved quickly to prevent harsh political consequences. 
+California Atty. Gen. Bill Lockyer has conducted an investigation into the 
+actions of power generators and offered multimillion dollar rewards to 
+whistleblowers to provide evidence of price manipulation by independent power 
+generators. The state is seeking refunds of $8.9 billion, the amount it 
+estimates independent power generators overcharged California 's troubled 
+utilities. 
+The U.S. General Accounting Office has released a report criticizing the FERC 
+for not finding evidence of power generators using plant outages to drive up 
+prices in California . 
+"FERC's [February] study was not thorough enough to support its overall 
+conclusion that audited companies were not physically withholding electricity 
+supply to influence prices," the GAO found. 
+Of the major independent power generators and marketers, like Reliant Energy, 
+Dynegy, Duke Energy and Enron, only Williams and its CEO Keith Bailey came 
+out in April in favor of some sort of short- term price relief for California 
+. 
+"The political dynamic out there is much more Draconian than what we're 
+proposing," Bailey told analysts in April, defending Williams' position 
+supporting some limited, short-term price mitigation. 
+What he was worried about was California Gov. Gray Davis using eminent domain 
+powers to take over power plants and the state setting up a public power 
+authority to build state-owned plants. 
+
+
+
+
+
+
+
+
+
+Financial 
+California Changes Stance on Refunds; Two Sides Far Apart In Energy Talks
+Peter Behr
+? 
+07/06/2001 
+The Washington Post 
+FINAL 
+Page E01 
+Copyright 2001, The Washington Post Co. All Rights Reserved 
+California officials have abruptly shifted tactics in their attempt to 
+recover billions of dollars in alleged overcharges for electricity , saying 
+they may reduce their demands for huge refunds if generators renegotiate $43 
+billion in long-term electricity contracts that the state signed this year. 
+Gov. Gray Davis (D) said part of the $8.9 billion in refunds the state is 
+seeking could be offset by reductions in energy prices in the long-term 
+contracts, whose costs have become a growing political embarrassment for 
+Davis. 
+"We've made suggestions, we've offered various ways in which people could get 
+us $8.9 billion," Davis told the San Jose Mercury News in a report yesterday. 
+"You can renegotiate our existing contracts and save us money. However you 
+want to do it, it's just got to net out close to $8.9 billion." 
+The new offer was introduced this week into the closed negotiations over a 
+California settlement being conducted in Washington by Federal Energy 
+Regulatory Commission Judge Curtis L. Wagner Jr., according to sources close 
+to the negotiations. 
+Yesterday, Wagner said he may issue his own preliminary finding today on the 
+amount of overcharges if California officials and the generators cannot reach 
+a compromise. 
+"What I'm trying to do is get people in a settlement mood," Wagner told 
+reporters. "In the event we're unable to do that, [Friday] at some point I 
+may offer a preliminary assessment." The settlement conference is set to 
+conclude on Monday. 
+Wagner, FERC's chief administrative judge, has been trying to push both sides 
+toward a compromise that would resolve the huge energy pricing controversy. 
+Mountainous energy prices have bankrupted California 's largest utility, 
+drained billions of dollars out of the state treasury and put Davis at 
+sword's point with generators that help keep the state's lights on. 
+Last Friday, Wagner rebuked Davis's chief representative, Michael Kahn, 
+chairman of California Independent Grid Operator -- the state's power grid 
+manager -- indicating that the state's demand for nearly $9 billion in 
+refunds from power generators and marketers was too high, sources said. 
+Wagner's settlement conference, which has involved more than 100 lawyers for 
+all sides, is closed to the public and media. 
+Wagner complained last month that Kahn was following a political agenda, and 
+his lack of independence in the negotiations was such a "joke" that the 
+parties might as well wear "clown suits," according to a Dow Jones report 
+confirmed by sources close to the talks. 
+But he has also criticized the generators and power marketers, led by Reliant 
+Energy Inc., Williams Energy Services, Duke Energy and Southern Co., for 
+failing to make serious settlement offers, these sources said. The suppliers 
+have offered to refund $600 million, provided the state is able to call off 
+various California lawsuits demanding far larger refunds, sources said. 
+Wagner's leverage is his ability to propose his own refund figure to FERC's 
+commissioners. FERC has tentatively called for $124 million in refunds, but 
+now is taking a harder line on preventing a new escalation of California 's 
+electricity prices this summer and is likely to be receptive to a higher 
+refund figure, some energy analysts believe. 
+Davis's tactical change, offering to make the long-term contracts part of an 
+overall settlement, comes amid growing criticism of what the state will have 
+to pay for energy under those deals. 
+California 's energy calamity stemmed in large part from its failed 
+deregulation plan, which relied heavily on short-term power purchases at 
+volatile "spot market" prices. When energy costs shot upward last summer, so 
+did the state's electricity bills. 
+In response, Davis's aide, S. David Freeman, and his staff began negotiating 
+long-term power contacts with suppliers. The $43 billion in deals signed so 
+far would require the state to pay about $70 per hour for a megawatt of power 
+for a large part of the electricity it will need over the next 10 years. 
+That's well under the average of $250 per megawatt-hour that the state was 
+paying at the beginning of this year, but above current power prices -- and 
+considerably higher than what electricity may cost in the next decade, energy 
+analysts say. 
+A new agreement to lower those contract prices could relieve political 
+pressure on Davis and focus settlement negotiations away from the state's 
+controversial demand for the $8.9 billion refund. Davis will argue that 
+reducing future power charges that his administration negotiated should count 
+as a "refund" because the deals were reached "under commercial duress," 
+according to sources close to Wagner's negotiations. 
+Industry supporters say Davis's refund figure is impossible to justify. 
+"There's no benchmark for what a fair and reasonable price should be," said 
+Michael Zenger, California director of Cambridge Energy Research Associates. 
+The state's advocates counter that if FERC enforced a "just and reasonable" 
+standard for power prices based on operating costs and a generous profit, the 
+overcharges by all sellers could easily reach the $9 billion figure. 
+"It's not rocket science, but it does require the regulators to regulate," 
+said Frank Wolak, a Stanford University economist who heads an oversight 
+committee for the California grid. 
+Those polar-opposite views have left both sides in Wagner's conference room 
+"billions of dollars apart," as the talks approached their final weekend, 
+sources said. 
+
+http://www.washingtonpost.com 
+Contact: http://www.washingtonpost.com 
+
+
+
+
+
+
+
+
+
+
+
+Politics & Policy 
+
+U.S. Hearing Officer May Impose Pact
+To End California Power-Overcharge Case
+By Richard B. Schmitt
+? 
+07/06/2001 
+The Wall Street Journal 
+Page A10 
+(Copyright (c) 2001, Dow Jones & Company, Inc.) 
+WASHINGTON -- With settlement talks apparently stalled, a federal hearing 
+officer said he may propose his own solution to settle billions in alleged 
+electricity overcharges tied to the California power crisis. 
+Curtis L. Wagner Jr. said he was still "optimistic" California officials and 
+several power companies could come to terms on $8.9 billion in disputed 
+electricity charges the state has incurred over the past year. 
+Absent more-meaningful progress, he said he would offer his own "preliminary 
+assessment" and recommendation as soon as today. 
+In that event, Mr. Wagner also said, he would convene a hearing Monday where 
+the two sides would be given the chance to comment on his plans. Mr. Wagner 
+has previously indicated he feels California is due some refunds, but far 
+less than the total the state claims. California is also indebted to the 
+power companies for billions in previous deliveries; those debts could at 
+least partially offset any refunds. Mr. Wagner has also said long-term 
+contracts that would insulate the state from the sort of price shocks it has 
+experienced over the past year could be part of any resolution. 
+An administrative-law judge with the Federal Energy Regulatory Commission, 
+Mr. Wagner was named by the panel two weeks ago to broker a peace of the 
+overcharge dispute. 
+Commission officials have given the parties until Monday to reach an 
+agreement behind closed doors. After that, absent a settlement, the 
+commission has ordered Mr. Wagner to report back with his findings and 
+recommendations within a week. 
+At that point, the commission has said it will impose a settlement of its own 
+liking. 
+The overcharge issue has been a flash point in the California debacle, with 
+the state's governor, Gray Davis, calling the energy companies "pirates" and 
+"marauders." 
+The industry considers itself a scapegoat for a bungled state deregulation 
+effort. 

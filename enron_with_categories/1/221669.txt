@@ -1,0 +1,67 @@
+Message-ID: <20625717.1075857797770.JavaMail.evans@thyme>
+Date: Wed, 13 Dec 2000 06:03:00 -0800 (PST)
+From: thane.twiggs@enron.com
+To: jeffery.ader@enron.com, mark.bernstein@enron.com, scott.healy@enron.com, 
+	janelle.scheuer@enron.com, tom.dutta@enron.com, dana.davis@enron.com, 
+	paul.broderick@enron.com, chris.dorland@enron.com, 
+	gautam.gupta@enron.com, michael.brown@enron.com, 
+	john.llodra@enron.com, george.wood@enron.com, joe.gordon@enron.com, 
+	stephen.plauche@enron.com, jennifer.stewart@enron.com, 
+	david.guillaume@enron.com, tom.may@enron.com, 
+	robert.stalford@enron.com, jeffrey.miller@enron.com, 
+	narsimha.misra@enron.com, joe.quenet@enron.com, 
+	paul.thomas@enron.com, ricardo.perez@enron.com, 
+	kevin.presto@enron.com, sarah.novosel@enron.com, 
+	christi.nicolay@enron.com
+Subject: ISO-NE failure to mitigate ICAP market -- Release of ISO NE
+ confidential information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Thane Twiggs
+X-To: Jeffery Ader, Mark Bernstein, Scott Healy, Janelle Scheuer, Tom Dutta, Dana Davis, Paul J Broderick, Chris Dorland, Gautam Gupta, Michael Brown, John Llodra, George Wood, Joe Gordon, Stephen Plauche, Jennifer N Stewart, David Guillaume, Tom May, Robert Stalford, Jeffrey Miller, Narsimha Misra, Joe Quenet, Paul D Thomas, Ricardo Perez, Kevin M Presto, Sarah Novosel, Christi L Nicolay
+X-cc: 
+X-bcc: 
+X-Folder: \Joseph_Quenet_Dec2000\Notes Folders\All documents
+X-Origin: Quenet-J
+X-FileName: jquenet.nsf
+
+The New England Conference of Public Utilities Commissioners (NECUPUC) filed 
+an Answer if Support of the Motion of the Maine Public Utilities Commission 
+for Disclosure of Information.
+NECUPUC supports the request for the release of the unredacted copies of 
+ISO-NE's September 21, 2000 Answer in this case.  In the alternative, they 
+would ask that the Commission provide to the regulators that are parties to 
+the proceeding unredacted copies of the ISO's September 21, 2000 Answer 
+subject to an appropriate protective order.
+
+
+
+Duke Energy North America (DENA) filed an Answer that opposes the MPUC 
+request for public information.
+
+DENA argues that only a  three month lag in the release of confidential 
+information is impermissible under a prior FERC ruling in the NSTAR Services 
+Co. case which set out a six-month lag rule for the release of information.
+Their second argument was that the request seeks information for all NEPOOL 
+markets and not just the ICAP market which is subject to the suit.
+If the FERC authorizes the release of confidential information, then it 
+should be subject to a protective order which contains the following:
+The information may only be used for the purposes of this docket.
+Only specifically named "reviewing Reps associated with the MPUC may review 
+the information.
+The confidential materials may not be removed from the NE-ISO's premises.
+The reviewing rep must execute a nondisclosure certificate.
+
+
+Answer to the MPUC's Motion for Disclosure of Information from Northeast 
+Utilities Service Company and Select Energy and request for expedited 
+commission action.  NUSCO and Select Energy Support MPUC's request for 
+disclosure of information that the ISO has filed under seal, but opposes the 
+selective disclosure of this information to the MPUC and other regulatory 
+commissions and not other participants.   NUSCO and Select Energy request 
+expedited action due the financial implications and there is also 
+considerable uncertainty regarding prices in the residual ICAP market in 
+January, February and March of 2000 due to the suspended settlement pending 
+Commission guidance.
+

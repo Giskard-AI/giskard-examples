@@ -1,0 +1,83 @@
+Message-ID: <17929939.1075860276062.JavaMail.evans@thyme>
+Date: Wed, 23 Feb 2000 08:22:00 -0800 (PST)
+From: paul.simons@enron.com
+To: richard.lewis@enron.com, joe.gold@enron.com, matthew.scrimshaw@enron.com, 
+	eric.gonzales@enron.com, eric.gadd@enron.com, 
+	danny.mccarty@enron.com, ron.bertasi@enron.com, 
+	paul.chivers@enron.com, christoph.waltenspuel@enron.com, 
+	tim.underdown@enron.com, john.thompson@enron.com, 
+	stuart.staley@enron.com, jonathan.whitehead@enron.com, 
+	roy.poyntz@enron.com, riccardo.bortolotti@enron.com, 
+	thor.lien@enron.com, steve.young@enron.com, fernley.dyson@enron.com
+Subject: Protecting Confidential Information: New European Restricted List
+ Procedure
+Cc: john.sherriff@enron.com, mark.frevert@enron.com, bryan.seyfried@enron.com, 
+	michael.brown@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: john.sherriff@enron.com, mark.frevert@enron.com, bryan.seyfried@enron.com, 
+	michael.brown@enron.com
+X-From: Paul Simons
+X-To: Richard Lewis, Joe Gold, Matthew Scrimshaw, Eric Gonzales, Eric Gadd, Danny McCarty, Ron Bertasi, Paul Chivers, Christoph Waltenspuel, Tim Underdown, John Thompson, Stuart Staley, Jonathan Whitehead, Roy Poyntz, Riccardo Bortolotti, Thor Lien, Steve W Young, Fernley Dyson
+X-cc: John Sherriff, Mark Frevert, Bryan Seyfried, Michael R Brown
+X-bcc: 
+X-Folder: \Mark_Taylor_Jun2001\Notes Folders\Online trading\Credit derivatives
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+As you know, we are now launching EnronCredit.com which will involve credit 
+derivatives trading in Europe and North America, both on Enron Online and 
+off-line.  This will involve quoting prices for buying and selling bankruptcy 
+protection in respect of reference entities, many of whom are our 
+counterparties in a variety of different commercial and financial contexts.
+
+This exciting cocktail of credit derivatives and Enron Online raises 
+significant novel legal risks for Enron.  Probably the most significant risk 
+would arise in a situation where Enron has confidential information about a 
+reference entity and wrongfully uses that information in pricing the credit 
+derivative on that entity.  This could well result in legal proceeding 
+against Enron.  In practice, an allegation of misuse of confidential 
+information can be very difficult indeed to defend without adequate 
+procedures in place to safeguard that information.  In fact, Enron's credit 
+trading will rely strictly on publicly available financial information and 
+will not involve the use of confidential information, unless the reference 
+entity has specifically consented.  Nevertheless, to avoid  the appearance of 
+impropriety, we are taking additional steps to consider confidentiality 
+agreements we have in place with potential reference entities before deciding 
+whether or not we will quote prices on such entities.
+
+Against this background is the ever-present risk of "insider dealing".  This 
+crime - which carries a maximum prison sentence of 7 years and an unlimited 
+fine - is committed where a person (or member of their family etc) deals in 
+the securities (shares, bonds or derivatives on them) of a listed company on 
+the basis of unpublished (confidential) price-sensitive information.  We do 
+not expect at this time to deal in publicly traded bonds as part of 
+EnronCredit.com, but insider dealing is relevant to the conduct of Enron 
+staff and could affect other parts of our business.  In addition, SFA rules 
+require the safeguarding of confidential information, the misuse of which is 
+a serious disciplinary matter.
+
+In order to ensure the success of this new business and that confidential 
+information is not misused either by Enron or its staff, we are now 
+introducing new policies and procedures (attached) which include a simple 
+Restricted List procedure.   In essence they require you - 
+
+to take prudent steps to safeguard confidential information within Enron
+to notify Michael Brown, Mark Elliott or myself if you become aware of 
+confidential or sensitive information (or circumstances) about a counterparty 
+which you think might make it appropriate for that counterparty to be placed 
+on the Restricted List.
+
+To make life easier, numerous examples of the types of information which 
+might be relevant are set out in the attached procedures.  Please familiarise 
+yourself, and anyone else in your group you think appropriate,  with these 
+procedures.  As you will see, you are not expected to make difficult 
+determinations about whether an entity should or should not be added to the 
+Restricted List, just to let us know if you think there is a possibility that 
+it should be added.  We will also provide quick briefing sessions to ensure 
+that each of you is comfortable with these new procedures.
+
+
+  Many thanks for your co-operation.
+

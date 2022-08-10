@@ -1,0 +1,42 @@
+Message-ID: <3682067.1075863427472.JavaMail.evans@thyme>
+Date: Mon, 25 Jun 2001 08:54:47 -0700 (PDT)
+From: j.kaminski@enron.com
+To: shirley.crenshaw@enron.com
+Subject: FW: Market Maker Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VKAMINS>
+X-To: Crenshaw, Shirley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scrensh>
+X-cc: 
+X-bcc: 
+X-Folder: \VKAMINS (Non-Privileged)\Kaminski, Vince J\Sent Items
+X-Origin: Kaminski-V
+X-FileName: VKAMINS (Non-Privileged).pst
+
+Shirley,
+
+
+Please, put on my calendar.
+
+Vince
+
+ -----Original Message-----
+From: 	Lee, Bob  
+Sent:	Friday, June 22, 2001 8:52 AM
+To:	Kaminski, Vince J; Lu, Zimin; Bharati, Rakesh; De, Rabi; Huang, Alex; Shanbhogue, Vasant; Supatgiat, Chonawee; Barkley, Tom
+Cc:	Kim, Jinbaek
+Subject:	Market Maker Discussion
+
+The schedule for the remaining sessions to discuss papers on models for setting the bid-ask spread will be
+
+Friday, June 29 3:00-4:00PM 
+Tuesday, July 3 2:00-3:00PM 
+Friday, July 13 2:00-3:00PM 
+Friday, July 27 2:00-3:00PM 
+
+All in 19C2
+
+The discussion topic is given in the presentation from June 20.  On July 27 we will hear Jin's conclusions and recommendations for future work/direction.
+
+Bob Lee

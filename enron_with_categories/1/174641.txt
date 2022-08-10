@@ -1,0 +1,564 @@
+Message-ID: <17840970.1075846187163.JavaMail.evans@thyme>
+Date: Mon, 30 Oct 2000 00:20:00 -0800 (PST)
+From: ann.schmidt@enron.com
+To: mark.palmer@enron.com, karen.denne@enron.com, meredith.philipp@enron.com, 
+	steven.kean@enron.com, elizabeth.linnell@enron.com, 
+	eric.thode@enron.com, laura.schwartz@enron.com, 
+	jeannie.mandelker@enron.com, mary.clark@enron.com, 
+	damon.harvey@enron.com, keith.miceli@enron.com
+Subject: Enron Mentions
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Ann M Schmidt
+X-To: Mark Palmer, Karen Denne, Meredith Philipp, Steven J Kean, Elizabeth Linnell, Eric Thode, Laura Schwartz, Jeannie Mandelker, Mary Clark, Damon Harvey, Keith Miceli
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+California Adopts Variable Pricing, Raising Ire of Generators, Traders
+The Wall Street Journal, 10/30/00
+
+Enron Offers Cash To Help Azurix Take Itself Private
+The Wall Street Journal, 10/30/00
+
+Companies: U.S. Companies
+The Wall Street Journal Europe, 10/30/00
+
+Wessex switch likely
+The Times of London, 10/28/00
+
+Enron water unit could go private under loan plan
+Houston Chronicle, 10/28/00
+
+Quietly, Bush's team talks about transition; Plenty of folks in Austin would 
+love to follow Bush to D.C.
+Austin American-Statesman, 10/28/00
+
+Dynegy: Calif Price Caps Will Compromise Elec Reliability
+Dow Jones Energy Service, 10/28/00
+
+SEC Filing Shows 3rd Parties Contacted Enron About Azurix
+Dow Jones News Service, 10/27/00
+
+Enron offers to buy out Azurix
+Financial Times, October 27 2000 
+
+
+
+California Adopts Variable Pricing, Raising Ire of Generators, Traders
+By Rebecca Smith
+Staff Reporter of The Wall Street Journal
+
+10/30/2000
+The Wall Street Journal
+A4
+(Copyright (c) 2000, Dow Jones & Company, Inc.)
+
+LOS ANGELES -- In the latest attempt to fix California's troubled deregulated 
+energy market, officials adopted a unique variable-pricing plan that already 
+is being criticized by power generators and traders as unworkable and praised 
+by utilities and consumers as much needed protection against gouging. 
+Under the plan, adopted late last week by the governing board of the 
+California Independent System Operator, or ISO, a quasipublic agency 
+responsible for maintaining electricity reliability in the state, the cap on 
+wholesale power will be reset hourly from about $65 per megawatt hour at 
+low-demand times to no more than $250 an hour at periods of high demand. It 
+was the third time this year that officials effectively lowered the price cap 
+on wholesale electricity in a bid to contain -- so far unsuccessfully -- 
+soaring total power costs.
+The move underscores the chaotic atmosphere prevailing in California's power 
+market after a two-year-old experiment in deregulation has come undone. In 
+other deregulated markets such as New York and New England, prices are capped 
+at $1000 per megawatt hour, which are intended to be low enough to prevent 
+market abuse but high enough to give generators incentive to build new 
+plants. California's system was supposed to work the same way. But because 
+utilities in California divested themselves of the bulk of their plants but 
+weren't allowed to lock in fixed-price supply contracts, unlike in the other 
+markets, merchant generators have had much greater sway over prices here on 
+the spot market, where most power trades. 
+During the first nine months of the year, the average price of wholesale 
+electricity was $90 per megawatt hour in California, triple the price of a 
+year earlier. Even on cool days in October, the price generally has remained 
+above $100 per megawatt hour. California utilities have lost money on those 
+power purchases because their customers' rates are frozen at $54 to $65 per 
+megawatt hour, far lower than the average price utilities have had to pay for 
+that power. The deficits exceeded $5 billion in the June-to-September period. 
+California utilities buy the power used by their customers from the 
+state-sanctioned auctions administered by the ISO and a sister organization, 
+the California Power Exchange. In New York and New England, by comparison, 
+less than 20% of power is purchased from the spot markets because utilities 
+there were able to sign the fixed-price contracts, which California utilities 
+weren't allowed to do. The price-cap decision passed last week by a vote of 
+13 to 10, primarily with support from utilities and board members 
+representing consumer interests. It was pushed aggressively by Pacific Gas & 
+Electric Co. and Southern California Edison, the state's two big 
+investor-owned utilities that have gotten caught in the price-spike vise this 
+year. 
+Some ISO members say they had no choice but to support the measure to ratchet 
+down price caps. "We're going after the windfall profits," said S. David 
+Freeman, general manager of the Los Angeles Department of Water and Power, 
+who voted for the measure. "What we've got now is a market accustomed to 
+ripping off the consumer. This can't be allowed to go on." 
+But other experts said the hasty measure may make California's problems even 
+worse. "The short-term regulatory fix is always to fix prices," said Pam 
+Prairie, director of the Institute of Public Utilities at Michigan State 
+University in East Lansing. "But there's a real danger you'll set prices too 
+low and make your supply problems even worse." 
+Other economists agreed. "At best, this is poorly administered cost-based 
+regulation," said Frank Wolak, an economics professor at Stanford University 
+who sits on an independent market-monitoring committee at the ISO. "At worst, 
+it creates all sorts of perverse market incentives." 
+For example, it may increase the problem of "megawatt laundering" on hot days 
+in which in-state generators sell power to out-of-state customers who then 
+sell it back into the state, effectively bypassing the cap. Likewise, it 
+could encourage generators to build new plants outside of California, rather 
+than where they are needed near its major cities, also to avoid the cap. In 
+the end, it could increase stresses to the state's already overburdened 
+transmission system. 
+In fact, the decision already has brought to a halt the state's forward 
+electricity market, which allows wholesale customers to sign contracts for 
+power they will use in the future. The market had been trading as much as 
+1,000 contracts a week. On Friday, there was practically no activity. 
+"This decision shows the height of lunacy," said Rick Shapiro, a managing 
+director at Enron Corp., the giant Houston-based energy trader. Mr. Shapiro 
+said Enron and other generators will file appeals at the Federal Energy 
+Regulatory Commission asking that the new pricing formula be rescinded. 
+It is possible the FERC may throw out the pricing formula anyway. It is 
+expected to issue a major order on Nov. 1 directing changes in California's 
+market structure. That order will include its determination of the 
+effectiveness of price caps. It also is expected to judge the merits of the 
+governance structure at the ISO, which has lately been marked by infighting. 
+Recently, consumer groups have charged that the ISO board has put the 
+business interests of its members ahead of members' fiduciary duty to 
+California residents. 
+The most recent price-cap measure was approved over the objections of 
+executives at the ISO whose job it will be to implement the formula. ISO 
+Chief Executive Terry Winter said the measure is flawed because it doesn't 
+take into account the amount of power available to the California market. Mr. 
+Winter fears the caps will place the state at a disadvantage relative to 
+neighboring states with no price caps. About 11 states are electrically 
+interconnected in the West, meaning power can be moved between them and chase 
+the highest prices. 
+"We keep getting accused of making our market too complicated," Mr. Winter 
+said. "Then along comes this proposal" with caps that would adjust repeatedly 
+throughout the day, depending on demand.
+
+Copyright , 2000 Dow Jones & Company, Inc. All Rights Reserved. 
+
+
+Enron Offers Cash To Help Azurix Take Itself Private
+By Rebecca Smith
+Staff Reporter of The Wall Street Journal
+
+10/30/2000
+The Wall Street Journal
+A12
+(Copyright (c) 2000, Dow Jones & Company, Inc.)
+
+Enron Corp. offered to lend Azurix Corp., an Enron spinoff, $275 million so 
+that it could take itself private. 
+Enron, which has been frustrated with the global water company's performance, 
+suggested Friday that public shareholders receive a cash offer of $7 a share 
+for their Azurix stock. While nearly double the stock's value prior to the 
+offer, the suggested price nevertheless was far below the $19 at which Azurix 
+made its debut in 1999.
+An Azurix spokeswoman said the board, on which Enron has seats, had not yet 
+decided how to treat the Enron offer. An Enron spokesman said that taking the 
+company private would "give us more opportunity to directly affect our 
+investment." In 4 p.m. New York Stock Exchange composite trading Friday, 
+Azurix soared $3 to $6.56 in heavy trading. 
+Azurix had hoped to create a splash by doing to the water business what Enron 
+had done to the energy business -- increase competition and provide trading 
+skills capable of creating new financial products out of old commodities. But 
+Azurix stumbled, nearly from the outset. Deregulation of the water business 
+and government privatizations of water systems, on which it was counting, 
+were slow to come, crimping growth opportunities and profit. And Enron, 
+accustomed to higher, faster returns, grew impatient with the 
+capital-intensive water business. 
+The company's first chief executive, Rebecca Mark, a onetime head of Enron's 
+international division, resigned in the summer with the agreement of Enron 
+executives, who said it was time for new leadership. The incoming chief 
+executive, John Garrison, said he would look for buyers for some of the 
+company's businesses; he was unavailable to comment Friday. Ms. Mark was 
+believed to be considering making an offer for some of those businesses, 
+herself. She declined a request for an interview. 
+In its letter to Azurix officers, Enron said the water company received four 
+offers from prospective suitors after Ms. Mark's departure, the best of which 
+came from an unidentified bidder who offered $7 a share and went through a 
+lengthy due-diligence process before backing down, apparently spooked by 
+Azurix's cash flow, capital structure, tax considerations and some securities 
+litigation. 
+In its proposal letter, made public Friday, Enron said it concluded "that 
+there is no other buyer willing to pay the $7" and so proceeded with its own 
+offer. But Enron said it won't try to limit Azurix's ability to negotiate a 
+better deal with others, should they come forward. Finally, Enron noted that 
+Azurix had considered various partial or full-liquidation alternatives but 
+said they didn't seem likely to produce more than $7 a share.
+
+Copyright , 2000 Dow Jones & Company, Inc. All Rights Reserved. 
+
+Companies: U.S. Companies
+
+10/30/2000
+The Wall Street Journal Europe
+5
+(Copyright (c) 2000, Dow Jones & Company, Inc.)
+
+Enron Offers Loan to Azurix 
+Enron Corp. offered to lend Azurix Corp., an Enron spinoff, $275 million 
+(327.6 million euros) so that it could take itself private. Enron, which has 
+been frustrated with the global water company's performance, suggested Friday 
+that public shareholders receive a cash offer of $7 a share for their Azurix 
+stock. While nearly double the stock's value prior to the offer, the 
+suggested price nevertheless was far below the $19 at which Azurix made its 
+debut in 1999. (Staff)
+
+Copyright , 2000 Dow Jones & Company, Inc. All Rights Reserved. 
+
+Business
+Wessex switch likely
+Adam Jones in New York
+
+10/28/2000
+The Times of London
+News International
+2W
+64
+(Copyright Times Newspapers Ltd, 2000)
+
+Wessex Water's American parent company is likely to be taken private after a 
+disastrous 14-month spell as a quoted company. 
+Wessex, which provides water services to the South of England, was bought by 
+Azurix in 1998 for Pounds 1.6 billion. Azurix wanted to use Wessex's 
+expertise in privatised water supply to build a global business. However, 
+since listing at $19 a share in June last year, Azurix stock has gone into 
+freefall, closing at less than $4 earlier this week. Azurix slumped because 
+it drastically misjudged the number of privatisation opportunities.
+It emerged last night that Enron, the Texan energy and trading company that 
+is Azurix's biggest shareholder, has taken the unusual step of offering to 
+lend Azurix $275 million (Pounds 190 million) to buy its publicly held 
+shares, thereby taking it private. 
+The Enron proposal would value Azurix at about $800 million or $7 per share - 
+63 per cent less than the IPO price. Enron would control Azurix and Wessex 
+Water if it went private.
+
+Copyright , 2000 Dow Jones & Company, Inc. All Rights Reserved. 
+
+
+BUSINESS
+Enron water unit could go private under loan plan
+NELSON ANTOSH
+Staff
+
+10/28/2000
+Houston Chronicle
+3 STAR
+1
+(Copyright 2000)
+
+Enron offered Friday to lend Azurix, its struggling water affiliate, about 
+$275 million so Azurix can go private by purchasing 38.6 million shares that 
+are publicly traded. 
+The deal would have Azurix buying back its stock at $7 per share, about 
+double what the shares were trading for Thursday. That's a big comedown for 
+Azurix shares, which sold for $19 each when the Houston company went public 
+in June 1999.
+The maneuver technically can be called a "take-under," said analyst Carol 
+Coale of Prudential Securities in Houston. She also described it as Enron's 
+least painful solution for what to do with the venture that never lived up 
+its ambitious plans. 
+"Nothing about Azurix has been positive for Enron, in my view," said Coale. 
+"This is a solution to a problem." 
+Azurix spokeswoman Diane Bazelides said its board is studying Enron's 
+proposal. She added that it was too early to comment on the offer because the 
+proposal's structure had not been outlined. 
+Enron imposed no deadline for a decision by Azurix, but reserved the right to 
+withdraw the offer if Azurix's position with prospective customers and 
+employees deteriorated. 
+One of Enron's conditions is that Azurix not sell any major assets before the 
+buyout. 
+The deal would not change Enron's large stake in Azurix, said Palmer. It owns 
+a third, while the other third is owned by the Atlantic Water Trust, in which 
+Enron owns a 50 percent voting interest. 
+The proposal's advantages include giving public shareholders a premium to the 
+market price, said Enron spokesman Mark Palmer. 
+The common stock of Azurix zoomed Friday on the news, gaining $3 to close at 
+$6.56 on the New York Stock Exchange. 
+Becoming a private company would give Azurix management greater flexibility 
+in restructuring. Coale said it would reduce Azurix's general and 
+administrative costs, helping it to bid against lower- cost foreign 
+competition, particularly two big French companies. Azurix's high cost 
+structure has been its primary problem, she said. 
+Azurix has been looking at cost and strategies ever since it got a new 
+president and chief executive on Aug. 25, said Bazelides. That was the date 
+that Rebecca Mark resigned as Azurix's high-profile chairman and chief 
+executive. 
+Enron and Azurix have been looking at "strategic alternatives" for nine 
+months, J. Mark Meets, Enron's executive vice president for corporate 
+development, said in a letter filed with the Securities and Exchange 
+Commission. 
+One alternative was selling the company, he said. 
+That didn't work out because the offers from three companies didn't exceed $4 
+per share. 
+The fourth potential buyer said it would consider offering $7 per share, said 
+Meets. But that suitor backed out, citing reasons like cash flow, complexity 
+of the capital structure, tax considerations and pending securities 
+litigation. 
+"We are obviously quite disappointed by this most recent turn of events," 
+Meets said in the letter. "However, we strongly believe that there is no 
+other buyer willing to pay the $7 per share initially proposed (but later 
+withdrawn) by the fourth bidder."
+
+Copyright , 2000 Dow Jones & Company, Inc. All Rights Reserved. 
+
+Quietly, Bush's team talks about transition; Plenty of folks in Austin would 
+love to follow Bush to D.C.
+Ken Herman American-Statesman Capitol Bureau Chief
+
+10/28/2000
+Austin American-Statesman
+A1
+(Copyright 2000)
+
+Not long ago, at a glossy wooden table in a Texas Capitol office, two of Gov. 
+George W. Bush's high-level appointees discussed one of the key issues in 
+state government these days. It involved the relative merits of White House 
+posts that could be available to the two appointees if Bush becomes 
+president. 
+Asked this week whether it's a common topic around the Capitol, one of the 
+appointees gestured to the anteroom of his office and made a motion 
+indicating that even the midlevel folks have Washington on their minds.
+Near the banks of the Colorado, Potomac Fever is a near-epidemic. 
+And though it is political faux pas to be too open about doing White House 
+transition planning before Election Day, be assured it is going on at Bush 
+headquarters, where top officials are cognizant of the fine line between 
+looking too confident now and looking too unprepared later. 
+The candidate himself -- as well as his top aides -- steers clear of 
+transition talk. When asked who might wind up in his Cabinet, Bush looks 
+backward instead of forward, saying that his selection of Dick Cheney as his 
+running mate should offer a glimpse of the kind of people who would wind up 
+in his administration. 
+The transition work, such that it is, is under the aegis of longtime Bush 
+friend and aide Clay Johnson, who began as head of the gubernatorial 
+appointments office and now serves as chief of staff. Johnson said nobody has 
+been interviewed for any Washington post, but he has compiled a file of folks 
+who are interested in serving in a Bush administration. 
+Johnson also has been reading up on previous transitions -- ones that went 
+well and ones that didn't. His preliminary conclusion is that the outgoing 
+administrations are generally helpful and supportive, even if they were 
+ousted by the incoming administration. It's the incoming administrations that 
+can make the mistakes, he said. 
+There is no shortage of think tanks that have think-tanked the topic. Back in 
+August, the Heritage Foundation, based in Washington, issued a transition 
+handbook titled "The Keys to a Successful Presidency." 
+"Though we really don't expect either campaign to talk about it (and would 
+discourage them from doing so), the message here is it's time to start 
+planning for a possible presidential transition, quietly, well behind the 
+scenes, but with the understanding that the preparation done during the next 
+70 or so days, and the work done in the 70 or so days that follow (between 
+the election and the inauguration) will very well determine the initial 
+success or failure of the next administration," Herbert Berkowitz, a 
+foundation vice president, said in releasing the study. 
+All indications are that the Bush team has been following the advice, with 
+Johnson at the helm. 
+Johnson cautions against expectations that a Bush administration would be 
+overloaded with Texans. 
+"It's the United States of America, not the United States of Texas," he said. 
+Despite that caveat, there is no shortage of Texans who are considered 
+shoo-ins to fill some of the thousands of slots Bush could offer if he wins. 
+Johnson confirms that he is very interested in a Washington job. Early 
+speculation among Bush aides makes Johnson a potential leading contender for 
+head of personnel at the White House. 
+Karen Hughes, Bush's communications director since his 1994 gubernatorial 
+campaign, is expected to become Bush's press secretary if he wins the White 
+House. Karl Rove, Bush's longtime political guru, also will be on board, 
+though he could wind up with an out-of- the-White-House post, perhaps at the 
+Republican National Committee. 
+Not as certain is the potential future for Joe Allbaugh, who is part of the 
+"iron triangle" of top advisers -- along with Rove and Hughes -- who have 
+been on board with Bush since the 1994 campaign. Allbaugh serves as manager 
+of the presidential campaign and previously served as chief of staff in the 
+governor's office. 
+Capitol speculation indicates Allbaugh could decide to skip a White House 
+post, possibly in favor of a lobbying job, if he is not tapped as chief of 
+staff. That post could go to Don Evans, a longtime Bush friend who headed the 
+megasuccessful fund-raising effort for the presidential campaign. 
+However, not everyone has Potomac Fever. For example, Terral Smith, Bush's 
+legislative director, said he will stay in Austin to lobby. 
+In addition to the speculation about appointees, the approaching election has 
+sparked talk about when Bush might leave office if he wins. Under the U.S. 
+Constitution, he could remain governor until he has to become president on 
+Jan. 20. 
+Much more likely, however, is that Bush would leave office sooner than that, 
+perhaps as soon as two or three weeks after the Nov. 7 election, if he wins. 
+That could cause a housing problem for Bush, whose main residence is the 
+Governor's Mansion, which comes as a free perk of the job. The Bushes have a 
+home under construction at their ranch in Crawford, near Waco. The ranch also 
+has a smaller house in which the Bushes now spend weekends. 
+Not out of the question is that Bush could work out an arrangement with Lt. 
+Gov. Rick Perry, who would become governor if Bush resigns, to remain in the 
+Governor's Mansion for several weeks after he leaves office. 
+If the race among Texas senators to replace Perry as lieutenant governor 
+complicates the timing of the resignation, Bush could stay in the governor's 
+office a little longer, but no later than the first week of January. After 
+all, he will want to give Perry time to bask in his gubernatorial 
+inauguration before the Legislature convenes Jan. 9. 
+No matter when Bush resigns, confidantes believe he might use his Crawford 
+ranch for interviews with potential top-level appointees, including Cabinet 
+members. 
+You may contact Ken Herman at kherman@statesman.com or 445-1718. 
+Washington buzz A look at Bush allies expected to get appointments in a Bush 
+administration: * Texas Secretary of State Elton Bomer * State Rep. Tom 
+Craddick, R-Midland * Public Safety Commission Chairman Jim Francis of Dallas 
+* Texas Railroad Commissioner Tony Garza* Texas Supreme Court Justice Al 
+Gonzales * Former Dallas ISD board President Sandy Kress * Kenneth Lay of 
+Houston, chief executive officer of Enron * Ralph Marquez of Texas City, 
+member of the Texas Natural Resource Conservation Commission * Vance McMahan 
+of Austin, a policy adviser in the governor's office * Harriet Miers of 
+Dallas, Bush's personal lawyer and former appointee to the Texas Lottery 
+Commission * Pat Oxford, Houston lawyer and member of the University of Texas 
+System Board of Regents * Pat Wood of Austin, chairman of the Texas Public 
+Utility Commission * Margaret La Montagne, the governor's education adviser
+
+Copyright , 2000 Dow Jones & Company, Inc. All Rights Reserved. 
+
+Dynegy: Calif Price Caps Will Compromise Elec Reliability
+
+10/27/2000
+Dow Jones Energy Service
+(Copyright (c) 2000, Dow Jones & Company, Inc.)
+
+LOS ANGELES -(Dow Jones)- A Dynegy executive said Friday that the California 
+Independent System Operator's plan to impose hourly price caps on the 
+wholesale power market will compromise reliability by forcing generators to 
+sell electricity out of state.
+"If the ISO says it will not buy above a certain price and generators cannot 
+operate below that price, then we have no choice but to find other markets to 
+participate in," said Dynegy senior vice president of marketing and trading 
+asset management Lynn Lednicky. "That may lead to the ISO not finding the 
+power it needs at a price it wants to pay." 
+The ISO plans to construct hourly price caps each month based on forecast 
+load, natural gas prices and generation unit efficiency. The caps will take 
+effect Nov. 3 or soon therafter. 
+Dynegy Inc. (DYN) sent a letter to the Federal Energy Regulatory Commission 
+asking it to address reliability consequences of the price caps before Nov. 
+3. Dynegy specifically requested that FERC discuss the issue at its Nov. 1 
+meeting, when it will release a report on California's electricity problems. 
+Enron Corp. (ENE) and Southern Company (SO) share Dynegy's concerns about 
+reliability and plan to petition FERC about the issue, said a trader 
+listening in to a conference call between the three companies. 
+-By Jessica Berthold, Dow Jones Newswires; 323-658-3872; 
+jessica.berthold@dowjones.com
+
+Copyright , 2000 Dow Jones & Company, Inc. All Rights Reserved. 
+
+SEC Filing Shows 3rd Parties Contacted Enron About Azurix
+By Christopher C. Williams
+
+10/27/2000
+Dow Jones News Service
+(Copyright (c) 2000, Dow Jones & Company, Inc.)
+
+Of DOW JONES NEWSWIRES 
+
+New York -(Dow Jones)- Shares of Azurix Corp. (AZX) jumped 84% in heavy 
+trading Friday after parent Enron Corp. (ENE) proposed to take the company 
+private in a $7-a-share buyout.
+Filings with the Securities and Exchange Commission showed that Enron made 
+the proposal after not being satisfied with offers it had received from four 
+third parties for its stake in Azurix. 
+In a letter to two members of Azurix's board, Enron said three potential 
+buyers "were unlikely to be willing to pay more than the then-current market 
+price of approximately $4 a share." 
+Enron said a fourth potential buyer indicated it would consider a $7-a-share 
+offer, but it said that proposal was recently withdrawn. "The reasons given 
+by the bidder included pro forma cash flows, the complexity of the capital 
+structure, tax considerations and the currently pending securities 
+litigation," the letter said. 
+Mark Palmer, a spokesman for Houston-based Enron, declined to say whether 
+Enron was entertaining current third-party interests or was in any talks with 
+other parties regarding its Azurix stake. 
+In New York Stock Exchange composite trading, Azurix ended Friday up $3 to 
+$6.56 on 2.8 million shares, compared with average daily volume of 239,000 
+shares. Enron was up $1.38, or 1.8%, to $78.88 on 1.6 million shares, 
+compared with its daily average turnover of 2.4 million. 
+In the SEC filing, Enron, saying it's familiar with Azurix's various partial 
+and full liquidation alternatives, said its buyout proposal is conditioned 
+upon Azurix not selling any significant assets prior to the buyout. 
+"Although we agree that such plans may result in greater value to Azurix's 
+shareholders than the maintenance of the status quo, we believe that these 
+options almost certainly will not result on a present value in a greater 
+return to Azurix's shareholders than $7 a share," the letter said. 
+Enron also said its buyout proposal doesn't include any breakup fees or other 
+"deal protection devices." This frees Azurix's board to pursue an acquisition 
+that "might provide greater value" to shareholders. 
+Daine Bazelides, a spokeswoman for Azurix, declined to say whether Azurix is 
+now entertaining offers for the company. She did, however, confirm the 
+information contained in Enron's filing. "The historical information in the 
+filing is factually correct," she told Dow Jones Newswires. 
+She said she doesn't know when Azurix board will respond to Enron's proposal. 
+In the filing, Enron didn't set a deadline, but warned that Azurix's position 
+with customers and employees may deteriorate further. "We must therefore 
+reserve the right to withdraw our proposal at any time," Enron's letter said. 
+In the letter, Enron pointed out that Azurix had retained two 
+"internationally recognized investment bankers" early this year to evaluate 
+strategic alternatives, which included the potential sale of the company to 
+unrelated third parties. 
+Enron said it strongly believes there isn't another buyer willing to pay $7 a 
+share for Enron's indirect interest in Azurix. "We believe it is in Azurix's 
+best interest, as well as the best interest of its shareholders and 
+employees, if Azurix were no longer a publicly traded company," Enron said. 
+
+-By Christopher C. Williams, Dow Jones Newswires, 201-938-5219; 
+christopher.williams@dowjones.com
+
+Copyright , 2000 Dow Jones & Company, Inc. All Rights Reserved. 
+
+
+
+
+
+Enron offers to buy out Azurix
+Financial Times
+By Hillary Durgin in Houston
+Published: October 27 2000 23:31GMT | Last Updated: October 27 2000 23:36GMT
+
+
+Enron, the Houston-based energy and trading group, said on Friday it had 
+offered up to $275m in funding to take Azurix private at a buy-out price of 
+$7 per share. 
+The specific structure of Enron's proposal has yet to be determined, Enron 
+said. Azurix said its board would now consider the proposal. The timing of 
+any decision was unclear. 
+Enron owns directly and indirectly about 66 per cent of Azurix, the troubled 
+Houston water company, whose main asset is UK-based Wessex Water. 
+The buyout offer is the latest development in a history of problems at 
+Azurix, which was spun off from Enron and taken public at an offering price 
+of $19 per share. 
+But a combination of poor market timing, competitive industry conditions and 
+empty promises by the company on Wall Street took their toll on the company, 
+whose shares have since plummeted and have been trading most recently around 
+the $3-per-share range. In August, Rebecca Mark, Azurix chief executive 
+officer, resigned both from Azurix and from the board at Enron. 
+Enron's offer came after four unnamed parties approached Enron about buying 
+its stake in Azurix. 
+While three of the four were unwilling to pay more than the then market price 
+of about $4 per share, a fourth party who was considering offering $7 per 
+share (before accounting for any dilution for stock options) later declined 
+to pursue the transaction, Enron said in Friday's letter to Azurix, outlining 
+the buyout proposal. 
+"We strongly believe that our proposal is fair to Azurix's public 
+stockholders," the letter stated. "Our proposed transaction would permit 
+Azurix's stockholders to receive, on a timely basis, a cash payment for their 
+shares that is significantly above the price at which those shares have 
+traded in several months." 
+Analysts that follow Azurix and had valued the shares at between $6 and $8 
+per shares said the offer was fair. Analysts that follow Enron said that 
+Azurix's business strategy had proved to be a failure and was characteristic 
+of the hard asset approach that Enron has gradually distanced itself from. 
+Enron's shares closed at $78.88 up $1.38 on Friday. Azurix's shares rose $3 
+to close at $6.56. 
+

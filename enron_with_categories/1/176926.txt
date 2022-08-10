@@ -1,0 +1,34 @@
+Message-ID: <31262138.1075855431047.JavaMail.evans@thyme>
+Date: Wed, 25 Jul 2001 12:57:21 -0700 (PDT)
+From: john.shelk@enron.com
+To: j..kean@enron.com, richard.shapiro@enron.com, d..steffes@enron.com, 
+	linda.robertson@enron.com, christi.nicolay@enron.com, 
+	sarah.novosel@enron.com, chris.long@enron.com, 
+	pat.shortridge@enron.com, tom.briggs@enron.com, 
+	carin.nersesian@enron.com, ray.alvarez@enron.com, 
+	joe.hartsoe@enron.com, pr <.palmer@enron.com>
+Subject: Report on Senate Energy Hearing Today
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Shelk, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=2FCB405B-AAF18F39-86256A32-4CB53C>
+X-To: Kean, Steven J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SKEAN>, Shapiro, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RSHAPIRO>, Steffes, James D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JSTEFFE>, Robertson, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=E6F34021-58C07703-86256984-56518C>, Nicolay, Christi </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=5836B2AD-ED2E830F-86256502-7152CC>, Novosel, Sarah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=E8015336-2D09A27C-862566B9-5830A9>, Long, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=424B0C48-8C7DAEC-862566B9-7ADE4F>, Shortridge, Pat </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=BB8BEDA8-F3E1A05-86256A40-569E77>, Briggs, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=179E5C8C-206E9F55-8625691E-7D943>, Nersesian, Carin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=4CF0E754-2B22EC7C-86256A08-7190CA>, Alvarez, Ray </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=EBE4476B-2D94882A-86256A14-75FF3B>, Hartsoe, Joe </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=AA8CC789-55F05846-862566B9-583A12>, Palmer, Mark A. (PR) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MPALMER>
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Jan2002\Kean, Steven J.\federal legislation
+X-Origin: Harris-S
+X-FileName: sharris1 (Non-Privileged).pst
+
+Earlier today, the Senate Energy Committee held the first of two days of hearings on Chairman Bingaman's "white paper" on electricity and the electricity provisions of other pending bills.  The hearings will continue tomorrow with all of the five FERC commissioners as witnesses plus private sector witnesses.
+
+Today's hearing went well from our perpective, with support for Super RTOs and general support for expanding the grid both physically and from an access view point voiced by Senators and witnesses.  Sen. Craig Thomas even said four RTOs were too many -- there should be one national RTO to run a national grid.  Today's witnesses represented the Dept. of Energy, EPSA, EEI, NRECA, APPA, IBEW union, Alliance to Save Energy, ELCON, NERC, NARUC, NASUCA and the State of New Mexico.  We will provide a more detailed analysis after completing a review of the lengthy written testimony, but a summary of the DOE testimony and the first panel of private sector witnesses follows.
+
+1.	DOE said they are working on electricity legislative language.  Should be done soon.  Chairman Bingaman said they needed to get it done in time for the Committee to consider it when the Committee takes up electricity as early as the second week in September.  Deputy Sec. Blake implied that their proposal was or would soon be shared with other Administration agencies for review.
+
+2.	In response to questions, Blake said that legislative action on jurisdiction questions (fed v. state) would be "useful" but he stressed that they view any new legislation as clarifying that FERC has authority they feel already exists.  He said that while states have an important role to play, Congress must recongize the interstate character of the market and the need for open access to the interstate grid.  (In response to a question, Blake later said that FERC had largely addressed the access issue or would do so.)
+
+3.	On reliability, he was given a chance to say that DOE supports th NERC "consensus" language, but instead repeated that the Administration favors "enforceable reliability standards" but wants to work with the Committee on the exact language.  I took this as confirmation of what we have heard informally from DOE in terms of key players there not being enamored of the NERC "consensus" approach, at least as it exists in its old, long form.
+
+4.	Sens. Craig and Cantwell pushed Blake on why the Administration has not fully supported BPA's request for a debt limit increase to finance expansion of the BPA grid.  Blake said they support the BPA expansion projects, but that OMB feels BPA has enough borrowing authority through 2003.  This did not sit well with Craig and Cantwell.  I spoke with Sen. Craig in the hall, following up on a conversation I had with him the other evening about BPA, and he stressed that he is committed to getting BPA the debt limit it needs.  As you know, commercial has asked us to help BPA given matters pending between Enron and BPA.
+
+5.	On the first private sector panel, even John Rowe, the Co-CEO of Exelon and past EEI chairman (testifying for his company and EEI), said several times that there should be strong RTOs that each cover a wide idea.  He said his board voted yesterday to sell its transmission assets IF a strong, independent operator could be found.  Rowe also said that RTOs should be "encouraged" (implying not mandatory?).  The APPA witness was strong on RTOs, saying that all entities will be part of RTOs even without legislation.  NRECA said that co-ops would oppose federal jurisdiction over them and that they favor voluntary RTOs.  EPSA made the usual case for competition, open access, RTOs, etc.

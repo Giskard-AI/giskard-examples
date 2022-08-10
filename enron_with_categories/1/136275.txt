@@ -1,0 +1,71 @@
+Message-ID: <22207429.1075851975919.JavaMail.evans@thyme>
+Date: Thu, 19 Jul 2001 05:43:00 -0700 (PDT)
+From: john.shelk@enron.com
+To: steven.kean@enron.com, richard.shapiro@enron.com, james.steffes@enron.com, 
+	linda.robertson@enron.com, christi.nicolay@enron.com, 
+	pat.shortridge@enron.com, tom.briggs@enron.com, chris.long@enron.com, 
+	sarah.novosel@enron.com, ray.alvarez@enron.com, 
+	joe.hartsoe@enron.com, carin.nersesian@enron.com, hap.boyd@enron.com, 
+	lisa.jacobson@enron.com, jeffrey.keeler@enron.com
+Subject: House Energy Committee Passes First Energy Package
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: John Shelk
+X-To: Steven J Kean, Richard Shapiro, James D Steffes, Linda Robertson, Christi L Nicolay, Pat Shortridge, Tom Briggs, Chris Long, Sarah Novosel, Ray Alvarez, Joe Hartsoe, Carin Nersesian, Hap Boyd, Lisa Jacobson, Jeffrey Keeler
+X-cc: 
+X-bcc: 
+X-Folder: \Richard_Shapiro_Nov2001\Notes Folders\All documents
+X-Origin: SHAPIRO-R
+X-FileName: rshapiro.nsf
+
+Late this morning, the House Energy and Commerce Committee adoped the 
+committee print, as amended, of an energy package that addresses 
+conservation, clean coal, renewables, hydro, nuclear, and boutique fuels.  
+The vote was 50 to 5 to report the bill.  Other committees -- Ways and Means, 
+Science, and Resources -- also moved their energy bills this week.  Thus, the 
+House is on track to consider a merged package before the start of the August 
+Recess on August 3rd.
+
+As to electricity, during the several days of debate this week both Chairmen 
+Tauzin and Barton reaffirmed their intention to next move to electricity 
+issues.  Mr. Barton's staff advised me this morning that the subcommittee he 
+chairs will hold a hearing on Friday, July 20th on all electricity issues 
+other than transmission.  While Mr.  Barton has publicly held out hope of 
+marking up an electricity bill this month, sources on and off the committee 
+do not see this timetable as realistic.  On the Senate side, the majority 
+staff is working on an electricity "white paper" that may be circulated for 
+comment next week.
+
+Below is a recap of action on amendments of interest to Enron:
+
+1. Last night, on a largely partisan vote (with Democrats Hall, Green and 
+John voting with the Republicans) the Committee rejected an amendment by Rep. 
+Jane Harman (D-CA) (that was to have been offered by Rep. Anna Eshoo (D-CA)) 
+that would have retroactively amended the FERC refund date and essentially 
+ordered refunds regardless of amounts owed to power sellers.
+
+2. First thing this morning the Committee, again on a largely partisan basis 
+(with Democrats Hall, Green, John and Towns), rejected a Waxman amendment to 
+impose cost-of-service rates on all power in the West (other than generation 
+added after 1/1/01).  (Originally, Mr. Waxman was going to offer amendment to 
+impose cost-of-service rates only on those who do not supply all available 
+power during an emergency, but he ended up offering basically what he had 
+pursued in subcommittee on the old "Californa Only" bill.)
+
+3. The Committee adopted an amendment by Rep. Shadegg to amend the Natural 
+Gas Act to make it clear that a natural gas "transportation facility" shall 
+not be added to the National Register of Historic Places until FERC has 
+abandoned the facility.  Apparently there have been some instances of "old" 
+pipelines being considered as "historic places" under federal law.  The House 
+Resources Committee added a similar amendment to its package yesterday.
+
+4. By voice vote, the Committee rejected a Waxman Amendment to require the 
+president to propose and implement a plan to bring U.S. greenhouse gases down 
+to 1990 levels.  There was strong opposition voiced by many Republicans and 
+Democrats to this amendment.
+
+5. By mixed vote of 24 to 29, the Committee defeated a Waxman Amendment to 
+set cost and performance goals for renewables, including wind power, and 
+authorize federal funds to assist with commercial project costs (up to 50 
+percent).

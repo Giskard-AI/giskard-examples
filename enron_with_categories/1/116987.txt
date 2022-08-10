@@ -1,0 +1,55 @@
+Message-ID: <30498216.1075843023329.JavaMail.evans@thyme>
+Date: Tue, 7 Nov 2000 10:22:00 -0800 (PST)
+From: mary.hain@enron.com
+To: dwatkiss@bracepatt.com, susan.mara@enron.com, richard.sanders@enron.com, 
+	james.steffes@enron.com, christian.yoder@enron.com, 
+	jeff.dasovich@enron.com, mday@gmssr.com, gfergus@brobeck.com, 
+	rcarroll@bracepatt.com, alan.comnes@enron.com, 
+	sarah.novosel@enron.com
+Subject: Important - CPUC Motion - Confidential Attorney Client Privilege
+ and Work Product
+Cc: tim.belden@enron.com, lysa.akin@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: tim.belden@enron.com, lysa.akin@enron.com
+X-From: Mary Hain
+X-To: dwatkiss@bracepatt.com, Susan J Mara, Richard B Sanders, James D Steffes, Christian Yoder, Jeff Dasovich, mday@gmssr.com, gfergus@brobeck.com, rcarroll@bracepatt.com, Alan Comnes, Joe Hartsoe@Enron, Sarah Novosel
+X-cc: Tim Belden, Lysa Akin
+X-bcc: 
+X-Folder: \Jeff_Dasovich_Dec2000\Notes Folders\All documents
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+As you may already know, the CPUC filed a motion at FERC asking for a 
+protective order and to compel production of the information they subpoened 
+from us in the CPUC's OII case.  Given the timing, we should discuss this on 
+our conference call scheduled for tomorrow.
+
+They request that we be required:
+to answer their motion on Thursday,
+to provide the information within 5 working days of a FERC ordering 
+production, and
+to provide of P&L information and spread sheets detailing our deals, 
+specifically delivery point, delivery date, counterparty, volume and price.
+
+We may not have a problem providing this information for use by FERC in its 
+proceeding subject to a confidentiality agreement but I think we would oppose 
+their requests for:
+the information to be provided for "government eyes only" -  this would 
+prohibit EPMI from defending itself vis-a-vis other market participants.
+a FERC confidentiality order that would could allow FERC to "share" this 
+information with the CPUC (for purposes of the PUC's OII proceeding) pursuant 
+to 16 U.S.C. 824h(c).  16 USC 824g(c) requires the Commission to make 
+information available to state commissions as may be of assistance in state 
+regulation of public utilities.  We should argue that 16 USC 824h(c) does not 
+apply here given that we are not a public utility nor does the PUC regulate 
+how much market power wholesale marketers exercise or the level of market 
+power mitigation (these are the bases the PUC provides for explaining why it 
+should have this information.)  
+the above contractual information to allow them to analyze the 
+competitiveness of the forward market to evaluate the wisdom of the 
+Commission's  decision to allow the UDC's "unfettered access" to the forwards 
+market.  This argument is unpersuasive given that the CPUC can get 
+information about the competitiveness of the forward markets from the Wall 
+Street Journal's listing of NYMEX prices.

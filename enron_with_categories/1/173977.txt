@@ -1,0 +1,66 @@
+Message-ID: <27983400.1075846164426.JavaMail.evans@thyme>
+Date: Mon, 7 Aug 2000 00:55:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: elizabeth.linnell@enron.com
+Subject: Monthly Billing - Detail Class 845 / s100061.xls
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Elizabeth Linnell
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+---------------------- Forwarded by Steven J Kean/HOU/EES on 08/07/2000 07:55 
+AM ---------------------------
+
+
+EIS Billing@ENRON
+08/04/2000 03:30 PM
+
+	
+To:	Steven J Kean/HOU/EES@EES
+cc:	
+	
+Subject:	Monthly Billing - Detail Class 845 / s100061.xls
+
+Year 2000 changes:
+Phone charges:  Phones are being charged to the person's company and cost 
+center where possible, otherwise rent as before.  The description will start 
+with People\ or Room\ unless it was entered manually at the source.
+Data connections:  One connection is being charged for each room instead of 
+one connection for each port in a room.
+
+Attached  are spreadsheets with the detail supporting the expenses for 
+telephones, data ports, EDI, Enterprise LAN, Enterprise Help Desk, video 
+conferencing, Internet access, email, and other services provided to Enron 
+business units by Enron Information Services. 
+
+EIS billings for items attached to the room, such as phones and data ports, 
+and people specific services for contractors, such as LAN ID's and AT&T 
+calling cards, are billed to the same company and cost center as room rent in 
+EB or 3AC.  For Omaha, EIS uses a phone database maintained by Tammy Anderson 
+for this purpose.  
+
+People specific services for employees are billed to the company and cost 
+center corresponding to the employee's HR company and department. Video 
+conference usage, data circuits, Ardmore usage, EDI, and web site billings 
+are based on a company and cost center furnished by the person requesting the 
+service.
+
+EIS bills services on a one month lag.  We take a snapshot of the Corporate 
+Administrative Services rent file for each room in EB and 3AC, of the Omaha 
+phone database for each room in Omaha, and of the HR company and department 
+for each employee.  This snapshot is taken at the end of each month for use 
+as a source for billing information.  
+
+Please examine these billings for accuracy.  If our billings are incorrect, 
+generally speaking either the rent should be corrected by contacting 
+Corporate Administrative Services or the person should be moved to the 
+correct HR department by contacting your HR representative.  If the room 
+number is incorrect on the phone or long distance billings, this may be 
+corrected by sending the room number along with the telephone number to Notes 
+Mail ID "Move-Team".

@@ -1,0 +1,62 @@
+Message-ID: <14797989.1075860276462.JavaMail.evans@thyme>
+Date: Thu, 17 Feb 2000 12:55:00 -0800 (PST)
+From: paul.simons@enron.com
+To: john.sherriff@enron.com
+Subject: Protecting Confidential Information: New European Restricted List
+ Procedure
+Cc: michael.brown@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.brown@enron.com
+X-From: Paul Simons
+X-To: John Sherriff
+X-cc: Michael R Brown
+X-bcc: 
+X-Folder: \Mark_Taylor_Jun2001\Notes Folders\Online trading\Credit derivatives
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+As you probably all know, we are on the verge of launching credit derivatives 
+trading in Europe and North America, both on Enron Online and off-line.  This 
+will involve quoting prices for buying and selling bankruptcy protection in 
+respect of reference entities, many of whom are our counterparties in a 
+variety of different commercial and financial contexts.
+
+This exciting cocktail of credit derivatives and Enron Online raises 
+significant novel legal risks for Enron.  Probably the most significant risk 
+arises where Enron has confidential information about a reference entity and 
+wrongfully uses that information in pricing the credit derivative on that 
+entity.  This could well result in legal proceeding against Enron.  In 
+practice, an allegation of misuse of confidential information can be very 
+difficult indeed to defend without adequate procedures in place to safeguard 
+that information.
+
+Against this background is the ever-present risk of "insider dealing".  This 
+crime - which carries a maximum prison sentence of 7 years and an unlimited 
+fine - is committed where a person (or member of their family etc) deals in 
+the securities (shares or bonds) of a listed company on the basis of 
+unpublished (confidential) price-sensitive information.  In addition, SFA 
+rules require the safeguarding of confidential information, the misuse of 
+which is a serious disciplinary matter.
+
+In order to ensure the success of this new business, we are now introducing 
+new policies and procedures (attached) which include a simple Restricted List 
+procedure.   In essence they require you - 
+
+to take prudent steps to safeguard confidential information within Enron
+to notify Michael Brown, Mark Elliott or myself if you become aware of 
+confidential information (or circumstances) about a counterparty which you 
+think might make it appropriate for that counterparty to be placed on the 
+Restricted List.
+
+To make life easier, numerous examples of the types of information which 
+might be relevant are set out in the attached procedures,  so please 
+familiarise yourself, and anyone else in your group you think appropriate,  
+with them.  As you will see, you are not expected to make difficult 
+determinations about whether an entity should or should not be added to the 
+Restricted List, just to let us know if you think there is a possibility that 
+it should be added.  We will also provide quick briefing sessions to ensure 
+that each of you is comfortable with these new procedures.
+
+  Many thanks for your co-operation.

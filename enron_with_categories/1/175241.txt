@@ -1,0 +1,26 @@
+Message-ID: <29032759.1075847582195.JavaMail.evans@thyme>
+Date: Sun, 13 May 2001 13:19:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: cynthia.barrow@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Cynthia Barrow
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+Several employees have asked about the exercise policy on stock options.  
+Specifically, they want to know what the exercise policy is on i) termination 
+eg as a result of the prc process, ii) voluntary departure, iii) retirement, 
+or iv)resignation; and to what extent do the rules vary across plans: i) 
+AESOP, LTIP, deferred bonus etc.  The main focus is on the length of time to 
+exercise.  I am concerned that there may be some odd incentives in the 
+structure -- eg are severed employees allowed more time to exercise than 
+employees who just leave voluntarily ( ie if you want to have a full three 
+years to exercise options are you better off becoming a performance issue and 
+getting severed than you would be if you simply left the company?

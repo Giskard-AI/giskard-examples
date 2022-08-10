@@ -1,0 +1,49 @@
+Message-ID: <12708474.1075863592189.JavaMail.evans@thyme>
+Date: Wed, 12 Jul 2000 02:26:00 -0700 (PDT)
+From: bwoertz@caiso.com
+To: 20participants@caiso.com
+Subject: CAISO Notice - Congestion Reform Proposal - Apendix B
+Cc: eschmid@caiso.com, crobinson@caiso.com, kfluckiger@caiso.com, 
+	zlazic@caiso.com, rabernathy@caiso.com, pmackin@caiso.com, 
+	sgreenleaf@caiso.com, cmrcoreteam@caiso.com, 
+	cmrsteeringcommittee@caiso.com, jmiller@caiso.com, 
+	saatkins@swidlaw.com, rwilson@stanford.edu, wolak@zia.stanford.edu, 
+	jmcintosh@caiso.com, eriley@caiso.com, ntraweek@caiso.com, 
+	tbibb@caiso.com, pgarris@caiso.com, bellard@caiso.com, 
+	mwillis@caiso.com, dwimberly@caiso.com, smccorkle@caiso.com, 
+	djohns@caiso.com, cmrexecutivepolicyteam@caiso.com, 
+	eberlin@swidlaw.com, ehildebrandt@caiso.com, afrahimi@nilou.com, 
+	kgjaffe@swidlaw.com, mbockie@caiso.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: eschmid@caiso.com, crobinson@caiso.com, kfluckiger@caiso.com, 
+	zlazic@caiso.com, rabernathy@caiso.com, pmackin@caiso.com, 
+	sgreenleaf@caiso.com, cmrcoreteam@caiso.com, 
+	cmrsteeringcommittee@caiso.com, jmiller@caiso.com, 
+	saatkins@swidlaw.com, rwilson@stanford.edu, wolak@zia.stanford.edu, 
+	jmcintosh@caiso.com, eriley@caiso.com, ntraweek@caiso.com, 
+	tbibb@caiso.com, pgarris@caiso.com, bellard@caiso.com, 
+	mwillis@caiso.com, dwimberly@caiso.com, smccorkle@caiso.com, 
+	djohns@caiso.com, cmrexecutivepolicyteam@caiso.com, 
+	eberlin@swidlaw.com, ehildebrandt@caiso.com, afrahimi@nilou.com, 
+	kgjaffe@swidlaw.com, mbockie@caiso.com
+X-From: "Woertz, Byron" <BWoertz@caiso.com>
+X-To: ISO Market Participants <IMCEAEX-_O=CAISO_OU=CORPORATE_CN=DISTRIBUTION+20LISTS_CN=ISO+20MARKET+20PARTICIPANTS@caiso.com>
+X-cc: "Schmid, Elena" <ESchmid@caiso.com>, "Robinson, Charlie" <CRobinson@caiso.com>, "Fluckiger, Kellan" <KFluckiger@caiso.com>, "Lazic, Zora" <ZLazic@caiso.com>, "Abernathy, Randy" <rabernathy@caiso.com>, "Mackin, Peter" <PMackin@caiso.com>, "Greenleaf, Steve" <SGreenleaf@caiso.com>, CMR Core Team <CMRCoreTeam@caiso.com>, CMR Steering Committee <CMRSteeringCommittee@caiso.com>, "Miller, Jeff (ISO)" <JMiller@caiso.com>, "Atkins, Sean" <saatkins@swidlaw.com>, "'Robert Wilson (E-mail)'" <rwilson@stanford.edu>, "'Frank Wolak (E-mail)'" <wolak@zia.stanford.edu>, "McIntosh, Jim" <JMcIntosh@caiso.com>, "Riley, Ed" <ERiley@caiso.com>, "Traweek, Nancy" <NTraweek@caiso.com>, "Bibb, Tracy" <TBibb@caiso.com>, "Garris, Pete" <PGarris@caiso.com>, "Ellard, Bill" <BEllard@caiso.com>, "Willis, Mark" <MWillis@caiso.com>, "Wimberly, Dan" <DWimberly@caiso.com>, "McCorkle, Stephanie" <SMcCorkle@caiso.com>, "Johns, Debbie" <DJohns@caiso.com>, CMR Executive Policy Team <CMRExecutivePolicyTeam@caiso.com>, "Berlin, Ed" <eberlin@swidlaw.com>, "Hildebrandt, Eric" <EHildebrandt@caiso.com>, "Rahimi, Farrokh (external)" <afrahimi@nilou.com>, "Jaffe, Ken" <kgjaffe@swidlaw.com>, "Bockie, Marvin (Bruce)" <MBockie@caiso.com>
+X-bcc: 
+X-Folder: \Robert_Badeer_Aug2000\Notes Folders\All documents
+X-Origin: Badeer-R
+X-FileName: rbadeer.nsf
+
+  Market Participants:
+
+  As part of the Congestion Management Reform Proposal, the
+ISO has posted Appendix B "Locational Price Dispersion Study" on the ISO web
+site at http://www.caiso.com/clientserv/congestionreform.html
+<http://www.caiso.com/clientserv/congestionreform.html> .  Please be aware
+that the file is very large (the Word version is 5.1 mb and the PDF version
+is somewhat smaller at 4.3 mb) so it will take a while to download.
+
+  Byron Woertz
+  Director, Client Relations

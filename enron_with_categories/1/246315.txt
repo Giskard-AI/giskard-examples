@@ -1,0 +1,88 @@
+Message-ID: <9994139.1075860275944.JavaMail.evans@thyme>
+Date: Thu, 24 Feb 2000 12:21:00 -0800 (PST)
+From: paul.simons@enron.com
+To: katja.schilling@enron.com, simon.brooks@enron.com, eklavya.sareen@enron.com, 
+	john.metzler@enron.com, martin.mcdermott@enron.com, 
+	sandra.zala@enron.com, tomas.valnek@enron.com, 
+	viacheslav.danilov@enron.com
+Subject: Protecting Confidential Information
+Cc: john.sherriff@enron.com, bryan.seyfried@enron.com, michael.brown@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: john.sherriff@enron.com, bryan.seyfried@enron.com, michael.brown@enron.com
+X-From: Paul Simons
+X-To: Katja Schilling, Simon Brooks, Eklavya Sareen, John Metzler, Martin McDermott, Sandra Zala, Tomas Valnek, Viacheslav Danilov
+X-cc: John Sherriff, Bryan Seyfried, Michael R Brown
+X-bcc: 
+X-Folder: \Mark_Taylor_Jun2001\Notes Folders\Online trading\Credit derivatives
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+The exciting cocktail of credit derivatives and Enron Online raises 
+significant novel legal risks for Enron.  As most of you will by now know, 
+probably the most significant risk would arise in a situation where Enron has 
+confidential information about a reference entity and wrongfully uses that 
+information in pricing the credit derivative on that entity.  This could well 
+result in legal proceeding against Enron.  In practice, an allegation of 
+misuse of confidential information can be very difficult indeed to defend 
+without adequate procedures in place to safeguard that information.  In 
+fact,  Enron's credit trading will, as you know, rely strictly on publicly 
+available financial information and will not involve the use of confidential 
+information, unless the reference entity has specifically consented.  
+Nevertheless, to avoid the appearance of impropriety, we are taking 
+additional steps to consider confidentiality agreements we have in place with 
+potential reference entities before deciding whether or not we will quote 
+prices on such entities.
+
+Against this background is the ever-present risk of "insider dealing".  This 
+crime - which in the UK carries a maximum prison sentence of 7 years and an 
+unlimited fine - is committed where a person (or member of their family etc) 
+deals in the securities (shares, bonds or derivatives on them) of a listed 
+company on the basis of unpublished (confidential) price-sensitive 
+information.  We do not expect at this time to deal in publicly traded bonds 
+as part of EnronCredit.com, but insider dealing is relevant to the conduct of 
+Enron staff and could affect other parts of our business.  In addition, SFA 
+rules in the UK require the safeguarding of confidential information, the 
+misuse of which is a serious disciplinary matter.
+
+In order to ensure the success of this new business and that confidential 
+information is not misused either by Enron or its staff, we are now 
+introducing important new policies and procedures in Europe and in the US.  
+These procedures have been drawn up specifically for your credit trading 
+group by lawyers in London, Houston and New York and are attached.  Please 
+familiarise yourself, and any future member of the group,  with these 
+procedures. Once you have read and understood the attached procedures each 
+one of you is required to confirm this to me in writing (or by note mail).
+
+Please note that similar procedures have been distributed to the key business 
+heads in Europe who may have confidential information about reference 
+entities (similar procedures are being disrtibuted to US business heads).  
+This requires them to safeguard confidential information and to abide by the 
+Restriced List procedure described below.  Nevertheless, you should treat 
+your group as being within a Chinese Wall and see it as your personal 
+responsibility not to solicit or accept from anyone in Enron information 
+about reference entities which may be confidential. 
+
+Thank you for your co-operation in implementing these important new 
+procedures.  I look forward to receiving your confirmation mentioned above 
+(which is also described in the procedures). 
+
+Best regards
+
+Paul
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+

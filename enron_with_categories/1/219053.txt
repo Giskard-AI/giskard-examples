@@ -1,0 +1,45 @@
+Message-ID: <32944989.1075852472507.JavaMail.evans@thyme>
+Date: Tue, 7 Aug 2001 17:49:11 -0700 (PDT)
+From: alan.comnes@enron.com
+To: p..o'neil@enron.com, tracy.ngo@enron.com, chris.stokley@enron.com, 
+	e-mail <.gary@enron.com>, ray.alvarez@enron.com, 
+	e-mail <.dan@enron.com>, e-mail <.ron@enron.com>, c..hall@enron.com, 
+	c..williams@enron.com
+Subject: California Refund Proceeding--Got some exhibits to
+ prepare--Confidential Atty Client Work Product
+Cc: tim.belden@enron.com, d..steffes@enron.com, b..sanders@enron.com, 
+	linda.robertson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: tim.belden@enron.com, d..steffes@enron.com, b..sanders@enron.com, 
+	linda.robertson@enron.com
+X-From: Comnes, Alan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ACOMNES>
+X-To: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Moneil>, Ngo, Tracy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tngo>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>, Gary Fergus (E-mail) <gfergus@brobeck.com>, Alvarez, Ray </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=ebe4476b-2d94882a-86256a14-75ff3b>, Dan Watkiss (E-mail) <dwatkiss@bracepatt.com>, Ron Carroll (E-mail) <rcarroll@bracepatt.com>, Hall, Steve C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Shall4>, Williams, Robert C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rwillia2>
+X-cc: Belden, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tbelden>, Steffes, James D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jsteffe>, Sanders, Richard B. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rsander>, Robertson, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=e6f34021-58c07703-86256984-56518c>
+X-bcc: 
+X-Folder: \JSTEFFE (Non-Privileged)\Steffes, James D.\California Issues
+X-Origin: Steffes-J
+X-FileName: JSTEFFE (Non-Privileged).pst
+
+I met with Gary Fergus and we determined the  need to prepare affidavits and/or exhibits as part of our August 15th showing in the Califronia refund case. 
+
+Exhbits in a FERC case require supporting documents and a sponsor (witness).
+
+ I am trying to contact various people on getting the data together but here are the parameters of the exhibits:
+
+Witness designations are preliminary.
+
+1. EPMI's receivables from ISO/PX
+What it shows:  ISO owes us $41.5 million and the PX $9.1 million plus any claims we want to make w.r.t. letters of credit with the PX
+Sponsor: Tracy Ngo (PX data) and Murray O'Neil (ISO data)  (Tracy has agreed to prepare the exhibit but wants support from Murray's group on the ISO numbers.) 
+
+2. EPMI's "receivables" from ISO for the underscheduling penalty
+What it shows:  ISO has yet to actually implement the underscheduling penalty but has been tracking it.  According to information provided Chris Stockly, EPMI would receive $30 million of penalty revenues 
+Sponsor:  Chris Stokley or Murray O'Neil
+
+3. Enron's PX credit receivables
+What it shows:  PG&E and SCE collectively owe EES $500 million
+Sponsor: Steve Swain or ??
+
+GAC

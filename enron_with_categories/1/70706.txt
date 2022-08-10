@@ -1,0 +1,73 @@
+Message-ID: <28068551.1075845243490.JavaMail.evans@thyme>
+Date: Thu, 7 Jun 2001 16:07:58 -0700 (PDT)
+From: barbara.gray@enron.com
+To: dan.hyvl@enron.com
+Subject: ATTORNEY/CLIENT COMMUNICATION//////CONFIDENTIAL and Privileged
+Cc: jeffrey.hodge@enron.com, sandi.braband@enron.com, a..martin@enron.com, 
+	nelson.ferries@enron.com, jean.mrha@enron.com, w..vickers@enron.com, 
+	t..zivley@enron.com, gary.bryan@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jeffrey.hodge@enron.com, sandi.braband@enron.com, a..martin@enron.com, 
+	nelson.ferries@enron.com, jean.mrha@enron.com, w..vickers@enron.com, 
+	t..zivley@enron.com, gary.bryan@enron.com
+X-From: Gray, Barbara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=9A4C7098-FDDDF864-86256500-6CAFFF>
+X-To: Hyvl, Dan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=2F04BC3D-32ED0564-862564E4-6C58DB>
+X-cc: Hodge, Jeffrey </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=A9AAD67A-4EBC061F-86256500-6D612E>, Braband, Sandi </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=31C7809E-7CCE5E8D-862564F3-542351>, Martin, Thomas A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TMARTIN>, Ferries, Nelson </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NFERRIE>, Mrha, Jean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMRHA>, Vickers, Frank W. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=FVICKER>, Zivley, Jill T. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JZIVLEY>, Bryan, Gary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=GBRYAN>
+X-bcc: 
+X-Folder: \Martin, Thomas A.\Martin, Thomas A.\Inbox
+X-Origin: MARTIN-T
+X-FileName: Martin, Thomas A..pst
+
+Article II of the NONCOMPETITION AGREEMENT entered in connection with the sale of HPL to AEP (which closed as of June 1,2001) provides:
+
+	"ENA [for 3 months post-close] will not  solicit, negotiate or enter into any contract, agreement or arrangement for the purchase of natural gas on the HPL Pipeline from any Person which is a supplier or producer of natural gas connected to the HPL Facilities; provided, however, nothing herein shall be construed or interpreted as prohibiting ENA from entering into any such contract, agreement or arrangement which is less than one month in duration and involves or is related to an Enron Online transaction." 
+
+ This is not the most clearly drafted provision as it was the subject of much negotiation....and was significantly narrowed from the  original scope proposed by AEP.  Thus, please consult with me prior to entering into any solicitation, agreement or arrangement which might arguably be covered by our limited covenant not to compete on the supply side for 3 months.  There are many aspects of the post-close transition which will require cooperation between Enron and AEP/HPL and thus, it behoves us to carefully weigh the risks and rewards of "stepping too close to or over the line".
+
+Further,although a technical reading of the non-competition agreement only applies to ENA, no ENA UPSTREAM deals which would violate this covenant if there were to be done as ENA should be done without clearance from Brian Redmond and me.
+
+Please communicate this restriction to those who report to you and have need to be aware of this limited restriction.
+
+Sincerely
+ BNG
+
+
+
+
+
+
+	Dan J Hyvl 06/07/2001 04:59 PM 	   To: Barbara N Gray/HOU/ECT@ECT  cc: Jeffrey T Hodge/HOU/ECT@ECT  Subject: ONEOK Energy Marketing and Trading Company	
+
+
+Barbara,
+	This appears to be supply deal for deliveries at Katy that would be subject to the 90 day non-compete.  Sandi is in the process of getting me a copy of the non-compete so that I can determine if this deal is covered.  Do you have any thoughts.
+----- Forwarded by Dan J Hyvl/HOU/ECT on 06/07/2001 04:56 PM -----
+
+
+	Richard Deming/ENRON@enronXgate 06/07/2001 02:22 PM 	   To: Dan J Hyvl/HOU/ECT@ECT  cc:   Subject: ONEOK Energy Marketing and Trading Company	
+
+
+Dan,
+
+Please find below details of Phy Gas deals with GTC agreements:
+
+Deal Date: 6/06/01
+Deal No: VF1896 / 835431
+Buyer: ENA
+Seller: ONEOK Energy Marketing and Trading Company
+Start Date: 7/01/01
+End Date: 6/30/02
+Firm
+Volume: 10,000 / day
+Price: HOU.SHIP-LGPKG.IF.M.I minus USD 0.03000
+Delivery Point: Exxon Katy - Katy Tailgate
+
+Please let me know if you need any more details.
+
+Thanks,
+Richard
+x54886
+
+

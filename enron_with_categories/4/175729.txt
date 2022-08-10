@@ -1,0 +1,38 @@
+Message-ID: <23637727.1075847621388.JavaMail.evans@thyme>
+Date: Tue, 13 Mar 2001 05:16:00 -0800 (PST)
+From: steven.kean@enron.com
+To: maureen.mcvicker@enron.com
+Subject: <<Concur Expense Document>> - General Expenses
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Maureen McVicker
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+----- Forwarded by Steven J Kean/NA/Enron on 03/13/2001 01:16 PM -----
+
+	eserver@enron.com
+	03/12/2001 12:24 PM
+		 
+		 To: "Steven.J.Kean@enron.com" <Steven.J.Kean@enron.com>
+		 cc: 
+		 Subject: <<Concur Expense Document>> - General Expenses
+
+The following expense report is ready for approval:
+
+Employee Name: John Hardy Jr Jr.
+Status last changed by:  Automated Administrator
+Expense Report Name: General Expenses
+Report Total: $12,435.04
+Amount Due Employee: $89.90
+
+
+To approve this expense report, click on the following link for Concur 
+Expense.
+http://nahou-wwxms01p
+

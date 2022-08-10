@@ -1,0 +1,103 @@
+Message-ID: <25031776.1075863636030.JavaMail.evans@thyme>
+Date: Fri, 15 Sep 2000 00:37:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: gina.corteselli@enron.com
+Subject: Re: PRC cluster descriptors - draft
+Cc: cindy.olson@enron.com, david.oxley@enron.com, steven.kean@enron.com, 
+	michelle.cash@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: cindy.olson@enron.com, david.oxley@enron.com, steven.kean@enron.com, 
+	michelle.cash@enron.com
+X-From: Steven J Kean
+X-To: Gina Corteselli
+X-cc: Cindy Olson, David Oxley, Steven J Kean, Michelle Cash
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+I think this is a fine attempt, but I continue to believe that a pure 
+relative ranking offers the most flexibility and is more like the way the 
+process works in practice.  A separate list of desired behaviors, criteria 
+etc can be used to guide discussion but I believe the ranking itself should 
+remain purely relative.
+
+
+
+
+Gina Corteselli
+09/14/2000 06:04 PM
+To: Cindy Olson/Corp/Enron@ENRON, David Oxley/HOU/ECT@ECT, Steven J 
+Kean/NA/Enron@Enron
+cc: Michelle Cash/HOU/ECT@ECT 
+
+Subject: PRC cluster descriptors - draft
+
+All;
+
+Aattached are a draft of the PRC cluster descriptors which we discussed 
+several weeks back.  I has sent a first draft to Michelle and Dick, and both 
+had some suggestions which I have tried to incorporate.  I am still awaiting 
+Dick and Michelle's impressions of the below, but also  look forward to your 
+impressions and input. Likewise I would appreciate your input on whether or 
+not we need to change the ratings on the feedback forms to numerical ratings 
+1-5 to mimic the clusters.  look forward to hearing from you,  Many thanks, 
+Gina
+---------------------- Forwarded by Gina Corteselli/Corp/Enron on 09/14/2000 
+05:54 PM ---------------------------
+
+
+Gina Corteselli
+09/14/2000 05:03 PM
+To: dick@jeannerett.com
+cc: Michelle Cash/HOU/ECT@ECT 
+
+Subject: descriptors again
+
+Dick; here is another try at the descriptors.  I tried to apply the 
+information you provided and to describe qualities of an employee's 
+performance . I'm  not sure whether this is any better, but would appreciate 
+your input.  What I am finding most challenging writing descriptors which are 
+interchangeable with all levels and job groups within the company.  The 
+behaviors these describe and measure need to be general in nature so that 
+they can apply to a VP and an admin assistant, as well as to all four Peer 
+Groups within Enron.  
+
+Likewise, I would appreciate your thoughts on the necessity/value of changing 
+the feedback forms to reflect the same numerical ratings.  presently the 
+feedback forms use the same descriptors as the cluster (i.e. Superior - 
+Issues).  In your opinion should these also be 1-5 ratings with one = to 
+highest and 5= to lowest in scale?  
+I look forward to hearing your thoughts and impressions.  You may either 
+e-mail me or call me on 713 345-3377.  Many thanks in advance, Gina 
+******************************************************************************
+****************************************
+1 = Relative to his/her peers, this employee is a visionary who identifies 
+new ideas and methods, inspires and motivates others by example, embodies 
+Enron's vision and values, and demonstrates a mastery of the business and 
+technical skills necessary to excel in his/her position.   
+
+2 = Relative to his/her peers this employee drives change, demonstrates 
+vision and values, displays resourcefulness when faced with unexpected 
+challenges, and comprehends and effectively uses the business and technical 
+skills required to perform his/her job.
+
+3 = Relative to his/her peers this employee supports innovation and 
+improvement, understands Enron's vision and values, and continues to develop 
+the core skills and business/technical skills necessary to satisfy the 
+requirements of his/her position.  
+
+4 = Relative to his/her peers this employee accepts change, demonstrates some 
+independent thinking and can apply resources and business and technical 
+skills to adequately perform his/her job.
+
+5 = Relative to his/her peers this employee has difficulty accepting change,  
+lacks resourcefulness, offers minimal contribution and  does not demonstrate 
+the skills or knowledge to fulfill the responsibilities of the position  This 
+employee must make changes or termination is likely.
+
+
+
+

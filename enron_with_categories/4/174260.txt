@@ -1,0 +1,17 @@
+Message-ID: <18822002.1075846172603.JavaMail.evans@thyme>
+Date: Fri, 1 Sep 2000 05:10:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: steven.kean@enron.com
+Subject: test
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: steven kean
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+test

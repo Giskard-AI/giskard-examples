@@ -1,0 +1,143 @@
+Message-ID: <17946883.1075862359471.JavaMail.evans@thyme>
+Date: Wed, 18 Jul 2001 10:37:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: kathryn.schultea@enron.com
+Subject: FW: 512374 Kelso, M (krs)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Kathryn Schultea <Kathryn Schultea/Enron@EnronXGate>
+X-cc: 
+X-bcc: 
+X-Folder: \SKEAN (Non-Privileged)\Kean, Steven J.\Sent Items
+X-Origin: Kean-S
+X-FileName: SKEAN (Non-Privileged).pst
+
+OK with you?
+---------------------- Forwarded by Steven J Kean/NA/Enron on 07/18/2001 07:36 AM ---------------------------
+From:	Diane Taylor/ENRON@enronXgate on 07/16/2001 07:02 AM
+
+To:	Steven J Kean/NA/Enron@Enron
+
+cc:	 
+
+Subject:	FW: 512374 Kelso, M (krs)
+
+Can you please approve the following security requests?  This employee is transferring to the Payroll department and this is the security that she will need to perform her job.
+
+Please let me know if you have any questions.
+
+Thanks,
+Diane
+
+
+ -----Original Message-----
+From: 	Shirley, Kim   On Behalf Of SAP Security
+Sent:	Friday, July 13, 2001 2:27 PM
+To:	Taylor, Diane
+Subject:	512374 Kelso, M (krs)
+
+Diane,
+
+Renee Kelso  is requesting access to the below role(s) and its pending your approval.  Please email your response to SAP Security.  If you have any questions, please let me know.
+
+HUMAN RESOURCES - PAYROLL (PAYROLL PERSONNEL ONLY):
+   1. Add HR Processing Payroll 
+   2. Add HR Processing Payroll Taxes 
+   3. Add HR Tax Administration 
+
+
+User's Current Access:
+HR View Payroll and Time Information - CORPORATE
+HR Benefits View - CORPORATE
+HR Basic Data View for HR Master Data - Enterprise
+Master Data Administrator - Enterprise
+HR Organizational Management - Enterprise
+HR ESS Employee - Enterprise
+Standard end user profile for basis and printing
+
+Thank you,
+Kim Shirley
+ISC SAP Security
+
+
+
+
+
+ 
+Kelso@mailman.enron.com; Michelle <renee.kelso on 07/11/2001 11:49:08 AM
+To:	Website:SAP Security Request <sap.security@enron.com>
+cc:	 
+
+Subject:	512374 Michelle Kelso SAP Security Request Form
+
+The following request information was recently submitted...
+
+REQUESTOR INFORMATION:
+
+   Business Unit:                CORP
+   Cost Center:                  100013
+   Company Code:                 0011
+   Business Unit for Roles:      CORP
+   SAP ID:                       501234
+
+GENERAL INFORMATION:
+
+   Supervisor:                   Shawn Simon
+   Supervisor Telephone Number:  713-345-7618
+   Employee Name (Last,First,M): Kelso, Michelle
+   Employee Location:            EB1658b
+   Employee Telephone Number:    39650
+   Employee Email Address:       renee.kelso@enron.com
+   Job Title:                    HR Admin
+   SAP User Type:                Enron Employee
+
+   Business Reason:              
+   We need this asap.
+   
+   Renee will be processing taxes in the Payroll Department.
+    These access will give her the information to perform
+   her job function.
+
+VIEWER ROLES:
+   No roles in this area were selected.
+
+FINANCIAL ACCOUNTING ROLES:
+   No roles in this area were selected.
+
+PROJECT SYSTEM ROLES:
+   No roles in this area were selected.
+
+JOINT VENTURE ROLES:
+   No roles in this area were selected.
+
+MATERIALS MANAGEMENT / PURCHASING ROLES:
+   No roles in this area were selected.
+
+CENTRALIZED ROLES (LIMITED TO SPECIFIC PERSONNEL):
+   No roles in this area were selected.
+
+HUMAN RESOURCES (HR PERSONNEL ONLY):
+   No roles in this area were selected.
+
+HUMAN RESOURCES - TIMEKEEPERS:
+   No roles in this area were selected.
+
+HUMAN RESOURCES - BENEFITS (BENEFITS PERSONNEL ONLY):
+   No roles in this area were selected.
+
+HUMAN RESOURCES - PAYROLL (PAYROLL PERSONNEL ONLY):
+   1. Add HR Processing Payroll 
+   2. Add HR Processing Payroll Taxes 
+   3. Add HR Tax Administration 
+
+
+
+
+
+
+
+
+
+<Embedded Picture (Device Independent Bitmap)>

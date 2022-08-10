@@ -1,0 +1,33 @@
+Message-ID: <23577440.1075846149822.JavaMail.evans@thyme>
+Date: Mon, 31 Dec 1979 16:00:00 -0800 (PST)
+From: steven.kean@enron.com
+To: mike.mcconnell@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Mike McConnell
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+Mike - perhaps you can help me or forward this on to someone who can.  The 
+people in my organization support all the Enron business units but many are 
+specifically dedicated to certain business units.  As a consequence, we have 
+ended up on a variety of LANs with a variety of support people.  Due to the 
+fine efforts of your team, many people in my group have migrated over to the 
+Enron Corp LAN.  We are also now enjoying great support from Russell & 
+Russell (Servat and Mitchell).  As the IT guy, I'm sure you are accustomed to 
+such profuse praise.
+
+However, many of the people on my team (including me) are on the EES LAN.  
+Historically, EES has supported us with the equipment we need and they too 
+have been doing a fine job in that regard.  Historically, therefore, we have 
+not budgeted for IT .... a practice which will change starting next year.  In 
+the meantime, when we sought to migrate the rest of my organization to the 
+CORP LAN we were told that we would have to pay for all of our current
+equipment or give it back to EES.  If you need me to, I can explain in detail 
+why this makes no sense.

@@ -1,0 +1,24 @@
+Message-ID: <23749545.1075859393190.JavaMail.evans@thyme>
+Date: Mon, 17 Dec 2001 16:36:16 -0800 (PST)
+From: jordan.mintz@enron.com
+To: jeffrey.mcmahon@enron.com, raymond.bowen@enron.com, s..muller@enron.com, 
+	jeff.donahue@enron.com
+Subject: Restructuring (Confidential Communications)
+Cc: e..haedicke@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: e..haedicke@enron.com
+X-From: Mintz, Jordan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMINTZ>
+X-To: McMahon, Jeffrey </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmcmaho>, Bowen Jr., Raymond </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbowen>, Muller, Mark S. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmuller>, Donahue, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jdonahu>
+X-cc: Haedicke, Mark E. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mhaedic>
+X-bcc: 
+X-Folder: \Mark_Haedic_Jan2002\Haedicke, Mark E.\Inbox
+X-Origin: Haedicke-M
+X-FileName: mhaedic (Non-Privileged).pst
+
+At the right time, it would be helpful to discuss what we may want to consider as "Core" Assets (unrelated to trading activities) for purposes of emerging from bankruptcy as a going concern.  As you know, we are in the process of organizing and formatting in an asset matrix the assets/businesses we currently own (or otherwise have an interest in) that may be potentially for sale; separating out potential core assets will be instructive as part of this process.
+
+Please let me know your thoughts/suggestions over the next few weeks.
+Thanks.
+Jordan

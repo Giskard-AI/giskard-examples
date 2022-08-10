@@ -1,0 +1,133 @@
+Message-ID: <6724747.1075844332151.JavaMail.evans@thyme>
+Date: Tue, 7 Dec 1999 23:45:00 -0800 (PST)
+From: barton.clark@enron.com
+To: brad.nebergall@enron.com, chris.holmes@enron.com, sean.black@enron.com, 
+	roger.ondreko@enron.com, matthew.berry@enron.com, 
+	sheila.tweed@enron.com, sara.shackleton@enron.com, 
+	robtaylor@andrews-kurth.com, hwendell@mdbe.com
+Subject: Privileged and Confidential - Catalytica
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Barton Clark
+X-To: Brad Nebergall, Chris Holmes, sean black, Roger Ondreko, Matthew Berry, Sheila Tweed, Sara Shackleton, robtaylor@andrews-kurth.com, hwendell@mdbe.com
+X-cc: 
+X-bcc: 
+X-Folder: \Sara_Shackleton_Dec2000_June2001_1\Notes Folders\All documents
+X-Origin: SHACKLETON-S
+X-FileName: sshackle.nsf
+
+I've finished marking up the drafts, and thought perhaps a few thoughts would 
+give you some insight into the reasons for my revisions . Unfortunately, I 
+was engaged in discussions about the course to pursue in light of Arthur 
+Anderson's comments until almost 10pm, when I lost my typing help, so not 
+much headway was made in inputting the changes last night. My secretary is 
+supposed to be in early ( it is now nearly 8:00 and she still isn't in ! ), 
+and I will enlist whatever other help I can get to turn these documents 
+around.
+
+For those not involved in the discussions last night, Roger advised us that 
+Arthur Anderson had changes to the Xonon Technology Implementation Agreement 
+designed to make clear ENA had no primary or secondary obligations under the 
+XTIA. The principal change suggested by AA - the deletion of the last 
+sentence of the BOLD language in Section 2.2 - removed the obligation for ENA 
+to pick up any obligations under the agreement owed by West LB in excess of 
+the "Cap". Note that this same change applies in the Agreement in Principle 
+related to the purchase of turbines. 
+
+XTIA Revision 4G.  AA's change did not appear to address comprehensively the 
+principle AA espoused, ie, clarifying ENA had no primary or secondary 
+obligations under the agreements. After much discussion and some 
+consideration, I decided to prepare alternative markups of the XTIA - one 
+that attempts to meet the AA directive while preserving a level of comfort 
+for GE. I attempted this by increasing the limit on West LB's liability in 
+Article 10 to $20 million from $9.9 million so that GE's recourse against 
+West LB is the same as it had against West LB and ENA in the prior drafts, 
+and by obligating West LB, in the default provisions, to pony up for an ENA 
+default. I also extensively modified the Section 2.2 language ( taken 
+verbatim from the LM 6000 deal ) to eliminate the limited recourse provisions 
+favoring West LB, and in doing so made it easier to conclude that references 
+to ENA in the agreement are references to ENA acting in an agency, and not 
+its individual capacity. This notion is still pretty vague in the revision 
+because I did not want to create too much discomfort in GE, since ENA 
+explicitly acting in an agency capacity would mean there was no recourse 
+against it ( since ultimate recourse would lie with the principal, West LB). 
+Roger suggested I delete the limit on ENA's liability in Article 10 to remove 
+the implication it had any, which I did ( and which means we have no upside 
+protection if we are construed to have obligations under the XTIA.
+
+The upshot is that in my opinion the 4g revision goes as far as possible 
+toward placating AA while still retaining a possibility of selling it to GE. 
+The sheer number of changes required by the substance of AA's comment, 
+however, is bound to be disconcerting to GE at this stage of negotiations, 
+particularly when GE's expectation was for a  markup incorporating the new 
+business terms agreed yesterday afternoon (calling for payment of the 
+Development Funds to be completed by September 30,2000, with the possibility 
+of a refund of a portion of the Development Fund Payment if the December 31 
+Milestone is not timely completed) and some clean ups/clarifications.
+
+Note that in both revision 4g and 4ga, Section4.3 now provides that the Xonon 
+credit created is only exercisable by CCSI on and after December 31,2000, so 
+that the credit amount can reflect the deduction of any Milestone 4 refund 
+amount paid by GE if it does not complete that Milestone on time. I think the 
+dollar value of the credit should be adjusted downward if a portion of the 
+Development Funds paid on September 30 are in fact refunded in December. We 
+need to make sure to make provision in the Acquisition and Development 
+Agreement that any Milestone 4 refund received by West LB is paid over to 
+ENA, since West LB will have been repaid its advances on September 30,2000.
+
+XTIA Revision 4GA . This alternate revision to the XTIA takes a minimalist 
+approach, and incorporates only the new business terms, some minor clean 
+up/clarifications, and the AA change to Section 2.2 and the change to Article 
+10 ( to remove a cap for ENA's laibility) suggested by Roger. It seems to me 
+it does not address meaningfully the AA admonition that ENA may not have 
+primary or secondary liability under the XTIA if it wants to stay outside of 
+the rigors of FAS 97-10. However, it has the singular advantage of looking a 
+lot like what GE and West LB expect to see in the revision.
+
+Option Repurchase Agreement. This revision was complicated by the possible 
+refund of the a portion of the Development Funds by GE if it failed to 
+complete Milestone 4 by December 31,2000 ( an attempt to retain some 
+accountability for GE's performance given that it is being paid for that 
+Milestone on September 30 to satisfy CCSI ). Because the option repurchase 
+must occur on or before September 30, it isn't clear what will happen 
+December 31, so its hard to figure out what to pay if the contract is not 
+cancelled by September 30 or what the credits are worth on that date. 
+
+Since CCSI is the direct recipient of the credits under the XTIA, I first 
+thought ENA could hang onto  $2.1 million ( the amount formerly allocated to 
+Milestone 4 before its payment obligation was collapsed into Milestone 3) by 
+deducting the refund from the amount payable  to CCSI on the option 
+repurchase date and leaving CCSI to bear the risk of GE's repayment of any 
+refund in order to make CCSI whole. If GE did meet the Milestone on time and 
+so did not pay the refund amount directly to CCSI, I thought ENA could always 
+make CCSI whole by paying the $2.1 million  in December when the refund 
+matter was decided. That approach- subtracting the refund amount from the 
+September 30 payment to CCSI- was decidedly unsatisfactory since the option 
+repurchase formula could result - depending on the Milestones paid on the 
+option repurchase date - in a negative payment to CCSI for the option. 
+
+What I settled on in this draft was to go ahead and pay CCSI the amount of 
+the premiums it has paid to September 30 plus $200,000 if the turbine 
+contract has not been cancelled on September 30. This would include repayment 
+to CCSI on September 30 of premiums paid by CCSI under the spark spread on 
+September 30. Assuming CCSI made all its premium payments and West LB made 
+all of its Development Fund advances, ENA would have received $9.9 million 
+from CCSI by September 30, paid out $9.9 million plus interest to West LB by 
+September 30, and purchased the spark spread from CCSI for $10.1 million. If 
+the turbine contract is not cancelled but GE has to pay the refund, I think 
+the $2.1 million ought to go to West LB or its designee (ENA).
+
+If we cancel the turbine contract and do not go forward with Pastoria, the 
+dollar amount of the credits vested in CCSI  and exercisable after December 
+31,2000, are equal to the Development Funds advanced less the refund amount.  
+Since the document now reads that the $2.1 refund amount goes back to West LB 
+or its designee, if GE pays the refund and CCSI is holding a  Xonon credit of 
+only $7.8 million,it seems to me it will be necessary  to pay the refund over 
+to CCSI instead of ENA in order to make up for the fact that it paid $9.9 in 
+premium and only received $7.8 in credit in September. This quick 
+"liquidation" of $2.1 of the credit seems to be an ancillary benefit to CCSI 
+occasioned by GE's refund. We could provide in the agreements that GE makes 
+this payment directly to CCSI or we can continue to have the right to receive 
+the payment from GE under the XTIA and the obligation to pay it to CCSI under 
+the Repurchase Agreement.

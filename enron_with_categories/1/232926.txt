@@ -1,0 +1,98 @@
+Message-ID: <31251032.1075853199944.JavaMail.evans@thyme>
+Date: Wed, 3 Jan 2001 14:40:00 -0800 (PST)
+From: susan.mara@enron.com
+To: alan.comnes@enron.com, angela.schwarz@enron.com, beverly.aden@enron.com, 
+	bill.votaw@enron.com, brenda.barreda@enron.com, 
+	carol.moffett@enron.com, cathy.corbin@enron.com, 
+	chris.foster@enron.com, christina.liscano@enron.com, 
+	christopher.calger@enron.com, craig.sutter@enron.com, 
+	dan.leff@enron.com, debora.whitehead@enron.com, 
+	dennis.benevides@enron.com, don.black@enron.com, 
+	dorothy.youngblood@enron.com, douglas.huth@enron.com, 
+	edward.sacks@enron.com, eric.melvin@enron.com, erika.dupre@enron.com, 
+	evan.hughes@enron.com, fran.deltoro@enron.com, 
+	frank.vickers@enron.com, gayle.muench@enron.com, 
+	ginger.dernehl@enron.com, gordon.savage@enron.com, 
+	harold.buchanan@enron.com, harry.kingerski@enron.com, 
+	iris.waser@enron.com, james.steffes@enron.com, james.lewis@enron.com, 
+	james.wright@enron.com, jeff.messina@enron.com, 
+	jeremy.blachman@enron.com, jess.hewitt@enron.com, 
+	joe.hartsoe@enron.com, karen.denne@enron.com, kathy.bass@enron.com, 
+	kathy.dodgen@enron.com, ken.gustafson@enron.com, 
+	kevin.hughes@enron.com, leasa.lopez@enron.com, 
+	leticia.botello@enron.com, mark.muller@enron.com, 
+	marsha.suggs@enron.com, marty.sunde@enron.com, 
+	meredith.eggleston@enron.com, michael.etringer@enron.com, 
+	michael.mann@enron.com, michelle.cisneros@enron.com, 
+	mike.smith@enron.com, mpalmer@enron.com, neil.bresnan@enron.com, 
+	neil.hong@enron.com, paul.kaufman@enron.com, paula.warren@enron.com, 
+	richard.zdunkewicz@enron.com, richard.leibert@enron.com, 
+	richard.shapiro@enron.com, rita.hennessy@enron.com, 
+	robert.badeer@enron.com, roger.yang@enron.com, 
+	rosalinda.tijerina@enron.com, sandra.mccubbin@enron.com, 
+	sarah.novosel@enron.com, scott.gahn@enron.com, 
+	scott.stoness@enron.com, sharon.dick@enron.com, skean@enron.com, 
+	tanya.leslie@enron.com, tasha.lair@enron.com, ted.murphy@enron.com, 
+	terri.greenlee@enron.com, tim.belden@enron.com, 
+	tony.spruiell@enron.com, vicki.sharp@enron.com, 
+	vladimir.gorny@enron.com, wanda.curry@enron.com, 
+	william.bradford@enron.com, mike.smith@enron.com, 
+	donna.fulton@enron.com, jeff.dasovich@enron.com, 
+	richard.sanders@enron.com, gfergus@brobeck.com, 
+	rcarroll@bracepatt.com, kathryn.corbally@enron.com
+Subject: Update Day 1 Second Session FERC CA Settlement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Susan J Mara
+X-To: Alan Comnes, Angela Schwarz, Beverly Aden, Bill Votaw, Brenda Barreda, Carol Moffett, Cathy Corbin, Chris H Foster, Christina Liscano, Christopher F Calger, Craig H Sutter, Dan Leff, Debora Whitehead, Dennis Benevides, Don Black, Dorothy Youngblood, Douglas Huth, Edward Sacks, Eric Melvin, Erika Dupre, Evan Hughes, Fran Deltoro, Frank W Vickers, Gayle W Muench, Ginger Dernehl, Gordon Savage, Harold G Buchanan, Harry Kingerski, Iris Waser, James D Steffes, James W Lewis, James Wright, Jeff Messina, Jeremy Blachman, Jess Hewitt, Joe Hartsoe, Karen Denne, Kathy Bass, Kathy Dodgen, Ken Gustafson, Kevin Hughes, Leasa Lopez, Leticia Botello, Mark S Muller, Marsha Suggs, Marty Sunde, Meredith M Eggleston, Michael Etringer, Michael Mann, Michelle D Cisneros, Mike M Smith, mpalmer@enron.com, Neil Bresnan, Neil Hong, Paul Kaufman, Paula Warren, Richard L Zdunkewicz, Richard Leibert, Richard Shapiro, Rita Hennessy, Robert Badeer, Roger Yang, Rosalinda Tijerina, Sandra McCubbin, Sarah Novosel, Scott Gahn, Scott Stoness, Sharon Dick, skean@enron.com, Tanya Leslie, Tasha Lair, Ted Murphy, Terri Greenlee, Tim Belden, Tony Spruiell, Vicki Sharp, Vladimir Gorny, Wanda Curry, William S Bradford, Mike D Smith, Donna Fulton, Jeff Dasovich, Richard B Sanders, gfergus@brobeck.com, rcarroll@bracepatt.com, Kathryn Corbally
+X-cc: 
+X-bcc: 
+X-Folder: \Richard_Sanders_Oct2001\Notes Folders\All documents
+X-Origin: Sanders-R
+X-FileName: rsanders.nsf
+
+In the Room
+
+Conference attended by all in-state generators, a few munies, the IOUs and a 
+few others. One attorney from CPUC, but on phone. Barbara Barkovich attended 
+for CA Large Consumers.  Nader sent someone.  No other consumers.  One other 
+ESP -- Strategic Energy (only operates in San Diego).
+Judge reports that only 6 offers have been submitted to FERC for sales to the 
+IOUs (note; Enron submitted one of the offers). The offers total 2000 MW. The 
+prices are quite divergent.  He expresses concern at the little offered.
+Generators suggest that more could be offered if FERC could be more flexible 
+on terms (FERC required 24/7 offers).
+IOUs and others press judge to seek offers from others not present (e.g., 
+BPA, other marketers, SW utilities), but judge does not offer to do so.
+Barkovich says can't throw large customers into non-core market now.
+Everyone agrees that we are all looking for a blended wholesale rate (part 
+existing gen, part OFs, part forward contract and part spot) that meshes with 
+the IOUs' ability to recover the costs in rates -- so tied to CPUC rate 
+increase.
+Discussion of CPUC PD -- not enough
+Enron able to take low profile.
+SDG&E suggested terminating the settlement talks at FERC, saying nothing 
+could be achieved.
+Not much happens until 4:30 pm, when judge blows up -- judge directed 
+epithets at SDG&E and SCE.  SCE had refused to cooperate from the beginning.  
+
+Out of the Room
+
+Separate talks between PG&E and SDG&E and some of the generators.
+Late in the day, Judge meets with IOUs.
+Parties agree informally that forum does not work well given lack of CPUC 
+involvement, but some believe that FERC is only hope for a workable 
+resolution.
+
+Next Steps -- The Judge Speaks
+
+Judge asked everyone to consider how to "Share the Pain" for Thursday's 
+meeting and said not to expect any "win:win" scenario. His view is that FERC 
+is better than the CA legislature or bankruptcy court.
+His focus will be on Wolak proposal to share the pain, as submitted in 
+12/1/00 comments to FERC -- forces all sellers to CA to sell most of its 
+supply (either generation or marketer offers) as cost-based rates in forward 
+contracts, or lose ability to sell at market-based rates.  Generators oppose 
+this, I believe.
+Enron planning to continue low profile but to discuss options with ENA.

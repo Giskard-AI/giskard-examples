@@ -1,0 +1,60 @@
+Message-ID: <30106095.1075847620472.JavaMail.evans@thyme>
+Date: Wed, 14 Mar 2001 11:00:00 -0800 (PST)
+From: steven.kean@enron.com
+To: courtney.votaw@enron.com
+Subject: Re: All-Employee Meeting Report
+Cc: erin.rice@enron.com, karen.denne@enron.com, mark.palmer@enron.com, 
+	mary.clark@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: erin.rice@enron.com, karen.denne@enron.com, mark.palmer@enron.com, 
+	mary.clark@enron.com
+X-From: Steven J Kean
+X-To: Courtney Votaw
+X-cc: Erin Rice, Karen Denne, Mark Palmer, Mary Clark
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+We have got to do better at this.  IR did a webcast of the annual meeting 
+that from all reports had a minimum of glitches.  Can we use the same 
+technology?
+
+
+
+	Courtney Votaw
+	03/13/2001 09:10 AM
+		 
+		 To: Steven J Kean/NA/Enron@Enron, Mark Palmer/Corp/Enron@ENRON, Karen 
+Denne/Corp/Enron@ENRON
+		 cc: Mary Clark/Corp/Enron@ENRON, Erin Rice/Corp/Enron@Enron
+		 Subject: All-Employee Meeting Report
+
+I have attached a success report of the streaming communications vehicles we 
+used for the All Employee meeting on Feb. 21, 2001.  The report includes 
+information about the following:
+
+Video Teleconference
+Audio and Video quality; Viewing employees
+
+IP-TV
+Statistics; Successes of the locations streamed
+
+Video Requests
+Quantity by location and group
+
+
+To improve access and increase the employee's viewing experience at future 
+meetings,  we are working with the IP-TV technical team to find solutions to 
+the problems that occurred in February.  From the employee feedback we 
+received, we will plan to send slides in advance to the video teleconference 
+locations.
+
+Please let me know if you have any questions regarding this report.
+
+Thanks,
+Courtney
+
+

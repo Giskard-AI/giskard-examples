@@ -1,0 +1,71 @@
+Message-ID: <24139321.1075852527109.JavaMail.evans@thyme>
+Date: Thu, 16 Aug 2001 13:05:01 -0700 (PDT)
+From: john.shelk@enron.com
+To: richard.shapiro@enron.com, linda.robertson@enron.com, d..steffes@enron.com, 
+	l..nicolay@enron.com, sarah.novosel@enron.com, tom.briggs@enron.com, 
+	ray.alvarez@enron.com, pat.shortridge@enron.com, 
+	chris.long@enron.com, carin.nersesian@enron.com
+Subject: Report on "Anti-RTO Bill" and on Andy Black Meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Shelk, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JSHELK>
+X-To: Shapiro, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rshapiro>, Robertson, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=e6f34021-58c07703-86256984-56518c>, Steffes, James D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jsteffe>, Nicolay, Christi L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cnicola>, Novosel, Sarah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snovose>, Briggs, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tbriggs>, Alvarez, Ray </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ralvare2>, Shortridge, Pat </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pshortri>, Long, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Clong>, Nersesian, Carin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cnersesi>
+X-cc: 
+X-bcc: 
+X-Folder: \JSTEFFE (Non-Privileged)\Steffes, James D.\Fed Legis 2001
+X-Origin: Steffes-J
+X-FileName: JSTEFFE (Non-Privileged).pst
+
+
+This note is to report on two electricity legislative developments: the Aug. 2nd introduction of an anti-RTO bill (or at least anti-mandatory RTOs) and on a meeting I had yesterday afternoon with Andy Black, the policy coordinator for Chairman Joe Barton on the House Energy and Air Quality Subcommittee, to discuss their intentions with respect to electricity legislation this Fall.
+
+1.  H.R. 2814 (Reps. Tom Sawyer (D-OH) and Richard Burr (R-NC))
+
+On Aug. 2nd (the last day Congress was in session before the August Recess), the above named members of the House Energy and Air Quality Subcommittee introduced H.R. 2814, the Interstate Transmission Act.  The legislation is bad because, among other things, it requires FERC to establish transmission pricing policies that provide incentives for voluntary participation and formation of RTOs, with language prohibiting policies that have the effect of forcing transmitting utilities to join RTOs.  Also objectionable is that the bill would "limit" pancaking but at the same time require FERC to establish a "reasonable transition mechanism or period" for additive charges.  The legislation prohibits FERC from conditioning any order upon a transmitting utility being required to transfer operational control of jurisdictional facilities to an ISO or RTO.  The bill would require that participating transmitting utilities must approve the form, structure and operating entity of any RTO.
+
+In addition to the RTO language, the bill has the "old" version of the NERC reliability legislation in it.  The bill also has a PUHCA exemption for RTOs, repeals Federal Power Act sec. 203 on the disposition of property and includes the tax changes that IOUs seek for transfers of property to an independent transmission company.
+
+Barbara Hueter advises that First Energy has its hq in Rep. Sawyer's district.  Rep. Burr is from North Carolina, so perhaps Duke had its utility hat on in working with him.  I am checking into where Duke is on this issue.  Rep. Burr is the Vice Chairman of the House Energy and Commerce Committee and close to Chairman Tauzin -- so his support for this legislation is significant (see Andy Black comment below).
+
+2.  Andy Black Meeting
+
+Andy is meeting with various trade associations this month to discuss electricity legislation.  He is only meeting with a few companies on a one-on-one basis -- Enron, Reliant, Dynegy and TXU.  His timing is to have a legislative draft for Chairman Barton to review when Congress returns after Labor Day.  If Chairman Barton approves or makes changes, the draft will be circulated to members of the subcommittee and the public for further comment.  The intent is to mark up an electricity bill this Fall so that if the Senate acts on electricity in its comprehensive energy bill, the issue will be ripe for consideration in a House-Senate conference committee.  Here is a run down of my comments and Andy's comments on specific issues.
+
+a.   RTOs
+
+Chairman Barton supports RTOs.  At a minimum, the draft will affirm FERC's authority as the commissioners have requested.  Andy is considering going beyond that to mandate RTO participation.  Not sure he can hold that position in the subcommittee.  He is looking to Enron and others to help them explain and build support for RTOs.  Informed him of our initial informal coalition steps.  However, Andy asked me to look at sec. 3 of the Sawyer-Burr referenced above, which I realized after the meeting is the part that deals with incentive rates and negotiated rates to expand transmission and voluntary RTOs.  I have a call in to Andy to reconcile these statements since the Sawyer-Burr bill is based on voluntary RTOs.  Hopefully, he is thinking of using the incentive and negotiated rate language and NOT the objectionable voluntary RTO aspects.  I will strongly encourage him to "do the right thing" in that regard.
+
+b.   PUHCA
+
+The draft will use the Pickering bill (H.R. 1101).  Told Andy about our concerns with the record keeping provisions of that bill.  Will send him our legislative language to clarify these provisions so that they do not open up all of Enron's records -- even those unrelated to transactions with a regulated utility affiliate.
+
+c.  PURPA
+
+Prospective repeal.  On back up power, they are thinking of requiring that rates for back up power be just and reasonable until there is retail competition in the state.
+
+d.   Interconnection
+
+They have received a proposal from Trigen that Andy says we will like.  I am contacting EPSA to get the details.
+
+e.   Net Metering
+
+They are likely to include the Inslee bill to require "net metering."  I explained our concern that the bill's mandate applies to all retail energy suppliers -- including EES -- even though this should only apply to utilities with an obligation to serve; that it does not make sense to mandate it on service providers like EES (per Jim's helpful comments yesterday).  I need to get more information to Andy.
+
+f.   Transmission Jurisdiction
+
+Thankfully, Andy is NOT going to use those portions of the bill as reported by subcommittee in the last Congress that gave use heart burn on jurisdiction.  Specifically, the draft will not say FERC does not have jurisdiction over the transportation component of a bundled retail sale -- the draft will not get into the bundled/unbundled issue at all.  The draft will bring munis, co-ops and PMAs under the FERC umbrella for transmission jurisdiction purposes.
+
+g.   Siting
+
+On siting, Andy is thinking of some type of mechanism that would give a State one year before federal eminent domain attaches.
+
+h.   Reliability
+
+On a negative note, Andy intends to use the latest NERC reliability language because NERC's version has strong support among the Members of the subcommittee and no other alternative has emerged with political support (i.e., not PJM).  I explained our concerns.  He said our best bet is for DoE or FERC to come forward to seek something other than the NERC version.  He said Members eyes glaze over on reliability with everything else on the plate.
+
+i.   Negawatts
+
+I raised the absence of negawatts on his issue list.  He said he is open to considering it again, but that there was left over political baggage and unresolved issues from when this was attempted during consideration of the "California bill" earlier this summer.
+
+Your questions and comments on the any of the above are most welcome.

@@ -1,0 +1,61 @@
+Message-ID: <32691612.1075858707953.JavaMail.evans@thyme>
+Date: Thu, 4 Oct 2001 15:05:17 -0700 (PDT)
+From: john.shelk@enron.com
+To: richard.shapiro@enron.com, linda.robertson@enron.com, j..kean@enron.com, 
+	lisa.yoho@enron.com, sarah.novosel@enron.com, l..nicolay@enron.com, 
+	carin.nersesian@enron.com, pat.shortridge@enron.com, 
+	d..steffes@enron.com, stacey.bolton@enron.com, 
+	jennifer.thome@enron.com, sue.nord@enron.com, m..landwehr@enron.com, 
+	daniel.allegretti@enron.com, a..hueter@enron.com
+Subject: Summary of Administration Comments on Bingaman Bill
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Shelk, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JSHELK>
+X-To: Shapiro, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rshapiro>, Robertson, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lrobert3>, Kean, Steven J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Skean>, Yoho, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lyoho>, Novosel, Sarah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snovose>, Nicolay, Christi L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cnicola>, Nersesian, Carin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cnersesi>, Shortridge, Pat </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pshortri>, Steffes, James D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jsteffe>, Bolton, Stacey </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sbolton>, Thome, Jennifer </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jthome>, Nord, Sue </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snord>, Landwehr, Susan M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Slandweh>, Allegretti, Daniel </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dallegre>, Hueter, Barbara A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bhueter>
+X-cc: 
+X-bcc: 
+X-Folder: \RSHAPIRO (Non-Privileged)\Shapiro, Richard\Federal Legis.
+X-Origin: Shapiro-R
+X-FileName: RSHAPIRO (Non-Privileged).pst
+
+
+I have read through the 19 pages of Administration comments on the Bingaman draft electricity bill released last month.  Here are the main items in a quick bullet format so you have the flavor of them.
+
+Delete provision on federal jurisdiction over bundled/unbundled (they don't offer a reason).  We of course agree for tactical reasons.
+
+Add a provision to authorize FERC to order wheeling in States that open retail markets.
+
+Add a provision to allow FERC to issue wheeling orders on its own motion based on an informal hearing rather than an adjudicatory hearing as under current law.
+
+Make it clear that the Federal Power Act does not affect the authority of a State to require retail competition (the comments say some utilities have tried to argue that the FPA prohibits states).
+
+The provision giving FERC power to order RTO participation should be deleted.  The comments raise drafting question.
+
+The changes to the FERC merger review sections of the FPA should be limited.
+
+"FERC lite" should be extended only to state municipal utilities and cooperatives, not the Federal utilities.  The FERC should authority over the Federal transmission systems equivalent to FERC authority over public utilities (with special BPA rules).
+
+No need to legislate on market-based rates (we oppose the Bingaman language anyway, so this is helpful).
+
+Interconnection language should be limited to transmission facilities, not local distribution.
+
+No objection to streamlined reliability provision (this is good for us).
+
+Remedial measures for market power should be deleted.
+
+Administration to provide legislative language on federal transmission siting provisions, which they want to retain.
+
+Not convinced there is a need for market transparency rules because FERC and DOE already have enough authority.
+
+Administration supports even tougher criminal penalties.
+
+Recordkeeping under PUHCA repeal should be clarified.
+
+Federal purchase requirement for renewable energy should be deleted.
+
+No objection to real-time pricing standard.
+
+Net metering should be limited to small residential renewable facilities.
+
+Do not support federal renewable portfolio standard (but could clarify state authority to adopt same).

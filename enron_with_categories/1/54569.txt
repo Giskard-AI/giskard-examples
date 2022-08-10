@@ -1,0 +1,40 @@
+Message-ID: <25890254.1075863426906.JavaMail.evans@thyme>
+Date: Tue, 19 Jun 2001 08:07:02 -0700 (PDT)
+From: j.kaminski@enron.com
+To: arsystem@mailman.enron.com
+Subject: RE: Request Submitted: Access Request for maureen.raymond@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VKAMINS>
+X-To: 'ARSystem <ARSystem@mailman.enron.com>@ENRON' <IMCEANOTES-ARSystem+20+3CARSystem+40mailman+2Eenron+2Ecom+3E+40ENRON@ENRON.com>
+X-cc: 
+X-bcc: 
+X-Folder: \VKAMINS (Non-Privileged)\Kaminski, Vince J\Sent Items
+X-Origin: Kaminski-V
+X-FileName: VKAMINS (Non-Privileged).pst
+
+I cannot access the system to approve the request. I get a message that the
+page is not available on-line.
+
+Vince Kaminski
+
+ -----Original Message-----
+From: 	ARSystem <ARSystem@mailman.enron.com>@ENRON [mailto:IMCEANOTES-ARSystem+20+3CARSystem+40mailman+2Eenron+2Ecom+3E+40ENRON@ENRON.com] 
+Sent:	Tuesday, June 19, 2001 9:29 AM
+To:	Kaminski, Vince J
+Subject:	Request Submitted: Access Request for maureen.raymond@enron.com
+
+You have received this email because the requester specified you as their Manager. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000041587&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000041587
+Request Create Date : 6/19/01 9:28:50 AM
+Requested For       : maureen.raymond@enron.com
+Resource Name       : Unlisted Application/Software
+Resource Type       : Applications
+
+
+

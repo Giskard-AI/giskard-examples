@@ -1,0 +1,224 @@
+Message-ID: <17090793.1075843014073.JavaMail.evans@thyme>
+Date: Wed, 1 Nov 2000 03:10:00 -0800 (PST)
+From: douglass@arterhadden.com
+To: barbara_klemstine@apsc.com, bob_anderson@apses.com, dcazalet@apx.com, 
+	billr@calpine.com, jackp@calpine.com, glwaas@calpx.com, 
+	ken_czarnecki@calpx.com, cabaker@duke-energy.com, 
+	rjhickok@duke-energy.com, gtbl@dynegy.com, kewh@dynegy.com, 
+	rpelote@energy.twc.com, jdasovic@enron.com, susan_j_mara@enron.com, 
+	curt.hatton@gen.pge.com, foothill@lmi.net, 
+	camiessn@newwestenergy.com, jcgardin@newwestenergy.com, 
+	rsnichol@newwestenergy.com, rllamkin@seiworldwide.com, 
+	cfi1@tca-us.com
+Subject: Summary of Today's FERC Order
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: "Daniel Douglass" <Douglass@ArterHadden.com>
+X-To: <Barbara_Klemstine@apsc.com>, <Bob_Anderson@apses.com>, <dcazalet@apx.com>, <billr@calpine.com>, <jackp@calpine.com>, <glwaas@calpx.com>, <Ken_Czarnecki@calpx.com>, <cabaker@duke-energy.com>, <rjhickok@duke-energy.com>, <GTBL@dynegy.com>, <KEWH@dynegy.com>, <rpelote@energy.twc.com>, <jdasovic@enron.com>, <susan_j_mara@enron.com>, <curt.Hatton@gen.pge.com>, <foothill@lmi.net>, <camiessn@newwestenergy.com>, <jcgardin@newwestenergy.com>, <rsnichol@newwestenergy.com>, <rllamkin@seiworldwide.com>, <cfi1@tca-us.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Jeff_Dasovich_Dec2000\Notes Folders\All documents
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+This morning the FERC had its meeting to discuss events in California and =
+=20
+the FERC=01,s response to them. The following is a summary of the remarks o=
+f=20
+the  four Commissioners and the major points of what has been ordered:=20
+?
+Major features
+?
+1.? Proposes to replace ISO and PX boards with independent,  non-stakeholde=
+r=20
+boards.
+
+2.? Continued significant role for the presidents of PX/ISO, who  should be=
+=20
+made voting members.
+
+3.? Elimination of mandated buy-sell requirement for the IOUs  (although no=
+=20
+explanation as to whether this requires CPUC action). Over-reliance  on spo=
+t=20
+markets has been problematical.
+
+4.? As an independent exchange, the PX will be free to design the  products=
+=20
+desired by the market.
+
+5.? The proposed price modification measure will be a temporary  measure.=
+=20
+Single price for all offers below $150. However, no bid above $150 will  se=
+t=20
+the price for all generators. A seller can bid anything it wants. Allowing =
+=20
+generators to receive their as-bid price will allow high-cost generators to=
+ =20
+participate in the market. However, the generator will be required to=20
+provide  confidential reports to FERC explaining the necessity for bids ove=
+r=20
+$150 through  12/31/02.
+
+6.? The order requires forward scheduling of 95% of an scheduling =20
+coordinator=01,s schedule, with a penalty applied for deviations which exce=
+ed 5%=20
+As  an incentive, the proceeds of the penalties go to the schedulers who=20
+comply with  the tolerance band.
+
+7.? Rejects the purchase price caps proposed by the ISO. The order  would=
+=20
+eliminate the ISO=01,s price cap authority.
+
+8.? Beginning 1/1/01, the prospect of refunds will be available. =20
+?
+Commissioner Hebert
+?
+Due to a technical problem when I called in, I heard only part of his =20
+remarks. He announced that he will have a separate concurrence in the order=
+,=20
+but  is troubled by some of its features. The $150 cap is questionable,=20
+whether  described as a "Soft cap" or as a "hard cap."
+His concern is that it will  clearly discourage new investment in generatio=
+n.=20
+He therefore recommended that  the $150 cap should be escalated on a regula=
+r=20
+basis (perhaps every six months)  until it reaches at least $250.=20
+?
+He points out that the ISO and PX are required to make RTO filings to FERC =
+=20
+on 1/16/01. These filings should address the major aspects of the Order=20
+issued  today.=20
+?
+Hebert also questioned the issue of refunds, alleging that it was =20
+"disingenuous" to suggests that refunds were a possible remedy.=20
+?
+Commissioner Breathitt=20
+?
+Breathitt announced almost all of the foregoing major points of the  orderT=
+he=20
+order is based on a market approach. "In choosing our market-based  approac=
+h,=20
+it is our goal to guide the markets to self-correct and not  re-institute=
+=20
+command and control regulation.? "We have all worked too hard,  too long, t=
+o=20
+have this result."
+?
+Commissioner Massey
+?
+Sixty-five years ago, the Congress decreed that prices had to be just and =
+=20
+reasonable.? There is no exception for market-based approaches. He will =20
+concur, as the order does find that prices have been unjust and=20
+unreasonable.  The order does insure that prices should return to being jus=
+t=20
+and reasonable.  Cited Frank Wolak as proposing there ought to be an 18-24=
+=20
+month forward product  designed which the CPUC will years ago federal law=
+=20
+dictated that prices had to  be just and reasonable.
+
+The $150 is a "soft cap" and allows a generator to bid above it, but if  it=
+=20
+does, it will not set the price which other generators receive. He invites =
+=20
+comments on this issue.=20
+
+With regard to retroactive refunds, the Office of the General Counsel  has=
+=20
+prepared a legal memorandum which concludes that the FERC probably does not=
+ =20
+have authority to order refunds retroactively for any date before October 2=
+, =20
+2000. Invites comments on this issue.=20
+California needs new generation and  transmission and the siting authority=
+=20
+belongs to the state. California must do  its part to ensure that customers=
+=20
+do, in fact, benefit from competitive markets  that ensure just and=20
+reasonable prices.=20
+He is not yet confident that the  Commission has taken all necessary steps.=
+=20
+?
+Chairman Hoecker
+?
+He strongly supports the order.=20
+
+Comments are due in three weeks. This is no time to pull punches. He  cited=
+=20
+the San Diego hearings as indicating that California markets were,?  "out o=
+f=20
+synch with the needs of the digital economy."? For FERC regulators  who are=
+=20
+used to corporate struggles among utilities and other large companies,  "th=
+is=20
+was a real eye-opener."=20
+
+Average citizens had no warning this was going to happen and they had  no=
+=20
+competitive alternatives. It was unfair to them and, "there is plenty of =
+=20
+responsibility for this meltdown to go around."=20
+
+"If I was a senior citizen in San Diego living on a fixed income, or a  sma=
+ll=20
+business owner living on a small profit margin, or a school administrator =
+=20
+dealing with a tight budget, the doubling of my bill would make me want my=
+=20
+money  back, or to at least ensure that this won=01,t happen again in the=
+=20
+future."
+Many  who expected this order, expected "a lynching and the transfer of lar=
+ge=20
+amounts  of money. They want us to round up the bad guys who manipulated th=
+e=20
+market and  order the disgorgement of their ill-gotten gains. As our legal=
+=20
+opinion  indicates, that=01,s not going to happen."? Today=01,s order offer=
+s a=20
+thoughtful  way back to a rational basis for buying and selling power in th=
+e=20
+West.
+
+We are not ignoring actual or undue discrimination or actual abuses of =20
+market power. The order makes better market monitoring going forward a =20
+fundamental part of FERC=01,s proposal.? If evidence of such behavior is =
+=20
+brought forward, FERC will act on that information. "However, we can=01,t d=
+elay =20
+work on a market fix while searching for the culpable parties."=20
+
+Hoecker believes that, "strong federal action is both warranted and =20
+important at this moment."? "The bulk power grid must be made to work =20
+efficiently across the entire West."=20
+
+"Competition is at risk, make no mistake about that. In view of the =20
+California experience, several states are reconsidering or shelving plans t=
+o =20
+implement competition."? Legislators will want to retain the possibility of=
+ =20
+returning to the old days of vertically-integrated utilities.? "The =20
+California experience has been instructive, but not helpful=01(to the=20
+meandering  implementation of competition throughout the nation."=20
+
+The state=01,s markets have not been "mistakenly federalized" as alleged  b=
+y=20
+some. The markets are regional. California=01,s access to interstate power =
+=20
+supplies is critical, as was made evident by recent events. If we do things=
+ =20
+right, California will not be a federal enclave designed to satisfy our=20
+market  predilections, it will be a workable and competitive market that=20
+benefits  consumers.=20
+
+"This is a strong order. It needs to be a strong order. We expect to  have =
+a=20
+strong order in December, and the public needs it."=20
+
+A copy of these notes are attached if you need to distribute them to  anyon=
+e=20
+in your organizations.
+ - November 1 2000 Meeting Notes.doc

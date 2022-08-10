@@ -1,0 +1,91 @@
+Message-ID: <21182718.1075849864368.JavaMail.evans@thyme>
+Date: Thu, 19 Jul 2001 05:56:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: jo.hill@enron.com
+Subject: Re: FW: Request for PR2 Access
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Jo Ann Hill
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Nov2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+OK
+
+
+From: Jo Ann Hill/ENRON@enronXgate on 07/18/2001 04:31 PM
+
+To: Steven J Kean/NA/Enron@Enron
+
+cc: Kathryn Schultea/ENRON@enronXgate, Mary Joyce/ENRON@enronXgate 
+
+Subject: FW: Request for PR2 Access
+
+Steve -- For your approval.  As some additional information regarding the 
+request, Kathy, Diane Taylor and I met with Deana Taylor this afternoon to 
+understand what each person's role was and the specific access needed.  For 
+the interim, we are recommending that the HR View Basic Data & Org ENTP and 
+View Payroll and Time ENTP role be granted to each of the individuals listed 
+below.  Until January 1, this function was performed in the Payroll 
+Department and at that time was transitioned to Karen and Deana's group.  The 
+people listed below actually transferred from the Payroll Department.  For 
+the long term, we are going to look at creating a specific role for this 
+group that would let them access only those data elements needed.
+
+I've spoken with Mary Joyce by phone and she has approved, so I am requesting 
+your approval as well.  These people have basically been prevented from being 
+able to reconcile any of the net pay accounts, etc.  for the past week.
+
+Please let me know if you will approve or if you need any additional 
+information.
+Thanks.
+Jo Ann
+
+ -----Original Message-----
+From:  Taylor, Deana  
+Sent: Friday, July 13, 2001 4:37 PM
+To: Hill, Jo Ann
+Cc: Choyce, Karen; Lindsey, Mark E.
+Subject: Request for PR2 Access
+
+Jo Ann,
+As we discussed I am sending this email to request PR2 Enterprise access 
+re-activated for the following employees:
+  
+   Karen Choyce               HR View Basic Data & Org ENTP
+   Deana Taylor                HR View Basic Data & Org ENTP
+   Joanne Cortez              HR View Basic Data & Org ENTP     (starting in 
+the group 7/16)
+   Rebecca Tran               HR View Basic Data & Org ENTP   &   View 
+Payroll and Time
+   Roy Comeaux              HR View Basic Data & Org ENTP   &   View Payroll 
+and Time
+   George Howell              HR View Basic Data & Org ENTP   &   View 
+Payroll and Time  
+
+Please note I am not requesting access for the entire department,  the list 
+of employees above are the only individuals in our group that will be allowed 
+this type of access. Corp's payroll accounting group is responsible for 
+reconciling the general ledger balance sheet accounts across all Enron 
+companies, therefore Enterprise access is needed.
+
+The requested access is essential for our group to perform our job.   Without 
+this, we are unable to trace amounts related to FIT, FICA, net pay, stock 
+option deductions, etc,  through the payroll system to the ledger, and to 
+ensure that the items are accounted for properly.   Equally as important,  
+the access enables us to identify system issues between PR2 (payroll) and PR1 
+(ledger).   Corp's payroll accounting group has already identified several 
+processing issues and alerted the ISC.   
+
+I hope this "pleads our case" on why we need the access and request it be 
+re-activated.    Please feel free to call me or Mark Lindsey, if you need 
+additional information. 
+
+Thanks,
+Deana
+3-4593
+

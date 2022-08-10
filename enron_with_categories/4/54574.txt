@@ -1,0 +1,61 @@
+Message-ID: <29325640.1075863427019.JavaMail.evans@thyme>
+Date: Tue, 19 Jun 2001 15:16:00 -0700 (PDT)
+From: j.kaminski@enron.com
+To: zimin.lu@enron.com
+Subject: RE: P+ pricing/hedging
+Cc: vkaminski@aol.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vkaminski@aol.com
+X-From: Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VKAMINS>
+X-To: Lu, Zimin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Zlu>
+X-cc: 'vkaminski@aol.com'
+X-bcc: 
+X-Folder: \VKAMINS (Non-Privileged)\Kaminski, Vince J\Sent Items
+X-Origin: Kaminski-V
+X-FileName: VKAMINS (Non-Privileged).pst
+
+Zimin,
+
+I shall be in California on Thu.
+
+Vince
+
+ -----Original Message-----
+From: 	Lu, Zimin  
+Sent:	Tuesday, June 19, 2001 1:43 PM
+To:	Issler, Paulo; Lee, Bob; White, Bill; Schroeder Jr., Don
+Cc:	Crenshaw, Shirley; Kaminski, Vince J
+Subject:	P+ pricing/hedging
+
+
+A meeting is scheduled with Bill White and Don Schroeder at 4:00pm at 19C2. 
+Bill and Don would like to talk about P+ pricing / hedging issues and NYMEX
+calendar spread option model that Pavel built before his departure.
+
+Please review  the P+ model and the doc prepared by Stinson. Let us talk on
+Thursday.
+
+Zimin
+
+
+Shirley,
+
+Could you secure the meeting room from 4-5pm on Thursday ?
+And mark that on Vince's calender if possible. Thanks.
+
+
+ << File: Adjust Vol2 test.xls >> 
+
+
+
+ -----Original Message-----
+From: 	Gibner, Stinson  
+Sent:	Wednesday, June 06, 2001 5:34 PM
+To:	Lu, Zimin; Kaminski, Vince J
+Subject:	
+
+ << File: PPlus.doc >> This is an early draft document and should be revised, but does explain the spread option structure.
+
+--Stinson

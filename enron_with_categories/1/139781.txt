@@ -1,0 +1,60 @@
+Message-ID: <1275995.1075862290736.JavaMail.evans@thyme>
+Date: Wed, 21 Nov 2001 08:31:29 -0800 (PST)
+From: james.saunders@enron.com
+To: rod.hayslett@enron.com
+Subject: FW: Confidential - GSS Organization Value to ETS
+Cc: morris.brassfield@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: morris.brassfield@enron.com
+X-From: Saunders, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JSAUNDE>
+X-To: Hayslett, Rod </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rhaysle>
+X-cc: Brassfield, Morris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbrassf>
+X-bcc: 
+X-Folder: \RHAYSLE (Non-Privileged)\Hayslett, Rod\Inbox
+X-Origin: Hayslett-R
+X-FileName: RHAYSLE (Non-Privileged).pst
+
+Rod, Stan is/was reviewing selected "corp." services, and one of those selected was GSS. I requested that Morris provide some persepective on GSS.   Please review and forward to Stan, if appropriate. 
+
+ -----Original Message-----
+From: 	Brassfield, Morris  
+Sent:	Wednesday, November 21, 2001 10:05 AM
+To:	Saunders, James
+Subject:	Confidential - GSS Organization Value to ETS
+
+
+Here are my thoughts on the value the GSS (Global Strategic Sourcing) brings to ETS:
+
+I believe totally in the concept of strategically sourcing our materials and services for ETS, which is the concept that GSS was founded under, while still within the ETS organization.  Basically the value that GSS has brought to the bottom line during the last year has been minimal to ETS.   The reasons for that statement, in my opinion, are:
+
+The materials and services that ETS purchase are basic and routine.
+Most of those materials and service providers were identified and sourced during 1999 and 2000.
+ETS is reaching the point where we need fewer providers, not more.
+New items identified are normally rolled into one of our already sourced NPA's.
+Almost all large dollar items are bid out (three bids and a buy).
+GSS's involvement and commitment to the deal ends with the contract signing.
+ETS P&SM organization and our Contracts services group deals with the actual execution and the ringing of the cash register.
+
+
+If the GSS organization went away tomorrow, we would need the following expertise brought over from their group: (currently this group is close to 75 people.)(and very highly paid individuals)
+
+Two (2) negotiators - Contract Managers
+Two (2) analysts
+Two (2) contract administrators
+
+The administration of the following services would need to be shifted to the ISC:
+
+iBuyit System
+Catalog system (part of iBuyit)
+iPayit system
+
+We would need to re-assess the value of the contract with SourceNet and whether we continue down that path or implement our own A/P department.   This would take very few staff adds to make that happen.
+
+Let me know if you need any further detail.
+
+Morris 
+
+(713) 503-1409
+

@@ -1,0 +1,38 @@
+Message-ID: <26670062.1075847621363.JavaMail.evans@thyme>
+Date: Tue, 13 Mar 2001 05:26:00 -0800 (PST)
+From: steven.kean@enron.com
+To: maureen.mcvicker@enron.com
+Subject: <<Concur Expense Document>> - Rob Bradley-Mar 5-6
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Maureen McVicker
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+----- Forwarded by Steven J Kean/NA/Enron on 03/13/2001 01:26 PM -----
+
+	eserver@enron.com
+	03/12/2001 10:24 AM
+		 
+		 To: "Steven.J.Kean@enron.com" <Steven.J.Kean@enron.com>
+		 cc: 
+		 Subject: <<Concur Expense Document>> - Rob Bradley-Mar 5-6
+
+The following expense report is ready for approval:
+
+Employee Name: Robert L. Bradley Jr
+Status last changed by:  Automated Administrator
+Expense Report Name: Rob Bradley-Mar 5-6
+Report Total: $2,130.66
+Amount Due Employee: $2,130.66
+
+
+To approve this expense report, click on the following link for Concur 
+Expense.
+http://nahou-wwxms01p
+

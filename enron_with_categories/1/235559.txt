@@ -1,0 +1,35 @@
+Message-ID: <27781980.1075858692984.JavaMail.evans@thyme>
+Date: Thu, 23 Aug 2001 16:26:22 -0700 (PDT)
+From: b..sanders@enron.com
+To: lisa.mellencamp@enron.com
+Subject: FW: California Refund Proceeding Privileged and Confidential
+ Attorney Work Product Attorney-Client Communication
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Sanders, Richard B. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RSANDER>
+X-To: Mellencamp, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lmellen>
+X-cc: 
+X-bcc: 
+X-Folder: \Sanders, Richard B (Non-Privileged)\Sanders, Richard B.\Sent Items
+X-Origin: Sanders-R
+X-FileName: Sanders, Richard B (Non-Privileged).pst
+
+
+
+ -----Original Message-----
+From: 	Alvarez, Ray  
+Sent:	Thursday, August 02, 2001 3:32 PM
+To:	Sanders, Richard B.; Williams, Robert C.; gfergus@brobeck.com
+Cc:	Steffes, James D.; Comnes, Alan; Robertson, Linda; Shapiro, Richard; dwatkiss@bracepatt.com
+Subject:	California Refund Proceeding Privileged and Confidential Attorney Work Product Attorney-Client Communication
+
+In our litigation meeting last Tuesday, we learned that netting of spot purchases and sales is of paramount importance in limiting our exposure to refunds, under the FERC's July 26 Order, in both the California and Pacific Northwest proceedings.  However, in the California proceeding we are also afforded the opportunity in the Order to offset our receivables against any refund that would otherwise have to be paid by us.  Also, to the extent that our receivables exceed the refund amount, the Order provides for payment of interest to us in accordance with CFR Section 35.19a.  
+
+At present, I am aware of the existence of three receivables.  As you will recall, I mentioned at Tuesday's meeting that we should be able to treat as a receivable for purposes of offset, the revenues due us from the application of the CAISO underscheduling penalty.  I communicated the possibility of offsetting this receivable against any potential refund at this mornings Western Wholesale conference call, and subsequent research conducted by Alan Comnes indicates that the CAISO owes us $30MM, as per the CAISO's own numbers.
+
+The CAISO also owes us approximately $40MM due to nonpayment for one to two months of business.  These two figures alone, totalling approximately $70MM, exceed the estimate of our potential exposure in the California proceeding.
+
+Finally, the negative CTC issue is another receivable due us by IOU's that, under the plain language of the Order, could potentially be used to offset any refund amount.  I am not aware of the magnitude of this receivable but do understand that there are some sensitivities regarding this issue, including concerns about revealing the amount of the credit due us.  It is likely that the amount would become public if it is presented in the California proceeding.
+
+Please give us your thoughts as to the use of the CTC receivable to offset potential refunds in the California proceeding.

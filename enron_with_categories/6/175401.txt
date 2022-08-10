@@ -1,0 +1,112 @@
+Message-ID: <27574614.1075847593254.JavaMail.evans@thyme>
+Date: Mon, 23 Apr 2001 05:29:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: maureen.mcvicker@enron.com
+Subject: Update of Executive Support Database
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Maureen McVicker
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+---------------------- Forwarded by Steven J Kean/NA/Enron on 04/23/2001 
+12:29 PM ---------------------------
+From: Montrice Malone/ENRON@enronXgate on 04/23/2001 12:14 PM
+To: Beverly Aden/HOU/EES@EES, Amelia Alder/OTS/Enron@ENRON, Jessica 
+Anaya/HOU/ECT@ECT, David Andrews/Corp/Enron@Enron, Megan 
+Angelos/ENRON@enronXgate, Julie Armstrong/Corp/Enron@ENRON, Paul 
+Austin/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Terri Bachand/Enron 
+Communications@Enron Communications, Juan Barba/ENRON@enronXgate, Carol 
+Barcus/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Martha Benner/ENRON@enronXgate, 
+Connie Blackwood/ENRON@enronXgate, Nicola Blancke/EU/Enron@ENRON, Rosario 
+Boling/ENRON@enronXgate, Blanca Bollom/NA/Enron@Enron, Rossana 
+Booty/HOU/EES@EES, Erica Braden/Enron Communications@Enron Communications, 
+Rocio Braley/NA/Enron@ENRON, Loretta Brelsford/ENRON@enronXgate, Elaine 
+Brown/HOU/ECT@ECT, Kimberly Bullock/Enron Communications@Enron 
+Communications, Andrew Burns/HOU/EES@EES, Jennifer Burns/ENRON@enronXgate, 
+Kathy Campos/ENRON@enronXgate, Ilan 
+Caplan/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Lillian Carroll/ENRON@enronXgate, 
+Rosie Castillo/ENRON@enronXgate, Alan Chapman/EU/Enron@Enron, Kay 
+Chapman/HOU/EES@EES, Norma Chavez/ENRON@enronXgate, Katherine Chisley/Enron 
+Communications@Enron Communications, Susan Christianson/NA/Enron@Enron, Cindy 
+Cicchetti/HOU/EES@EES, Venita Coleman/ENRON@enronXgate, Crissy Collett/Enron 
+Communications@Enron Communications, Angie Collins/ENRON@enronXgate, Faye 
+Collis/EU/Enron@Enron, Debbie Contreras/ENRON@enronXgate, Adam 
+Cooper/DUB/EES@EES, Tracy Cooper/Enron Communications@Enron Communications, 
+Lisa Costello/ENRON@enronXgate, Sheri L Cromwell/ENRON@enronXgate, Andrew 
+Daley/EU/Enron@Enron, Oscar Dalton/ENRON@enronXgate, Dorothy Dalton/Enron 
+Communications@Enron Communications, Tiajuan Dancy/ENRON@enronXgate, Suzanne 
+Danz/Corp/Enron@ENRON, Jacqui Darrah/ENRON@enronXgate, Inez 
+Dauterive/HOU/ECT@ECT, Binky Davidson/HOU/EES@EES, Tammie 
+Davis/ENRON@enronXgate, Theresa Davis/HOU/EES@EES, Nicki 
+Daw/ENRON@enronXgate, Nicki Daw/LON/ECT@ECT, Ginger Dernehl/NA/Enron@Enron, 
+Sharon Dick/HOU/EES@EES, Kathy Dodgen/HOU/EES@EES, Billy 
+Dorsey/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Joyce Dorsey/Enron 
+Communications@Enron Communications, Bill Doyle/HOU/EES@EES, Debbie 
+Doyle/ENRON@enronXgate, Amy Duncan/Corp/Enron@ENRON, Kari 
+Duncan/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Deborah J 
+Edison/ENRON@enronXgate, Janette Elbertson/HOU/ECT@ECT, Patricia 
+English/Enron@EnronXGate, Mercedes Estrada/Enron Communications@Enron 
+Communications, Rosane Fabozzi/SA/Enron@Enron, Susan Fallon/ENRON@enronXgate, 
+Kerry Ferrari/LON/ECT@ECT, Dolores Fisher/Enron@EnronXGate, Amy 
+Flores/Corp/Enron@ENRON, Sue Ford/ENRON@enronXgate, Blanca 
+Franco/ENRON@enronXgate, Bert Frazier/ENRON@enronXgate, Stephen H 
+Friedlander/EWC/Enron@Enron, Irma Fuentes/ENRON@enronXgate, Mrudula 
+Gadade/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Shelia B 
+Galloway/ENRON@enronXgate, Carolyn George/Corp/Enron@ENRON, Mercy 
+Gil/ENRON@enronXgate, Lisa Gillette/HOU/ECT@ECT, Christina 
+Grow/Corp/Enron@ENRON, Vanessa Guest/EU/Enron@Enron, Mollie 
+Gustafson/PDX/ECT@ECT, Laura Gutierrez/ENRON@enronXgate, Lauren 
+Hagerty/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Earl Hailey/Corp/Enron@ENRON, 
+Tracy Harris/HOU/EES@EES, Joshua Hatch/Enron Communications@Enron 
+Communications, Karen K Heathman/ENRON@enronXgate, Debra 
+Hicks/ENRON@enronXgate, Kimberly Hillis/ENRON@enronXgate, Sandy 
+Hoelscher/HOU/EES@EES, Janice Hogan/ENRON@enronXgate, Barbara 
+Hooks/ENRON_DEVELOPMENT@ENRON_DEVELOPMENt, Rita Houser/ENRON@enronXgate, 
+Elizabeth Ivers/NA/Enron@Enron, Priya Jaisinghani/NA/Enron@Enron, Diana 
+Jebousek/HOU/AZURIX@AZURIX, Kelly Johnson/Corp/Enron@ENRON, Melissa 
+Jones/ENRON@enronXgate, Susan Jones/ENRON@enronXgate, Jennifer 
+Jordan/ENRON@enronXgate, Robin Jordan/Enron Communications@Enron 
+Communications, Ann Joyner/Enron Communications@Enron Communications, 
+Francisca Juarez/ENRON@enronXgate, Regina Karsolich/ENRON@enronXgate, Steven 
+J Kean/NA/Enron@Enron, Sally Keepers/Corp/Enron@ENRON, Sharon Killey/Enron 
+Communications@Enron Communications, Cheryl Kondo/Enron Communications@Enron 
+Communications, Tammy Kovalcik/FGT/Enron@ENRON, Cheryl 
+Kuehl/Corp/Enron@ENRON, Lena Lacey/Corp/Enron@ENRON, Diane 
+Latson/ENRON@enronXgate, David Leboe/HOU/ECT@ECT, Kimberly 
+Lerro/ENRON@enronXgate, Sandy Lewelling/NA/Enron@Enron, Wykena 
+Lipscomb/NA/Enron@Enron, Anita Llamas-Granado/HOU/EES@EES, Craig 
+Lodrigue/ECP/HOU/ECT@ECT, Leasa Lopez/HOU/EES@EES, Bridget 
+Maronge/ENRON@enronXgate, Lucy Marshall/Enron Communications@Enron 
+Communications, Victoria G Martinez/ENRON@enronXgate, Yolanda 
+Martinez/Corp/Enron@ENRON, Peggy McCurley/ENRON@enronXgate, Belinda 
+McGaughy/EWC/Enron@ENRON, Kathy McMahon/NA/Enron@Enron, Maureen 
+McVicker/NA/Enron@Enron, Yorleni Mendez/Corp/Enron@ENRON, 
+Mickler@/O=ENRON/OU=NA/CN=RECIPIENTS/CN=WMICKLER@EX@enronXgate
+cc: Carolyn Evans/ENRON@enronXgate 
+
+Subject: Update of Executive Support Database
+
+Hello to all Support Staff.   I am Montrice Malone, Support Clerk for the 
+Executive Support Team.  I am updating the Executive Support Database.  In 
+order to better serve their IT needs for home support, the following 
+information is needed.  
+
+Executive name, cell phone, home phone, home street, home city, home zip 
+code, spouse if any.  In addition, because you are primary support you are 
+also eligible for home support from the IT executive home support team. We 
+also need your home phone, home street, home zip code,
+for our records. Thank you very much for your assistance and information.  
+You may reply to this e-mail or contact me at EXT# 5-3600. 
+
+Thanks,
+Montrice Malone
+Executive Support Team Clerk
+Office: 713-345-3600
+Montrice.Malone@ENRON.com
+

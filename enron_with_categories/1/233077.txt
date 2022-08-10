@@ -1,0 +1,195 @@
+Message-ID: <12891612.1075853204313.JavaMail.evans@thyme>
+Date: Wed, 31 Jan 2001 01:01:00 -0800 (PST)
+From: michelle.blaine@enron.com
+To: justin.williams@linklaters.com
+Subject: RE: United India - strictly confidential and privileged
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Michelle Blaine
+X-To: justin.williams@linklaters.com, Richard B Sanders@ECT
+X-cc: 
+X-bcc: 
+X-Folder: \Richard_Sanders_Oct2001\Notes Folders\All documents
+X-Origin: Sanders-R
+X-FileName: rsanders.nsf
+
+I got your copy kicked back to me for some reason.
+---------------------- Forwarded by Michelle Blaine/ENRON_DEVELOPMENT on 
+01/31/2001 09:01 AM ---------------------------
+
+
+Michelle Blaine
+01/31/2001 08:53 AM
+To: Ken Blades/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT
+cc: "Williams, Justin" <justin.williams@Linklaters.com> @ ENRONRichard 
+Sanders, Bruce Lundstrom/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Robert C 
+Williams/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT 
+
+Subject: RE: United India - strictly confidential and privileged  
+
+I think Justin answered your question about governing law and the first  
+arbitration hearing and I am going to find out from Atul about whether Indian 
+law governs these policies since Indian law requires us to have an Indian 
+fronting policy.  
+
+On another issue that came up on the call this morning Ken, I was asking 
+Justin about governing law specifically because I wanted to know if there was 
+any law (India or English) requiring insurers to disclose information 
+regarding risk to the insured, so we could cite some law perhaps to compel 
+Beachcrofts to hand over the Liburdi report.   For example, the Texas 
+insurance code has evolved from a vague "duty of good faith & fair dealing" 
+standard in some instances to specific laws preventing insurers from doing 
+certain things detrimental to the insured.  Justin tells me English law, in 
+this regard, consists only of precedential case law, but it still could be 
+helpful.  Because of the commercial risk (outside the ambit of arbitration in 
+the instance) it might be worthwhile to consider going into the London 
+Commercial Court to seek some sort of extraordinary relief to prevent United 
+India from withholding this information which is critical to running these 
+machines.   If, in fact,  there truly is a 50% chance of failure in these 
+machines, yet they won't share that evidence with us, this is a commercial 
+risk DPC can't afford, regardless of coverage and apart from the 
+arbitration.  (I'm wearing my commercial hat instead of my legal hat today).  
+Although Justin expressed concern about jurisdiction, United India did us the 
+favor of bringing  suit in London Commercial Court earlier, and thus having 
+availed itself to the courts and having Peter Hirst's emphatic witness 
+statement that makes a compelling case for the court to take jurisdiction, I 
+think it is worth considering  if they continue to refuse to give us the 
+report in response to Justin's latest correspondence.  I don't think we can 
+afford to sit on our hands on this one.  Why don't you and Neil kick this 
+around, (since you don't have enough to do already).
+Cheers,
+Michelle
+
+
+
+Ken Blades
+01/30/2001 08:42 PM
+To: Michelle Blaine/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT
+cc: "Williams, Justin" <justin.williams@Linklaters.com> @ ENRON 
+
+Subject: RE: United India - strictly confidential and privileged  
+
+I assume governing law is an issue that would be raised at the initial 
+procedural hearing. If this is something that we're serious about then we 
+ought to get after it immediately.
+
+
+
+
+
+Michelle Blaine
+01/30/2001 11:15 PM
+To: "Williams, Justin" <justin.williams@Linklaters.com> @ ENRON
+cc: Ken Blades/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT 
+Subject: RE: United India - strictly confidential and privileged  
+
+  No wonder I couldn't remember the governing law!  Yes that is a good idea 
+to determine which law is more favorable to our position.  Let's mention that 
+to Ken tomorrow as we may want to have Atul Rajadhyaksha look at that for 
+us.  I think originally we discussed that notion but its been a long time ago.
+Thanks Justin,
+Michelle
+
+
+
+"Williams, Justin" <justin.williams@Linklaters.com> on 01/30/2001 09:11:26 AM
+To: "'Michelle.Blaine@enron.com'" <Michelle.Blaine@enron.com>
+cc: "Heneghan, Diane" <diane.heneghan@Linklaters.com> 
+
+Subject: RE: United India - strictly confidential and privileged
+
+
+Michelle,
+
+I know the problem about cases and clauses running together!
+
+The position on the insurance is that it does not specify a governing law.
+On an application of English private international law (ie conflict of laws
+rules) there is uncertainty whether it would be English or Indian law. At
+para 42 of Hirst's statement, he says that the contracts are impliedly
+subject to English law (based on London as the arbitration forum?).
+Certainly, my preference in terms of certainty would be English law.
+However, it is possible there could be an advantage to Indian substantive
+law and once we get UI's statement of claim, we should give thought to
+whether it would be worthwhile getting Indian law input on whether there
+could be advantage in arguing Indian law. I will ask Diane to add this to
+the "to do" list!
+
+Justin
+
+
+-----Original Message-----
+From: Michelle.Blaine@enron.com [mailto:Michelle.Blaine@enron.com]
+Sent: Tuesday, January 30, 2001 4:55 PM
+To: justin.williams@linklaters.com
+Subject: Re: United India - strictly confidential and privileged
+
+
+
+Looks good to me Justin.  Justin is there any law that governs an insurer's
+duty to disclose information regarding the risk insured?  What law governs
+the insurance contract? ( I should know that ,but all my cases and
+arbitration clauses are beginning to run together in my mind...).
+
+
+
+
+"Williams, Justin" <justin.williams@Linklaters.com> on 01/30/2001 05:45:31
+AM
+
+To:   "'Michelle.Blaine@enron.com'" <Michelle.Blaine@enron.com>
+cc:   "'Ken.Blades@enron.com'" <Ken.Blades@enron.com>
+
+Subject:  United India - strictly confidential and privileged
+
+
+ <<010125_JOWW_let_Beechcroft.doc>>
+
+Michelle,
+
+I attach a revised version of the Liburdi request/quantum letter to
+Beachcrofts, amended to take in some points made by Ken as to the agreement
+on quantum. It would be great if you were able to look through this today
+and let me have your comments in order that I can get it out.
+
+Do give me a call if you need to discuss.
+
+Justin
+
+
+
+Justin Williams
+Linklaters, London
+a member firm of Linklaters & Alliance
+Tel: (+44) 20 7456 4334
+Fax: (+44) 20 7456 3929
+justin.williams@linklaters.com
+http://www.linklaters.com
+http://www.linklaters-alliance.com
+Go to www.linklaters.com/disputetoolkit - for free litigation and
+arbitration advice
+
+
+
+____________________________________________________________
+
+This message is confidential. It may also be privileged or
+otherwise protected by work product immunity or other legal
+rules. If you have received it by mistake please let us know
+by reply and then delete it from your system; you should not
+copy the message or disclose its contents to anyone.
+____________________________________________________________
+
+(See attached file: 010125_JOWW_let_Beechcroft.doc)
+
+
+
+
+
+
+
+
+
+
+

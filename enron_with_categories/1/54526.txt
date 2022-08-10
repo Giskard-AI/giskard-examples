@@ -1,0 +1,88 @@
+Message-ID: <25864440.1075863280907.JavaMail.evans@thyme>
+Date: Fri, 19 Oct 2001 14:34:52 -0700 (PDT)
+From: j.kaminski@enron.com
+To: martin.lin@enron.com
+Subject: FW:
+Cc: vkaminski@aol.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vkaminski@aol.com
+X-From: Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VKAMINS>
+X-To: Lin, Martin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mlin>
+X-cc: 'vkaminski@aol.com'
+X-bcc: 
+X-Folder: \VKAMINS (Non-Privileged)\Kaminski, Vince J\Sent Items
+X-Origin: Kaminski-V
+X-FileName: VKAMINS (Non-Privileged).pst
+
+Martin, Lance
+
+What do you think?
+
+Vince
+
+ -----Original Message-----
+From: 	"Frank A. Wolak" <wolak@zia.Stanford.EDU>@ENRON  
+Sent:	Friday, October 19, 2001 4:28 PM
+To:	Kaminski, Vince J
+Subject:	 
+
+Vince,
+
+  I've been hearing rumors that Enron has decided to endorse
+the nodal pricing model as implemented in PJM.
+I just wanted to warn you that I'm not sure
+this is in Enron's long-term interest at all.  Let me explain
+why.  Feel free to give me a call if you'd like to talk
+more about this.
+
+  First, let me say that I firmly believe in locational pricing
+and specifically pricing congestion.  However, the way that PJM
+implements nodal pricing is to eliminate as much price volatility
+and reduce the transparency of the market.  Specifically, the
+PJM tariff gives the ISO the ability to mitigate to cost plus a
+%10 adder the bids of any market participant that the ISO deems
+is out of merit in one of the three zones in region.  (The fact
+that a nodal market is talking about zones should give you cause for alarm.)
+Then the ISO takes this mitigated bid and re-runs its price-setting
+software to compute new nodal prices.  The way I have (somewhat
+unfairly) decribed this price-setting process is that the
+PJM ISO decides what prices it would like
+for a given day and mitigates bids until it gets them.  This is not
+a transparent market, nor one where it makes any sense to buy
+the risk management services that Enron provides.  The
+only price volatility you have to worry about in the PJM market is
+that kind that comes about if they need imports into their control area
+to meet demand.  Under these circumstances, you need to pay the
+imports whatever is necessary to get them to come to your market.
+
+  However, bear in mind FERC's desire to make a large RTO on the
+East Coast.  This will effectively mean little imports
+to the East Coast RTO, so all bids can be mitigated at
+the discretion of the ISO.  Paying market-clearing prices to cost-of-service
+mitigated bids is just paying too much to eliminate price volatility.
+It effectively kills off the development of risk management at
+the wholesale and retail level.  Power marketing becomes much less
+profitable because retailers know you can always buy at cost-mitigated
+prices.
+
+  In short, the PJM model is not market.  It is just an alternative
+form of regulation that is politically attractive because it reduces
+price volatility, but it is not good for consumers or traders because they just
+get a higher cost form of regulation than traditional cost-of-service
+regulation. You pay market-clearing prices to cost-of-service
+mitigated bids, but under regulation you could just pay cost-of-service
+prices and eliminate the infra-marginal profits to low cost generators.
+
+  As we discussed during our dinner, I think the two biggest sources
+of benefits from re-structuring will come from getting the demand-side
+involved in the market and from more efficient risk management.  A
+necessary condition for both of these to occur is prices that reflect
+actual conditions in the market (including the extent of market power
+exercised).  Masking these signals dulls any incentive for market
+participants to make the investment necessary to management.  The PJM
+model is just way to have a market in name without achieving any
+significant benefits to consumers or energy traders.
+
+Frank

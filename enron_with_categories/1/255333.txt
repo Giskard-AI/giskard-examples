@@ -1,0 +1,43 @@
+Message-ID: <30080497.1075860886243.JavaMail.evans@thyme>
+Date: Mon, 29 Jan 2001 17:48:00 -0800 (PST)
+From: kevin.hyatt@enron.com
+To: plombardo@plantsystems.com
+Subject: Confidential - Calif Peaking Plant
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kevin Hyatt
+X-To: PLombardo <PLombardo@plantsystems.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Kevin_Hyatt_Mar2002\Hyatt, Kevin\Projects\McKinley
+X-Origin: Hyatt-K
+X-FileName: khyatt (Non-Privileged).pst
+
+Phil--
+	Enron is currently evaluating the possibility of installing an NGL peaking facility with appurtenant storage and rail facilities near Needles, California.  Ideally, the plant would inject / vaporize normal butane at the rate of 18,750 gallons per hour into a high pressure natural gas transmission system.
+
+Current gas pipeline specs are as follows:
+	Operating pressure - 850 - 1000 psig, worst case 750, normal range 800-900
+	Gas Volume - 650,000 - 750,000 MMBtu/day
+	
+	Expected normal butane (GPA spec) requirement - 450,000 gallons/day (18,750 gal/ per hour)
+
+
+My questions are:
+
+1) Is anyone currently using butanes for peaking service and if so, where?
+
+2)  Do we need to blend with air (how much) or can we inject straight normal butane?
+
+3)  At what line pressure point do the butanes re-liquefy further downstream of the injection point as the pipeline pressure falls?
+
+4)  Is this peaking plant configuration feasible and if so, at what price (ball park here, don't go way out of your way)?  (If it's not, what would your suggestion be for a design).
+
+I will fax you the normal butane specs as soon as I get them (please email back your fax number).
+
+As always, we're on a pretty tight time frame.  After you've had a chance to review the above, I'd like to get together and discuss this with you.  I can meet you in Ohio if it fits your schedule better, just let me know.  Thanks for the help and I look forward to talking with you soon.
+
+Kevin Hyatt
+713-853-5559
+kevin.hyatt@enron.com

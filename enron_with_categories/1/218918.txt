@@ -1,0 +1,27 @@
+Message-ID: <21029539.1075852466926.JavaMail.evans@thyme>
+Date: Thu, 2 Aug 2001 13:50:11 -0700 (PDT)
+From: john.shelk@enron.com
+To: d..steffes@enron.com
+Subject: RE: Update - Jeff Skilling Conference Call with John Q Anderson
+Cc: charles.yeung@enron.com, sarah.novosel@enron.com, christi.nicolay@enron.com, 
+	richard.ingersoll@enron.com, andy.rodriquez@enron.com, 
+	linda.robertson@enron.com, richard.shapiro@enron.com, 
+	jose.bestard@enron.com, susan.scott@enron.com, 
+	dave.perrino@enron.com, steve.walton@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: charles.yeung@enron.com, sarah.novosel@enron.com, christi.nicolay@enron.com, 
+	richard.ingersoll@enron.com, andy.rodriquez@enron.com, 
+	linda.robertson@enron.com, richard.shapiro@enron.com, 
+	jose.bestard@enron.com, susan.scott@enron.com, 
+	dave.perrino@enron.com, steve.walton@enron.com
+X-From: Shelk, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=2FCB405B-AAF18F39-86256A32-4CB53C>
+X-To: Steffes, James D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JSTEFFE>
+X-cc: Yeung, Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CYEUNG>, Novosel, Sarah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=E8015336-2D09A27C-862566B9-5830A9>, Nicolay, Christi </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=5836B2AD-ED2E830F-86256502-7152CC>, Ingersoll, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=A8B89424-897609CC-8625651D-4B4845>, Rodriquez, Andy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ARODRIQU>, Robertson, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=E6F34021-58C07703-86256984-56518C>, Shapiro, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RSHAPIRO>, Bestard, Jose </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=4969D7AD-EDA10C9E-86256A87-7AF435>, Scott, Susan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SSCOTT3>, Perrino, Dave </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DPERRINO>, Walton, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SWALTO2>
+X-bcc: 
+X-Folder: \JSTEFFE (Non-Privileged)\Steffes, James D.\NERC
+X-Origin: Steffes-J
+X-FileName: JSTEFFE (Non-Privileged).pst
+
+Thanks to Jim and Charles for the reports on the NERC conference call earlier today.  Aside from whatever is done directly with NERC on details of their internal operations to respond to our concerns (i.e., Jeff's presentation to their board and the list of issues Charles had), the NERC/PJM drafting process will continue in DC in coming weeks.  In addition, Congressional staff are likely to be drafting electricity legislation, including a reliability title, during the August Recess that will start at the end of this week (i.e., we will likely be asked to comment on reliability legislation before any meetings with the NERC board are completed).  I will analyze the "shortened NERC" and "PJM Revised" versions and share some thoughts based on our objectives.

@@ -1,0 +1,20 @@
+Message-ID: <11076920.1075849874977.JavaMail.evans@thyme>
+Date: Thu, 14 Jun 2001 02:00:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: elizabeth.linnell@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Elizabeth Linnell
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Nov2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+Would it be possible to use LiveLink to capture the information we gathered 
+for the organization/budget review (such as functions of the different groups 
+and the roles and responsibilities of the different individuals, budgets 
+etc)?  I hate to see all that ggod information sit idle.

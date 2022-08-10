@@ -1,0 +1,22 @@
+Message-ID: <22592732.1075858884235.JavaMail.evans@thyme>
+Date: Fri, 6 Jul 2001 20:23:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: linda.robertson@enron.com, richard.shapiro@enron.com, 
+	james.steffes@enron.com, karen.denne@enron.com, 
+	mark.palmer@enron.com
+Subject: Suggested Approach
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Linda Robertson <Linda Robertson/NA/Enron@ENRON>, Richard Shapiro <Richard Shapiro/NA/Enron@Enron>, James D Steffes <James D Steffes/NA/Enron@Enron>, Karen Denne <Karen Denne/Corp/Enron@ENRON>, Mark Palmer <Mark Palmer/Corp/Enron@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \SKEAN (Non-Privileged)\Kean, Steven J.\Sent Items
+X-Origin: Kean-S
+X-FileName: SKEAN (Non-Privileged).pst
+
+Please see the attached.
+
+
+                                           

@@ -1,0 +1,27 @@
+Message-ID: <5374479.1075863428606.JavaMail.evans@thyme>
+Date: Tue, 26 Jun 2001 10:47:17 -0700 (PDT)
+From: j.kaminski@enron.com
+To: vkaminski@aol.com
+Subject: FW:
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VKAMINS>
+X-To: 'vkaminski@aol.com'
+X-cc: 
+X-bcc: 
+X-Folder: \VKAMINS (Non-Privileged)\Kaminski, Vince J\Sent Items
+X-Origin: Kaminski-V
+X-FileName: VKAMINS (Non-Privileged).pst
+
+
+
+ -----Original Message-----
+From: 	Gibner, Stinson  
+Sent:	Wednesday, June 06, 2001 11:34 PM
+To:	Lu, Zimin; Kaminski, Vince J
+Subject:	
+
+ This is an early draft document and should be revised, but does explain the spread option structure.
+
+--Stinson

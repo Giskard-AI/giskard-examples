@@ -1,0 +1,29 @@
+Message-ID: <11318244.1075849875520.JavaMail.evans@thyme>
+Date: Tue, 12 Jun 2001 10:15:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: jeff.skilling@enron.com
+Subject: draft organization announcement.
+Cc: kevin.hannon@enron.com, rebecca.mcdonald@enron.com, ken.rice@enron.com, 
+	mark.frevert@enron.com, greg.whalley@enron.com, 
+	john.lavorato@enron.com, andrew.fastow@enron.com, 
+	kevin.garland@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: kevin.hannon@enron.com, rebecca.mcdonald@enron.com, ken.rice@enron.com, 
+	mark.frevert@enron.com, greg.whalley@enron.com, 
+	john.lavorato@enron.com, andrew.fastow@enron.com, 
+	kevin.garland@enron.com
+X-From: Steven J Kean
+X-To: Jeff Skilling
+X-cc: Kevin Hannon, Rebecca McDonald, Ken Rice, Mark Frevert, Greg Whalley, John J Lavorato, Andrew S Fastow, Kevin Garland
+X-bcc: 
+X-Folder: \Steven_Kean_Nov2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+Attached is the draft.  It combines all three announcements into one, with a 
+common format. It reflects a "just the facts" approach.  Let me know if you 
+have changes (or answers to the questions in the text).
+
+

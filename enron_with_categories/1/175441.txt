@@ -1,0 +1,52 @@
+Message-ID: <19786056.1075847596310.JavaMail.evans@thyme>
+Date: Mon, 16 Apr 2001 06:39:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: aaron.brown@enron.com
+Subject: Re: New Computer for Handling Stock Awards
+Cc: mary.joyce@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mary.joyce@enron.com
+X-From: Steven J Kean
+X-To: Aaron Brown
+X-cc: Mary Joyce
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+Do what you need to do; the system has to work.  The only question I have is: 
+why doesn't IT just take care of this without a charge? This is not an 
+extraordinary item or special request.  This ought to be something IT simply 
+takes care of without us having to get involved or pay extra.  Am I missing 
+something?
+
+
+From: Aaron Brown/ENRON@enronXgate on 04/16/2001 09:41 AM
+To: Steven J Kean/NA/Enron@Enron, Mary Joyce/ENRON@enronXgate
+cc:  
+
+Subject: New Computer for Handling Stock Awards
+
+Steve, 
+
+The IT group put it like this..."Justification:  Current Server is  PL1850, 
+and has reached it's capacity and is non-redundant."
+
+That means that our current system:
+(1) has a slow processor
+(2) is nearly out of memory for stock award administration
+(3) doesn't have a "real-time" back up in case the hard drives fails
+(4) needs to be upgraded
+
+The IT group has quoted about $19,000 for a new system that brings this 
+server up to Enron's current server standards and takes care of the above 
+issues.
+
+Let me know if this expense is a problem and whether you need to be involved 
+with these types of decisions in the future.
+
+Thanks,
+Aaron
+

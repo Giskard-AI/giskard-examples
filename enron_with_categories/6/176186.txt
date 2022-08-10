@@ -1,0 +1,63 @@
+Message-ID: <33483191.1075847643552.JavaMail.evans@thyme>
+Date: Fri, 26 Jan 2001 00:38:00 -0800 (PST)
+From: alan.comnes@enron.com
+To: mary.hain@enron.com
+Subject: Re: Confidential Attorney Client Privilege - Attorney Work Product
+Cc: christian.yoder@enron.com, steve.c.hall@enron.com, richard.sanders@enron.com, 
+	james.steffes@enron.com, sarah.novosel@enron.com, 
+	james.keller@enron.com, mike.smith@enron.com, 
+	harry.kingerski@enron.com, dennis.benevides@enron.com, 
+	tim.belden@enron.com, robert.badeer@enron.com, 
+	jeff.richter@enron.com, gfergus@brobeck.com, 
+	richard.shapiro@enron.com, roger.yang@enron.com, 
+	chris.foster@enron.com, steven.kean@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: christian.yoder@enron.com, steve.c.hall@enron.com, richard.sanders@enron.com, 
+	james.steffes@enron.com, sarah.novosel@enron.com, 
+	james.keller@enron.com, mike.smith@enron.com, 
+	harry.kingerski@enron.com, dennis.benevides@enron.com, 
+	tim.belden@enron.com, robert.badeer@enron.com, 
+	jeff.richter@enron.com, gfergus@brobeck.com, 
+	richard.shapiro@enron.com, roger.yang@enron.com, 
+	chris.foster@enron.com, steven.kean@enron.com
+X-From: Alan Comnes
+X-To: Mary Hain
+X-cc: Christian Yoder, steve.c.hall@enron.com, Richard B Sanders, James D Steffes, Joe Hartsoe@Enron, Sarah Novosel, James E Keller, Mike D Smith, Harry Kingerski, Dennis Benevides, Tim Belden, Robert Badeer, Jeff Richter, gfergus@brobeck.com, Richard Shapiro, Roger Yang, Greg Wolfe@ECT, Chris H Foster, Steven J Kean
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+The letter looks fine.  Eric H's letter was addressed to "market 
+participants."  Can we get EPSA or WPTF to file this letter?
+
+Alan C.
+
+
+
+
+Mary Hain
+01/25/2001 04:58 PM
+To: Christian Yoder/HOU/ECT@ECT, steve.c.hall@enron.com, Richard Sanders, 
+James D Steffes/NA/Enron@Enron, Joe Hartsoe@Enron, Sarah 
+Novosel/Corp/Enron@ENRON, James E Keller/HOU/EES@EES, Mike D 
+Smith/HOU/EES@EES, Harry Kingerski/NA/Enron@Enron, Dennis 
+Benevides/HOU/EES@EES, Tim Belden/HOU/ECT@ECT, Robert Badeer/HOU/ECT@ECT, 
+Jeff Richter/HOU/ECT@ECT, gfergus@brobeck.com, Alan Comnes/PDX/ECT@ECT, 
+Richard Shapiro, Roger Yang/SFO/EES@EES, Greg Wolfe@ECT, Chris H 
+Foster/HOU/ECT@ECT, Steven J Kean/NA/Enron@Enron, Richard Shapiro
+cc:  
+
+Subject: Confidential Attorney Client Privilege - Attorney Work Product
+
+I have drafted the attached letter denying the Cal ISO's request to send it 
+(and the EOB) EPMI and EES' cost information for transactions over the FERC's 
+cost cap.  Since I believe we are on very firm ground, my initial inclination 
+was to send no response to the ISO's letter, so there would be nothing to 
+quote in the press.  However, I drafted this letter at Alan's suggestion for 
+purposes of discussion.  We should decide whether to send a letter before 
+distributing this draft more widely in-house to discuss how to parse the 
+message.
+

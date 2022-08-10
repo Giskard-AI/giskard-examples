@@ -1,0 +1,1767 @@
+Message-ID: <22899044.1075843694131.JavaMail.evans@thyme>
+Date: Fri, 20 Apr 2001 01:57:00 -0700 (PDT)
+From: jmunoz@mcnallytemple.com
+To: abb@eslawfirm.com, andybrwn@earthlink.net, cabaker@duke-energy.com, 
+	rescalante@riobravo-gm.com, rbw@mrwassoc.com, 
+	curtis_l_kebler@reliantenergy.com, dean.nistetter@dynegy.com, 
+	dkk@eslawfirm.com, gtbl@dynegy.com, smutny@iepa.com, 
+	jeff.dasovich@enron.com, joer@calpine.com, 
+	john.g.larrea@williams.com, jmball@ns.net, kgough@calpine.com, 
+	kent.palmerton@williams.com, lale@dynegy.com, 
+	mmoretti@mccabeandcompany.net, mwilson@pstrategies.com, 
+	rmcnally@mcnallytemple.com, nam.nguyen@powersrc.com, 
+	knorton@mcnallytemple.com, paula.hall-collins@williams.com, 
+	jackp@calpine.com, rwhyde@duke-energy.com, roger.pelote@williams.com, 
+	stephanie-newell@reliantenergy.com, smara@enron.com, 
+	tross@mcnallytemple.com, tcwillia@duke-energy.com, 
+	alex.sugaoka@uaecorp.com, william_carlson@wastemanagement.com, 
+	billw@calpine.com, bellery@spi-ind.com, bob.gates@enron.com, 
+	cody.carter@williams.com, curt.hatton@gen.pge.com, 
+	david.parquet@enron.com, dean_gosselin@fpl.com, 
+	fernley.doug@epenergy.com, dnelsen@gwfpower.com, 
+	ed.tomeo@uaecorp.com, eileenk@calpine.com, eric.eisenman@gen.pge.com, 
+	frank.derosa@gen.pge.com, frazier_blaylock@ogden-energy.com, 
+	hap_boyd@enron.com, jack.hawks@gen.pge.com, elliottsa@earthlink.net, 
+	jgreco@caithnessenergy.com, jweisgall@aol.com, 
+	ccastillo@riobravo-gm.com, kellyl@enxco.com, 
+	khoffman@caithnessenergy.com, kfickett@usgen.com, 
+	lynn.a.lednicky@dynegy.com, marty_mcfadden@ogden-energy.com, 
+	paula_soos@ogden-energy.com, rjhickok@duke-energy.com, 
+	rskoebbe@powerworksinc.com, rllamkin@seiworldwide.com, 
+	ain@worldnet.att.net, siliff@riobravo-gm.com, steve_ponder@fpl.com, 
+	twetzel@thermoecotek.com, wfhall2@duke-energy.com, 
+	trusso@mcnallytemple.com, sadlersa@earthlink.net, mstultz@epsa.org, 
+	rtemple@mcnallytemple.com, tracy.fairchild@edelman.com, 
+	megan.beiser@edelman.com, deborah.fiorito@dynegy.com, 
+	lchurch@epsa.org, kaplan@iepa.com, tcwillia@duke-energy.com, 
+	rwhyde@duke-energy.com, tmcmorrow@manatt.com
+Subject: IEP News 4/20
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Jean Munoz <jmunoz@mcnallytemple.com>
+X-To: "'Andy Brown (E-mail)'" <ABB@eslawfirm.com>, "'B Brown Andy (E-mail)'" <andybrwn@earthlink.net>, "'Baker Carolyn (E-mail)'" <cabaker@duke-energy.com>, "'Bob Escalante (E-mail)'" <rescalante@riobravo-gm.com>, "'Bob Weisenmiller (E-mail)'" <rbw@mrwassoc.com>, "'Curtis Kebler (E-mail)'" <curtis_l_kebler@reliantenergy.com>, "Dean. Nistetter (E-mail)" <Dean.Nistetter@dynegy.com>, "'Douglas Kerner (E-mail)'" <DKK@eslawfirm.com>, "'Greg Blue (E-mail)'" <gtbl@dynegy.com>, "'Jan Smutny-Jones (E-mail)'" <smutny@iepa.com>, "'Jeff Dasovich (E-mail)'" <Jeff.Dasovich@enron.com>, "'Joe Ronan (E-mail)'" <joer@calpine.com>, "'John Larrea (E-mail)'" <john.g.larrea@williams.com>, "'Julee Malinowski-Ball (E-mail)'" <jmball@ns.net>, "'Kassandra Gough (E-mail)'" <kgough@calpine.com>, "'kent Palmerton (E-mail)'" <kent.palmerton@williams.com>, "'Lynn Lednicky (E-mail)'" <lale@dynegy.com>, "Marie Moretti (E-mail 2)" <mmoretti@mccabeandcompany.net>, "'Marty Wilson (E-mail)'" <mwilson@pstrategies.com>, "'McNally Ray (E-mail)'" <rmcnally@mcnallytemple.com>, "''Nam Nguyen' (E-mail)'" <nam.nguyen@powersrc.com>, "'Norton Kelli (E-mail)'" <knorton@mcnallytemple.com>, "'Paula Hall-Collins (E-mail)'" <paula.hall-collins@williams.com>, "'Pigott Jack (E-mail)'" <jackp@calpine.com>, "'Richard Hyde (E-mail)'" <rwhyde@duke-energy.com>, "'Roger Pelote (E-mail)'" <roger.pelote@williams.com>, "'Stephanie-Newell (E-mail)'" <stephanie-newell@reliantenergy.com>, "'Sue Mara (E-mail)'" <smara@enron.com>, "'Tom Ross (E-mail)'" <tross@mcnallytemple.com>, "Tom Williams (E-mail)" <tcwillia@duke-energy.com>, "'Alex Sugaoka (E-mail)'" <alex.sugaoka@uaecorp.com>, "'Bill Carlson (E-mail)'" <william_carlson@wastemanagement.com>, "'Bill Woods (E-mail)'" <billw@calpine.com>, "'Bob Ellery (E-mail)'" <bellery@spi-ind.com>, "'Bob Gates (E-mail)'" <bob.gates@enron.com>, "'Cody Carter (E-mail)'" <cody.carter@williams.com>, "'Curt Hatton (E-mail)'" <Curt.Hatton@gen.pge.com>, "'David Parquet'" <david.parquet@enron.com>, "'Dean Gosselin (E-mail)'" <dean_gosselin@fpl.com>, "'Doug Fernley (E-mail)'" <fernley.doug@epenergy.com>, "'Duane Nelsen (E-mail)'" <dnelsen@gwfpower.com>, "'Ed Tomeo (E-mail)'" <ed.tomeo@uaecorp.com>, "'Eileen Koch (E-mail)'" <eileenk@calpine.com>, "'Eric Eisenman (E-mail)'" <eric.eisenman@gen.pge.com>, "'Frank DeRosa (E-mail)'" <frank.derosa@gen.pge.com>, "Frazier Blaylock (E-mail)" <frazier_blaylock@ogden-energy.com>, "'Hap Boyd (E-mail)'" <Hap_Boyd@enron.com>, "'Hawks Jack (E-mail)'" <jack.hawks@gen.pge.com>, "'Jim Willey (E-mail)'" <elliottsa@earthlink.net>, "'Joe Greco (E-mail)'" <jgreco@caithnessenergy.com>, "'Jonathan Weisgall (E-mail)'" <jweisgall@aol.com>, "'Kate Castillo (E-mail)'" <CCastillo@riobravo-gm.com>, "'Kelly Lloyd (E-mail)'" <kellyl@enxco.com>, "'Ken Hoffman (E-mail)'" <khoffman@caithnessenergy.com>, "'Kent Fickett (E-mail)'" <kfickett@usgen.com>, "'Lynn Lednicky (E-mail)'" <lynn.a.lednicky@dynegy.com>, "'Marty McFadden (E-mail)'" <marty_mcfadden@ogden-energy.com>, "'Paula Soos'" <paula_soos@ogden-energy.com>, "'Randy Hickok (E-mail)'" <rjhickok@duke-energy.com>, "Rick S. Koebbe (E-mail)" <rskoebbe@powerworksinc.com>, "'Rob Lamkin (E-mail)'" <rllamkin@seiworldwide.com>, "'Ross Ain (E-mail)'" <ain@worldnet.att.net>, "'Steve Iliff'" <siliff@riobravo-gm.com>, "'Steve Ponder (E-mail)'" <steve_ponder@fpl.com>, "'Tony Wetzel (E-mail)'" <twetzel@thermoecotek.com>, "'William Hall (E-mail)'" <wfhall2@duke-energy.com>, <trusso@mcnallytemple.com>, <sadlersa@earthlink.net>, <mstultz@epsa.org>, <rtemple@mcnallytemple.com>, <tracy.fairchild@edelman.com>, <megan.beiser@edelman.com>, <deborah.fiorito@dynegy.com>, <lchurch@epsa.org>, Katie Kaplan <kaplan@iepa.com>, <tcwillia@duke-energy.com>, <rwhyde@duke-energy.com>, <tmcmorrow@manatt.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Jeff_Dasovich_June2001\Notes Folders\Notes inbox
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+AP Online, April 20, 2001; Friday, 7:57 AM, Eastern Time, Financial pages,
+????238 words, Power Co. Executives Lose Bonuses, LOS ANGELES
+
+Contra Costa Times, April 20, 2001, Friday, STATE AND REGIONAL NEWS, K560,
+????460 words, Energy officials accused of manipulating natural gas market
+????defend actions, By Andrew La Mar
+
+Los Angeles Times, April 20, 2001, Friday,, Home Edition, Page 3, 715 words
+????, CALIFORNIA AND THE WEST; ??A U-TURN ON CAR TAX REBATES; ??LEGISLATION:
+????STARTING JULY 1, FEE REDUCTION WILL BE FIGURED DIRECTLY INTO VEHICLE
+????REGISTRATION BILLS, NOT REFUNDED BY MAIL., CARL INGRAM, TIMES STAFF 
+WRITER,
+????SACRAMENTO
+
+Los Angeles Times, April 20, 2001, Friday,, Home Edition, Page 3, 453 words
+????, CALIFORNIA AND THE WEST; ??LOCKYER ASKS JUDGE TO ORDER FIRMS TO RELEASE
+????RECORDS, ROBERT J. LOPEZ and RICH CONNELL, TIMES STAFF WRITERS
+
+Los Angeles Times, April 20, 2001, Friday,, Home Edition, Page 3, 1426
+????words, CALIFORNIA AND THE WEST; ??LEGISLATORS UNITE OVER ENERGY PRICE 
+ISSUE;
+????POWER: BIPARTISAN CONGRESSIONAL DELEGATION CALLED TOGETHER BY DAVIS SAYS 
+U.
+????S. MUST STEP IN TO PROTECT STATE FROM MANIPULATION BY SUPPLIERS., MITCHELL
+????LANDSBERG and MIGUEL BUSTILLO, TIMES STAFF WRITERS
+
+The Orange County Register, April 20, 2001, Friday, STATE AND REGIONAL NEWS
+????, K497, 846 words, Federal energy commission considers price fix for state
+????energy market, By Dena Bunis
+
+San Jose Mercury News, April 20, 2001, Friday, STATE AND REGIONAL NEWS,
+????K512, 696 words, In response to power woes, rating agencies have 
+California
+????on credit watch, By Jennifer Bjorhus
+
+San Jose Mercury News, April 20, 2001, Friday, STATE AND REGIONAL NEWS,
+????K520, 1069 words, Issues still remain on what power consumers will
+????eventually pay, By John Woolfolk and Michael Bazeley
+
+The San Francisco Chronicle, APRIL 20, 2001, FRIDAY,, FINAL EDITION, NEWS;,
+????Pg. A4, 765 words, Edison pushes lawmakers to accept deal, David Lazarus
+
+The Associated Press State & Local Wire, April 20, 2001, Friday, BC cycle,
+????7:04 AM Eastern Time, State and Regional, 438 words, Most Edison 
+executives
+????going without bonuses, By GARY GENTILE, AP Business Writer, LOS ANGELES
+
+The Associated Press State & Local Wire, April 19, 2001, Thursday, BC cycle
+????, State and Regional, 901 words, Top political aide discusses Bush's 
+low-key
+????style, By RON FOURNIER, AP White House Correspondent, WASHINGTON
+
+The Associated Press State & Local Wire, April 19, 2001, Thursday, BC cycle
+????, State and Regional, 727 words, Utility commission staff says parent
+????company profiting from energy sales, BOISE, Idaho
+
+The Associated Press State & Local Wire, April 19, 2001, Thursday, BC cycle
+????, State and Regional, 820 words, Legislators probe possible power, natural
+????gas collusion, By DON THOMPSON, Associated Press Writer, SACRAMENTO
+
+
+Copyright 2001 Associated Press
+AP Online
+April 20, 2001; Friday 7:57 AM, Eastern Time
+
+SECTION: Financial pages
+
+LENGTH: 238 words
+
+HEADLINE: ?Power Co. Executives Lose Bonuses
+
+DATELINE: LOS ANGELES
+
+BODY:
+
+???Senior executives at Southern California Edison and its parent company went
+without hundreds of thousands of dollars in bonuses in 2000 because of
+California's power crisis.
+
+??Edison International's chairman and chief executive, John Bryson, was paid
+$950,000 in 2000, compared with salary and bonus totaling $2.16 million in 
+1999.
+
+??Stephen Frank, the chairman and chief executive at Southern California
+Edison, was paid $617,000 in 2000, compared with salary and bonus totaling 
+$1.3
+million in 1999, according to the company's proxy statement filed with the
+Securities and Exchange Commission.
+
+??The company also said Thursday it would not award merit increases to
+executives in 2001 because of the continuing crisis.
+
+??In a similar statement released Tuesday, Pacific Gas and Electric Corp.
+revealed it also withheld bonuses for its top two executives, although they 
+did
+receive raises.
+
+??Edison and PG&E say they have lost nearly $14 billion since June to high
+wholesale prices that the state's electricity deregulation law bars them from
+passing on to consumers. PG&E, saying it hasn't received the help it needs 
+from
+regulators or state lawmakers, filed for federal bankruptcy protection April 
+6.
+
+??Edison is continuing to work with state officials and its
+
+??reditors.
+
+?????(PROFILE
+
+
+?????(CO:Southern California Edison Co.; TS:SCE;)
+
+
+?????(CO:Pacific Gas and Electric; TS:PCG; IG:ELC;)
+
+
+?????)
+
+
+LOAD-DATE: April 20, 2001
+
+??????????????????????????????8 of 78 DOCUMENTS
+
+??????????????Copyright 2001 Knight Ridder/Tribune News Service
+???????????????????????Knight Ridder/Tribune News Service
+
+??????????????????????????????Contra Costa Times
+
+????????????????????????????April 20, 2001, Friday
+
+SECTION: STATE AND REGIONAL NEWS
+
+KR-ACC-NO: ?K560
+
+LENGTH: 460 words
+
+HEADLINE: Energy officials accused of manipulating natural gas market defend
+actions
+
+BYLINE: By Andres LaMar
+
+BODY:
+
+??SACRAMENTO _ Energy officials who are accused of manipulating California's
+market for natural gas defended their actions on Thursday and attributed the
+state's skyrocketing gas prices to increased demand, the weather and other
+factors.
+
+??The explanation, however, drew skepticism from lawmakers in the wake of
+expert testimony alleging that one Texas firm, El Paso Natural Gas Co., had
+engineered a classic case of monopoly power by controlling the pipeline that
+delivers gas to the state.
+
+??At the outset of the Thursday's hearing, Assemblyman Darrell Steinberg,
+D-Sacramento, noted the huge run-up in the cost of natural gas, which went 
+from
+$6.6 billion for the entire year of 1999 to $12.3 billion for sales in 2000 
+and
+to $7.9 billion for the first three months of this year.
+
+??Steinberg zeroed in on the difference between California and other parts of
+the country. From March 2000 to February 2001, natural gas prices have risen 
+489
+percent compared to a 266 percent increase in New Mexico and a 247 percent 
+jump
+in Chicago.
+
+??Steinberg asked Ralph Eads, the president of an El Paso Natural Gas Co.
+subsidiary, for an explanation.
+
+??"The 275 percent difference you say is attributable completely to 
+constraints
+on the pipeline and demand?" Steinberg asked.
+
+??"Yes," Eads replied. Eads said the state's energy crisis, which led power
+plants to run harder and longer, dramatically increased demand for natural gas
+over the summer and a winter with temperatures about 15 percent cooler than 
+the
+year before exacerbated the problem.
+
+??In another twist to California's deregulation nightmare, El Paso officials
+said they gained greater control of the pipeline after the Pacific Gas &
+Electric Co. relinquished the capacity four years ago. At that time, PG&E's
+movement of the gas and the prices it could charge were regulated by the 
+Public
+Utilities Commission.
+
+??In other developments at the Capitol on Thursday, lawmakers called on the
+federal government to re- regulate natural gas sales at the California border
+and U.S. Sen. Joe Lieberman, D-Conn., said federal regulators should impose
+price caps on California's wholesale electricity market.
+
+??The Assembly held considerable debate on the resolution asking for
+re-regulation, with Democrats accusing President George W. Bush of doing 
+nothing
+to come to the aid of California and Republicans defending the administration.
+
+??"I'm learning an interesting lesson that all the problems of the world
+started after Jan. 21 and the inauguration of the new president," said
+Assemblyman Bill Leonard, R-San Bernardino.
+
+??KRT CALIFORNIA is a premium service of Knight Ridder/Tribune
+
+??(c) 2001, Contra Costa Times (Walnut Creek, Calif.).
+
+??Visit the Contra Costa Times on the Web at http://www.cctimes.com/
+ 
+JOURNAL-CODE: CC
+
+LOAD-DATE: April 20, 2001
+
+??????????????????????????????10 of 78 DOCUMENTS
+
+??????????????????????Copyright 2001 / Los Angeles Times
+
+??????????????????????????????Los Angeles Times
+
+?????????????????????April 20, 2001, Friday, Home Edition
+
+SECTION: Part A; Part 1; Page 3; Metro Desk
+
+LENGTH: 715 words
+
+HEADLINE: CALIFORNIA AND THE WEST;
+
+A U-TURN ON CAR TAX REBATES;
+
+LEGISLATION: STARTING JULY 1, FEE REDUCTION WILL BE FIGURED DIRECTLY INTO
+VEHICLE REGISTRATION BILLS, NOT REFUNDED BY MAIL.
+
+BYLINE: CARL INGRAM, TIMES STAFF WRITER
+
+
+
+DATELINE: SACRAMENTO
+
+BODY:
+
+
+??Gov. Gray Davis and the Legislature spun a U-turn Thursday and scrapped a
+costly program that requires motorists to first pay their car tax and then 
+get a
+rebate in the mail.
+
+??Starting July 1, the state Department of Motor Vehicles will send owners of
+approximately 26 million vehicles registration renewal bills already reduced 
+by
+the amount of the vehicle license fee rebates.
+
+??On a unanimous roll call, the Senate voted final approval and sent to Davis
+an "urgency" bill, SB 52, that repealed the rebate program, which the governor
+had previously fought for and defended.
+
+??In addition to abolishing the rebates, the legislation reduces by 67.5% the
+amount motorists must pay for the upcoming year, the level that lawmakers and
+former Gov. Pete Wilson envisioned in 1998 when they began cutting the fee. It
+had been about 2% of a vehicle's market value.
+
+??Davis immediately signed the repeal bill, saying only that the new law will
+"expedite relief to taxpayers and greatly reduce administrative costs."
+
+??The governor's muted observation contrasted with his effusive support of the
+rebates last year, when he said Californians "don't appreciate the fact that
+they're getting a rebate unless they see it in their hands."
+
+??At the time, Davis and the Legislature had the choice of simply cutting the
+car tax, which voters might not notice, or sending checks in the mail, which
+Davis felt would have a greater impact.
+
+??The rebates, which began Jan. 1, were scheduled to continue through 2002,
+when Davis intends to run for reelection. In 2003, the license fee was to have
+fallen permanently, with no more rebates.
+
+??"The whole rebate scheme was good only through the next gubernatorial
+election cycle," said Sen. Tom McClintock (R-Thousand Oaks), who supported
+reductions in the license fee but opposed the rebates.
+
+??Until July 1, the DMV will continue to bill motorists for the full amount of
+their license fee, which includes a 35% reduction from last year.
+
+??"Then we return to you an additional 32.5% rebate, making a total reduction
+of 67.5%," said DMV spokesman Bill Branch. Starting with license renewals on
+July 1, the DMV bills will include the full tax cut.
+
+??A Senate analysis of the repeal bill noted that the current "awkward system 
+.
+. . effectively requires taxpayers to overpay their vehicle license fee and 
+then
+await a rebate check from the state--a system that is, at best, difficult to
+explain."
+
+??But as the California economy tightened, the state's budget surplus shrank
+and taxpayers shelled out approximately $ 50 million a day to buy 
+electricity, 
+the costs of the rebate program threatened to become a political embarrassment
+to Davis.
+
+??Projected administrative and postage costs of the rebate program alone were
+estimated at $ 22 million this year and another $ 22 million or so next year.
+
+??Last year, state Sen. Joe Dunn (D-Santa Ana) and McClintock sought to
+eliminate the rebates and give drivers their full tax cuts when they register
+their vehicles. Under pressure from Davis, the bill failed.
+
+??"It was killed behind the scenes at the insistence of the governor,"
+McClintock said Thursday. "He didn't want it on his desk."
+
+??This year, Dunn launched a similar bill, but his name was struck from it as
+the lead author in the Assembly and the name of Sen. Wes Chesbro (D-Arcata) 
+was
+substituted.
+
+??In a speech Thursday, Sen. Ross Johnson (R-Irvine) suggested that Davis'
+performance on the issue in an "earlier time and a more just society" would 
+have
+resulted in his "public flogging by representatives of taxpayers."
+
+??The repeal bill was passed 78 to 0 by the Assembly on Monday, and sent to
+Davis by the Senate on a 34-0 vote Thursday.
+
+??If the rebates were to be abolished, the bill had to pass this week in order
+to take effect July 1, said Branch, the DMV spokesman. This is because 
+motorists
+must be advised 60 days in advance that their registration renewals are due.
+
+??"We have to reprogram all the computers. We have to print new bills and mail
+them by May 1 for the July 1 expiration," he said. "It will be a little tight,
+but we will still make it."
+
+??Branch said that since the Jan. 1 start of rebates, checks totaling $ 454
+million have been sent to 7.4 million vehicle owners at an extra 
+administrative
+cost of $ 9.4 million.
+
+LOAD-DATE: April 20, 2001
+
+??????????????????????????????11 of 78 DOCUMENTS
+
+??????????????????????Copyright 2001 / Los Angeles Times
+
+??????????????????????????????Los Angeles Times
+
+?????????????????????April 20, 2001, Friday, Home Edition
+
+SECTION: Part A; Part 1; Page 3; Metro Desk
+
+LENGTH: 453 words
+
+HEADLINE: CALIFORNIA AND THE WEST;
+
+LOCKYER ASKS JUDGE TO ORDER FIRMS TO RELEASE RECORDS
+
+BYLINE: ROBERT J. LOPEZ and RICH CONNELL, TIMES STAFF WRITERS
+
+
+
+BODY:
+
+
+??California Atty. Gen. Bill Lockyer, ratcheting up his investigation of
+possible civil and criminal violations by the state's power suppliers, is 
+asking
+a San Francisco judge to order two firms to hand over confidential records.
+
+??In a motion filed Thursday in Superior Court, Lockyer said Reliant Energy 
+and
+Mirant Corp. have failed to comply with subpoenas for documents that were to 
+be
+produced by March 19.
+
+??Amid soaring electricity costs and rolling blackouts, the attorney general
+launched an investigation of possible manipulation of wholesale electricity
+prices that have skyrocketed to record levels and have financially crippled 
+the
+state's major utilities.
+
+??Dozens of other public and private power suppliers are complying with the
+subpoenas.
+
+??But in an interview, Lockyer accused Reliant and Mirant of stonewalling
+investigators "so they can keep enjoying these exorbitant profits and prices 
+for
+as long as possible."
+
+??Ultimately, the companies will have to honor the subpoenas, he said. "I'm
+going to pit bull them," he said. "This is one we win."
+
+??Both companies say they have done nothing wrong and played by the rules of
+California's flawed electricity deregulation plan.
+
+??A spokesman for Houston-based Reliant said Thursday the firm is seeking 
+court
+action of its own to ensure that sensitive business information will not be
+shared with other public agencies or its competitors.
+
+??Last week, Reliant asked a Los Angeles Superior Court judge to clarify the
+attorney general's obligation to keep proprietary information confidential.
+
+??"We're glad to cooperate with his investigation to the extent we can," said
+Reliant spokesman Richard Wheatley. " But we have not received sufficient
+assurances that Lockyer would keep the data confidential."
+
+??Lockyer called Reliant's court filing "frivolous" and "propagandistic" and
+insisted that adequate safeguards are in place. He reserves the right under
+state law to share information with other government agencies aiding in his
+investigation but has said he will keep sensitive business information from
+being made public.
+
+??Atlanta-based Mirant demanded and received similar guarantees of
+confidentiality, Lockyer said. Mirant did not return phones calls Thursday.
+
+??Lockyer did not discuss details of the probe or the kinds of information 
+he's
+seeking. But based on the investigation so far, he said, "it's beginning to 
+get
+interesting."
+
+??Other records indicate that the attorney general has sought 91 categories of
+information about the power merchants' activities. They include the operation 
+of
+power plants, trading information that may have been shared by private power
+suppliers and bidding strategies in the California market.
+
+LOAD-DATE: April 20, 2001
+
+??????????????????????????????12 of 78 DOCUMENTS
+
+??????????????????????Copyright 2001 / Los Angeles Times
+
+??????????????????????????????Los Angeles Times
+
+?????????????????????April 20, 2001, Friday, Home Edition
+
+SECTION: Part A; Part 1; Page 3; Metro Desk
+
+LENGTH: 1426 words
+
+HEADLINE: CALIFORNIA AND THE WEST;
+
+LEGISLATORS UNITE OVER ENERGY PRICE ISSUE;
+?POWER: BIPARTISAN CONGRESSIONAL DELEGATION CALLED TOGETHER BY DAVIS SAYS U. 
+S.
+MUST STEP IN TO PROTECT STATE FROM MANIPULATION BY SUPPLIERS.
+
+BYLINE: MITCHELL LANDSBERG and MIGUEL BUSTILLO, TIMES STAFF WRITERS
+
+
+
+BODY:
+
+
+??This may be the surest sign yet of the depth of California's energy crisis: 
+A
+bipartisan cross-section of the state's congressional delegation, brought
+together Thursday by Gov. Gray Davis, not only agreed about the severity of 
+the
+problem but also about the need for swift federal intervention.
+
+??"This meeting did not have the word 'Democrat' or 'Republican' used once,"
+Rep. Darrell E. Issa (R-Vista), said of the unusual spirit of cooperation at 
+the
+meeting near Los Angeles International airport.
+
+??Members of both parties said the Federal Energy Regulatory Commission must
+slash wholesale electricity prices so California utilities can once again 
+afford
+to buy power. Since January, the state government has been buying electricity 
+on
+their behalf, as skyrocketing wholesale prices put Pacific Gas & Electric Co.
+and Southern California Edison billions of dollars into debt and many power
+suppliers refused to sell to them; PG&E has since filed for Chapter 11
+bankruptcy protection.
+
+??Although the Bush administration has said repeatedly that it is strongly
+opposed to price caps, and FERC has refused to grant them, California
+Republicans at the energy meeting said they are optimistic that the
+administration will agree to some other form of price regulation. They brushed
+aside the notion that such regulations might conflict with their ideological
+belief in a free market.
+
+??"This is not a free-enterprise situation," Rep. Duncan Hunter (R-Alpine) 
+said
+after the meeting. "In fact, it's just the opposite."
+
+??Specifically citing the huge disparity between natural gas prices charged to
+California and those charged in other Western states, he said California 
+clearly
+has been the victim of unreasonably high energy costs. Under federal law, the
+FERC must regulate the prices of companies if it finds they are exerting 
+"market
+power" to drive prices to unreasonable levels.
+
+??Executives from two Texas energy companies, meeting with legislators in
+Sacramento, denied Thursday that they had caused natural gas prices in
+California to artificially skyrocket by hoarding access to a critical pipeline
+into the state.
+
+??After the extraordinary meeting in Los Los Angeles, Rep. Brad Sherman
+(D-Sherman Oaks) said the biggest disagreement between California Democrats 
+and
+Republicans appeared to be their relative faith--or lack thereof--in the 
+ability
+of President Bush and his administration to help California. There has been 
+much
+speculation that Bush, who lost California in November, has no political 
+motive
+to help the state.
+
+??"We Democrats," said Sherman, "hope very much that our skepticism is proven
+wrong."
+
+??Davis--who sat flanked by Democratic U.S. Sen. Dianne Feinstein and the
+governor's newly appointed chief energy advisor, S. David Freeman--said he 
+used
+the meeting mainly to discuss the importance of conservation by Californians
+this summer and to ask the congressional delegation to pitch in. Five
+Republicans and more than a dozen Democrats attended the gathering.
+
+??Feinstein said Thursday that she has asked for a third time to meet with 
+Bush
+to discuss the energy situation. Meeting with Times reporters and editors
+Wednesday, she described a recent meeting with Vice President Dick Cheney in
+which, she said, he "ignored" her appeal for federal assistance.
+
+??Feinstein has been among those critical of natural gas companies, saying 
+they
+appear to have constricted access to a California-bound pipeline to run up
+prices.
+
+??The Brattle Group, a respected consulting firm, alleged Wednesday before an
+Assembly committee that Dynegy Inc. and El Paso Natural Gas Co. had 
+manipulated
+the market by charging so much for the rights to their pipeline capacity that
+they had, in effect, withheld access to it.
+
+??That action, the experts said, directly forced companies trying to deliver
+gas to California to look for alternatives, clogging other pipelines and 
+causing
+a surge in prices.
+
+??The explanation, El Paso executives said, was simple: Demand for gas soared
+in California because generators that use gas to make electricity increased
+production last year in response to the energy crisis.
+
+??"We're not withholding capacity--no one is," said El Paso Merchant Energy
+President Ralph Eads. "With these prices, you want to sell every molecule."
+
+??In other developments Thursday:
+
+??* The agreement between Davis and Edison International to return its ailing
+utility arm to financial health is in "deep trouble and could be rejected by
+legislators," the Standard & Poor's credit rating agency said in a note to
+clients, citing legislative and other sources. A rejection of the deal "would 
+be
+a humiliating setback for the governor," S&P said.
+
+??The agreement calls for, among other things, the sale of Edison's
+transmission grid to the state for $ 2.76 billion and the sale of $ 2 billion 
+in
+bonds--both designed to pay off the utility's huge electricity debt. Edison
+agreed to several constraints, including the sale of electricity to the state 
+at
+prices tied to the cost of producing power.
+
+??Since they returned Monday from a two-week recess, state legislators have
+been sharply critical of the Edison agreement and have indicated a desire to
+tinker with aspects of the deal. Some lawmakers have said publicly that a
+bankruptcy protection filing by Edison, like that of PG&E, might not be such a
+dire outcome.
+
+??But a senior Edison executive said it is "way too early" to give up on
+passage of the proposal, which legislators have not yet seen in official form.
+
+??"There is an education process to do here," the executive said of the highly
+detailed 38-page document. "The legislators should be asking questions. That 
+is
+appropriate."
+
+??* The Public Utilities Commission voted to investigate whether alternative
+energy providers violated contractual agreements by withholding supplies from
+PG&E and Edison, which owe them hundreds of millions of dollars.
+
+??The action, Commissioner Carl W. Wood said, was prompted in part by lawsuits
+some providers have filed seeking release from their contracts with the
+cash-starved utilities. The producers of solar, wind and geothermal energy
+account for more than 25% of California's electricity supply.
+
+??"The question is whether we will be able to rely on them in the long, hot
+days of summer," Wood said.
+
+??Jack Raudy of the Renewable Energy Creditors Committee said the PUC needs to
+address the $ 700 million the producers are owed. "All we have gotten is
+rhetoric from the governor, the PUC and the utilities," he said.
+
+??* An $ 850-million plan to entice Californians to conserve precious 
+megawatts
+appears to be running into roadblocks, compounding predictions by state
+officials of tighter than expected energy supplies in May and June.
+
+??Davis signed the conservation spending package last week, earmarking $ 242
+million of the new funds for the Public Utilities Commission to distribute to
+the state's investor-owned utilities to support existing conservation 
+programs.
+
+??But Barbara Hale, director of the PUC's Division of Strategic Planning, said
+Thursday that since Pacific Gas & Electric Co. filed for bankruptcy protection
+April 6, the utility has stopped releasing conservation funds.
+
+??Hale, testifying before a state Senate committee, said PG&E's
+decision--coupled with the threat that Southern California Edison could 
+follow a
+similar route to U.S. Bankruptcy Court--has complicated her agency's efforts.
+
+??PG&E spokeswoman Staci Homrig said her company plans to petition the
+Bankruptcy Court to have the conservation funds designated as a trust and
+separated from assets tied up in the bankruptcy proceedings. She said if the
+court denies the request, PG&E would ask to be permitted to pay the expenses
+anyway. The process, she added, could take about a month--too long in the view
+of some legislators, given increasingly gloomy energy forecasts for late 
+spring
+and early summer.
+
+??Deputy Director Bob Therkelsen of the California Energy Commission said his
+agency had been counting on a number of small power producers to bolster their
+output during that period. But he said some producers did not purchase the
+necessary equipment because PG&E and Edison have failed to pay them in full 
+for
+earlier electricity deliveries.
+
+??"It's not a huge amount," he said of the anticipated production shortfall,
+"but every little bit helps."
+
+
+??*
+
+??Landsberg reported from Los Angeles, Bustillo from Sacramento. Times staff
+writers Nancy Rivera Brooks in Los Angeles, Carl Ingram and Julie Tamaki in
+Sacramento and Tim Reiterman in San Francisco contributed to this story.
+
+LOAD-DATE: April 20, 2001
+
+??????????????????????????????16 of 78 DOCUMENTS
+
+??????????????Copyright 2001 Knight Ridder/Tribune News Service
+???????????????????????Knight Ridder/Tribune News Service
+
+??????????????????????????The Orange County Register
+
+????????????????????????????April 20, 2001, Friday
+
+SECTION: STATE AND REGIONAL NEWS
+
+KR-ACC-NO: ?K497
+
+LENGTH: 846 words
+
+HEADLINE: Federal energy commission considers price fix for state energy 
+market
+
+BYLINE: By Dena Bunis
+
+BODY:
+
+??WASHINGTON _ Californians who see federal re-regulation of the state's
+crisis-bound energy market as an answer to the impending summer emergency 
+better
+look for some other solution.
+
+??Even the short-term price fix that the Federal Energy Regulatory Commission
+may consider at its Wednesday meeting might be too little too late.
+
+??Lobbyists, lawmakers and other FERC-watchers say they have seen a slight
+shift in recent weeks among commission staff and at least one member. There is
+some willingness, they say, to consider some price controls, even though the
+Bush administration is adamantly opposed to such measures.
+
+??Many are looking to see if President Bush's choices for the two vacancies on
+FERC will provide a margin for change.
+
+??But the commission's basic philosophy that open, unregulated markets are 
+best
+is not likely to change soon, members say.
+
+??"I've been championing a revamping of FERC's antiquated standards for
+determining market-based rates," Commissioner Richard Massey said Thursday. 
+But
+with no success. " My agency is not on the verge of turning on a dime on this
+market-based pricing."
+
+??The standards are a joke, Massey added, because the commission never turns
+down requests for such pricing authority. More than 600 power sellers have 
+been
+given that authority, he said.
+
+??For a power company to be allowed to charge whatever the market will bear, 
+it
+must show FERC, for example, that it doesn't have the power to manipulate the
+market and drive prices up.
+
+??"Any seller that can't pass our screen needs to fire their consultants and
+lawyers," Massey said.
+
+??While the overall philosophy remains consistent, FERC staff has proposed to
+the commission that a Stage 3 electricity emergency in California should 
+trigger
+cost-based rates, a form of price controls. Such triggers would be in place 
+for
+one year, under the staff proposal.
+
+??The commission may decide Wednesday whether to accept that proposal. It has
+to make some decision by May 1 on how the market will be monitored from now 
+on.
+
+??The theory behind controlling prices in Stage 3, says a FERC staff report, 
+is
+that during such an emergency generators have the greatest opportunity to
+manipulate the market and drive prices up.
+
+??But generators have that power during Stage 2 and Stage 1 emergencies, says
+Les Starck, Southern California Edison Co.'s manager of federal regulatory
+affairs. Price caps during Stage 3 might avert the rolling blackouts 
+associated
+with that level of crisis, but they wouldn't do anything to stop generators 
+from
+jacking up prices the rest of the time, he said.
+
+??It is not clear how long it would take for such price controls to take
+effect, should the commission go along with the staff recommendation.
+
+??"We're close because summer is approaching," Commissioner Linda Breathitt
+said Thursday. Breathitt, who had firmly opposed any form of price controls,
+said in an interview last month that given the worsening crisis in California
+she was open to considering some short-term measures.
+
+??"It's important to me that we address the summer," Breathitt said, but said
+she wasn't able to predict what the commission would do Wednesday.
+
+??Even if an order is approved, Massey said, there could be delays while the
+power sellers file their costs with regulators and disputes over those filings
+are handled.
+
+??Sen. Dianne Feinstein said Thursday such a move by the commission would be
+"better than having no controls at all. There's no question that we're going 
+to
+be in a Stage 3 emergency."
+
+??Feinstein, D-Calif., and other Western lawmakers have been urging FERC to
+step in sooner and with price controls that extend beyond just the emergency
+period.
+
+??Waiting for Stage 3 to intervene "is putting the whole grid at risk," said
+Roger Hamilton, a member of Oregon's Public Utility Commission. "We have a 
+real
+stability problem when you cut it that close."
+
+??Feinstein says the future could well rest with the new commissioners,
+particularly Patrick Wood, the head of the Texas PUC who many believe will
+replace Curt Heber as FERC chairman if he is confirmed by the Senate.
+
+??Even if Massey and Breathitt agree on broader price controls, as chairman,
+Heber could block consideration of such a move. It's unclear what stance Wood
+would take as chairman.
+
+??"The thing that deeply concerns me about Pat Wood is that he's from Texas,"
+Feinstein said. "What's reassuring is that it appears from my personal
+discussion with him is that he appears to be pragmatic."
+
+??But once again, timing could be a problem.
+
+??Bush has said he intends to nominate Wood and Nora Brownell, a member of the
+Pennsylvania PUC, but has not formally sent their nominations to the Senate.
+
+??"The Federal Energy Regulatory Commission is of vital importance right now,
+and to let the time go on without filling the spots makes no sense," Feinstein
+said. "Please please please, President Bush, process your nominees."
+
+??KRT CALIFORNIA is a premium service of Knight Ridder/Tribune
+
+??(c) 2001, The Orange County Register (Santa Ana, Calif.).
+
+??Visit the Register on the World Wide Web at http://www.ocregister.com/
+ 
+JOURNAL-CODE: OC
+
+LOAD-DATE: April 20, 2001
+
+??????????????????????????????17 of 78 DOCUMENTS
+
+??????????????Copyright 2001 Knight Ridder/Tribune News Service
+???????????????????????Knight Ridder/Tribune News Service
+
+????????????????????????????San Jose Mercury News
+
+????????????????????????????April 20, 2001, Friday
+
+SECTION: STATE AND REGIONAL NEWS
+
+KR-ACC-NO: ?K512
+
+LENGTH: 696 words
+
+HEADLINE: In response to power woes, rating agencies have California on credit
+watch
+
+BYLINE: By Jennifer Bjorhus
+
+BODY:
+
+??SAN JOSE, Calif. _ All three of the nation's influential judges of credit
+risk now have California on credit watch, saying they are deeply concerned 
+about
+the economic impact of the state's power crisis.
+
+??The Fitch credit rating agency made it unanimous Wednesday when it warned
+that the thickening electricity quagmire, as well as lower than expected tax
+revenues in February and March, could spell broader risk for the state's 
+budget.
+
+??The announcement is a signal that Fitch, too, may downgrade its ratings on
+California's nearly $30 billion in public debt, a move which could cost
+taxpayers millions.
+
+??The announcement comes as state lawmakers mull a bailout plan for Southern
+California Edison, Pacific Gas & Electric Co. sits in bankruptcy and state
+officials bleed through the state's general fund as they purchase expensive
+electricity for consumers. Earlier this week, Gov. Gray Davis announced that 
+the
+average daily bill for electricity purchases has risen from $45.8 million a 
+day
+in the last week of March, to $73 million a day.
+
+??Moody's Investors Service and Standard & Poor's have already issued their 
+own
+credit warnings, although none of the three agencies has actually downgraded 
+the
+state's very good double-A credit rating.
+
+??Bond ratings are important yardsticks that bankers and investors use to 
+price
+municipal and corporate bonds. A downgrade would force California to offer
+bondbuyers higher interest rates going forward, costing taxpayers.
+
+??The state was last at a lower A rating back in 1994.
+
+??Moody's changed California's Aa2 general obligation bond rating outlook from
+stable to negative on April 6, the day Pacific Gas & Electric Co. filed for
+bankruptcy. Standard & Poor's has had the state's AA rating outlook at 
+negative
+since January, when the state began buying electricity for the utilities.
+
+??The deciding factor for Fitch, said Fitch vice chairman Claire Cohen, was 
+the
+disagreement over how the money from the new electricity rate hike will be
+spent.
+
+??The California Public Utilities Commission ruled in late March that money
+generated by higher electricity bills should go first to pay the state
+Department of Water Resources, which has been buying electricity for the
+utilities. Pacific Gas & Electric Co. has argued that if the state is paid
+first, there won't be any money left for it.
+
+??The utility is formally challenging the PUC decision, and the move threatens
+to hold up the estimated $12 billion to $14 billion of bonds the Department of
+Water Resources plans to issue to buy more electricity.
+
+??"With that being appealed you don't have a clean authorization," Cohen said.
+"It signals to me that it could delay the financing process."
+
+??A second concern is that the state isn't collecting as much in taxes as
+expected, Cohen said. Tax collections for both February and March were below
+forecast. The amount of personal income tax the state collected in those 
+months
+fell short by $455 million, or 14% less than expected.
+
+??Cohen said she made her decision before hearing that the state's power costs
+now exceed $70 million a day. Cohen and David Hitchcock, the California 
+analyst
+for Standard & Poors, agreed those rising costs are a definite concern.
+
+??"It doesn't take much of a change in economic growth to make some of these
+projected fund balances disappear and so we're very worried about what the
+current economic activity is, particularly in Northern California with some of
+the problems with the high tech area," Hitchcock told analysts and investors
+last week in a conference call.
+
+??State treasurer Phillip Angelides was traveling Thursday and couldn't be
+reached for comment. Other economy-watchers expressed concern.
+
+??Sandy Harrison, assistant director of the state Dept. of Finance, said the
+move reinforced the importance of solving the current power problems soon.
+
+??"It's important to note that the rating hasn't been lowered yet and does
+remain very strong," he said.
+
+??KRT CALIFORNIA is a premium service of Knight Ridder/Tribune
+
+??(c) 2001, San Jose Mercury News (San Jose, Calif.).
+
+??Visit Mercury Center, the World Wide Web site of the Mercury News, at
+http://www.sjmercury.com/
+ 
+JOURNAL-CODE: SJ
+
+LOAD-DATE: April 20, 2001
+
+??????????????????????????????18 of 78 DOCUMENTS
+
+??????????????Copyright 2001 Knight Ridder/Tribune News Service
+???????????????????????Knight Ridder/Tribune News Service
+
+????????????????????????????San Jose Mercury News
+
+????????????????????????????April 20, 2001, Friday
+
+SECTION: STATE AND REGIONAL NEWS
+
+KR-ACC-NO: ?K520
+
+LENGTH: 1069 words
+
+HEADLINE: Issues still remain on what power consumers will eventually pay
+
+BYLINE: By John Woolfolk and Michael Bazeley
+
+BODY:
+
+??SAN JOSE, Calif. _ State regulators last month announced an electric rate
+increase that would average a whopping three cents per kilowatt hour, hit 
+bills
+beginning in May and punish power pigs while sparing energy misers.
+
+??Now, much of that is up in the air.
+
+??Higher rates are surely coming _ but not before June. Exactly which 
+consumers
+and businesses will pay how much is uncertain as regulators rush to forge a 
+rate
+structure from a tangle of more than 20 proposals.
+
+??Their task has been complicated immeasurably by Gov. Gray Davis' decision to
+weigh in with a competing rate plan and Pacific Gas & Electric's move into
+bankruptcy court.
+
+??"Little details are moving billions of dollars around," said Nettie Hoge of
+consumer advocate group TURN.
+
+??All the proposals assume a "tiered" structure that forces the heaviest users
+of energy to pay the most. But key details yet to be decided mean consumers
+could see their average rates go up anywhere from 7 percent to 30 percent or
+more.
+
+??Among them:
+
+??_How much of an overall increase? The Public Utilities Commission approved a
+3-cent per kilowatt hour increase last month, which would boost utility 
+revenue
+$4.8 million. Gov. Gray Davis' hike _ left vague in Davis' April 5 television
+address _ averages 2.8 cents for PG&E customers but only 2.3 cents for 
+customers
+of Southern California Edison.
+
+??_What regions of the state will pay? The commission agreed to raise rates
+only for Pacific Gas & Electric and Southern California Edison, but Davis 
+would
+include the additional 1.2 million San Diego Gas & Electric customers.
+
+??_Should heavier users of electricity subsidize those who are exempt from the
+new rate increase? If so, those users will find themselves paying much more 
+than
+any of the average increase figures being tossed about.
+
+??_How will utilities bill customers retroactively for the increase? At the
+time of the PUC vote on March 27, commissioner said their increase would take
+effect immediately.
+
+??Various plans are being presented this week to an administrative law judge
+working for the commission. The judge is expected to recommend a rate 
+structure
+to the PUC on May 4. Public hearings would follow May 7-11, and the commission
+would vote on a plan May 14, condensing to a few weeks a process that normally
+lasts nearly a year.
+
+??Each of the major proposals before the commission assumes that residential
+customers using less than 130 percent of their baseline would be exempt from
+higher rates. That's mandated under a new law that allows the state to buy
+power. Customers already pay higher rates for exceeding their baseline, which 
+is
+the average basic level of use for each region of the state.
+
+??Each major proposal also sets new "tiers" with progressively higher rates 
+for
+"medium" use at 130 to 200 percent of baseline and "heavy" use over 200 
+percent
+of that level.
+
+??But that's where the similarities end.
+
+??The first distinction among the leading plans comes in the form of an
+assumption: How many residential customers will avoid any increase because 
+they
+don't exceed 130 percent of their baseline? Davis says more than half,
+commissioners say a little under half and PG&E says less than a third.
+
+??The second difference among the plans is a real difference: What happens to
+everyone else?
+
+??Under the plan by utilities commission President Loretta Lynch, medium PG&E
+users would see average bills rise 9 percent and heavy users would see bills
+increase 36 percent.
+
+??Davis' plan says medium PG&E users would see average bills rise 11 percent
+while heavy users would pay 37 percent more. But the average total bill 
+increase
+for PG&E residential customers, including those who are exempt, would be 20
+percent under his plan and 24 percent under Lynch's, according to a statement 
+on
+the governor's web site.
+
+??Business customers would see proportionately greater increases, averaging 30
+percent under Lynch's proposal and 26 percent under Davis'.
+
+??The most consumer-friendly of the various proposals comes from
+consumer-rights group TURN. They suggest an overall average residential 
+increase
+of just 7.5 percent.
+
+??TURN's plan assumes utilities cannot charge other customers more to make up
+for the energy misers shielded from rate increases under state law.
+
+??PG&E disagrees with that interpretation. The utility wants other residential
+users to make up for any lost revenue from exempted customers through higher
+rates. Under the utility's plan, residential customers would see an average 
+rate
+hike of nearly 30 percent.
+
+??"The proposal these folks are pushing rips the heart out of that law," said
+Matthew Freedman, staff attorney for TURN.
+
+??Another issue affecting consumers is how the utilities can bill for
+electricity used in April and May, before the final plan is approved.
+
+??Utility officials have objected to making the rate structure retroactive.
+Instead, to recoup the revenue, they are proposing a flat surcharge that
+everyone would pay, regardless of how much they use.
+
+??Edison proposes a higher surcharge added to bills for a shorter period of
+time _ in this case, June through August. PG&E officials are suggesting a
+smaller surcharge that would be spread out over 12 months.
+
+??"It'll probably be something closer to the PG&E proposal," Paul Clanon, the
+commission's director of energy issues.
+
+??All the rate increase proposals stem from a commonly understood problem:
+California's current, frozen rates don't generate enough money to cover the
+wholesale price of power. The PUC raised rates 10 percent _ or 1 cent per
+kilowatt hour _ in January in an attempt to help, but that turned out to be 
+far
+from enough.
+
+??In March, the Commission approved an additional 3-cent increase. But Davis
+followed quickly with an alternative proposal. The next day, PG&E filed for
+bankruptcy, raising the specter that a federal judge could order even higher
+rates.
+
+??Although the PUC has sole authority to raise rates under state law, Davis'
+proposal has complicated an already complex process. The governor appointed
+three of the five members of the commission, and his appointees seem inclined 
+to
+show him deference. But Davis has been slow in filing the details of his plan,
+which has made it hard for the PUC to proceed.
+
+??KRT CALIFORNIA is a premium service of Knight Ridder/Tribune
+
+??(c) 2001, San Jose Mercury News (San Jose, Calif.).
+
+??Visit Mercury Center, the World Wide Web site of the Mercury News, at
+http://www.sjmercury.com/
+ 
+JOURNAL-CODE: SJ
+
+LOAD-DATE: April 20, 2001
+
+??????????????????????????????19 of 78 DOCUMENTS
+
+?????????????????Copyright 2001 The Chronicle Publishing Co.
+
+?????????????????????????The San Francisco Chronicle
+
+????????????????????APRIL 20, 2001, FRIDAY, FINAL EDITION
+
+SECTION: NEWS; Pg. A4
+
+LENGTH: 765 words
+
+HEADLINE: Edison pushes lawmakers to accept deal
+
+SOURCE: Chronicle Staff Writer
+
+BYLINE: David Lazarus
+
+BODY:
+Although lawmakers are skeptical of the state's multibillion-dollar deal to
+acquire the power lines of Southern California Edison, the head of the 
+utility's
+parent company warned yesterday that failure to approve the accord could lead 
+to
+a "long and costly" bankruptcy.
+
+???But John Bryson, chief executive of Edison International, told The 
+Chronicle
+that he thought legislators would "want to do the right thing" by approving 
+the
+multibillion-dollar agreement and preventing Edison from following Pacific Gas
+and Electric Co. into bankruptcy court.
+
+???Bankruptcy for California's two largest utilities could have severe
+consequences for consumers. Financial analysts said a worsening of the state's
+energy mess would increase the possibility of higher electricity rates.
+
+???Nevertheless, lawmakers are unlikely to accept the Edison deal -- at least
+not in its present form.
+
+???"We are going to go through this thing extensively," said state Senate
+President Pro Tem John Burton, D-San Francisco. "There are a lot of concerns
+about the valuation."
+
+???Still, he said, legislative backing for the accord remains possible as long
+as Edison is open to amending some of the terms.
+
+???"The Edison people are smart enough to know that the Legislature is going 
+to
+have its say," Burton said.
+
+???Indeed, sources familiar with the matter said Edison expected a certain
+amount of tinkering with the deal and would not resist efforts to reach common
+ground with lawmakers.
+
+???"The Assembly members do not view bankruptcy as a favorable alternative,"
+said Assemblyman Herb Wesson, D-Los Angeles. "There will be a big effort to 
+try
+and work something out."
+
+???Edison's Bryson seems eager at this point to present himself and his 
+company
+as reasonable business partners who are willing to negotiate in good faith.
+
+???This contrasts sharply with the state's relations with PG&E, which turned
+acrimonious after PG&E blindsided the governor with its bankruptcy filing. 
+Each
+side blamed the other for the collapse of earlier negotiations.
+
+???"We made the decision at an early stage that this was a massive problem for
+the state and that the best course was to find a practical solution that would
+allow us to get on with operating our power system," Bryson said.
+
+???Bankruptcy, he said, "is absolutely a last resort. It's a long and costly
+process."
+
+???It is also the last thing Wall Street wants to see. On Wednesday, rating
+agency Fitch Inc. joined Standard & Poor's and Moody's Investor Service in
+warning that California's credit rating could be lowered because of the 
+state's
+energy mess.
+
+???"The state may be forced to issue junk bonds," said Carol Coale, an
+energy-industry analyst at Prudential Securities in New York. "This could lead
+to a surcharge on electricity bills to guarantee the bonds."
+
+???Bryson, not surprisingly, defended Edison's agreement with the governor as 
+a
+prudent alternative to bankruptcy.
+
+???"This is a very good deal for the state," he said. "It is not a bailout.
+Edison gives up a lot to make all this possible."
+
+???Southern California Edison will sell its power lines to the state for $2.8
+billion. It also will provide low-cost power to California for 10 years and 
+drop
+a federal lawsuit seeking full recovery of nearly $5 billion in past debt.
+
+???Critics say the state is paying far too much for Edison's transmission
+system -- more than two times book value -- and that the power lines are of
+little use unless PG&E's grid also can be acquired.
+
+???"It's a multibillion-dollar ratepayer bailout of Edison," said Doug Heller,
+a spokesman for the Foundation for Taxpayer and Consumer Rights in Santa 
+Monica.
+"Edison gets off scot-free."
+
+???Under the most likely scenario, lawmakers will seek to reduce the amount
+paid for Edison's power lines and to increase the role of the California 
+Public
+Utilities Commission in regulating the utility.
+
+???They also will try to come up with a workable contingency plan for the 
+state
+if PG&E remains adamant in its refusal to sell off its part of the power grid.
+
+???"The deal on the table is still salvageable," said Michael Shames, 
+executive
+director of the Utility Consumers' Action Network in San Diego. "But Edison
+needs to understand that what it got from the governor is only a framework, 
+not
+set in stone."
+
+???For his part, Bryson signaled that plenty of room existed for give and take
+on the issue.
+
+???"We're just at the initial stage," he said. "We always have accepted the
+notion that Edison is a California regulated utility and is subject to the 
+laws
+of the Public Utilities Commission."E-mail David Lazarus at
+dlazarus@sfchronicle.com.
+
+GRAPHIC: PHOTO, Gov. Gray Davis (left) and John Bryson, chairman of Edison
+International, announced a transmission line deal on April 9. Bryson said 
+Edison
+may go into bankruptcy if the deal isn't approved.
+
+LOAD-DATE: April 20, 2001
+
+??????????????????????????????24 of 78 DOCUMENTS
+
+???????????????????The Associated Press State & Local Wire
+
+The materials in the AP file were compiled by The Associated Press. ?These
+materials may not be republished without the express written consent of The
+Associated Press.
+
+???????????????????????April 20, 2001, Friday, BC cycle
+
+?????????????????????????????7:04 AM Eastern Time
+
+SECTION: State and Regional
+
+LENGTH: 438 words
+
+HEADLINE: Most Edison executives going without bonuses
+
+BYLINE: By GARY GENTILE, AP Business Writer
+
+DATELINE: LOS ANGELES
+
+BODY:
+
+??Senior executives at Edison International and its subsidiary, Southern
+California Edison, went without hundreds of thousands of dollars in bonuses in
+2000 because of California's power crisis.
+
+??Edison International's chairman and chief executive, John Bryson, was paid $
+950,000 in 2000, compared with salary and bonus totaling $2.16 million in 
+1999.
+
+??Stephen Frank, the chairman and chief executive at Southern California
+Edison, was paid $617,000 in 2000, compared with salary and bonus totaling 
+$1.3
+million in 1999, according to the company's proxy statement filed with the
+Securities and Exchange Commission.
+
+??The company also said Thursday it would not award merit increases to
+executives in 2001 because of the continuing crisis.
+
+??In a similar proxy statement released Tuesday, Pacific Gas and Electric 
+Corp.
+revealed it also withheld bonuses for its top two executives, although they 
+did
+receive raises.
+
+??Edison and PG&E say they've lost nearly $14 billion since June to high
+wholesale prices that the state's electricity deregulation law bars them from
+passing on to consumers. PG&E, saying it hasn't received the help it needs 
+from
+regulators or state lawmakers, filed for federal bankruptcy protection April 
+6.
+
+??Edison is continuing to work with state officials and its creditors.
+
+??The utility said its board of directors decided to withhold bonuses to all
+but two key executives because the financial effects of the energy crisis have
+overshadowed all other aspects of company and individual performance.
+
+??The two executives who did get bonuses earned them for their roles in
+preserving the viability of the companies during the crisis and for retention
+purposes, Edison said.
+
+??Ted Craver, senior vice president, chief financial officer and treasurer at
+Edison International, was paid $375,000 in 2000 and received a $100,000 bonus.
+His total compensation in 1999 was $652,100.
+
+??Harold Ray, executive vice president at Southern California Edison, received
+a salary of $390,000 in 2000 and a bonus of $50,000. His cash compensation in
+1999 was $818,400.
+
+??PG&E paid Chairman Robert D. Glynn Jr. $945,086 in salary and benefits 
+during
+2000, a 58 percent decrease from $2.26 million in the prior year, according to
+the company's proxy statement.
+
+??Glynn, 57, received a 12.5 percent increase in his base salary but didn't 
+get
+a bonus.
+
+??Gordon R. Smith, who runs Pacific Gas and Electric, received a 14.5 percent
+raise in his base salary to $630,000 but didn't receive a bonus. In 1999,
+Smith's compensation package totaled $1.1 million.
+
+LOAD-DATE: April 20, 2001
+
+??????????????????????????????28 of 78 DOCUMENTS
+
+???????????????????The Associated Press State & Local Wire
+
+The materials in the AP file were compiled by The Associated Press. ?These
+materials may not be republished without the express written consent of The
+Associated Press.
+
+??????????????????????April 19, 2001, Thursday, BC cycle
+
+SECTION: State and Regional
+
+LENGTH: 901 words
+
+HEADLINE: Top political aide discusses Bush's low-key style
+
+BYLINE: By RON FOURNIER, AP White House Correspondent
+
+DATELINE: WASHINGTON
+
+BODY:
+
+??When 24 members of a Navy spy plane crew returned to the United States after
+11-days in Chinese custody, President Bush was noticeably absent from their
+homecoming ceremonies.
+
+??He also kept a low profile as the Senate shrank his tax-cut plan by $400
+billion, and had little to say about riots in Cincinnati this month.
+
+??Such is the silent style of the new president, says Bush's top political
+strategist, Karl Rove.
+
+??"Every administration is marked in contrast to its predecessor. The previous
+administration felt compelled to dominate the evening news every day and the
+president said, 'I'm focused on getting the job done,"' Rove said Wednesday in
+an Associated Press interview.
+
+??Running a low-key presidency sets Bush apart from former President Clinton,
+but the style has its critics.
+
+??Some lawmakers, including members of his own party, said Bush could have
+saved more of his $1.6 trillion tax-cut plan if he had personally lobbied more
+lawmakers.
+
+??Bush issued a statement expressing sympathy with police and protesters in
+Cincinnati, but ran the risk of looking detached.
+
+??And Rove acknowledged that there was some discussion in the White House 
+about
+Bush attending the U.S. crew's homecoming to reap the public relations reward
+for freeing the crew.
+
+??But the president vetoed the idea, according to Rove, who quoted Bush as
+saying, "I want it to be about them and I don't want to go through the
+discombobulation that it would require of them and their families for me to 
+show
+up."
+
+??It is not hard to imagine Clinton commanding center stage during city riots,
+a budget battle or an international crisis, but Rove said, "We intended to 
+have
+a smaller profile than the previous administration."
+
+??Bush's "attitude is that he's not going to be measured by whether or not he
+gets on the evening news but on whether or not he gets progress," Rove said
+during the 45-minute interview.
+
+??He sat at a polished wood conference table in his West Wing office, his 
+hands
+folded over a memo he had discretely turned upside down. Newspapers and a
+Starbucks coffee mug littered his desktop. Framed photos and artwork were
+propped against a chair, still awaiting hanging on his 89th day in the White
+House.
+
+??A painting of a Texas landscape decorated one wall, allowing Bush's 
+political
+strategist of eight years to "go on vacation whenever I'm on the phone."
+
+??Rove is on the telephone a lot these days crafting strategies to pass the
+White House legislative agenda, maintain GOP control of Congress in 2002 and
+position the president for a re-election bid in 2004.
+
+??Bush narrowly won the White House without California's 54 electoral votes,
+and Rove said the president could win re-election without the state "but it's
+always nicer to carry the Golden State."
+
+??He said the state's electricity shortage will not hurt Bush's chances in
+2004, adding that the administration has done "virtually everything" Gov. Gray
+Davis has requested.
+
+??He suggested that the state caused its own problems by not building enough
+power plants and failing to follow the lead of other states, such as Bush's
+Texas, to establish sound energy policies before a crisis struck.
+
+??"This has got a very human dimension to it," Rove said. "It's one thing to
+talk about power supplies. It's another thing when you talk about how it 
+affects
+their jobs, how it's affecting their livelihoods, how it's affecting the 
+safety
+of their communities and the health of their families. This is a tough issue 
+and
+it ought to be a wake up call for the entire country."
+
+??A White House task force headed by Vice President Dick Cheney is working on
+recommendations to address both short-term problems of soaring electricity and
+natural gas prices and longer-term energy supply problems, focusing on 
+producing
+more domestic oil and gas and building more electric power plants.
+
+??Rove said the administration will soon unveil new conservation measures 
+aimed
+at helping California ease its shortages.
+
+??He said Bush and his political team are bringing House Republicans from
+politically competitive states to the White House, where they discuss their
+districts' needs and, often, gain local media attention.
+
+??Bush also plans to attend fund-raisers for House and Senate campaign
+committees, helping the party gear up for 2002 midterm elections in which
+control of Congress is at stake.
+
+??Rove also said:
+
+??-Bush will not seek broad authority to negotiate trade treaties anytime 
+soon,
+allowing time to make the legislation more attractive to Democrats. "You can
+only put so much into that pipe, and we've stuffed it," he said of Bush's
+crowded legislative agenda. The "fast track" authority is key to Bush's plans
+for a free trade zone stretching from Canada to Chile. That proposal is the
+focus of the three-day Summit of the Americas beginning Friday in Quebec City.
+
+??-Americans will support Bush's environmental policies despite criticism of
+his decision to overturn some initiatives of the final days of the Clinton
+administration. Rove stopped short of accusing Clinton of setting Bush up for
+political troubles. "I'm not certain I see a conspiracy there. I do think it's
+interesting" that Clinton waited until the last moment to act.
+
+??-Bush has not wavered since the campaign in his view that states should be
+able to opt out of minimum wage increases passed by Congress. "We are not all
+one single labor market," Rove said.
+
+GRAPHIC: AP Photo WX109
+
+LOAD-DATE: April 20, 2001
+
+??????????????????????????????29 of 78 DOCUMENTS
+
+???????????????????The Associated Press State & Local Wire
+
+The materials in the AP file were compiled by The Associated Press. ?These
+materials may not be republished without the express written consent of The
+Associated Press.
+
+??????????????????????April 19, 2001, Thursday, BC cycle
+
+SECTION: State and Regional
+
+LENGTH: 727 words
+
+HEADLINE: Utility commission staff says parent company profiting from energy
+sales
+
+DATELINE: BOISE, Idaho
+
+BODY:
+
+??IDACORP made $66 million in profits in the past year by buying electricity 
+on
+the spot market and reselling it for a higher price to its subsidiary, Idaho
+Power Co., the staff for state utility regulators contends.
+
+??The Idaho Public Utilities Commission staff said such profits should not 
+come
+at the expense of Idaho Power ratepayers facing staggering electrical bills.
+
+??In a report to commissioners posted on the agency's Internet site Wednesday,
+the staff recommended Idaho Power's proposed increases for residential and
+commercial customers be cut by about half.
+
+??Idaho Power seeks rate increases over the coming year totaling $227.4
+million. The regulatory staff recommends a $108.7 million increase. For
+residential customers, a requested 34-percent hike would be reduced to 16
+percent.
+
+??"This is not a final decision," said Jeff Beaman, a spokesman for IDACORP 
+and
+Idaho Power. "In many cases, the commissioners disagree with the staff."
+
+??The report noted there was nothing illegal about the transactions between
+Idaho Power and its sister company, Idaho Energy Systems. To change that, the
+staff urged commissioners to create a mechanism that forces Idaho Power to buy
+electricity at the same price Idaho Energy Systems pays for it.
+
+??The report said Idaho Energy Systems, an unregulated subsidiary of IDACORP,
+repeatedly purchased electricity on the wholesale market and then sold it to
+Idaho Power for a profit.
+
+??Idaho Power officials contend the recommended policy change could 
+financially
+cripple the company. It already spent $161 million buying power on the open
+market and cannot recover the money unless the coming year's rate is 
+increased.
+
+??"The failure to recoup these funds could lead to liquidity problems," Beaman
+said, "and that will hurt not only the company but our customers as well."
+
+??But IDACORP paid all of its salaried staff - including Idaho Power employees
+- a 15-percent bonus at the end of the last fiscal year because the company 
+had
+achieved record profits of $139.9 million, 53 percent over the year before.
+
+??Beaman said incentive payments have no impact on the rate request.
+
+??Charging the higher rate between the two subsidiaries was the result of a
+commission order tying the price that Idaho Energy charges for wholesale
+electricity to the Mid-Columbia Index. The index has been pegged at 
+unrealistic
+levels since the energy crisis erupted in California, and fluctuates 
+constantly.
+
+??"We are confident that the transactions were performed within the letter and
+spirit of the law, and have not been at the expense of ratepayers," Beaman 
+said.
+
+??Commission spokesman Gene Fadness said commissioners cannot comment on a 
+case
+before them, but their ultimate decision can be appealed to the Idaho Supreme
+Court.
+
+??The Public Utilities Commission staff also recommended:
+
+??- Deferring $66.1 million of Idaho Power's rate request, without interest,
+until answers are available about the company's electricity deals.
+
+??- Deferring another $45.8 million of the request until next year, when the
+commissioners would allow Idaho Power to collect 5-percent interest. That part
+of the hike was earmarked for wholesale power purchases this year - purchases
+that the staff believes will be much more expensive next year.
+
+??- Cutting another $10.3 million from the increase request, contending it was
+an error by Idaho Power's Risk Management Committee that the company planned 
+on
+passing on to ratepayers.
+
+??- Implementing a low-interest loan program to encourage energy conservation
+by Idaho Power customers.
+
+??- A two-year phase-in of any rate increase ultimately approved that is
+substantially over 20 percent.
+
+??- Changing residential rates to a three-tiered system to encourage savings.
+
+??Homeowners would pay 5.52 cents per kilowatt-hour for the first 800 kwh 
+used,
+6.12 cents per kwh for use between 800 kwh and 2,000 kwh, and 7.48 cents per 
+kwh
+for use over 2,000 kwh. The current residential rate of 5.2 cents per kwh.
+
+??The staff report also took Idaho Power to task, saying it was warned of the
+possibility of spiraling prices and power shortages as far back as 1995.
+
+??But the company contends it did not want to build generating plants during
+the past decade because with electricity deregulation looming, nobody knew 
+what
+independent power facilities were being considered.
+
+LOAD-DATE: April 20, 2001
+
+??????????????????????????????30 of 78 DOCUMENTS
+
+???????????????????The Associated Press State & Local Wire
+
+The materials in the AP file were compiled by The Associated Press. ?These
+materials may not be republished without the express written consent of The
+Associated Press.
+
+??????????????????????April 19, 2001, Thursday, BC cycle
+
+SECTION: State and Regional
+
+LENGTH: 820 words
+
+HEADLINE: Legislators probe possible power, natural gas collusion
+
+BYLINE: By DON THOMPSON, Associated Press Writer
+
+DATELINE: SACRAMENTO
+
+BODY:
+
+??Southern California Edison was charged about $750 million more this year for
+natural gas because of unchecked free-market forces, an industry consultant
+testified.
+
+??Paul Carpenter told the Assembly Electricity Oversight Subcommittee on
+Wednesday the price spikes came after the El Paso Natural Gas Co. contracted
+first with Dynegy and later with its own marketing affiliate, El Paso Merchant
+Energy, to control the pipeline capacity.
+
+??Officials with El Paso and other natural gas suppliers are expected to
+testify Thursday that they did not illegally manipulate the market.
+
+??The California Public Utilities Commission estimated a year ago that
+overcharges by the companies that control natural gas flow drove up prices by 
+$
+100 million a year to California gas and electricity customers.
+
+??But PUC attorney Harvey Morris said that was before last summer's price
+spikes, which he blamed on natural gas suppliers using a "monopoly" to "game 
+the
+system."
+
+??"It's way worse than we could possibly have imagined," Morris said after
+testifying before the subcommittee. "It's obviously way higher than $100
+million."
+
+??Natural gas rates at the California border generally tracked national prices
+until November, when they spiked as high as 11 times higher than the price of
+natural gas elsewhere in the nation, Carpenter said.
+
+??"I have never seen gas prices like this anywhere in the world," said
+Carpenter, who has been studying the energy market for 20 years for Cambridge,
+Mass.-based consultant The Brattle Group. The Brattle Group was hired by 
+Edison
+to study the natural gas market.
+
+??The committee is one of two legislative committees exploring whether illegal
+market manipulation in the electricity and natural gas markets has driven up
+California's energy costs.
+
+??"This is a market that is plagued by the exercise of market power," Frank
+Wolak, chairman of the California Independent System Operator's Market
+Surveillance Committee, told the Senate Select Committee to Investigate Price
+Manipulation of the Wholesale Energy Market. The ISO runs the state's power
+grid.
+
+??However, "there is no law against me saying, 'I'm not going to sell to 
+you,"'
+Wolak said. Market manipulation only becomes illegal when there is collusion,
+Wolak said, and such evidence is hard to find.
+
+??Electricity generators and natural gas suppliers say a severe supply and
+demand imbalance - not market manipulation - has led to higher prices.
+
+??"Everybody's busy doing investigations. They're not interested in solving 
+the
+problem," said Independent Energy Producers Executive Director Jan 
+Smutny-Jones.
+
+??Investigations "are wasting everybody's time," Smutny-Jones said, adding 
+that
+previous probes and lawsuits have uncovered no wrongdoing. He said the state's
+power problems came because state regulators denied utilities the chance to 
+sign
+long-term energy contracts when they had the chance.
+
+??"People have been playing by the rules," Smutny-Jones said.
+
+??But the Senate committee's first witnesses are ISO officials who authored
+studies that claim the state paid more than $6 billion too much for power last
+year.
+
+??Committee chair Joseph Dunn, D-Garden Grove, also has slated state Auditor
+Elaine Howell, who last month blamed buyers and sellers for skyrocketing
+electricity costs. Dunn also has scheduled future testimony from state, 
+federal,
+academic and private investigators studying the power market.
+
+??He invited five major generators to attend the committee's second hearing
+next week. All five - Reliant, Dynegy, Williams Energy, Duke Energy and 
+Mirant -
+say they are eager to cooperate and clear their names, Dunn said.
+
+??Dunn asked the five for a total of 86 specific documents. If the companies
+feel they cannot provide documents because of legal or confidentiality 
+concerns,
+Dunn said he will subpoena them.
+
+??Smutny-Jones said investigators appear to be growing desperate to blame the
+state's natural gas and electricity price hikes on illegal market manipulation
+instead of natural market forces.
+
+??He cited Attorney General Bill Lockyer's announcement last week that any
+informant who helped prove wrongdoing would be entitled to a percentage of the
+state's recovery he estimated could range from $50 million to hundreds of
+millions of dollars.
+
+??"If the state's offering a $50 million reward, they haven't found anything,"
+Smutny-Jones said. "I don't think you're going to find the fact that anybody 
+did
+anything criminal here."
+
+??Assemblywoman Jenny Oropeza, D-Long Beach, said she believes otherwise after
+Wednesday's testimony: "I think it is very clear there was some price
+manipulation going on."
+
+??But Assemblyman John Campbell, R-Irvine, isn't sure there was anything
+illegal.
+
+??"There clearly are market forces at work, that's evident," Campbell said.
+"Whether you make the jump to market manipulation ... I haven't seen 
+conclusive
+evidence that leads me to make that jump."
+
+LOAD-DATE: April 20, 2001
+
+
+
+ 

@@ -1,0 +1,40 @@
+Message-ID: <27918276.1075847580454.JavaMail.evans@thyme>
+Date: Thu, 17 May 2001 04:50:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: maureen.mcvicker@enron.com
+Subject: <<Concur Expense Document>> - May 2001
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Maureen McVicker
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+---------------------- Forwarded by Steven J Kean/NA/Enron on 05/17/2001 
+11:50 AM ---------------------------
+
+
+eserver@enron.com on 05/16/2001 10:46:18 AM
+To: "Steven.J.Kean@enron.com" <Steven.J.Kean@enron.com>
+cc:  
+
+Subject: <<Concur Expense Document>> - May 2001
+
+The following expense report is ready for approval:
+
+Employee Name: Michael Terraso
+Status last changed by:  Automated Administrator
+Expense Report Name: May 2001
+Report Total: $5,773.63
+Amount Due Employee: $5,773.63
+
+
+To approve this expense report, click on the following link for Concur 
+Expense.
+http://xms.enron.com
+
+

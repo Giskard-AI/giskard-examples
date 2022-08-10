@@ -1,0 +1,24 @@
+Message-ID: <11372541.1075862241188.JavaMail.evans@thyme>
+Date: Wed, 17 Oct 2001 09:03:34 -0700 (PDT)
+From: john.shelk@enron.com
+To: richard.shapiro@enron.com, d..steffes@enron.com, l..nicolay@enron.com, 
+	sarah.novosel@enron.com, linda.robertson@enron.com
+Subject: RTO Legal Question
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Shelk, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JSHELK>
+X-To: Shapiro, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rshapiro>, Steffes, James D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jsteffe>, Nicolay, Christi L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cnicola>, Novosel, Sarah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snovose>, Robertson, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lrobert3>
+X-cc: 
+X-bcc: 
+X-Folder: \RSHAPIRO (Non-Privileged)\Shapiro, Richard\Deleted Items
+X-Origin: Shapiro-R
+X-FileName: RSHAPIRO (Non-Privileged).pst
+
+
+
+I am working on an analysis of the details of the Barton draft RTO language.  While it is highly objectionable and our goal is to kill it, to do so we need to respond to requests to be specific about why we don't like it.  One of the more objectionable provisions says that FERC can't change the scope, governance, etc. of any RTO that has been "approved" under Order 2000 prior to enactment of the legislation.
+
+If this applies to PJM, the legislation would stop the Northeast-wide RTO in its tracks since several of you and PJM's Phil Harris testified last week that FERC has "approved" PJM.  By contrast, committee staff and the section-by-section they distributed on the RTO legislative proposal say that to date FERC has NOT approved any RTOs under Order 2000.  They say that the legislative language would not apply to any RTO as of this date because FERC approvals of PJM, Cal ISO and NePool have been approved under the "ISO principles" of Order 888.
+
+Your thoughts on the above would be helpful. Either way, I think we can argue that the provision shows why the Barton proposal is a retrenchment rather than an advancement on RTOs.  If it does not apply to PJM and the others as they contend, there is no good reason to include it other than to "freeze" the process at FERC merely by having the legislation pending on the Hill, much less enacted into law.

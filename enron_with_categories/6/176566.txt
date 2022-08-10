@@ -1,0 +1,35 @@
+Message-ID: <12044685.1075849869386.JavaMail.evans@thyme>
+Date: Mon, 9 Jul 2001 00:57:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: maureen.mcvicker@enron.com
+Subject: Expense Reports Awaiting Your Approval
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Maureen McVicker
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Nov2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+---------------------- Forwarded by Steven J Kean/NA/Enron on 07/09/2001 
+07:56 AM ---------------------------
+
+
+enron_update@concureworkplace.com on 07/09/2001 01:17:27 AM
+To: "John Brindle" <john_brindle@enron.net>
+cc: "Steven Kean" <skean@enron.com> 
+
+Subject: Expense Reports Awaiting Your Approval
+
+The following reports have been waiting for your approval for more than 4 
+days.  Please review.
+
+Owner: Kyle S Norosky
+Report Name: KN 008
+Days In Mgr. Queue: 5
+
+
+

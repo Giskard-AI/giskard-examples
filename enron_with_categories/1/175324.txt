@@ -1,0 +1,35 @@
+Message-ID: <9613487.1075847587164.JavaMail.evans@thyme>
+Date: Fri, 4 May 2001 08:35:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: john.brindle@enron.com
+Subject: Security
+Cc: richard.shapiro@enron.com, linda.robertson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: richard.shapiro@enron.com, linda.robertson@enron.com
+X-From: Steven J Kean
+X-To: John Brindle
+X-cc: Richard Shapiro, Linda Robertson
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+We are concerned about leaks to the press which may have ocurred from our 
+Washington office over the last few months (including leaks from a former 
+employee).  Could you put someone in touch with Rick and Linda Robertson 
+(head of our DC office)?
+---------------------- Forwarded by Steven J Kean/NA/Enron on 05/04/2001 
+03:33 PM ---------------------------
+
+
+Richard Shapiro
+05/02/2001 08:03 AM
+To: Steven J Kean/NA/Enron@Enron
+cc:  
+
+Subject: Security
+
+Should I also talk to Brindell about possible inside leak?  anything else I 
+need to do relative to security ?

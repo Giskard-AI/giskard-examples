@@ -1,0 +1,86 @@
+Message-ID: <15347434.1075844205408.JavaMail.evans@thyme>
+Date: Thu, 10 May 2001 10:33:00 -0700 (PDT)
+From: john.shelk@enron.com
+To: steven.kean@enron.com, richard.shapiro@enron.com, james.steffes@enron.com, 
+	christi.nicolay@enron.com, shelley.corman@enron.com, 
+	harry.kingerski@enron.com, tim.belden@enron.com, 
+	paul.kaufman@enron.com, alan.comnes@enron.com, 
+	janel.guerrero@enron.com, linda.robertson@enron.com, 
+	tom.briggs@enron.com, joe.hartsoe@enron.com, sarah.novosel@enron.com, 
+	carin.nersesian@enron.com
+Subject: Barton Subcommittee Approves California Bill; Price Caps Defeated
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: John Shelk
+X-To: Steven J Kean, Richard Shapiro, James D Steffes, Christi L Nicolay, Shelley Corman, Harry Kingerski, Tim Belden, Paul Kaufman, Alan Comnes, Janel Guerrero, Linda Robertson, Tom Briggs, Joe Hartsoe, Sarah Novosel, Carin Nersesian
+X-cc: 
+X-bcc: 
+X-Folder: \Richard_Shapiro_June2001\Notes Folders\All documents
+X-Origin: SHAPIRO-R
+X-FileName: rshapiro.nsf
+
+The Energy and Air Quality Subcommittee meet for almost six hours today and 
+approved an amended version of H.R. 1647, Chairman Barton's emergency 
+legislation to aid California, by a 17-13 party line vote.  The full Energy 
+and Commerce Committee may take it up as early as next week (probably 
+Thursday, May 17th).
+
+The Subcommittee DEFEATED an amendment by Rep. Waxman (D-CA) to impose 
+wholesale price caps for 18 months.  The amendment was defeated 12-20 with 
+all Republicans voting against, including the three from California and Rep. 
+Greg Walden (R-OR), who while seen as the last to decide to oppose the price 
+cap amendment, was the most forceful and articulate in opposition to the 
+amendment.  Also voting "NO" were Democratic Reps. Ralph Hall (D-TX) and 
+Chris John (D-TX), with which we had met in recent days.  The final vote 
+tracked our whip count going into the meeting.
+
+Rep. Albert Wynn (D-MD) offered and withdrew an amendment to delete the 
+"negawatts" provision.  There was bipartisan criticism that while the concept 
+made sense, there were potential problems in terms of possible games playing, 
+including end users being able to sell power while not actualy reducing their 
+normal power levels.  Another member said that electric coops that are 
+required to sell at cost could have customers then go out and resell that 
+power and make a lot of money.  Several Members said businesses could shut 
+down, put workers out of work and become energy marketers and make more 
+money.  Chairman Barton made a forceful defense of negawatts.  While the 
+amendment to strike was deleted, we will need to respond to these criticisms 
+and shore this up before full committee next week.  There will be another 
+attempt to delete at full committee unless these concerns are addressed in an 
+amended version.
+
+Ranking Democrat Rick Boucher (D-VA) offered and withdrew an amendment to 
+reinstate FERC maximum prices for the secondary transmission market, thus 
+reversing the Feb. 2000 FERC order.  This woudl last for 18 months.  
+Chairman  Barton said he agreed with Boucher that there is a problem with 
+what appear to be high gas transmission rates to California, but he disagrees 
+with the proposed remedy.  He pledged to work with Boucher before Full 
+Committee mark-up. We are obtaining a copy of this amendment and should 
+analyze it ASAP for its potential impact on Enron operations.
+
+Rep. Ed Markey (D-MA) offered and withdrew an amendment to impose a series of 
+new tests to be administered by FERC all with the goal of discouraging spot 
+market transactions, or at least what he would define as excessive use of the 
+spot market, and at the same time encourage "deep bilateral mechanisms."  The 
+mechanisms included a "market balance test" that would say only sellers with 
+a commitment to the long term market could sell in the spot market at 
+unregulated rates and "spot market circuit breakers" that would be triggered 
+when reserves are low in a given market.  Chairman Barton said he likes the 
+concept of a spot market circuit breaker, but felt that the amendment was too 
+complicated to be evaluated today.  We will also pursue an analysis of this 
+amendment since it will likely be offered again in some form.
+
+Mr. Markey also offered and withdrew a "net metering" proposal that would 
+establish federal interconnection standards for individual consumers who 
+would want to use fuel cells and other renewable technology to put power onto 
+the system.  It was interesting that those who opposed negawatts spoke 
+favorably of net metering even though they are complementary.
+
+The subcommittee by voice vote adopted a Walden Amendment to strike the 
+section of the bill that would have required an RTO if 10 of the western 
+governors approved it.  The debate was pro-RTO but the rationale for deleting 
+the provision is that one is already being formed and Members from those 
+states did not want to upset the work already under way.
+
+A series of other amendments on other matters were offered and withdrawn, 
+none of which relate to our activities.

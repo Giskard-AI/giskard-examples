@@ -1,0 +1,38 @@
+Message-ID: <10087910.1075851652393.JavaMail.evans@thyme>
+Date: Wed, 3 Oct 2001 12:11:47 -0700 (PDT)
+From: john.shelk@enron.com
+To: j..kean@enron.com, richard.shapiro@enron.com, linda.robertson@enron.com, 
+	pr <.palmer@enron.com>, susan.mara@enron.com, alan.comnes@enron.com, 
+	l..nicolay@enron.com, lisa.yoho@enron.com, jeff.dasovich@enron.com, 
+	sue.nord@enron.com, ray.alvarez@enron.com, tom.briggs@enron.com, 
+	sarah.novosel@enron.com, pat.shortridge@enron.com, 
+	chris.long@enron.com, carin.nersesian@enron.com, 
+	m..landwehr@enron.com, janel.guerrero@enron.com, 
+	jennifer.thome@enron.com
+Subject: New Congressional Report on California
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Shelk, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JSHELK>
+X-To: Kean, Steven J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Skean>, Shapiro, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rshapiro>, Robertson, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lrobert3>, Palmer, Mark A. (PR) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mpalmer>, Mara, Susan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Smara>, Comnes, Alan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Acomnes>, Nicolay, Christi L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cnicola>, Yoho, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lyoho>, Dasovich, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jdasovic>, Nord, Sue </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snord>, Alvarez, Ray </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ralvare2>, Briggs, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tbriggs>, Novosel, Sarah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snovose>, Shortridge, Pat </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pshortri>, Long, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Clong>, Nersesian, Carin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cnersesi>, Landwehr, Susan M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Slandweh>, Guerrero, Janel </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jguerre>, Thome, Jennifer </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jthome>
+X-cc: 
+X-bcc: 
+X-Folder: \Dasovich, Jeff (Non-Privileged)\Dasovich, Jeff\Inbox
+X-Origin: DASOVICH-J
+X-FileName: Dasovich, Jeff (Non-Privileged).pst
+
+
+
+Ray Alvarez brought to my attention today a news item indicating that the Congressional Budget Office released a report earlier this week entitled "Causes and Lessons of the California Electricity Crisis."  The 30+ page report is available on the home page of the CBO's web site at www.cbo.gov.  I have quickly read through the summary and it is largely favorable.  For example, the summary says:
+
+"Much of the blame for California's electricity crisis attaches to the state's restructuring plan -- but not to its objective, electricity deregulation. (...)  But deregulation itself did not fail; rather, it was never achieved."
+
+"The restructuring plan did not remove sufficient barriers on both the supply and demand sides of the market to allow competition to work -- in part because it was not designed to."
+
+"Even without restructuring, California's electric utilities would have faced a difficult challenge in meeting the demand for power and holding down prices in 2000."
+
+"Consequently, wholesale electricity prices were higher than they probably would have been in either a traditionally regulated market or a more fully deregulated market."
+
+"Long-term solutions to California's electricity problems will most likely require three changes: removing barriers to the addition of generating capacity, eliminating bottlenecks in the electricity transmission system, and removing regulatory restrictions on the sale of power throughout the broad western market."
+
+On the negative side, the report summary does state that "some generators may also have withheld supplies at certain times to boost prices even more" and "the plan's auction system for the spot market appears to have created strong incentives for suppliers to bid strategically in a way that raised wholesale prices."

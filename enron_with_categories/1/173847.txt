@@ -1,0 +1,62 @@
+Message-ID: <29151009.1075846160592.JavaMail.evans@thyme>
+Date: Tue, 25 Jul 2000 07:09:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: jeff.brown@enron.com
+Subject: Idea
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Jeff Brown
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+If you think this is worth pursuing, get in touch with Christie.
+---------------------- Forwarded by Steven J Kean/HOU/EES on 07/25/2000 02:08 
+PM ---------------------------
+From: Christi L Nicolay@ECT on 07/25/2000 01:46 PM
+To: James D Steffes/HOU/EES@EES
+cc: Steven J Kean/HOU/EES@EES, Richard Shapiro/HOU/EES@EES, Joe 
+Hartsoe/Corp/Enron@Enron, Kevin M Presto/HOU/ECT@ECT 
+Subject: Idea
+
+
+AEP, ComEd, Duke and CP&L announced last week that they would be 
+collaborating on a new version of a net based system better than OASIS.  I 
+think that Enron should consider joining with these utilities on this.  There 
+may be substantial Enron upside to such a venture from added information 
+disclosure and standardization and streamlining for easier use:
+
+On 7/14, FERC issued an Advance NOPR asking for input by 2/15/01 on OASIS 
+Phase II (the new OASIS proposal).  In particular, FERC states that this new 
+OASIS should address: (i) communication of critical market information (like 
+transmission rights); (ii) posting of ATC, TTC, and CBM; and (ii) seams 
+issues between RTOs (transmission service across multiple RTOs).  FERC says 
+that the new OASIS should make use of Internet, interactive displays, etc.  
+FERC also asks for information on dynamic notification (where the OASIS 
+automatically alerts the customer to changes in ATC, reservations, etc.)  
+This type of functionality would allow Enron to determine if it wants to stay 
+in a queue when transmission becomes available (rather than getting kicked 
+out after the first denial for lack of ATC.)  FERC also wants information on 
+whether generator-run status should be included on OASIS; electronic 
+scheduling (which can now be done via etag); and business practices that 
+should be standardized.
+Enron could have significant input to force these utilities to propose a 
+good, customer friendly system that provides valid and helpful data on ATC, 
+TTC, and CBM, rather than the total lack of substantive information that is 
+available today.  (Recall that Enron proposed that CBM use be posted--FERC 
+has not adopted that idea yet.)
+Because these are critical utilities, any system that they propose may be 
+very likely to be adopted (with some changes).  I think it is better to be in 
+on the front end.  Enron's participation would also give validity to their 
+system.
+Dan Larcamp told me that he would like more "classes" for his staff from 
+Enron and that we should give joint classes with AEP because Susan Tomasky 
+told Dan L. that "AEP has nothing to hide."  This type of venture would allow 
+AEP one venue to make good on that statement.
+Steve K. asked us to pursue the idea that Enron build a computer system.  
+This may be a good way to have significant input while leveraging these 
+companies' money and promoting Enron's congestion model ideas, etc.

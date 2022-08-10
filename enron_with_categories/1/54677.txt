@@ -1,0 +1,39 @@
+Message-ID: <17415116.1075863429863.JavaMail.evans@thyme>
+Date: Tue, 3 Jul 2001 10:39:35 -0700 (PDT)
+From: j.kaminski@enron.com
+To: vkaminski@aol.com
+Subject: FW: Weather triggered options pricing
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VKAMINS>
+X-To: 'vkaminski@aol.com'
+X-cc: 
+X-bcc: 
+X-Folder: \VKAMINS (Non-Privileged)\Kaminski, Vince J\Sent Items
+X-Origin: Kaminski-V
+X-FileName: VKAMINS (Non-Privileged).pst
+
+
+
+ -----Original Message-----
+From: 	Lu, Zimin  
+Sent:	Tuesday, July 03, 2001 12:06 PM
+To:	Kaminski, Vince J; Krishnarao, Pinnamaneni; Kohli, Sandeep; Tamarchenko, Tanya; Roberts, Mike A.
+Cc:	Huang, Alex; Halliburton, Tom
+Subject:	Weather triggered options pricing
+
+
+Dear all,
+
+We have developed analytical soulutions for weather-triggered commodity options.
+We have also programmed those formulas into user-friendly Excel functions.
+
+The original request came from the weather derivatives structuring desk, but the
+model can be used in other situations --- generically it is a double trigger option deal.
+
+See the documentation for more details.
+
+Zimin
+
+ 

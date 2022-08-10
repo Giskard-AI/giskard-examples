@@ -1,0 +1,56 @@
+Message-ID: <16986499.1075846180917.JavaMail.evans@thyme>
+Date: Wed, 11 Oct 2000 08:03:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: jeff.dasovich@enron.com
+Subject: Re: Meeting w/Sempra
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Jeff Dasovich
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+sounds good.  I think we should not talk about the conversations with the 
+governor . . . I'd rather not prompt them to go to the gov (presumably to 
+object to the gov talking to us without talking to them at the same time).
+
+
+
+	Jeff Dasovich
+	Sent by: Jeff Dasovich
+	10/11/2000 02:54 PM
+		 
+		 To: Richard Shapiro/NA/Enron@Enron, skean@enron.com, Sandra 
+McCubbin/SFO/EES@EES, Paul Kaufman/PDX/ECT@ECT, James D 
+Steffes/NA/Enron@Enron, Harry Kingerski/NA/Enron@Enron, Susan J 
+Mara/SFO/EES@EES, Mona L Petrochko/SFO/EES@EES, mpalmer@enron.com, Karen 
+Denne/Corp/Enron@ENRON
+		 cc: 
+		 Subject: Meeting w/Sempra
+
+FYI.  Recently, Chris Calger has asked me to set up a meeting with Sempra.  
+ENA's seeking deals with the two big CA gas IOUs (PG&E and SoCalGas) that 
+would give ENA access to their assets.  In short, ENA wants to offer a 
+complete outsource deal for the IOUs' core gas load (i.e., rez and small 
+commercial customers).  ENA would take responsibility for providing service 
+for delivery at the city gate and in return would manage all of core's assets 
+(upstream of the city gate).  We're meeting with Sempra's "Chief Regulatory 
+Office" (Bill Reed) and Sempra's CFO next Thursday to discuss.
+
+Given the fact that Sempra's primarily focused on electricity, the plan is to 
+lead off the meeting with a couple of electricity solutions as a bridge to 
+the gas offer.  For electricity, the plan has two pieces:  1) a commodity 
+offer that beats the 6.5 cent cap (i.e., nothing fancy) and 2) "Deal Bench" 
+services with the intent of establishing a procurement mechanism for SDG&E 
+that the California PUC could pre-approve (thereby eliminating some of the 
+immense regulatory risk SDG&E now faces).
+
+Wanted to run this by folks to gauge reactions.  We'll distribute the slides 
+we're putting together as soon as they're drafted--hopefully by COB Friday.
+
+Best,
+Jeff

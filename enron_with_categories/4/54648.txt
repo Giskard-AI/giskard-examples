@@ -1,0 +1,24 @@
+Message-ID: <15426568.1075863429153.JavaMail.evans@thyme>
+Date: Thu, 28 Jun 2001 02:47:02 -0700 (PDT)
+From: j.kaminski@enron.com
+To: duffie@stanford.edu
+Subject: Greetings from London
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VKAMINS>
+X-To: 'duffie@stanford.edu'
+X-cc: 
+X-bcc: 
+X-Folder: \VKAMINS (Non-Privileged)\Kaminski, Vince J\Sent Items
+X-Origin: Kaminski-V
+X-FileName: VKAMINS (Non-Privileged).pst
+
+Hello Darrell,
+
+I am in London this week, looking, among other things, at our CreditDesk.com operation.
+I was trying to access your expert report from your web site, but it's password protected.
+
+Can you send me a copy?
+
+Vince

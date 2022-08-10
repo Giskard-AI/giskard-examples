@@ -1,0 +1,95 @@
+Message-ID: <5958581.1075843059974.JavaMail.evans@thyme>
+Date: Mon, 4 Dec 2000 02:36:00 -0800 (PST)
+From: alan.comnes@enron.com
+To: james.steffes@enron.com, jeff.dasovich@enron.com, tim.belden@enron.com, 
+	susan.mara@enron.com, mary.hain@enron.com
+Subject: New MSC Committee Report
+Cc: paul.kaufman@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+Bcc: paul.kaufman@enron.com
+X-From: Alan Comnes
+X-To: James D Steffes, Jeff Dasovich, Tim Belden, Susan J Mara, Mary Hain
+X-cc: Paul Kaufman
+X-bcc: 
+X-Folder: \Jeff_Dasovich_Dec2000\Notes Folders\All documents
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+All:
+
+I just downloaded the attached from the ISO's website.  It is dated 12/1/00=
+. =20
+
+To boil it down, the MSC comes down against "soft" caps and recommends the=
+=20
+"get market-based rates in return for selling forward" proposal that the IS=
+O=20
+staff is pushing.  Forward contracts would need to at rates that=20
+"approximate" competitive prices.  Based on my quick read that does not mea=
+n=20
+market prices; it means somthing more akin to cost of service.  MSC also=20
+wants there to be a penalty on generators for underscheduling.  They also=
+=20
+claim there proposal will not exacerbate reliability problems.
+
+I would be interested in people's opinion if Enron should be responding to=
+=20
+this report.  Given the date of the report, I am not sure if/how the ISO=20
+would file this at the FERC.
+
+G. Alan Comnes (GAC)
+
+Here's the list of recommendations from the report.
+
+(1) The PX =01&must-buy=018 requirement would become a =01&must-schedule=01=
+8 requirement.=20
+IOUs
+would be required to schedule all forward energy through the PX, but would =
+be=20
+free to
+purchase it from any source.
+(2) California generators and entities that sell to any California purchase=
+r=20
+(not limited to the
+PX and ISO) could continue to be eligible for market-based rates (and would=
+=20
+be free of
+refund obligations) only if they offer a substantial portion of their sales=
+=20
+in the form of
+two-year contracts at rates that approximate competitive prices. The detail=
+s=20
+of such a
+proposal are outlined in this report. The volume offered by sellers, in the=
+=20
+aggregate,
+would be sufficient to cover the all three IOUs=01, residential and small=
+=20
+commercial
+customer load using an average load profile for weekdays and weekends for=
+=20
+each month.
+(3) Any market participant that does not offer these two-year=20
+market-power-mitigation
+forward contracts would be subject to cost-of-service rates for all of thei=
+r=20
+sales of energy
+and ancillary services into the California market for at least the two-year=
+=20
+market power
+mitigation period.
+(4) The CPUC would be encouraged to set a default rate for IOU residential=
+=20
+and small
+commercial customers based on projected wholesale energy costs under the=20
+2-year
+contracts described above.
+(5) The under-scheduling penalty should be even-handed. The MSC recommends =
+a=20
+real-time
+trading charge that is applicable both to load and generation and, more=20
+important, does
+not distinguish between instructed and uninstructed deviations from schedul=
+e.

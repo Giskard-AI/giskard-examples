@@ -1,0 +1,150 @@
+Message-ID: <12525380.1075860488987.JavaMail.evans@thyme>
+Date: Mon, 6 Nov 2000 01:17:00 -0800 (PST)
+From: michelle.cash@enron.com
+To: felecia.acevedo@enron.com
+Subject: Re: Privileged and Confidential communication to my attorneys
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Michelle Cash
+X-To: Felecia Acevedo
+X-cc: 
+X-bcc: 
+X-Folder: \Michelle_Cash_Dec2000\Notes Folders\All documents
+X-Origin: Cash-M
+X-FileName: mcash.nsf
+
+Felicia,
+
+This is a merchant asset, which we currently own 100%, but plan to sell down 
+in the coming months.  It absolutely has separate HR functions from Enron -- 
+they do not participate in Enron benefits, and we are working hard to prevent 
+any claims that we could be a joint employer with it.  
+
+Thoughts?
+
+Michelle
+
+
+   
+	Enron North America Corp.
+	
+	From:  Felecia Acevedo @ ENRON                           11/02/2000 08:56 AM
+	
+
+To: Michelle Cash/HOU/ECT@ECT
+cc:  
+Subject: Re: Privileged and Confidential communication to my attorneys  
+
+Michelle,  who is GSP?  Are they a legal entity?  Are they on our payroll?  
+If they are we filed EEO-1's for them.    Below is the criteria to file an 
+EEO-1 report:
+
+Standard Form 100 must be filed by -
+
+A.  All private employers who are: (1) subject to Title VII of the Civil 
+Rights Act of 1964 (as amended by the Equal Employment Opportunity Act of 
+1972) with 100 or more employees EXCLUDING State and local governments, 
+primary and secondary school systems, institutions of higher education, 
+Indian tribes and tax-exempt private membership clubs other than labor 
+organizations; OR (2) subject to Title VII who have fewer than 100 employees 
+if the company is owned or affiliated with another company, or there is 
+centralized ownership, control or management (such as central control of 
+personnel policies and labor relations) so that the group legally constitutes 
+a single enterprise, and the entire enterprise employs a total of 100 or more 
+employees.
+ 
+B.  All federal contractors (private employers), who: (1) are not exempt as 
+provided for by 41 CFR 60-1.5, (2) have 50 or more employees, and (a) are 
+prime contractors or first-tier subcontractors, and have a contract, 
+subcontract, or purchase order amounting to $50,000 or more; or (b) serve as 
+a depository of Government funds in any amount, or (c) is a financial 
+institution which is an issuing and paying agent for U.S. Savings Bonds and 
+Notes. 
+
+All multi-establishment employers, i.e. employers doing business at more than 
+one establishment, must file: (1) a report covering the principal or 
+headquarters office; (2) a separate report for each establishment employing 
+50 or more persons; (3) a consolidated report that MUST include ALL employees 
+by race, sex and job category in establishments with 50 or more employees as 
+well as establishments with fewer than 50 employees; and (4) a list, showing 
+the name, address, total employment and major activity for each establishment 
+employ-ing fewer than 50 persons, must accompany the consolidated report.
+
+All forms for a multi-establishment company must be collected by the 
+headquarters office for its establishments or by the parent corporation for 
+its subsidiary holdings and submitted in one package.
+
+For the purposes of this report, the term parent corporation refers to any 
+corporation which owns all or the majority stock of another corporation so 
+that the latter stands in the relation to it of a subsidiary.
+
+The OFCCP has always held that subsidiary companies that do not have direct 
+govt contracts must comply with AAP regulations if the parent company or 
+other subsidiary companies benefit from government contracts.  Their line of 
+thought is that the subsidiary without government contracts benefits 
+indirectly from the contract as well.   If GSP is completely free standing 
+and they do not participate in Enron's benefits, abide by our policies or 
+procedures , participate in our bonus process that may partially or wholly be 
+funded by Enron Corp. , etc., they may have some type of argement not to 
+comply  but I doubt it.  If we own them over 51% I don't see a way they could 
+not file EEO-1's and have an AAP.  We do all the AAP's in Corporate so if 
+this is a freestanding Business Unit I need to know. 
+
+Thanks!
+
+Felecia
+
+
+
+
+
+Michelle Cash@ECT
+11/01/2000 07:49 PM
+To: Felecia Acevedo/Corp/Enron@Enron
+cc:  
+
+Subject: Privileged and Confidential communication to my attorneys
+
+Felicia,  Does this sound right to you?  Just wanted to confirm.  Thanks.  
+Michelle
+
+---------------------- Forwarded by Michelle Cash/HOU/ECT on 11/01/2000 07:48 
+PM ---------------------------
+
+
+HThomas@gspcorp.com on 11/01/2000 07:19:00 PM
+To: michelle.cash@enron.com, david.oxley@enron.com, 
+peter.del.vecchio@enron.com
+cc: david.howe@enron.com, fran.mayes@enron.com 
+Subject: Privileged and Confidential communication to my attorneys
+
+
+     Michelle and Peter, we (GSP) have determined that we are not a federal
+     government contractor.  Based on feedback from GSP employees, we do
+     sell newsprint to printers who print material for the federal
+     government, but we are a 'second-tier' contractor, not a 'first-tier'
+     contractor.  (Pat McCarthy, the local employment law attorney that I
+     have been using, used these terms when David Howe and i talked to him
+     today.)  Pat informed us that second-tier contractors do not have to
+     abide by all the federal government requirements for contractors.
+
+     Based on this, GSP does not plan to file EEO-1 reports or prepare
+     affirmative action plans.  In addition, we do not feel that we are
+     subject to an OFCCP audit.
+
+     Michelle, since you left me the voicemail telling me that we are not
+     included in the Enron EEO-1, i assume that also means that Enron's
+     status as a government contractor does not force us to prepare EEO-1
+     and AAPs.
+
+     Please advise us if you feel we have made incorrect assumptions on any
+     of this.
+
+     Hoyt
+
+
+
+
+
+

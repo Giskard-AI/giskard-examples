@@ -1,0 +1,40 @@
+Message-ID: <18693170.1075847585379.JavaMail.evans@thyme>
+Date: Thu, 10 May 2001 02:13:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: maureen.mcvicker@enron.com
+Subject: <<Concur Expense Document>> - Miscellaneous - May 2001
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Maureen McVicker
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+---------------------- Forwarded by Steven J Kean/NA/Enron on 05/10/2001 
+09:13 AM ---------------------------
+
+
+eserver@enron.com on 05/09/2001 04:31:02 PM
+To: "Steven.J.Kean@enron.com" <Steven.J.Kean@enron.com>
+cc:  
+
+Subject: <<Concur Expense Document>> - Miscellaneous - May 2001
+
+The following expense report is ready for approval:
+
+Employee Name: Mark A. Palmer
+Status last changed by:  Automated Administrator
+Expense Report Name: Miscellaneous - May 2001
+Report Total: $255.60
+Amount Due Employee: $255.60
+
+
+To approve this expense report, click on the following link for Concur 
+Expense.
+http://xms.enron.com
+
+

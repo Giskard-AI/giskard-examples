@@ -1,0 +1,81 @@
+Message-ID: <4856988.1075849868022.JavaMail.evans@thyme>
+Date: Fri, 13 Jul 2001 01:47:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: sarah.novosel@enron.com
+Subject: Re: PJM RTO Order
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Sarah Novosel
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Nov2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+Great summary.  I think the two main issues you raise are the right ones, but 
+I have one other thought we should discuss internally.  Do we want to create 
+a set of incentives for the management of PJM that would entitle management 
+to incentive compensation to the extent they meet certain goals -- eg 
+relieving congestion on the grid, increasing throughput across the 
+transmission system, expediting interconnection (measured in terms of actual 
+interconnections not just applications approved), etc.  This way we could 
+create an organization that would have the incentive to make a workable and 
+open transmission system.
+
+
+From: Sarah Novosel on 07/13/2001 07:57 AM
+
+To: Kevin M Presto/Enron@EnronXGate, Mark Dana Davis/HOU/ECT@ECT, Jeff 
+Ader/HOU/EES@EES, Edward D Baughman/Enron@EnronXGate, Joe 
+Gordon/Enron@EnronXGate, Janelle Scheuer/Enron@EnronXGate, mbrown9@enron.com, 
+Mark Bernstein/HOU/EES@EES, John Llodra/Enron@EnronXGate, W David 
+Duran/Enron@EnronXGate, George Wood/Enron@EnronXGate, Dave 
+Perrino/SF/ECT@ECT, Paul J Broderick/Enron@EnronXGate, Jason 
+Thompkins/Enron@EnronXGate, Mason Hamlin/Enron@EnronXGate, Robert 
+Stalford/Enron@EnronXGate, Tom May/Enron@EnronXGate, Gautam 
+Gupta/Enron@EnronXGate, Narsimha Misra/Enron@EnronXGate, Steve 
+Montovano/NA/Enron@Enron, Garrett Tripp/Enron@EnronXGate, Berney C 
+Aucoin/Enron@EnronXGate, Jason Thompkins/Enron@EnronXGate, Rob 
+Wheeler/Enron@EnronXGate, Rogers Herndon/Enron@EnronXGate, Jim 
+Meyn/Enron@EnronXGate, Aleck Dadson/Enron@EnronXGate, Daniel 
+Allegretti/Enron@EnronXGate, Pearce W Hammond/HOU/EES@EES, Donna 
+Fulton/Corp/Enron@ENRON, Howard Fromer/NA/Enron@Enron, Kathleen 
+Sullivan/NA/Enron@ENRON, Tom Hoatson/Enron@EnronXGate, Thane 
+Twiggs/Enron@EnronXGate, Sarah Novosel/Corp/Enron@ENRON, Christi L 
+Nicolay/HOU/ECT@ECT, James D Steffes/NA/Enron@Enron, Linda 
+Robertson/NA/Enron@ENRON, Richard Shapiro/NA/Enron@Enron, Steven J 
+Kean/NA/Enron@Enron, Charles Decker/HOU/EES@EES, Nick 
+Politis/Enron@EnronXGate, sscott3@enron.com, Aleck Dadson/Enron@EnronXGate, 
+Lloyd Will/Enron@EnronXGate, Ray Alvarez/NA/Enron@ENRON, Susan M 
+Landwehr/NA/Enron@Enron, Charles Yeung/HOU/ECT@ECT, Andy 
+Rodriquez/Enron@EnronXGate, John J Lavorato/Enron@EnronXGate, Louise 
+Kitchen/Enron@EnronXGate, Greg Whalley/Enron@EnronXGate, 
+susan.j.mara@enron.com, Jeff Dasovich/NA/Enron@Enron, Karen 
+Denne/Enron@EnronXGate, mpalmer@enron.com, Alan Comnes/Enron@EnronXGate, Tom 
+Briggs/NA/Enron@Enron, John Shelk/NA/Enron@Enron, Pat 
+Shortridge/Corp/Enron@Enron, Chris Long/Corp/Enron@ENRON, Mike 
+Roan/ENRON@enronXgate, Kerry Stroup/NA/Enron@Enron, Janine 
+Migden/Enron@EnronXGate, Dave Mangskau/Corp/Enron@ENRON
+
+cc:  
+
+Subject: PJM RTO Order
+
+Attached is a summary of the PJM RTO order.  While it is somewhat lengthy, 
+the order has a lot of good information in it that I wanted to share with the 
+group, particularly the Commission's statements regarding the existing 
+configuration of the northeast and the need to expand it.
+
+We are working on summaries of the New York and New England RTO orders and 
+will have those out shortly.  If you would like copies of the orders, just 
+let us know.
+
+We expect the mediation proceeding to begin within the next week.  We will 
+keep you updated.
+
+Sarah
+
+
+

@@ -1,0 +1,53 @@
+Message-ID: <25490386.1075843385834.JavaMail.evans@thyme>
+Date: Mon, 12 Mar 2001 00:52:00 -0800 (PST)
+From: steven.kean@enron.com
+To: mark.schroeder@enron.com
+Subject: Re: news/updates
+Cc: jeff.dasovich@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jeff.dasovich@enron.com
+X-From: Steven J Kean
+X-To: Mark Schroeder
+X-cc: Jeff Dasovich
+X-bcc: 
+X-Folder: \Jeff_Dasovich_June2001\Notes Folders\All documents
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+I am attaching the FERC order and staff recommendations.  The order provides 
+for $69 million in "potential" refunds (either pay up or provide cost 
+justification).  Enron was not named as one of the 13 overcharging parties, 
+but PGE was ($3.18 million).  It's not over yet, though.  The order deals 
+only with Jan 01 and promises further orders regarding Dec 00 and benchmark 
+prices through April 01.  The prices used to determine refunds were fairly 
+high ($273/mwh based on gas prices, emissions costs and an assumed heat rate 
+of over 16000).
+
+With respect to sales to California, we have concluded at least one short 
+term sale and have talked with Cal Dept of Water Resources about longer term 
+deals, but we were still struggling with credit issues, last I heard.  I'm 
+copying Jeff Dasovich because I'm sure he has more up to date information.
+
+
+
+
+
+
+	Mark Schroeder@ECT
+	03/11/2001 02:11 PM
+		 
+		 To: Richard Shapiro/NA/Enron@Enron, Steven J Kean/NA/Enron@Enron
+		 cc: 
+		 Subject: news/updates
+
+In the press, I saw two news stories that I wondered if we (Enron) had any 
+role/hand in, and what was the offical "spin" in both cases.  1)  The FERC 
+Order requiring something like 55-65 million dollars in refunds by generators 
+(or did it include traders) for overcharging in California in December, if I 
+recall my facts/news stories correctly, and 2) the reports of 40 companies 
+entering into 10-year contracts with California (touted by Davis).  Was Enron 
+a contracting party?  Do we think this is a good solution (I think I know the 
+answer, but defer to your lead on this, so we stay on your message)?  thanks  
+mcs

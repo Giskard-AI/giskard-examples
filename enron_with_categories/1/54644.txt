@@ -1,0 +1,41 @@
+Message-ID: <5023326.1075863429043.JavaMail.evans@thyme>
+Date: Thu, 28 Jun 2001 02:07:49 -0700 (PDT)
+From: j.kaminski@enron.com
+To: vkaminski@aol.com
+Subject: FW: Convolution
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VKAMINS>
+X-To: 'vkaminski@aol.com'
+X-cc: 
+X-bcc: 
+X-Folder: \VKAMINS (Non-Privileged)\Kaminski, Vince J\Sent Items
+X-Origin: Kaminski-V
+X-FileName: VKAMINS (Non-Privileged).pst
+
+
+
+ -----Original Message-----
+From: 	Andrews, Naveen  
+Sent:	Wednesday, June 27, 2001 10:08 PM
+To:	Presley, Mike E; Jia, Winston; Thomas, Mark E.; Nordstrom, Mary; Tamarchenko, Tanya; Mao, Yi; Yu, Jin; Sokolov, Jason; Lew, Jaesoo; De, Rabi; Bharati, Rakesh
+Cc:	Port, David; Kaminski, Vince J
+Subject:	Convolution
+
+
+
+Apropos to the questions in today's talk:
+ 
+(1) whether a random variable X, a Multivariate T distribution, = bZ (where b is a univariate r.v =sqrt(v/y), and y is 
+a chi-square distribution with v degrees of freedom), can be correlationless, attached below is a succinct proof.
+
+(2) One might think that since we are multiplying 2 random variables (i.e., Z is 2 dimensional) by the same scalar random variable (i.e., b), then the resultant random variables would tend to rise and fall together, and hence necessarily be linearly correlated.  However, as is shown below, if Z is uncorrelated, then X is uncorrelated.
+
+Please note, our approach is analagous, but not identical to the Glasserman and Co papers (distributed to Research).  Glasserman computes the characteristic function of the Pr(P/L > x), so to compute the entire P&L pdf he would have to repeat the procedure for every value of x.  We circumvent that iterative approach (with the messy characteristic function) and compute the pdf in one shot.
+Please note, we are not comparing full reval vs. delta-gamma at all, that is a completely different story.
+
+
+Naveen
+
+ 

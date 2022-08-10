@@ -1,0 +1,47 @@
+Message-ID: <4035070.1075863427314.JavaMail.evans@thyme>
+Date: Wed, 20 Jun 2001 10:01:17 -0700 (PDT)
+From: j.kaminski@enron.com
+To: zimin.lu@enron.com
+Subject: FW: implied pdf paper
+Cc: kenneth.parkhill@enron.com, william.smith@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: kenneth.parkhill@enron.com, william.smith@enron.com
+X-From: Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VKAMINS>
+X-To: Lu, Zimin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Zlu>
+X-cc: Parkhill, Kenneth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kparkhil>, Smith, William </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Wsmith2>
+X-bcc: 
+X-Folder: \VKAMINS (Non-Privileged)\Kaminski, Vince J\Sent Items
+X-Origin: Kaminski-V
+X-FileName: VKAMINS (Non-Privileged).pst
+
+
+Zimin,
+
+Looks like a very good paper for the Tech Corner next week. 
+Please, review before publication.
+
+I looked at it and it looked OK. Sam
+will need it by Fri evening.
+
+Vince
+
+
+
+ -----Original Message-----
+From: 	Parkhill, Kenneth  
+Sent:	Wednesday, June 20, 2001 8:42 AM
+To:	Kaminski, Vince J
+Subject:	implied pdf paper
+
+Vince,
+
+I've been meaing to ask you about the paper I sent to Sam on calculating implied pdf's for futures prices. Sam told me that you didn't want to include it in RI because it and the EOL article gave too much away.  I've talked with several folks about the approach outlined in the paper.  I've reworked the paper to try and better tailor it to traders, and I'd be interested in your feedback.  
+
+thanks
+ken
+  
+ 
+
+ 

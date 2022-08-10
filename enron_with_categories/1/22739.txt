@@ -1,0 +1,44 @@
+Message-ID: <3458114.1075845072259.JavaMail.evans@thyme>
+Date: Wed, 11 Apr 2001 13:27:00 -0700 (PDT)
+From: sally.beck@enron.com
+To: beth.apollo@enron.com
+Subject: Re: Confidential Folder to safely pass information to Arthur
+ Andersen
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Sally Beck
+X-To: Beth Apollo <Beth Apollo/ENRON@enronXgate@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \Beck, Sally\Beck, Sally\Sent Items
+X-Origin: BECK-S
+X-FileName: Beck, Sally.pst
+
+Good idea.  Is there a way to monitor usage of this folder is insure that everyone has  read and complied with your message?   
+
+
+From:	Beth Apollo/ENRON@enronXgate on 04/10/2001 08:52 AM
+To:	Shona Wilson/NA/Enron@Enron, Jeffrey C Gossett/HOU/ECT@ECT, Stacey W White/HOU/ECT@ECT, D Todd Hall/ENRON@enronXgate, Sheri Thomas/HOU/ECT@ECT, Brenda F Herod/ENRON@enronXgate, john.j.boudreaux@us.arthurandersen.com@SMTP@enronXgate, john.vickers@us.arthurandersen.com@SMTP@enronXgate, kate.agnew@us.arthurandersen.com@SMTP@enronXgate, jennifer.stevenson@us.arthurandersen.com@SMTP@enronXgate
+cc:	Sally Beck/HOU/ECT@ECT, tom.bauer@us.arthurandersen.com@SMTP@enronXgate, Georgeanne Hodges/ENRON@enronXgate, Vanessa Schulte/ENRON@enronXgate, Bob M Hall/NA/Enron@Enron, Leslie Reeves/HOU/ECT@ECT, Brent A Price/ENRON@enronXgate 
+Subject:	Confidential Folder to safely pass information to  Arthur Andersen
+
+
+We have become increasingly concerned about confidential information (dpr/position info, curves, validations/stress tests, etc) being passed to Arthur Andersen for audit purposes over the Web to their Arthur Andersen email addresses. (necessary now they no longer have access to Enron's internal email system)  
+
+Please use the folder described below when passing any info (that you would have concerns about if it was picked up by a third party) via the shared drive that has been set up for this specific purpose.   
+
+Note:  AA should also use the shared drive to pass info back if there are questions, or the data needs updating.  We should also consider the sensitivity of audit findings and special presentations if they are being distributed electronically.
+
+
+Please pass this note to others in your groups who have the need to pass info back and forth.
+
+ 
+Details on how to access for those who will use this method to pass info:
+
+A secured folder has been set up on the "o" drive under Corporate called Arthur_Andersen (O:\Corporate\Arthur_Anderson).  Please post all confidential files in this folder rather than emailing the files to their company email address.  If you need access to this folder, submit an eRequest through the IT Central site: http://itcentral.enron.com/Data/Services/SecurityRequests/.  Arthur Andersen will be able to retrieve these files for review with their terminal server access at the Three Allen Center location.
+
+Please contact Vanessa Schulte if you have any problems or questions
+
+Beth Apollo
+

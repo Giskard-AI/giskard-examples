@@ -1,0 +1,108 @@
+Message-ID: <18459569.1075846175300.JavaMail.evans@thyme>
+Date: Wed, 20 Sep 2000 04:24:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: eileen.buerkert@enron.com
+Subject: Flatscreens approval
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Eileen Buerkert
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+I approve.
+----- Forwarded by Steven J Kean/NA/Enron on 09/20/2000 11:24 AM -----
+
+	Elizabeth Linnell
+	Sent by: Elizabeth Linnell
+	09/20/2000 10:51 AM
+		 
+		 To: Steven J Kean/NA/Enron@Enron
+		 cc: 
+		 Subject: Flatscreens approval
+
+Steve - Please forward to Eileen Buerkert with your approval.
+
+Eileen - Per our discussion, please make sure these are the black 
+flatscreens.  
+
+Thanks!
+
+
+----- Forwarded by Elizabeth Linnell/NA/Enron on 09/20/2000 10:50 AM -----
+
+	Eileen Buerkert
+	09/08/2000 12:01 PM
+		 
+		 To: Elizabeth Linnell/NA/Enron@Enron
+		 cc: Enron IT Purchasing@Enron, Hank Zhang/Corp/Enron@ENRON, Donna 
+Ruff/Corp/Enron@ENRON, Andy Sikes/Corp/Enron@Enron, Shauncy 
+Mathews/HOU/ECT@ECT
+		 Subject: PO Approval needed
+
+Elizabeth,
+
+Because of the dollar amount of this PO, I need to have an email approval 
+from your senior director.  Could you forward this to the appropriate party 
+(if it's not you) and have him/her email me back with a note saying 
+"approved" on it?  I will fax this immediately after I receive that.  Thank 
+you!!
+
+Eileen Buerkert
+IT Sourcing and Procurement
+713-345-6272
+----- Forwarded by Eileen Buerkert/NA/Enron on 09/08/2000 12:00 PM -----
+
+PURCHASE ORDER FORM	
+	PO No. 20090208
+	Master Request: 
+
+				
+Order Date:	09/08/2000			
+WO #:				
+CO #:	0011		SAP Cost Center #:	100062
+Ordered By:	Eileen Buerkert		Phone #:	713 345-6272
+Vendor:	COMPAQ DIRECT		Fax #:	317-228-8780
+Contact:	TAMMY RAY		Phone #:	800-535-2563
+Date Required:				
+Payment Terms:				NET 30 DAYS
+FOB Point:				
+Ship To:	ENRON CORP
+PO # 20090208
+1400 SMITH ROOM 523
+HOUSTON  TX 77002			
+ATTN:	LYN MALINA
+713 853-1840			Note: 
+				Please include all ship to information on any packages. 
+				We will not accept packages without an ENRON PO#.
+Bill To:	ENRON CORP
+P O BOX 3767
+HOUSTON  TX 77253			
+ATTN:	FELICIA SALEWSKY
+713 853-3895			
+
+Quantity Ordered:	
+	Item Number:	
+		Description:	
+			Mfgr:   	Unit    Price:	 
+					Price:
+14	104741-001	15IN TFT 5010 OPAL	COMPAQ	$922.00
+					$12908.00
+					
+			Amount:		$12908.00
+	Local Sales Tax Applies?      		Sales Tax (8.25%):		$1064.91
+			Total:		$13972.91
+
+Notes:	PLEASE ACKNOWLEDGE RECEIPT OF THIS PO BY SIGNING AND FAXING TO Eileen 
+Buerkert @ 713 646-2450
+
+ENRON CORP	COMPAQ DIRECT
+
+Revision History:	Eileen Buerkert	09/08/2000 12:00:29 PM
+
+
+

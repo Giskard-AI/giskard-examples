@@ -1,0 +1,122 @@
+Message-ID: <4166967.1075846148445.JavaMail.evans@thyme>
+Date: Sun, 20 Feb 2000 09:55:00 -0800 (PST)
+From: steven.kean@enron.com
+To: maureen.mcvicker@enron.com
+Subject: Re: Video Screens in EB Elevator Cabs
+Cc: terrie.james@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: terrie.james@enron.com
+X-From: Steven J Kean
+X-To: Maureen McVicker
+X-cc: Terrie James
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+Please add Terrie to the meeting with Beth, Bill, Palmer, et al
+---------------------- Forwarded by Steven J Kean/HOU/EES on 02/20/2000 05:45 
+PM ---------------------------
+
+
+Terrie James@ENRON
+02/17/2000 01:53 PM
+To: David Mims/Enron Communications@ENRON COMMUNICATIONS
+cc: Bill Donovan/EPSC/HOU/ECT@ECT, Elizabeth Tilney/HOU/EES@EES@ECT, Mark 
+Palmer/Corp/Enron@ENRON, Pam Benson/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT@ECT, 
+Steven J Kean/HOU/EES@EES@ECT 
+Subject: Re: Video Screens in EB Elevator Cabs  
+
+David,
+
+Sorry for the delayed response.  I'd absolutely like to talk with you about 
+applications and potential content for these screens.  As you know, we've 
+been interested in creating an electronic bulletin board to promote upcoming 
+activities for CR.  I'd like to do something similar for general HR news as 
+well.  If that's "doable", I'd love to talk more.  Let me know your 
+availability next week.
+
+Terrie
+
+
+   
+	
+	
+	From:  David Mims @ ENRON COMMUNICATIONS                           02/11/2000 
+03:57 PM
+	
+
+To: Bill Donovan/EPSC/HOU/ECT@ECT@ENRON
+cc: Elizabeth Tilney/HOU/EES@EES@ECT@ENRON, Mark Palmer/Corp/Enron@ENRON, Pam 
+Benson/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT@ECT@ENRON, Steven J 
+Kean/HOU/EES@EES@ECT@ENRON, Terrie James/Corp/Enron@ENRON 
+
+Subject: Re: Video Screens in EB Elevator Cabs  
+
+I have arranged a tentative agreement with Bowne Business Solutions (13th 
+floor graphics) to provide content digitization, encoding and storage for 
+video productions.  They will have the capability to output from S-VHS, Beta 
+SP and electronic sources, along with minimal editing and creation of basic 
+multimedia images suitable for the Enron channel.  Additional costs would be 
+incurred by individual departments incrementally as they produced video 
+content for the monitors.  Enron would then have a choice of vendors, 
+including the in-house graphics group, Innovision (Beth Stier) and others.
+
+We also need to determine the point of demarcation for the "head-end" of the 
+video signal for these and any other building monitors.  I don't know if your 
+estimates include any of this head-end equipment which would include VTRs, 
+modulators, distribution amplifiers, CATV contracts and receivers, satellite, 
+etc.  Regardless, we need to talk to the folks who will be producing content 
+for these monitors to see what types of capabilities they want to have.
+
+Finally, someone will have to "own" the channel and pre-approve content for 
+distribution.  I'm pretty certain that Mark Palmer wants to control the 
+content, though I don't think that he wants to manage the production group, 
+or create any overkill.
+
+I'd be happy to discuss alternatives with all of you for the content side of 
+this project.  Again, I think that the costs will be incremental expenses 
+related to creating content rather than capital outlay.
+
+Beth, Mark, Pam, Setev, Terrie, et al. - Are you interested in addressing 
+what in-house capabilities you'd like to have with me?
+
+DMM
+
+
+
+
+To: Elizabeth Tilney/HOU/EES@EES, Mark Palmer/Corp/Enron@ENRON
+
+cc: Pam Benson/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, David Mims/Enron 
+Communications@Enron Communications, Steven J Kean/HOU/EES@EES, Terrie 
+James/Corp/Enron@ENRON 
+
+Subject: Video Screens in EB Elevator Cabs
+
+Beth, Mark - 
+
+I think we are ready to move on implementing flat screen monitors in all of 
+Enron Building passenger elevator cabs, i.e. proposal is for two 14" monitors 
+per cab, one for Corporate content, other for local Houston messages.  Will 
+try to flush mount them in the stainless steel cab panels, for a clean, 
+attractive look.    
+
+Technical details have generally been worked out between our group (Steve 
+Woods and Harry Grubbs) and Enron's IT Dept.  such that  we know total costs 
+are below $500K (more in $350-400K range plus whatever temporary, 
+non-elevator monitors appropriate for Three Allen Center occupants).  We have 
+a 3 month implementation schedule.
+
+Content can be anything available on Enron's LAN (developed @ the desk top) 
+or any video signal, i.e. Cable TV stations, tapes, etc.
+
+Let me know next steps.  We can discuss funding sources.  - Bill
+
+
+
+
+
+

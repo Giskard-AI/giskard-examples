@@ -1,0 +1,32 @@
+Message-ID: <10356694.1075853117252.JavaMail.evans@thyme>
+Date: Mon, 22 Oct 2001 14:27:15 -0700 (PDT)
+From: jeff.bartlett@enron.com
+To: jeff.bartlett@enron.com, greg.mccracken@enron.com, greg.martin@enron.com, 
+	victor.munoz@enron.com, rick.whitaker@enron.com, 
+	david.marks@enron.com, susan.musch@enron.com, 
+	james.richardson@enron.com, lisa.bills@enron.com, 
+	john.kiani-aslani@enron.com, michelle.cash@enron.com, 
+	angela.davis@enron.com
+Subject: Return of Confidential Materials
+Cc: douglas.clifford@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: douglas.clifford@enron.com
+X-From: Bartlett, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JBARTLE>
+X-To: Bartlett, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jbartle>, Mccracken, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gmccrack>, Martin, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gmartin>, Munoz, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vmunoz>, Whitaker, Rick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rwhitak>, Marks, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dmarks>, Musch, Susan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Smusch>, Richardson, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jrichard>, Bills, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lbills>, Kiani-Aslani, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jkiani>, Cash, Michelle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcash>, Davis, Angela </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Adavis4>
+X-cc: Clifford, Douglas </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dcliffo2>, Miller, Don (Asset Mktg) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dmille2>
+X-bcc: 
+X-Folder: \MCASH (Non-Privileged)\Cash, Michelle\Deleted Items
+X-Origin: Cash-M
+X-FileName: MCASH (Non-Privileged).pst
+
+In order to comply with terms of the Confidentiality Agreement that Enron executed in connection with our evaluation of UAE, we must destroy or return all confidential materials (including the Offering Memorandum).   Accordingly, please either send your materials to me by interoffice mail or destroy all your materials AND send me an email confirming that you have done so.
+thanks,
+Jeff
+
+
+Jeffrey M. Bartlett
+Director, Enron Americas
+713-853-5629
+jeff.bartlett@enron.com

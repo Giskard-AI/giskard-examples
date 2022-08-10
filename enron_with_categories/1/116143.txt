@@ -1,0 +1,100 @@
+Message-ID: <25677080.1075842996026.JavaMail.evans@thyme>
+Date: Thu, 12 Oct 2000 02:41:00 -0700 (PDT)
+From: jeff.dasovich@enron.com
+To: tim.belden@enron.com, mary.hain@enron.com, daniel.allegretti@enron.com
+Subject: Fwd:
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Jeff Dasovich
+X-To: Tim Belden, Mary Hain, Daniel Allegretti
+X-cc: 
+X-bcc: 
+X-Folder: \Jeff_Dasovich_Dec2000\Notes Folders\All documents
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+FYI.
+----- Forwarded by Jeff Dasovich/NA/Enron on 10/12/2000 09:42 AM -----
+
+	Jeff Dasovich
+	Sent by: Jeff Dasovich
+	10/11/2000 02:25 PM
+		 
+		 To: Paul Kaufman/PDX/ECT@ECT, Joe Hartsoe/Corp/Enron@ENRON, Richard 
+Shapiro/NA/Enron@Enron, skean@enron.com, Karen Denne/Corp/Enron@ENRON, 
+mpalmer@enron.com, Sarah Novosel/Corp/Enron@ENRON, Rob 
+Bradley/Corp/Enron@ENRON, Margaret Carson/Corp/Enron@ENRON, Sue 
+Nord/NA/Enron@Enron
+		 cc: 
+		 Subject: Fwd:
+
+
+----- Forwarded by Jeff Dasovich/NA/Enron on 10/11/2000 02:23 PM -----
+
+	Susan J Mara@EES
+	10/11/2000 02:12 PM
+		 
+		 To: Jeff Dasovich/NA/Enron@Enron
+		 cc: 
+		 Subject: Fwd:
+
+
+---------------------- Forwarded by Susan J Mara/SFO/EES on 10/11/2000 12:12 
+PM ---------------------------
+
+
+"Daniel Douglass" <douglass@ArterHadden.com> on 10/11/2000 12:54:40 PM
+To: <Barbara_Klemstine@apsc.com>, <Bob_Anderson@apses.com>, <berry@apx.com>, 
+<dcazalet@apx.com>, <billr@calpine.com>, <jackp@calpine.com>, 
+<glwaas@calpx.com>, <Ken_Czarnecki@calpx.com>, <cabaker@duke-energy.com>, 
+<rjhickok@duke-energy.com>, <GTBL@dynegy.com>, <KEWH@dynegy.com>, 
+<j_dasovi@ect.enron.com>, <rpelote@energy.twc.com>, <susan_j_mara@enron.com>, 
+<curt.Hatton@gen.pge.com>, <foothill@lmi.net>, <camiessn@newwestenergy.com>, 
+<jcgardin@newwestenergy.com>, <rsnichol@newwestenergy.com>, 
+<curtis_l_kebler@reliantenergy.com>, <rllamkin@seiworldwide.com>, 
+<cfi1@tca-us.com>
+cc:  
+Subject: Fwd:
+
+
+
+Attached are Frank Wolak's slides from his presentation at WPTF's meeting  
+last Friday.? Greg Blue asked that I send these to the board, although I  
+note that?a few?of you received them directly from Frank.
+?
+Dan
+Received: from dymwsm07.mailwatch.com by ArterHadden.com; Tue, 10 Oct 2000 
+10:40:09 -0400
+Received: from dymw0110.mailwatch.com (dymw0110.allegro.net [204.253.83.102]) 
+by dymwsm07.mailwatch.com (8.11.0/8.11.0) with SMTP id e9AEaAL06385 for 
+<Douglass@@arterhadden.com>; Tue, 10 Oct 2000 10:36:10 -0400
+Received: from 204.253.83.71 by dymw0110.mailwatch.com with SMTP ( MailWatch 
+3.0(WSS) v4.3); Tue, 10 Oct 00 10:40:00 -0400
+X-Server-Uuid: 66e863c0-6e3b-11d4-8628-00508bd3c8cd
+Received: from zia.stanford.edu (zia.Stanford.EDU [171.64.233.220]) by 
+dymwsm09.mailwatch.com (8.11.0/8.11.0) with ESMTP id e9AEaLH17504 for 
+<Douglass@@arterhadden.com>; Tue, 10 Oct 2000 10:36:21 -0400
+Received: from econ-wolak (econ-wolak.Stanford.EDU [171.64.233.175]) by 
+zia.stanford.edu (8.8.8/8.8.8) with SMTP id HAA04330; Tue, 10 Oct 2000 
+07:38:09 -0700 (PDT)
+Message-ID: <4.1.20001010073312.00bb62b0@zia.stanford.edu>
+X-Sender: wolak@zia.stanford.edu (Unverified)
+X-Mailer: QUALCOMM Windows Eudora Pro Version 4.1
+Date: Tue, 10 Oct 2000 07:37:06 -0700
+To: GTBL@dynegy.com, lyncorum@earthlink.net, william.freddo@neg.pge.com,   
+rllamkin@seiworldwide.com, philm@SCDEnergy.com, mahoppe@calpx.com,   
+BWoertz@caiso.com, Douglass@@arterhadden.com, foothill@lmi.net
+From: "Frank A. Wolak" <wolak@zia.stanford.edu>
+In-Reply-To: <86256972.001FC184.00@HOUNOTESSMTP1.Dynegy.com>
+MIME-Version: 1.0
+X-WSS-ID: 15FDF5CA563477-01-01
+Content-Type: multipart/mixed;  boundary="=====================_1204143==_"
+
+
+Here are my slides from the WPTF presentation as a .pdf file.
+
+Frank Wolak
+ - wptf.pdf
+
+

@@ -1,0 +1,23 @@
+Message-ID: <31927023.1075853082806.JavaMail.evans@thyme>
+Date: Wed, 13 Jun 2001 17:57:00 -0700 (PDT)
+From: donna.scott@enron.com
+To: lynn.blair@enron.com, mike.bryant@enron.com, rick.dietz@enron.com, 
+	brad.holmes@enron.com, steven.january@enron.com, 
+	sheila.nacey@enron.com
+Subject: Confidential - Mid Year Overview
+Cc: shelley.corman@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: shelley.corman@enron.com
+X-From: Donna Scott <Donna Scott/FGT/Enron@ENRON>
+X-To: Lynn Blair <Lynn Blair/ET&S/Enron@ENRON>, Mike Bryant <Mike Bryant/OTS/Enron@ENRON>, Rick Dietz <Rick Dietz/ET&S/Enron@ENRON>, Brad Holmes <Brad Holmes/ENRON@enronXgate>, Steven January <Steven January/ET&S/Enron@ENRON>, Sheila Nacey <Sheila Nacey/ET&S/Enron@ENRON>
+X-cc: Shelley Corman <Shelley Corman/Enron@EnronXGate>
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\Donna
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Please review the attachment and let me know if you have any changes.  The final document will provide a starting place for the year end review process.
+
+ 

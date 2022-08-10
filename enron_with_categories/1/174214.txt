@@ -1,0 +1,231 @@
+Message-ID: <1712069.1075846171358.JavaMail.evans@thyme>
+Date: Mon, 28 Aug 2000 06:30:00 -0700 (PDT)
+From: peggy.mahoney@enron.com
+To: steven.kean@enron.com, mark.palmer@enron.com, karen.denne@enron.com, 
+	richard.shapiro@enron.com, james.steffes@enron.com, 
+	elizabeth.tilney@enron.com
+Subject: Industry News: Charges of Gouging as Power Costs Skyrocket
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Peggy Mahoney
+X-To: Steven J Kean, Mark Palmer, Karen Denne, Richard Shapiro, James D Steffes, Elizabeth Tilney
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+fyi
+---------------------- Forwarded by Peggy Mahoney/HOU/EES on 08/28/2000 01:29 
+PM ---------------------------
+
+
+kpope@enron.com on 08/28/2000 11:39:17 AM
+To: <meberts@enron.com>, <pmahoney@enron.com>
+cc:  
+Subject: Industry News: Charges of Gouging as Power Costs Skyrocket
+
+
+
+fyi from kpope@enron.com
+
+-------------------------------------------------------------------
+E-mailed by: Dow Jones Interactive (R) Server Software
+Folder: Industry News
+-------------------------------------------------------------------
+
+Headlines:
+Charges of Gouging as Power Costs Skyrocket
+Energy: Critics say tactics allowed in the deregulated market, which let
+suppliers reap big profits, illustrate flaws in the system. As the
+state's booming economy taxes the ability to meet electricity demands, a
+federal investigation is underway.
+
+-------------------------------------------------------------------
+  National Desk
+Charges of Gouging as Power Costs Skyrocket
+Energy: Critics say tactics allowed in the deregulated market, which let
+suppliers reap big profits, illustrate flaws in the system. As the
+state's booming economy taxes the ability to meet electricity demands, a
+federal investigation is underway.
+CHRIS KRAUL
+TIMES STAFF WRITER
+
+Aug. 28, 2000
+Los Angeles Times
+Home Edition
+Page A-1
+Copyright 2000 / The Times Mirror Company
+
+   With Southern Californians reeling from skyrocketing electric bills,
+critics charge that fewer than a dozen power suppliers are reaping far
+greater profits than are justified by the recent surge in wholesale prices
+of the natural gas they use to create electricity.
+
+
+
+  Their behavior is a major focus of a formal investigation announced
+last week by federal regulators. Among those under scrutiny are power
+merchants including <B>Duke</B> <B>Energy</B>, <B>Dynegy</B>,
+<B>Reliant</B> <B>Energy</B>, Calpine,
+Southern Co. and the Los Angeles Department of Water and Power. Critics
+say the companies are earning huge windfalls selling energy to the two
+state agencies charged with distributing power in California.
+
+   The power merchants themselves deny any profiteering, describing their
+market moves as legal business practices and welcoming the investigation.
+   The underlying cause of California's energy turmoil is a severe
+shortage of power-generating capacity to meet the soaring energy demands
+of the state's booming economy. This summer the state at times has had to
+import more than 20% of its energy needs, a shortfall equal to the output
+of about 20 medium-size power plants. No plants of any size have been
+built in the state in 10 years.
+   But the problem goes beyond a supply-and-demand imbalance. The
+so-called merchant power companies' ability to bend the market to their
+advantage--using what appear to be legal strategies--illustrates what
+many say are serious flaws in the state's deregulated energy market.
+   One major flaw is that sellers do not have to participate in the
+state's main electricity auction--the so-called "day forward" sale held
+one day before electricity is delivered to the state's residences and
+businesses. Instead, generators are withholding power until the day of
+delivery, when desperate state agencies are willing to pay steep prices
+to keep the power flowing.
+   The upshot has been a doubling of electric bills for the 1.2 million
+customers in San Diego Gas&Electric's coverage area, and Southern
+California Edison and Pacific Gas&Electric customers may be facing
+higher prices once their rates are unfrozen in 2002.
+   There is little prospect for short-term relief; with no additional
+power generation due for a year, the prices of natural gas and crude oil
+are still rising. In fact, state officials expect the market to become
+tighter over the next year as demand and fuel prices rise.
+   In pointing the finger at the power merchants, Gov. Gray Davis, some
+academics and utility executives charge that California consumers are
+being victimized by sophisticated trading techniques that take advantage
+of the market system to extract huge profits.
+   Deregulation "only works if people act responsibly. It won't work if
+people say their only goal is to make as much money as humanly possible,"
+Davis said last week.
+   This brokering takes place on the California Power Exchange and the
+Independent System Operator, two agencies created by the 1996 legislation
+that ostensibly opened up 70% of the state's power market--represented by
+the PG&E, SCE and SDG&E service areas--to competition. To create that
+competition, lawmakers ordered the utilities to sell power plants to
+independent companies, which now are selling electricity to the state.
+   The Power Exchange is a clearinghouse for the bulk of energy trading
+that is completed a day in advance of delivery, which normally fills most
+of the state's energy needs. The ISO, the nominal traffic cop arranging
+deliveries over the power grid, also has the authority to hold same-day
+power auctions for immediate delivery in the event of unexpectedly high
+demand.
+   The Power Exchange is subject to a price cap of $250 per
+megawatt-hour, a ceiling imposed earlier this summer as prices began to
+soar. But the ISO has the authority to pay as much as it has to for
+supplementary power if the previous-day purchases prove insufficient to
+keep the state's lights on.
+   And it is the secondary ISO market where power suppliers, leveraging a
+seller's market, are holding sway. By withholding their energy from the
+Power Exchange and opting instead to bid their supply to the ISO, they
+are betting that same-day shortages will generate prices as close to the
+price cap as possible, possibly even above it.
+   It's apparently working.
+   On some days, the ISO has ended up buying one-fifth of the state's
+energy needs, not the 5% to 10% maximum originally envisioned. In the
+process, desperate to meet demand, the ISO is paying premium prices and
+those prices are being passed along to consumers.
+   The problem with the market apparently defies easy solutions. At an
+emergency meeting Friday to discuss ways of dealing with the crisis, the
+ISO board rejected a staff proposal to force energy merchants to allocate
+at least 90% of the electricity they intend to sell in the "day forward"
+auction held by the Power Exchange, instead of holding back until the day
+of delivery.
+   Although ISO Chief Executive Terry Winter said the measure would
+restore some market order, the board rejected it on fears that it might
+create unforeseen ramifications, possibly even power suppliers abandoning
+the state altogether.
+   As the market stands now, independent power companies have been able
+to exploit the power shortages and the market's quirks to charge the
+state higher rates than the increases in the price of natural gas would
+seem to warrant, said Severin Borenstein, a UC Berkeley professor and
+energy specialist.
+   With fellow UC Berkeley professor James Bushnell and Stanford's Frank
+Wolak, Borenstein studied the Power Exchange over a 15-month period ended
+in September and found evidence of "market power," or the power
+generators' ability to raise prices above competitive levels for
+sustained periods.
+   Unless there is collusion among two or more power providers, the
+exercise of market power is not illegal, experts say. But if prolonged,
+it is a symptom of a seriously dysfunctional market.
+   "I think [market power] has probably gotten worse this year. There are
+players big enough to move the price and move it a lot. Prices are
+clearly way above their costs," Borenstein said.
+   Edison CEO John Bryson and Stephen Baum, head of SDG&E parent Sempra
+Energy, have similar criticisms. Their claims will be investigated by the
+Federal Energy Regulatory Commission, the latest of five probes underway
+into California's worsening energy predicament. "We'll see whether there
+are alternative market rules that should be adopted to have a better
+functioning, more efficient market," said Daniel Larcamp, FERC's director
+of market tariffs and rates. "Looking at market power issues is an
+important focus of our investigation."
+   Power suppliers Duke Energy and Calpine denied any market
+manipulation, saying the bulk of their energy is sold on long-term
+contracts and is not used to unduly sway day-ahead prices on the Power
+Exchange or same-day sales on the ISO.
+   "No way are we manipulating the market, and we have welcomed
+investigation into our business practices," said Tom Williams, spokesman
+for Duke Energy's California regional office in Morro Bay. "It's easy to
+point fingers at someone who controls only 4% of the market, much of
+which has already been sold in the forward market months ago."
+   Calpine spokesman Bill Highlander said the high prices are simply a
+case of demand far outstripping the state's ability to meet it. "Ten
+years ago, you had more supply than demand. Now you have a skyrocketing
+demand from population growth, a robust economy and Internet-fed
+additions to demand," Highlander said.
+   Charles Cicchetti, a USC professor of government, business and the
+economy, agrees and said the market is performing exactly as expected,
+given supply shortages. He objects to the limited price ceilings opposed
+by state officials.
+   "The choice should be to either regulate the whole thing, go back to
+where we were or let the market work," Cicchetti said. "This hybrid is
+causing problems to get worse."
+   But something appears to be worsening an already bad pricing
+situation, and critics believe it is market manipulation. In the FERC
+order initiating its investigation, the agency noted that California's
+wholesale electricity costs on June 29 were $340 million--a sevenfold
+increase over the same date in 1999. Over the same period, natural gas
+prices only doubled.
+   FERC will look at other aspects of the state's energy deregulation as
+well--at the fact that utilities have no choice but to purchase power
+from the central power exchange and have only limited power to hedge or
+make bilateral deals on their own with outside firms.
+   In an interview last week, the FERC's Larcamp said his agency is
+reserving the right to roll back rates, order refunds or even impose a
+new market framework to replace the Power Exchange and ISO.
+   Larcamp said the FERC's probe will contrast California's troubled
+power market with the Pennsylvania-Maryland-New Jersey system, which
+gives end users more freedom to cut their own deals with suppliers. The
+result is that Pennsylvania has more than 130 power suppliers competing
+for the state's business, versus no more than 15 in California.
+   *
+   Times staff writers Nancy Vogel and Nancy Rivera Brooks contributed to
+this story.
+
+
+LATM0024100606
+
+
+To view all headlines in the folder Industry News, go to
+http://eeshou-dowj1/browsearticles.asp?folderid=1
+
+To go to the front page of Dow Jones Interactive Intranet Toolkit Server
+Software, go to
+http://eeshou-dowj1/
+
+-------------------------------------------------------------------
+For assistance, contact Dow Jones Customer Service by e-mail at
+djip.itkhelp@dowjones.com or by phone at 800-369-7466. (Outside the U.S.
+and Canada, call 609-452-1511 or contact your local sales representative.)
+-------------------------------------------------------------------
+Copyright  , 2000 Dow Jones Reuters Business Interactive LLC. All Rights
+Reserved.
+

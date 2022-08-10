@@ -1,0 +1,29 @@
+Message-ID: <22094025.1075842958662.JavaMail.evans@thyme>
+Date: Fri, 1 Sep 2000 00:43:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: jeff.dasovich@enron.com, susan.mara@enron.com, mona.petrochko@enron.com, 
+	tim.belden@enron.com, mary.hain@enron.com
+Subject: 
+Cc: paul.kaufman@enron.com, richard.shapiro@enron.com, james.steffes@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: paul.kaufman@enron.com, richard.shapiro@enron.com, james.steffes@enron.com
+X-From: Steven J Kean
+X-To: Jeff Dasovich, Susan J Mara, Mona L Petrochko, Tim Belden, Mary Hain
+X-cc: Paul Kaufman, Richard Shapiro, James D Steffes
+X-bcc: 
+X-Folder: \Jeff_Dasovich_Dec2000\Notes Folders\All documents
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+When we have described the problems and solutions for California we have 
+focussed on generation siting and flexibility to hedge.  We have stayed away 
+from transmission issues on the assumption that California, with its ISO and 
+PX, does not suffer from the same discrimination issues as other parts of the 
+country.  Is this true?  Does California's system layer in priorities for 
+utility use of the system -- eg doesn't PG&E control "path 15"?  Does that 
+control provide advantageous access to PG&E?  Are there other examples and 
+are there links between these "preferences" and the current problems in 
+California?  As we are trying to convert reliability and pricing concerns 
+into FERC action these would be helpful arguments to have available to us.

@@ -1,0 +1,388 @@
+Message-ID: <15319805.1075842936579.JavaMail.evans@thyme>
+Date: Mon, 22 Nov 1999 02:42:00 -0800 (PST)
+From: james.steffes@enron.com
+To: rita.hartfield@enron.com, margaret.carson@enron.com, 
+	richard.shapiro@enron.com, susan.mara@enron.com, 
+	jeff.dasovich@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: James D Steffes
+X-To: Rita Hartfield, Margaret Carson, Richard Shapiro, Susan J Mara, Jeff Dasovich
+X-cc: 
+X-bcc: 
+X-Folder: \Jeff_Dasovich_Dec2000\Notes Folders\All documents
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+FYI.
+
+JDS
+---------------------- Forwarded by James D Steffes/HOU/EES on 11/22/99 10:42 
+AM ---------------------------
+
+
+UC Energy <ucenergy@socrates.berkeley.edu> on 11/16/99 03:17:50 PM
+
+	
+To:	
+cc:	(bcc: James D Steffes/HOU/EES)
+	
+Subject:	
+
+
+
+                               Welcome
+
+                                  to
+
+           The University of California Energy Institute's
+
+
+        POWER Working Paper Email Notification Service (PWPENS)
+
+
+The University of California Energy Institute's Program on Workable Energy
+Regulation (POWER) has distributed working papers since 1992.  With this
+email, we are launching a service to notify interested researchers,
+regulators, and practitioners when new POWER working papers become
+available.
+
+
+All POWER working papers can be downloaded free of charge from the UCEI
+website:  http://www.ucei.berkeley.edu/ucei  Just follow the link to "POWER
+Research".
+
+
+
+Below are the titles and abstracts of the POWER working papers that have
+been released so far in 1999, along with links that allow you to go
+straight to the full working paper text (available in Adobe Acrobat
+format).  As new POWER working papers are released, PWPENS will
+automatically notify you by email.
+
+
+If you would like to be removed from this list, please send an email to
+Mailto:ucenergy@socrates.berkeley.edu and include UNSUBSCRIBE in the
+subject heading.  If you received this email indirectly and would like to
+be added to this emailing list, please send an email to
+Mailto:ucenergy@socrates.berkeley.edu and include SUBSCRIBE in the subject
+heading.
+
+
+_________________________________________________________________
+
+
+       N E W   P O W E R   W O R K I N G   P A P E R S
+
+
+                 Working Paper Series of UCEI
+_________________________________________________________________
+
+
+
+T I T L E S
+_________________________________________________________________
+
+
+"Regulation and the Leverage of Local Market Power in the California
+Electricity Market" (September 1999)
+ PWP-070 by James B. Bushnell and Frank A. Wolak
+
+
+"Electricity Markets: Should the Rest of the World Adopt the UK Reforms?"
+(September 1999)
+ PWP-069 by Catherine Wolfram
+
+
+"Does Incentive Regulation Provide the Correct Incentives?: Stochastic
+Frontier Evidence from the US Electricity Industry" (September 1999)
+ PWP-068 by Christopher R. Knittel
+
+
+"Understanding Competitive Pricing and Market Power in Wholesale
+Electricity Markets"  (August 1999)
+ PWP-067 by Severin Borenstein
+
+
+"Pricing Electricity for Default Customers: Pass Through or
+Performance-Based Rates?"  (August 1999)
+ PWP-066 by Carl Blumstein
+
+
+"Regulatory Imperfections in the Electricity and Natural Gas Industries:
+Evidence from the Pricing and Investment Decisions of Single and
+Multi-Product Electricity Firms"  (July 1999)
+ PWP-065 by Christopher R. Knittel
+
+
+"Diagnosing Market Power in California's Deregulated Wholesale Electricity
+Market"  (July 1999)
+ PWP-064 by Severin Borenstein, James Bushnell, and Frank Wolak
+
+
+"Zonal Pricing and Demand-Side Bidding in the Norwegian Electricity Market"
+ (June 1999)
+ PWP-063 by Tor Arnt Johnsen, Shashi Kant Verma, and Catherine Wolfram
+
+
+"Transmission Rights and Market Power" (November 1998)
+ PWP-062 by James Bushnell
+
+
+"Power-Grid Decentralization" (March 1999)
+ PWP-061 by Bart McGuire
+
+
+
+
+A B S T R A C T S
+_________________________________________________________________
+
+
+
+"Regulation and the Leverage of Local Market Power in the California
+Electricity Market" (September 1999)
+ PWP-070 by James B. Bushnell and Frank A. Wolak
+
+Regulators of electricity markets around the world continue to struggle
+with the problem of incentivizing generators whose output, due to their
+location in the grid, has no viable substitutes.  Such generators possess
+'local' market power.  Since these generators also compete in broader
+regional markets, the actions taken to exploit their local market power can
+also effect market outcomes over larger areas.  In California, a contract
+structure known as the reliability must-run (RMR) contract was developed to
+address the problem of local market power.  However, the contract form that
+was in place during 1998 created serious incentive problems.  We find that,
+during the months of June through September 1998, RMR contracts had the
+effect of raising overall supply bid prices from most producers, thereby
+leading to higher energy prices in the California regional market.
+
+Download this paper in Adobe Acrobat format:
+http://www.ucei.berkeley.edu/ucei/PDF/pwp070.pdf
+
+     ________________________________________
+
+
+
+"Electricity Markets: Should the Rest of the World Adopt the UK Reforms?"
+(July 1999)
+ PWP-069 by Catherine Wolfram
+
+Policy makers everywhere have analyzed and tried to learn from the UK
+electricity restructuring, adopting some of the same market features but
+modifying others. Now the British government has embarked on a radical
+reform of their electricity industry, called the Programme to Reform the
+Electricity Trading Arrangements or "RETA." The changes to the electricity
+market are slated for September 2000. Some of the changes will bring the UK
+in line with what other countries have done, but other changes will be
+unique. Is the UK poised to leapfrog the rest of the world, adopting every
+market feature that has proved successful and modifying those that have
+not? Should the rest of the world be following the UK's lead on some of
+these changes? This paper argues that the answer is a decisive "no" to both
+questions. While proposed reforms to introduce demand-side bidding and
+encourage financial innovation make sense, the government's proposal to pay
+suppliers their bids rather than the market clearing price will not help
+achieve the stated goals of fostering competition and lowering prices.
+
+Download this paper in Adobe Acrobat format:
+http://www.ucei.berkeley.edu/ucei/PDF/pwp069.pdf
+
+     ________________________________________
+
+
+
+"Does Incentive Regulation Provide the Correct Incentives?: Stochastic
+Frontier Evidence from the US Electricity Industry"  (September 1999)
+ PWP-068 by Christopher R. Knittel
+
+Many policy-makers are currently weighing the advantages of deregulating
+electricity markets over more traditional regulatory methods. However,
+within this traditional regulatory environment many options exist.  In
+particular, the use of incentive regulation programs in US electricity
+markets has grown during the past two decades. These programs differ in
+both their goals and how they attempt to meet these goals. In this paper, I
+discuss the wide array of programs that have been utilized, and investigate
+the impact of individual programs on the technical efficiency of a large
+set of coal and natural gas generator units. Within a stochastic frontier
+framework, I allow the distribution of inefficient production to be a
+function of the regulatory environment the plant operates under. The
+results suggest that while certain incentive regulations increase observed
+technical efficiency, others have either no effect or even lead to a
+reduction in efficiency.
+
+Download this paper in Adobe Acrobat format:
+http://www.ucei.berkeley.edu/ucei/PDF/pwp068.pdf
+
+     ________________________________________
+
+
+
+"Understanding Competitive Pricing and Market Power in Wholesale
+Electricity Markets"  (August 1999)
+ PWP-067 by Severin Borenstein
+
+Discussions of competition in restructured electricity markets have
+revealed many misunderstandings about the definition, diagnosis, and
+implications of market power.  In this paper, I attempt to clarify the
+meaning of market power and show how it can be distinguished from
+competitive pricing in markets with significant short-run supply
+constraints.  I also address two common myths about market power: (a) that
+it is present in all markets and (b) that it must be present in order for
+firms to remain profitable in markets with significant fixed costs.  I
+conclude by arguing that, while a finding of market power in an industry
+does not necessarily indicate that government intervention is warranted,
+such analysis is an important part of creating sound public policy.
+
+Download this paper in Adobe Acrobat format:
+http://www.ucei.berkeley.edu/ucei/PDF/pwp067.pdf
+
+     ________________________________________
+
+
+
+"Pricing Electricity for Default Customers: Pass Through or
+Performance-Based Rates?"  (August 1999)
+ PWP-066 by Carl Blumstein
+
+California electricity consumers can choose a retail electricity service
+provider, but most have not done so. These consumers remain, by default,
+customers of the utility distribution companies (UDCs). Pricing electricity
+for these default customers is now an issue before the California Public
+Utilities Commission. In California this issue is framed largely in terms
+of two alternatives: pass through of the wholesale electricity price or a
+performance-based rate (PBR). Under the first alternative, purchase from
+the California Power Exchange (PX) would be mandatory; under the second,
+each UDC would determine where to purchase supply and each UDC's
+performance would be gauged by comparing its costs to the PX price. This
+paper identifies issues that should be addressed in choosing between the
+two alternatives. First the paper examines the effects of the two
+alternatives on electricity prices. The analysis suggests that, at least in
+the near term, the choice will not have much effect on prices. Next the
+paper looks at possible perverse incentives. A central concern here is
+that, if providing default service becomes profitable, UDCs might use their
+distribution assets to stifle competition in the retail market. Finally,
+the paper examines regulatory costs associated with the alternatives and
+concludes that regulatory costs are likely to be higher under a PBR.
+
+Download this paper in Adobe Acrobat format:
+http://www.ucei.berkeley.edu/ucei/PDF/pwp066.pdf
+
+     ________________________________________
+
+
+
+"Regulatory Imperfections in the Electricity and Natural Gas Industries:
+Evidence from the Pricing and Investment Decisions of Single and
+Multi-Product Electricity Firms"  (July 1999)
+ PWP-065 by Christopher R. Knittel
+
+Electricity and natural gas markets have traditionally been serviced by one
+of two market structures. In some markets, electricity and natural gas are
+sold by a dual-product regulated monopolist, while in other markets,
+electricity and natural gas are sold by separate single-product regulated
+monopolies. This paper analyzes the relative pricing and investment
+decisions of electricity firms operating in the two market structures. The
+unique relationship between these two products, namely that electricity and
+natural gas are substitutes in consumption and natural gas is an input into
+the generation of electricity, allows me to gain inferences regarding the
+efficacy of regulation in both the electricity and natural gas industries.
+The results imply that both electricity prices and reliance on natural gas
+generation are higher in a dual-product setting, both suggestive that
+regulators respond to the relative incentives of electricity and natural
+gas firms.
+
+Download this paper in Adobe Acrobat format:
+http://www.ucei.berkeley.edu/ucei/PDF/pwp065.pdf
+
+     ________________________________________
+
+
+
+"Diagnosing Market Power in California's Deregulated Wholesale Electricity
+Market"  (July 1999)
+ PWP-064 by Severin Borenstein, James Bushnell, and Frank Wolak
+
+Effective competition in wholesale electricity markets is the cornerstone
+of the deregulation of the electricity generation industry. We examine the
+degree of competition in the California wholesale electricity market during
+June-November 1998 by comparing the market prices with estimates of the
+prices that would have resulted if all firms were price takers. We find
+that there were significant departures from competitive pricing and that it
+was most pronounced during the highest demand periods. Overall, this raised
+the cost of power purchases by about 22% above the competitive level. We
+also explain why the prices observed cannot be attributed to competitive
+peak-load pricing.
+
+Download this paper in Adobe Acrobat format:
+http://www.ucei.berkeley.edu/ucei/PDF/pwp064.pdf
+
+     ________________________________________
+
+
+
+"Zonal Pricing and Demand-Side Bidding in the Norwegian Electricity Market"
+ (June 1999)
+ PWP-063 by Tor Arnt Johnsen, Shashi Kant Verma, and Catherine Wolfram
+
+PWP-063 analyzes prices in the day-ahead electricity market in Norway. We
+consider the hypothesis that generators are better able to exercise market
+power when transmission constraints bind, resulting in smaller,
+more-concentrated markets. We test this hypothesis by comparing equilibrium
+prices across periods with different demand elasticity and with and without
+binding transmission constraints. We find some empirical evidence that
+prices in local markets are higher during constrained periods when demand
+is less elastic.
+
+Download this paper in Adobe Acrobat format:
+http://www.ucei.berkeley.edu/ucei/PDF/pwp063.pdf
+
+     ________________________________________
+
+
+
+"Transmission Rights and Market Power" (November 1998)
+ PWP-062 by James Bushnell
+
+Stakeholders throughout the United States are currently working to reach a
+consensus on the structure and protocols that will define tradable
+transmission rights in the context of the various wholesale electricity
+markets, and their associated Independent System Operators (ISOs), now
+forming in different regions of the U.S.  Much of the discussion has
+focused on the relative merits of physical transmission rights in
+comparison with financial transmission rights.   To the extent that
+transmission rights provide their owners with an added level of influence
+or control over transmission markets, some of the historical industry
+concerns over vertical market power may need to be revisited.   In this
+paper, I discuss some of the potential concerns over transmission rights
+and their use for the exercise of various forms of market power.
+
+Download this paper in Adobe Acrobat format:
+http://www.ucei.berkeley.edu/ucei/PDF/pwp062.pdf
+
+     ________________________________________
+
+
+
+"Power-Grid Decentralization" (March 1999)
+ PWP-061 by Bart McGuire
+
+Most of the literature concerned with decentralized operations in power
+grids has focussed on partitioning systems initially into two main parts,
+the transmission system and the market of users (the "ISO" and the "PX"),
+and asking how the actions of these two subgroups can be properly
+coordinated.  While a number of studies have gone on to examine
+decentralized operations in the user market of producers and consumers,
+little attention has been given to how the operation of the transmission
+system itself might be decentralized.  In this paper we propose an
+organizational procedure for coordinating the actions of the managers of
+given subgrids of a larger system.  Non-invasive price-quantity dialogs are
+defined that, under fairly general circumstances, bring about perfect
+short-run coordination of the aggregate grid.
+
+Download this paper in Adobe Acrobat format:
+http://www.ucei.berkeley.edu/ucei/PDF/pwp061.pdf
+
+
+

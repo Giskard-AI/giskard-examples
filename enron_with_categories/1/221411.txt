@@ -1,0 +1,274 @@
+Message-ID: <25240535.1075855180788.JavaMail.evans@thyme>
+Date: Wed, 31 Oct 2001 13:05:45 -0800 (PST)
+From: john.shelk@enron.com
+To: d..steffes@enron.com
+Subject: RE: FERC rulemaking on Generator Interconnection
+Cc: chris.long@enron.com, linda.robertson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Bcc: chris.long@enron.com, linda.robertson@enron.com
+X-From: Shelk, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JSHELK>
+X-To: Steffes, James D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jsteffe>
+X-cc: Long, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Clong>, Robertson, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lrobert3>
+X-bcc: 
+X-Folder: \Jim_Steffes_Jan2002\Steffes, James D.\FERC\FERC Interconnection ANOPR
+X-Origin: Steffes-J
+X-FileName: jsteffe (Non-Privileged).pst
+
+
+Jim --
+
+The quick answer to your question on the Barton bill is that, yes, it does =
+appear to address this tax issue involving interconnections, at least in pa=
+rt.  There is language in Title VIII on various tax issues.  One of them ex=
+ludes from gross income certain amounts received by electric utilities, spe=
+cifically including connection fees.  In the example in the e-mail, the iss=
+ue was not fees paid directly, but assets paid for by the generator that ar=
+e then transferred to the utility.  Will check on that angle.
+
+In any event, Title VIII (while in the Barton bill) is not in the jurisdict=
+ion of Barton's subcommittee.  Instead, the tax title would have to go thro=
+ugh the Ways and Means Committee.  There were some energy tax provisions in=
+ the House-passed energy bill last August.  Chris and I will consult tomorr=
+ow to see if this issue was included in that bill.
+
+Aside from the tax issue, Barton bill would require the type of interconnec=
+tion rulemaking that FERC is now conducting (both for connections to local =
+distribution and to transmission).  In each case, the cost of interconnecti=
+on would have to be comparable to what the utility charges others similarly=
+ situated.  I will go back to double check, but off the top of my head I re=
+call that the Bingaman draft specifically "socializes" the costs of interco=
+nnection.
+
+John
+
+-----Original Message-----
+From: Steffes, James D.=20
+Sent: Wednesday, October 31, 2001 1:40 PM
+To: Shelk, John
+Subject: FW: FERC rulemaking on Generator Interconnection
+
+
+John --
+
+Does the Barton proposal deal with this issue of tax on facilities for gene=
+rators?
+
+Jim
+
+-----Original Message-----
+From: Nicolay, Christi L.=20
+Sent: Wednesday, October 31, 2001 11:47 AM
+To: Parquet, David; Lindberg, Susan; Hueter, Barbara A.; Rasmussen,
+Dale; Dieball, Scott; Tweed, Sheila; Booth, Chris; Carnahan, Kathleen;
+Churbock, Scott; Comeaux, Keith; Gimble, Mathew; Grube, Raimund;
+Hausinger, Sharon; Inman, Zachary; Jacoby, Ben; Keenan, Jeffrey;
+Kellermeyer, Dave; Krause, Greg; Krimsky, Steven; Kroll, Heather; Mitro,
+Fred; Moore, John; Tapscott, Ron; Whitaker, Rick; Baughman, Edward D.;
+Coulter, Kayne; Day, Smith L.; Gilbert, Gerald; Kinser, John; May, Tom;
+Miller, Jeffrey; Will, Lloyd; Twiggs, Thane; Ryall, Jean; Jones, Karen
+E.; Mann, Kay; Sole III, Carlos; Calger, Christopher F.
+Cc: Comnes, Alan; Fulton, Donna; Novosel, Sarah; Steffes, James D.;
+Wehn, Samuel; Fillinger, Mark; Hartsoe, Joe; Shapiro, Richard;
+Robertson, Linda; Hoatson, Tom
+Subject: RE: FERC rulemaking on Generator Interconnection
+
+
+Thanks Dave,
+
+The Nov. 1 meeting will be focused more on establishing the procedure that =
+FERC will follow to tackle the interconnection issues other than costs (suc=
+h as timelines, basic procedures).  ERCOT will present its agreement and pr=
+ocedures and EPSA will present a list of problems that members have had.  E=
+nron worked closely with other EPSA members over the past several years on =
+problems that we have encountered in the interconnection procedures and IAs=
+.  EEI will also make a presentation.  (Additionally, as you are probably a=
+ware, over the past several years we have discussed problems with FERC hotl=
+ine and have also had FERC staff call us to inquire about general interconn=
+ection issues -- this ANOPR is meant to address many of those issues.)
+
+At the end of the Nov. 1 meeting, other meeting participants will have a br=
+ief amount of time to raise issues.  Donna Fulton will attend for Enron.  F=
+ERC then plans to convene a series of meetings to establish generic interco=
+nnection procedures and parts of an IA (results due to FERC Dec 14).  We wi=
+ll then also submit Enron comments on the ERCOT IA and procedures by Dec. 2=
+1. =20
+
+FERC IS NOT addressing the cost issues during this stage of the proceedings=
+; therefore, it will most likely not be dealing with the tax gross-up and c=
+rediting issues yet.  It plans to deal with cost issues in a subsequent rul=
+emaking.  (We certainly understand that cost issues are typically the most =
+problematic part of interconnection negotiations, but this is the way FERC =
+wants to proceed.  FERC will continue to deal with cost issues in orders wh=
+en disputed IAs are filed at FERC unexecuted.)
+
+By way of background on ERCOT, as I understand it, ERCOT basically rolls in=
+ the interconnection costs (network-type upgrades) to the entire grid throu=
+gh TCOS (an uplift).  However, TCOS are not allowed to be unlimited -- ERCO=
+T has the ability to decide whether the generator interconnection is in the=
+ best interest of the grid.  Some attribute all the new generation in ERCOT=
+ to this method.  We will need to formulate Enron's view in the next phase =
+of the interconnection proceeding.
+
+For Thurs. meeting, I think Donna should raise these issues:
+-- While certain basic aspects of the IA should be standardized to eliminat=
+e the waste of time we usually face dealing with the same problems over and=
+ over, the IA should be flexible enough to allow for individual business ci=
+rcumstances (for example, the notice to proceed that we have been including=
+.)
+
+-- While having timelines and procedures are fine, the larger problem has b=
+een getting utilities to actually follow their own filed procedures (for ex=
+ample, Entergy was one of the first to file procedures, yet seems to have a=
+ problem sticking to their timelines.)  This yet again means that RTOs are =
+critical to stop the discriminatory practices and to provide incentives to =
+treat us as customers.
+
+--There needs to be more discussion on best practice No.2 below -- Energy r=
+esource or capacity resource.  This should be reviewed in the context of FE=
+RC's NOPR on icap (Enron just submitted comments that "capacity" as a separ=
+ate payment is not necessary in functioning markets.  In addition, "capacit=
+y" is not a separately required "payment" in most parts of the US outside o=
+f current ISOs (ERCOT does not have icap)).
+
+Attached is the ANOPR, ERCOT IA and procedures.  Susan Lindberg will be cir=
+culating a draft of Enron comments on the agreement and procedures.  Includ=
+ed on p. 11 of the ANOPR are "best practices" which include:
+
+1. Comparable treatment for IPPs (allowed to be competing network resources=
+ for load without having to be designated as a "network" resouce)
+2. Multiple interconnection products:  Energy resource and capacity resourc=
+e
+3. Small generator exemption
+4. Queueing with reasonable milestones (10 days to correct deficiencies)
+5. Deposits (with deposits over actual cost refunded)
+6. Siting: TPs would post optimal and non-optimal sites for locating genera=
+tors (this is something that we had asked some new ITCs to provide.  Most T=
+Ps have been reluctant to provide this service.)
+7. Timelines (very similar to currently approved timelines)
+
+Please provide any thoughts/comments to Susan Lindberg, Donna Fulton, Sarah=
+ Novosel and me.  Thanks.  Christi 37007 =20
+
+=20
+
+-----Original Message-----
+From: Parquet, David=20
+Sent: Friday, October 26, 2001 11:47 AM
+To: Lindberg, Susan; Hueter, Barbara A.; Rasmussen, Dale; Dieball,
+Scott; Tweed, Sheila; Booth, Chris; Carnahan, Kathleen; Churbock, Scott;
+Comeaux, Keith; Gimble, Mathew; Grube, Raimund; Hausinger, Sharon;
+Inman, Zachary; Jacoby, Ben; Keenan, Jeffrey; Kellermeyer, Dave; Krause,
+Greg; Krimsky, Steven; Kroll, Heather; Mitro, Fred; Moore, John;
+Tapscott, Ron; Whitaker, Rick; Baughman, Edward D.; Coulter, Kayne; Day,
+Smith L.; Gilbert, Gerald; Kinser, John; May, Tom; Miller, Jeffrey;
+Will, Lloyd
+Cc: Comnes, Alan; Fulton, Donna; Nicolay, Christi L.; Novosel, Sarah;
+Steffes, James D.; Wehn, Samuel; Fillinger, Mark
+Subject: RE: FERC rulemaking on Generator Interconnection
+
+
+I skimmed the attached NOPR looking for the approach FERC was proposing to =
+take to the key issue we fought over here in CA a couple of years ago.  Alt=
+hough I did not see the word "congestion", the implication of what I read i=
+s that the generator would pay for his extension cord plus any congestion i=
+mpacts that it makes on the grid.  The implication of the last statement is=
+ that the generator would put the grid back into the condition it was in "b=
+ut for" the new generator.  That is great, assuming I did not skim from too=
+ high an altitude.  Did I?
+
+I also read the thing from the point of view of an issue that I had forgott=
+en about until recently.  That is, if the generator pays for all of this up=
+grade and "but for" stuff, and then "gives" it to the utility, are there ta=
+xes due on the "gift"?  When we developed our project in Pittsburg, CA, PG&=
+E's initial position was that we owed them for the upgrades AND for the tax=
+es on the upgrades (about 35 - 40% additional charge), which they turned ov=
+er to the state and fed.  (This is potentially A LOT of money to "waste" on=
+ an interconnect, if it is an expensive one.)  Working with Enron's tax dep=
+t (I do not remember specifically with whom), we convinced PG&E that taxes =
+were probably not due for various reasons, and we mutually agreed to get a =
+private letter ruling from the IRS confirming.  (We also agreed that IF the=
+ taxes were ever due, that we would pay them.)  I understand that that IRS =
+ruling was put in abeyance, pending some sort of law congress was consideri=
+ng.  (I may be making this up here as I go along because Calpine bought the=
+ project from us and I lost track of the various machinations.)  The point =
+of all of this.  Is it reasonable in this NOPR process on interconnection t=
+o address the tax issue?  Is it too late?  Is it irrelevant to the FERC pro=
+cess?  Does anyone know the status of the law making process? =20
+
+I am concerned about taxes for two reasons.  First, many of the opponents t=
+o the proposed NOPR approach thought that all grid upgrades should be paid =
+for by the utility and  included in rate base.  (In other words, "all gener=
+ators are good and benefit the ratepayers.")  On fundamental grounds they w=
+ill resist paying for upgrades.  If they believe that they will get the ins=
+ult after injury treatment (pay for upgrades AND for taxes on the upgrades)=
+, they will resist the NOPR more strenously.  (FYI to everyone, Calpine str=
+ongly resisted paying for upgrades at Pittsburg and somehow got out of it. =
+ And guess what?  Now with all of the new plants - ~1200MW added by Calpine=
+ within a 5 mile area of 2500 MW of existing - there are congestion problem=
+s around all of the projects, just as we forecasted.  ISO is now considerin=
+g adding a new zone and/or charging PG&E and/or the projects for congestion=
+.  Because PG&E did not, and probably never will in our lifetime, add the g=
+rid upgrades so as to include in ratebase, the projects will be hurt.  Beca=
+use all of this is not forecastable in the context of developing a project =
+in a timely manner, this outcome, exactly as we had forecasted, is why we s=
+upported the approach in the proposed NOPR.)  Second, perhaps naively, I am=
+ assuming that the tax issue is no different for gas pipeline upgrades than=
+ for electric transmission system upgrades.  On a project we are now develo=
+ping in Roseville, CA, we are faced with significant gas pipeline system up=
+grades in PG&E's system.  Significant grossups for tax impacts of the "gift=
+" are are being discussed as I remember for Pittsburg's electric transmissi=
+on system upgrades.  Since it sounds like the same issue, sure would be nic=
+e if we could get some appropriate precedence going.  Any possibliity of de=
+aling with the tax issues in this NOPR?
+
+
+
+-----Original Message-----
+From: Lindberg, Susan=20
+Sent: Friday, October 26, 2001 7:29 AM
+To: Parquet, David; Hueter, Barbara A.; Rasmussen, Dale; Dieball, Scott;
+Tweed, Sheila; Booth, Chris; Carnahan, Kathleen; Churbock, Scott;
+Comeaux, Keith; Gimble, Mathew; Grube, Raimund; Hausinger, Sharon;
+Inman, Zachary; Jacoby, Ben; Keenan, Jeffrey; Kellermeyer, Dave; Krause,
+Greg; Krimsky, Steven; Kroll, Heather; Mitro, Fred; Moore, John;
+Tapscott, Ron; Whitaker, Rick; Baughman, Edward D.; Coulter, Kayne; Day,
+Smith L.; Gilbert, Gerald; Kinser, John; May, Tom; Miller, Jeffrey;
+Will, Lloyd
+Cc: Comnes, Alan; Fulton, Donna; Nicolay, Christi L.; Novosel, Sarah;
+Steffes, James D.
+Subject: FW: FERC rulemaking on Generator Interconnection
+
+
+Please see the attached.  FERC has asked for preliminary comments on its pr=
+oposal to adopt a standard generator interconnection agreement and procedur=
+es; the deadline for comments is December 21.  After it has considered the =
+comments, FERC will issue a NOPR.
+
+EPMI will participate in the Nov. 1 meeting at FERC; an update will be sent=
+ to you.  I will be taking the lead on drafting our comments. =20
+
+Please contact me if you need further information.
+
+Susan Lindberg
+713.853.0596
+
+-----Original Message-----
+From: Jackie Gallagher [mailto:JGallagher@epsa.org]
+Sent: Friday, October 26, 2001 8:57 AM
+To: acomnes@enron.com; Hawkins, Bernadette; Nersesian, Carin; Nicolay,
+Christi L.; Fulton, Donna; Scheuer, Janelle; Hartsoe, Joe; Shelk, John;
+jsteffe@enron.com; Noske, Linda J.; Robertson, Linda; Alvarez, Ray;
+Shapiro, Richard; Novosel, Sarah; Mara, Susan; Lindberg, Susan; Hoatson,
+Tom
+Subject: FERC ANOPR on Generator Interconnection
+
+
+Last night, FERC issued an Advanced Notice of Proposed Rulemaking (ANOPR) o=
+n Standardizing Generator Interconnection Agreements and Procedures.  The A=
+NOPR incorporates the ERCOT interconnection procedures, modified by various=
+ "best practices" identified by the Commission in an attachment.  A public =
+meeting has been scheduled for November 1st in Washington, although the not=
+ice of the meeting is not yet available.  We will forward it when it become=
+s available.  The ANOPR is attached.

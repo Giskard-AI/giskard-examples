@@ -1,0 +1,54 @@
+Message-ID: <25524203.1075860847566.JavaMail.evans@thyme>
+Date: Mon, 22 Jan 2001 20:12:00 -0800 (PST)
+From: susan.scott@enron.com
+To: kevin.hyatt@enron.com, tk.lohman@enron.com
+Subject: Re: Data responses in SDG&E -- confidential treatment
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Susan Scott <Susan Scott/ET&S/Enron@ENRON>
+X-To: Kevin Hyatt <Kevin Hyatt/ET&S/Enron@Enron>, TK Lohman <TK Lohman/ET&S/Enron@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \Kevin_Hyatt_Mar2002\Hyatt, Kevin\TW
+X-Origin: Hyatt-K
+X-FileName: khyatt (Non-Privileged).pst
+
+PRIVILEGED AND CONFIDENTIAL
+
+Appropos of Agave's phone message.  Steve was in this loop.  The discount reports are available to anyone who wants them under the Open Records Act.  TK, you indicated that Agave thinks the rates were published somewhere by FERC -- I don't know whether that's true, but the bottom line is that FERC has the information in its files and could publish it any time at wants; we have no control over that.  Let me know if you want me to talk with Agave's lawyers.
+---------------------- Forwarded by Susan Scott/ET&S/Enron on 01/22/2001 04:09 PM ---------------------------
+
+
+Drew Fossum
+01/12/2001 09:14 AM
+To:	Susan Scott/ET&S/Enron@ENRON
+cc:	Mary Kay Miller/ET&S/Enron@ENRON, Maria Pavlou/Enron@EnronXGate, Glen Hass/ET&S/Enron@ENRON, Shelley Corman/ET&S/Enron@ENRON 
+
+Subject:	Re: Data responses in SDG&E -- confidential treatment   
+
+I'm not remembering whether the discount reports are confidential or not, but if they are public (which I think is the case) then I agree with your recommendation.  DF 
+
+
+
+Susan Scott
+01/11/2001 04:58 PM
+To:	Mary Kay Miller/ET&S/Enron@ENRON, Drew Fossum@ENRON, Maria Pavlou/ET&S/Enron, Glen Hass/ET&S/Enron@ENRON, Shelley Corman
+cc:	 
+
+Subject:	Data responses in SDG&E -- confidential treatment
+
+After doing a little looking into what data about our contracts is publicly available, I've concluded that there is little if any basis for requesting confidential treatment for any of our responses to the FERC's data requests.
+
+My chief concern was the pre-637 contracts that are not in our transactional reports.  Most of the discount letters include confidentiality provisions and we're required to seek confidential treatment if required to disclose the contracts.  I was hoping to find that none of the information about these contracts had been disclosed in any public forum.  However, I think our shippers (and TW) would be hard-pressed to claim that the info FERC is requesting is confidential.  These shippers' names and contract rates are disclosed in our monthly discount reports to FERC.  (I assume we do not seek confidential treatment of these reports -- let me know if I'm mistaken.)   Quantities, expiration date and receipt and delivery points for these shippers' contracts appear on the Index of Customers on our website.   
+
+I would recommend that we not request confidential treatment because I can find no convincing basis for saying this information is confidential.  
+
+Let me know whether you concur.  Thanks.
+
+
+
+
+
+
+<Embedded StdOleLink>

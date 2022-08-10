@@ -1,0 +1,77 @@
+Message-ID: <25253728.1075847592042.JavaMail.evans@thyme>
+Date: Thu, 26 Apr 2001 08:09:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: joe.hartsoe@enron.com, shelley.corman@enron.com
+Subject: Some Background on California Gas Price Spikes--The Other Side of
+ the Story
+Cc: stanley.horton@enron.com, linda.robertson@enron.com, ray.alvarez@enron.com, 
+	tom.briggs@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stanley.horton@enron.com, linda.robertson@enron.com, ray.alvarez@enron.com, 
+	tom.briggs@enron.com
+X-From: Steven J Kean
+X-To: Joe Hartsoe, Shelley Corman
+X-cc: Stanley Horton, Linda Robertson, Ray Alvarez, Tom Briggs
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+We need to communicate with Massey before he gets completely carried away 
+blaming the interstate pipeline business for gas price spikes.  We need to 
+get him the information regarding Cal LDCs failure to fill storage and their 
+opposition to additional pipeline construction in the state.  Shelley -- 
+could you forward copies of the LDC filings to the group.  Should Joe or I 
+(or both) try to see massey when I am in town next week?
+---------------------- Forwarded by Steven J Kean/NA/Enron on 04/26/2001 
+02:07 PM ---------------------------
+From: Jeff Dasovich on 04/24/2001 06:57 PM
+Sent by: Jeff Dasovich
+To: Richard Shapiro/NA/Enron@Enron, skean@enron.com, James D 
+Steffes/NA/Enron@Enron, Paul Kaufman/PDX/ECT@ECT, Leslie 
+Lawner/NA/Enron@Enron, Joe Hartsoe/Corp/Enron@ENRON, Rob 
+Bradley/Corp/Enron@ENRON, Janel Guerrero/Corp/Enron@Enron, Karen 
+Denne/Corp/Enron@ENRON, Alan Comnes/PDX/ECT@ECT, Sandra 
+McCubbin/NA/Enro@Enron, Susan J Mara/NA/Enron@ENRON
+cc:  
+
+Subject: Some Background on California Gas Price Spikes--The Other Side of 
+the Story
+
+Last week, I distributed a presentation that the Brattle Group gave before 
+the California Inquisition (i.e., legislative gas oversight committee looking 
+into the gas price spikes at the Cal border).  
+
+The Brattle Group is a consulting firm that Edison has long used to beat up 
+on SoCalGas (recall that Edison used to be a big gas customer when it owned 
+power plants).  Edison "arranged" for the Brattle Group to be the star 
+witness at the Cal Leg gas hearing.  Their job was to set up El Paso and 
+Dynegy for the hit at hearings that took place the following day.  Their 
+message was simple (and simplistic):
+
+El Paso and Dynegy have market power.
+They have used the market power to drive up basis and thus the price of gas 
+at the border (to "obscene" levels).
+That, in turn, has driven up electricity prices.
+
+Ken Lay is giving a gas talk tomorrow, and Rob Bradley asked that I provide 
+the alternative view to the Edison/Brattle rant, in the event that he gets 
+any questions on the topic.  It's attached.  Apologies, it's quick and dirty, 
+but it provides the basics.
+
+Obviously no need for us to defend El Paso or Dynegy, but might be useful to 
+offer a more rationale explanation than the one that the California 
+Legislature is peddling.
+
+Finally, we were also fingered somewhat as culprits at the hearing (the 
+California PUC FERC lawyer claimed that ENA and TW colluded to drive up basis 
+when ENA controlled a portion of  the capacity), but the overriding goal of 
+the hearing was to go after EP and Dynegy.
+
+Best,
+Jeff
+
+
+

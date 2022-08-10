@@ -1,0 +1,224 @@
+Message-ID: <605922.1075842981654.JavaMail.evans@thyme>
+Date: Wed, 27 Sep 2000 04:50:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: elizabeth.linnell@enron.com
+Subject: WSJ: PG&E's Huge losses...
+Cc: jeff.dasovich@enron.com, james.steffes@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jeff.dasovich@enron.com, james.steffes@enron.com
+X-From: Steven J Kean
+X-To: Elizabeth Linnell
+X-cc: Jeff Dasovich, James D Steffes
+X-bcc: 
+X-Folder: \Jeff_Dasovich_Dec2000\Notes Folders\All documents
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+Eliz -- I need your group to put together a search which captures the 
+comments of PG&E and Edison officials in trade press, anlyst reports, and 
+speeches which would be inconsistent with the idea that they can now recover 
+their shortfall.  In other words, when they were trying to get AB 1890 
+passed, when they were fighting Proposition 9, when they floated their "rate 
+reduction bonds" and when they talked to analysts and rating agencies I'm 
+sure they assumed that they would live under the rate freeze and take the 
+risk of stranded cost recovery whithin the statutory deadline.
+
+----- Forwarded by Steven J Kean/NA/Enron on 09/27/2000 11:45 AM -----
+
+	"Dick S George" <dsgeorge@firstworld.net>
+	09/27/2000 08:04 AM
+		 
+		 To: "Dick George" <dsgeorge@firstworld.net>
+		 cc: 
+		 Subject: WSJ: PG&E's Huge losses...
+
+CC list suppressed...
+September 27, 2000
+California Utilities' LossesOn Electricity Pose Risk
+
+By REBECCA SMITH
+
+Staff Reporter of THE WALL STREET JOURNAL
+
+California's two biggest utilities are losing so much
+money buying electricity in the state's deregulated
+market that they have run up deficits equivalent to half
+their net worth in just four months.
+
+If the cost of wholesale power continues to exceed the
+price these utilities are allowed to bill their
+customers, as currently seems likely, they could become
+technically insolvent sometime next year. That would put
+pressure on regulators to orchestrate a
+multibillion-dollar public bailout, similar to the "too
+big to fail'' response that in the past pushed
+governments to rescue banks.
+
+Such a scenario is quietly being discussed by bond-rating
+concerns that recently reduced their credit outlooks for
+Pacific Gas & Electric Co., a unit of San Francisco-based
+PG&E Corp., and Southern California Edison, a unit of
+Edison International of Rosemead, Calif. Bond- rating
+concerns say they aren't sure how much additional debt
+can be borne by the two affected utilities before they
+will have difficulty paying their bills.
+
+Probe of California Power Prices Begins, but New Plants
+Aren't Seen as Solution (Sept. 11)
+
+Los Angeles Utility Is Benefitting, Surprisingly, From
+Deregulation (Sept. 6)
+
+California Lawmakers Vote to Limit Electricity Costs
+(Sept. 1)
+"If this is just a seasonal aberration, the utilities can
+get through it," says Lori Woodland, analyst for Fitch
+IBCA. "If it goes on for six or nine months, it's a very
+serious situation." Adds A.J. Sabatelle, senior credit
+officer at Moody's Investors Service Inc.: "At some
+point, you have a financial crisis."
+
+The utilities say they are having no difficulty meeting
+expenses and don't envision problems in servicing their
+debts. But they are vigorously lobbying state and federal
+regulators to change the rules of the game, hoping
+somehow to raise rates to make up for the shortfall. The
+California utilities' experience may be a harbinger of
+what could happen in other states where wholesale power
+prices have surpassed the amount that utilities are
+allowed to charge their ratepayers.
+
+For now, utilities are making ends meet by going to the
+financial markets to borrow money. PG&E, a giant utility
+that serves one out of every 20 Americans, is seeking
+approval to increase its debt capacity by $1.4 billion.
+It is borrowing $200 million, while Edison is tapping
+$250 million from the commercial paper market. "This is
+going to be a long, tough road," says Jim Scilacci, chief
+financial officer for Southern California Edison.
+
+Today's situation represents a complete turnabout from
+what was expected when California deregulated its energy
+market on March 31, 1998, which opened electricity
+pricing to competition. California tried to give its
+utilities a competitive edge nationally by deregulating
+faster than other states and by creating a mechanism to
+allow investor-owned utilities, such as PG&E and Edison,
+to quickly pay down debts incurred to serve customers
+under the old regulatory system.
+
+To do this, the state legislature set retail rates at
+high levels, which, at first, generated fat surpluses for
+the utilities. As the money piled up, utilities used it
+to pay down debts for generation facilities that were
+otherwise unprofitable in the new deregulated world. By
+the end of this June, PG&E and Edison together had
+collected more than $12 billion and were on track to
+finish paying down debts well ahead of the March 31,
+2002, deadline set by the legislature. At that point,
+rate freezes were to end and retail prices were to
+fluctuate with the market.
+
+But all that went out the window in June, when wholesale
+power prices surged, topping the rates the utilities were
+allowed to charge retail customers. Average prices at
+state-sanctioned energy markets were four to five times
+the prices of a year earlier, and three to four times the
+level utilities could charge customers.
+
+The accumulated shortfall has been so enormous at PG&E,
+that analysts expect its deficit to exceed $3 billion by
+Oct. 31, more than half its shareholder equity of $5.7
+billion, which is defined as assets minus liabilities.
+Southern California Edison finished August with a deficit
+of $2 billion, equivalent to almost two-thirds its net
+worth of $3.2 billion. The utilities, though they have
+been accumulating deficits, aren't required to report
+these as losses on their earnings statements.
+
+That leaves utilities in a bind. They want to end the
+rate freeze to be able to pass on the real cost of
+electricity to consumers. But should the freeze end
+before the statutory deadline of 2002, they get
+clobbered. That is because they will immediately have to
+book a loss on their power-purchase deficits. What's
+more, they can't use the proceeds from planned
+power-plant sales to cover those losses; instead, should
+the freeze end, they will be obliged to refund some of
+the proceeds to ratepayers. In PG&E's case, the refunds
+could total $500 million, while in Edison's case, the
+amount is $254 million.
+
+Publicly at least, utility executives insist a mechanism
+will be found to let them recoup the money spent on
+electricity.
+
+Consumer advocates are gearing up for the fight. Nettie
+Hoge, executive director for San Francisco consumer group
+Utility Reform Network, says ratepayers shouldn't end up
+footing the bill for a deal cut by utilities that
+benefited them before prices shot up.
+
+Utility executives are now distancing themselves from the
+legislation that got them into such a mess, which was
+drafted with their assistance. PG&E Chairman Robert Glynn
+says it is best not to "overanalyze" the "old deal."
+Instead, he says, regulators and legislators should sit
+down with utilities and construct a new agreement, since
+"it's in the broad interests of the state not to have
+critical energy infrastructure look like a leper."
+
+Mr. Glynn says the current deal offers "mutually assured
+destruction" to both utilities and ratepayers. Something
+must be done, he says, or consumers throughout most of
+the state will experience "a San Diego-style rate shock."
+The utility serving that city, San Diego Gas & Electric
+Co., ended its freeze a year ago and began passing
+wholesale power costs directly through to ratepayers.
+Legislators intervened this summer, however, and
+temporarily capped retail rates when monthly power bills
+nearly tripled. The utility, a unit of Sempra Energy, is
+also accumulating a deficit as a result.
+
+So long as banks and bond markets believe the utilities
+will be repaid, they will be able to borrow, analysts
+say. "Until we hear politicians of consequence state
+otherwise, our position is that we believe the utilities
+will be made whole," says Richard Cortright, a director
+at Standard & Poor's corporate ratings group.
+
+But that opinion could change if it looks like the
+utilities will have to swallow a big loss. The result:
+lower credit ratings that would raise borrowing costs and
+could trigger a downward spiral. "You're talking about
+top-rated companies, though," said Ms. Woodland of Fitch
+IBCA. "To get to insolvency, a lot would have to happen."
+
+In the meantime, utilities are doing all they can to
+control the hemorrhaging. They have gotten authority from
+regulators to buy more power under long-term contracts at
+fixed prices, reducing their vulnerability to spot-market
+volatility. And they have petitioned federal regulators
+to declare California's market so badly flawed that
+generators should be denied market pricing and, even,
+ordered to pay refunds.
+
+Nevertheless, several forces are working against them.
+Although they can sign bilateral contracts, prices remain
+high for those as well. What's more, they can't buy less
+power than their customers need. If they don't buy
+enough, the California Independent System Operator, the
+organization responsible for reliability, will step in
+and make purchases for them and send them the bill.
+
+Perhaps the biggest problem facing PG&E and Edison,
+though, is one of timing. The California legislature is
+out of session until December, and regulators haven't
+even really started to address the issue formally. In the
+meantime, the utilities' deficit is growing by tens of
+millions of dollars daily.
+
+Write to Rebecca Smith at rebecca.smith@wsj.com
+

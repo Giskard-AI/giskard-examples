@@ -1,0 +1,150 @@
+Message-ID: <16465090.1075846152920.JavaMail.evans@thyme>
+Date: Tue, 18 Apr 2000 10:17:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: scott.gahn@enron.com
+Subject: Re: EES - RAC Deal Approval Meeting
+Cc: james.steffes@enron.com, david.gorte@enron.com, vladimir.gorny@enron.com, 
+	rick.buy@enron.com, harry.kingerski@enron.com, 
+	john.neslage@enron.com, karen.barbour@enron.com, 
+	scott.stoness@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: james.steffes@enron.com, david.gorte@enron.com, vladimir.gorny@enron.com, 
+	rick.buy@enron.com, harry.kingerski@enron.com, 
+	john.neslage@enron.com, karen.barbour@enron.com, 
+	scott.stoness@enron.com
+X-From: Steven J Kean
+X-To: Scott Gahn
+X-cc: James D Steffes, David Gorte, Vladimir Gorny, Rick Buy, Harry Kingerski, John Neslage, Karen L Barbour, Scott Stoness
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+I understood the "validation" process to be a fairly flexible name applied to 
+a wide variety of approaches.  What we specifically discussed, and what scott 
+s. left prepared and committed to do, involved looking at individual curves, 
+the assumptions underlying them and some process (yet to be specifically 
+determined) for addressing updates.  We agreed to start with the top 20 
+curves and especially those which are involved in the upcoming deals.
+
+I think the confusion is in what the term validation means.  In the ENA 
+context it means one thing; in this context it means what we discussed (which 
+was in Jim's memo and, as you'll recall, we went through point-by-point).  
+Let's just get this done.
+---------------------- Forwarded by Steven J Kean/HOU/EES on 04/18/2000 05:10 
+PM ---------------------------
+
+
+James D Steffes
+04/18/2000 03:46 PM
+To: Scott Gahn/HOU/EES@EES
+cc: john Neslage/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, David Gorte@ECT, Rick 
+Buy@ECT, Scott Gahn@EES, Jeremy Blachman@EES, Scott Stoness@EES, Karen L 
+Barbour@ECT, Steven J Kean@EES, Harry Kingerski@EES, Gia 
+Maisashvili/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Vladimir Gorny/HOU/ECT@ECT 
+Subject: Re: EES - RAC Deal Approval Meeting  
+
+Scott --
+
+We should talk about what was agreed to at the meeting.  
+
+My discussions with others indicated that both (a) a curve validation process 
+and (b) a deal-by-deal review would be undertaken.  The deal-by-deal review 
+is especially critical during the implementation of a structured curve 
+validation process.  In addition, even when the curve validation process is 
+fully up and running, we should continue looking at major position impacts in 
+new transactions.  There are many curves to review.  It seems reasonable to 
+look at the critical rate curves as appropriate.
+
+Let me know.
+
+Jim Steffes
+
+
+
+
+
+Scott Gahn
+04/15/2000 07:25 AM
+To: John Neslage/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT
+cc: David Gorte@ECT, Rick Buy@ECT, Scott Gahn@EES, Jeremy Blachman@EES, Scott 
+Stoness@EES, Karen L Barbour@ECT, Steven J Kean@EES, James D Steffes@EES, 
+Harry Kingerski@EES, Gia Maisashvili/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT 
+Subject: Re: EES - RAC Deal Approval Meeting  
+
+In the interest of clarity:  It was agreed that ongoing curve validation 
+consistent with that followed on wholesale curves would be instituted.  It 
+was further agreed that certain information would be provided by Scott 
+Stoness to get this process going.  Such ongoing validation should make the 
+impractical deal-by-deal review described below both redundant and 
+unnecessary. 
+
+I assume the list below did not contemplate the type of curve validation 
+process we discussed and agreed to at the meeting.
+
+
+
+
+To: David Gorte@ECT, Rick Buy@ECT, Scott Gahn@EES, Jeremy Blachman@EES, Scott 
+Stoness@EES, Karen L Barbour@ECT
+cc: Steven J Kean@EES, James D Steffes@EES, Harry Kingerski@EES, Gia 
+Maisashvili/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT 
+Subject: EES - RAC Deal Approval Meeting
+
+As mentioned in yesterday's meeting, below are Jim Steffes' comments relative 
+to what information should be presented to Government Affairs when EES brings 
+a deal to RAC.
+---------------------- Forwarded by John Neslage/ENRON_DEVELOPMENT on 
+04/14/2000 02:53 PM ---------------------------
+
+
+James D Steffes@EES
+04/09/2000 12:11 PM
+To: Steven J Kean/HOU/EES@EES, Harry Kingerski/HOU/EES@EES, John Neslage
+cc: Marcia A Linton/HOU/EES@EES 
+
+Subject: EES - RAC Deal Approval Meeting
+
+I received word late last week that Dave Gorte (works for Rick Buy) is 
+setting up a meeting to discuss the process under which EES will have its 
+deals considered by RAC.
+
+I think that we should argue that the following package of information be 
+pre-assembled and provided to Govt Affairs when EES brings a deal to RAC:
+
+1. List of each position by utility and by rate class within the deal 
+
+2. Regulated Rate forecasts by utility and by rate class for each position in 
+the deal.  Not just the "scalars" but also the absolute $/Mwh.
+
+3. For each impacted position, the key assumptions contained within the 
+curves - 
+ a. deregulation date (if any)
+ b. stranded cost roll-off date (if any)
+ c. standard offer end date (if any)
+ d. other rate reduction dates and amounts (if any)
+
+4. Revenue side or Cost side contract terms that impact the deal (for 
+example, movement in pricing terms given some event)
+
+I also think that we should have at least 3 working days to review this 
+package.  
+
+If anyone can think of anything else that would ease our analysis, I would be 
+game.
+
+Thanks.
+
+JDS
+
+
+
+
+
+
+
+
+
+

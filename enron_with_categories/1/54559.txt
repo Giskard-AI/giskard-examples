@@ -1,0 +1,43 @@
+Message-ID: <14668250.1075863426651.JavaMail.evans@thyme>
+Date: Fri, 15 Jun 2001 11:42:26 -0700 (PDT)
+From: j.kaminski@enron.com
+To: etoolson@hesinet.com
+Subject: RE: Market Stack
+Cc: lance.cunningham@enron.com, martin.lin@enron.com, j.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lance.cunningham@enron.com, martin.lin@enron.com, j.kaminski@enron.com
+X-From: Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VKAMINS>
+X-To: '"Eric Toolson" <etoolson@hesinet.com>@ENRON' <IMCEANOTES-+22Eric+20Toolson+22+20+3Cetoolson+40hesinet+2Ecom+3E+40ENRON@ENRON.com>
+X-cc: Cunningham, Lance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lcunnin2>, Lin, Martin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mlin>, Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vkamins>
+X-bcc: 
+X-Folder: \VKAMINS (Non-Privileged)\Kaminski, Vince J\Sent Items
+X-Origin: Kaminski-V
+X-FileName: VKAMINS (Non-Privileged).pst
+
+Eric,
+
+I shall be glad to talk to you about it. The first three days
+of the next week would work for me.
+
+Vince
+
+
+ -----Original Message-----
+From: 	"Eric Toolson" <etoolson@hesinet.com>@ENRON [mailto:IMCEANOTES-+22Eric+20Toolson+22+20+3Cetoolson+40hesinet+2Ecom+3E+40ENRON@ENRON.com] 
+Sent:	Wednesday, June 13, 2001 8:10 PM
+To:	Vince Kaminski
+Subject:	Market Stack
+
+
+Vince,
+ 
+Henwood is in the process of developing a new  product that, for lack of a better name, we are calling Market Stack.  The  purpose is to allow traders to utilize the load and supply data in EMSS without  the hassle of a full-blown simulation.  The software would be designed to  allow traders to develop a market (or supply) stack with a minimum number of  keystrokes.  The stacks could be developed for a utility, transarea, or  region, would contain load data, and would be capable of incorporating real-time  information to provide fundamental insight and market advantage.   
+ 
+At this point in the process we are looking for  ideas (and sponsors).  If you think your traders might be open to the idea,  I would like to talk to you and them about it, and potentially as early as next  week.
+ 
+Please advise.
+ 
+Thanks,
+Eric

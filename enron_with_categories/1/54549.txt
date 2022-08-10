@@ -1,0 +1,355 @@
+Message-ID: <1481316.1075863426405.JavaMail.evans@thyme>
+Date: Fri, 15 Jun 2001 09:10:26 -0700 (PDT)
+From: j.kaminski@enron.com
+To: vincek@leland.stanford.edu
+Subject: FW: McVeigh video really a virus
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VKAMINS>
+X-To: 'vincek@leland.Stanford.edu'
+X-cc: 
+X-bcc: 
+X-Folder: \VKAMINS (Non-Privileged)\Kaminski, Vince J\Sent Items
+X-Origin: Kaminski-V
+X-FileName: VKAMINS (Non-Privileged).pst
+
+
+
+ -----Original Message-----
+From: 	NW Security and Bug Patch Alert <Security-BugPatch@bdcimail.com>@ENRON [mailto:IMCEANOTES-NW+20Security+20and+20Bug+20Patch+20Alert+20+3CSecurity-BugPatch+40bdcimail+2Ecom+3E+40ENRON@ENRON.com] 
+Sent:	Thursday, June 14, 2001 4:52 PM
+To:	vkamins@enron.com
+Subject:	McVeigh video really a virus
+
+NETWORK WORLD NEWSLETTER: JASON MESERVE
+on SECURITY AND BUG PATCH ALERT
+06/14/01 - Today's focus: McVeigh video really a virus
+
+Dear Wincenty Kaminski,
+
+In this issue:
+
+* Patches and alerts for SQL, Exchange, HP-UX and others
+* Viruses, including one that hits Apple Macs (for a change)
+* Hackers taunt EC with site defacement, plus other interesting
+  reading
+
+_______________________________________________________________
+Outsource for Success
+
+Enjoy management flexibility and the benefits of a secure,
+carrier-class environment with Sprint E|Solutions Web hosting
+and collocation services. Learn about these services and find
+out how outsourcing can help your company create a scalable and
+reliable way of maintaining a strong Web presence. Find out
+more during a free, one-hour Webcast on June 20
+http://nww1.com/go/2947616a.html  Brought to you by
+Sprint E|Solutions, Network World and ITWorld.com
+_______________________________________________________________
+Today's focus: McVeigh video really a virus
+
+By Jason Meserve (write me at jmeserve@nww.com)
+
+You knew someone would take advantage of the recent execution
+of Oklahoma City bomber Timothy McVeigh to spread a virus.
+According to a number of computer security types, a purported
+video of the McVeigh execution circulating the 'Net is actually
+a virus that drops the SubSeven backdoor onto infected systems.
+
+For those who don't know, SubSeven can be used to take over
+control of the infected machine and be used in distributed
+denial-of-service attacks. The good news is that most updated
+antivirus scanners already detect this virus, so if your
+systems are up to date, you should be safe.
+
+For more on this, check out this wire story posted on
+DigitalMass.com:
+http://digitalmass.boston.com/news/2001/06/14/mcveigh_virus.html
+
+
+Today's bug patches and security alerts:
+
+
+* SQL security hole lets attackers take over
+
+A security flaw in Microsoft's SQL Server 7.0 and SQL Server
+2000 Gold can allow an attacker to take control of a targeted
+server, the company said in a security bulletin late Tuesday
+night. Microsoft issued a patch for the flaw at the same time
+it released the bulletin.
+http://www.nwfusion.com/news/2001/0613sqlhole.html
+IDG News Service, 06/13/01
+
+For a patch and more information from Microsoft:
+http://www.microsoft.com/technet/security/bulletin/MS01-032.asp
+
+
+* Microsoft has third go at Exchange hole
+
+Microsoft has issued a third version of a patch intended to
+plug a security hole that could allow hackers access to
+mailboxes on Exchange Server Versions 5.5 and 2000. The second
+patch contained outdated files, Microsoft said in an updated
+security bulletin issued Wednesday.
+http://www.nwfusion.com/news/2001/0614exchangehole.html
+IDG News Service, 06/14/01
+
+For a third try at getting the correct patch, click to:
+http://www.microsoft.com/technet/security/bulletin/MS01-030.asp
+
+
+* HP warns of potential DoS vulnerability in kmmodreg
+
+Hewlett-Packard is warning its HP-UX operating system users of
+a potential denial-of-service vulnerability in the kmmodreg
+command, which is executed each time the system is booted. The
+problem with the package also could be used to increase
+privileges on the affected system. HP-UX users can download a
+patch for the kmmodreg problem by logging on to HP's IT
+Resource Center at:
+http://itrc.hp.com
+
+
+* Xinetd patch released by Linux OS vendors
+
+Many Linux vendors have released a patch for the xinetd package
+that fixes a flaw in the way the application deals with TCP
+WAIT commands. The problem prevents the linuxconf-web
+application from working properly. Another flaw in the xinetd
+package creates world-writeable files that can be used in a
+symlink attack. Linux-Mandrake users can download the new patch
+from:
+http://www.linux-mandrake.com/en/ftp.php3
+
+Red Hat users can get more information and links to patches
+from:
+http://www.redhat.com/support/errata/RHSA-2001-075.html
+
+Immunix OS 7.0-beta and 7.0 users can get the appropriate patch
+from:
+http://download.immunix.org/ImmunixOS/7.0/updates/RPMS/xinetd-2.1.8.9pre15-2
+
+_imnx.i386.rpm
+
+
+* Linux-Mandrake patches tcpdump
+
+Linux-Mandrake has issued a patch for its tcpdump package that
+fixes a potential buffer overflow vulnerability. The flaw could
+be used in a remote attack on the tcpdump process. This patch
+also fixes a previous vulnerability that could allow a remote
+user to run arbitrary code on the affected system without root
+privileges. The new patch can be downloaded from:
+http://www.linux-mandrake.com/en/ftp.php3
+
+
+* Linux-Mandrake fixes imap flaw
+
+According to an alert from Linux-Mandrake, several flaws have
+been found in the UW-IMAP package that could allow an
+authenticated user to gain greater shell command access. This
+is particularly problematic for e-mail systems that do not
+normally provide shell access. Patches can be downloaded from:
+http://www.linux-mandrake.com/en/ftp.php3
+
+
+* Conectiva patches exim
+
+A printf vulnerability exists in exim, a mail transfer utility.
+The flaw in the code deals with the way exim check e-mail
+headers without protecting against a printf format attack.
+Conectiva users can download the appropriate patch from:
+ftp://atualizacoes.conectiva.com.br/6.0/SRPMS/exim-3.16-4U60_1cl.src.rpm
+ftp://atualizacoes.conectiva.com.br/6.0/RPMS/exim-3.16-4U60_1cl.i386.rpm
+ftp://atualizacoes.conectiva.com.br/6.0/RPMS/exim-doc-3.16-4U60_1cl.i386.rpm
+
+ftp://atualizacoes.conectiva.com.br/6.0/RPMS/exim-mon-3.16-4U60_1cl.i386.rpm
+
+
+
+* Red Hat issues patch for ispell
+
+According to an alert from Red Hat, the ispell program uses
+mktemp() to open temporary files, which makes it vulnerable to
+symlink attacks. For more information and to download a patch:
+http://www.redhat.com/support/errata/RHSA-2001-074.html
+
+
+* GnuPG patch available for Red Hat Linux users
+
+GnuPG, an open source version of PGP, contains a number of
+flaws that could leave a user's private key exposed. The
+problem is a format string vulnerability in GnuPG's code. For
+more information and links to the appropriate download:
+http://www.redhat.com/support/errata/RHSA-2001-073.html
+
+
+* Red Hat: LPRng fails to drop supplemental group membership
+
+According to an alert from Red Hat, LPRng fails to drop
+supplemental group membership at init time, though it does
+properly setuid and setgid. The result is that LPRng, and its
+children, maintain any supplemental groups that the process
+starting LPRng had at the time it started LPRng. This is a
+security risk. Download the appropriate patch from:
+
+Red Hat Linux 7.0:
+alpha:
+ftp://updates.redhat.com/7.0/en/os/alpha/LPRng-3.7.4-23.alpha.rpm
+i386:
+ftp://updates.redhat.com/7.0/en/os/i386/LPRng-3.7.4-23.i386.rpm
+
+Red Hat Linux 7.1:
+i386:
+ftp://updates.redhat.com/7.1/en/os/i386/LPRng-3.7.4-23.i386.rpm
+
+
+* ScreamingMedia patches SiteWare vulnerability
+
+A flaw in ScreamingMedia's SiteWare Web server could allow a
+user to view all documents in the SiteWare Web hierarchy. A
+similar problem could allow any file to be retrieved from the
+system. More information and a patch can be found at:
+http://www01.screamingmedia.com/en/security/sms1001.php
+
+
+Today's round up of virus alerts:
+
+
+* Simpsons worm hits Macs
+
+When the Mac vs. PC wars start up, as they inevitably do, on
+Usenet or Web message boards or just around the office, Mac
+partisans always tout the dearth of viruses for their chosen
+computer as one of the main benefits in adopting Apple's
+operating system. And though, technically, there still may not
+be very many viruses for the Mac, a new Mac e-mail worm has
+recently been discovered and is making its way across iMacs and
+Powerbooks everywhere.
+http://www.nwfusion.com/news/2001/0611simpsons.html
+IDG News Service, 06/11/01
+
+
+* Virus hoax warns people to delete AOL
+
+Perhaps the greatest thrill for any prankster is to have his
+hoax taken as truth. Just such a thing has happened to Ray
+Owens, who runs a Web site called Joke A Day. Owens sent an e-
+mail to the 342,000 of his subscribers on June 5 (after an
+initial mailing on June 2 to another list) warning them of a
+new virus, called AOL.EXE. Warning your customers of a virus
+seems like a nice thing to do, except that AOL.EXE isn't a
+virus at all; it's the AOL application that provides Internet
+access to millions of people worldwide.
+http://www.nwfusion.com/net.worker/news/2001/0611aolhoax.html
+IDG News Service, 06/11/01
+
+* WM97/Myna-AR - A Word macro virus with no malicious payload.
+(Sophos)
+
+* XM97/Laroux-OC - This Excel macro virus spreads by creating a
+file called "BINV.XLS" in the XLSTART directory. (Sophos)
+
+* WM97/Opey-AU - This Word macro virus removes the macros
+section of the tools menu and disables the Visual Basic Editor.
+It also displays five different messages on five different
+dates. (Sophos)
+
+* XM97/Barisada-Y - An Excel macro virus that spreads via a
+file called "KHM.XLS" in the XLSTART directory. Unlike its
+predecessors, this one does not contain pop-up messages.
+(Sophos)
+
+* VBS/Lovelet-CE - Yet another variant of the infamous
+LoveLetter virus. This one comes with a subject line of "News
+Email Beta Run1.01" and a file attachment called
+"NEWSEMAIL.VBS." (Sophos)
+
+
+>From the interesting reading department:
+
+
+* Hackers taunt EC with site defacement
+
+Dutch hackers on Tuesday evening defaced SaferInternet.org, a
+Web site sponsored by the European Commission that promotes a
+safer Internet. Security at the site had been increased just
+last week after other hackers raised a red flag about possible
+vulnerabilities.
+http://www.nwfusion.com/news/2001/0613hackers.html
+IDG News Service, 06/13/01
+
+
+* Microsoft plugs seven Telnet security holes in Windows 2000
+
+If the Telnet service included with Microsoft's Windows 2000
+operating system has looked suspiciously like Swiss cheese
+recently, that might be because it has seven security holes
+that need patching. Microsoft has acknowledged the holes and
+issued a patch late last week.
+http://www.nwfusion.com/news/2001/0611msplug.html
+IDG News Service, 06/11/01
+
+
+* When private peering arrangements go bad: Cable & Wireless
+shuts out 14 ISPs, including PSINet
+
+Cable & Wireless likely didn't make any new friends on the
+Internet last week when it started enforcing its newly revised
+peering policy, cutting off service to more than a dozen ISPs.
+http://www.nwfusion.com/archive/2001/121755_06-11-2001.html
+Network World, 06/11/01
+
+
+* It's not lunch, but it's free
+
+While there may be no such thing as a free lunch, we do offer
+all of our newsletter archives for free. This newsletter's
+archive can be accessed at:
+http://www.nwfusion.com/newsletters/bug/index.html
+
+_______________________________________________________________
+To contact Jason Meserve:
+
+Jason Meserve is the Multimedia Editor of Network World
+Fusion and writes about streaming media, search engines and
+IP Multicast. Jason can be reached at mailto:jmeserve@nww.com.
+______________________________________________________________
+FEATURED READER RESOURCE
+
+Technology Primers
+Need background information on a specific technology? Check
+out the Technology Primer section of Network World Fusion:
+http://nww1.com/go11/0611RESOURCE.html. Covering a range of
+topics from ASPs and Convergence to Security and Gigabit
+Ethernet, the page offers links to the best resources from
+Network World and around the 'Net. Featuring overviews,
+tutorials, news, publications, forums and more, it's a
+one-stop guide to a host of technologies.
+_______________________________________________________________
+SUBSCRIPTION SERVICES
+
+To subscribe or unsubscribe to any Network World e-mail
+newsletters, go to:
+http://www.nwwsubscribe.com/news/scripts/notprinteditnews.asp
+
+To unsubscribe from promotional e-mail go to:
+http://www.nwwsubscribe.com/ep
+
+To change your e-mail address, go to:
+http://www.nwwsubscribe.com/news/scripts/changeemail.asp
+
+Subscription questions? Contact Customer Service by replying to
+this message.
+
+Have editorial comments? Write Jeff Caruso, Newsletter Editor,
+at: mailto:jcaruso@nww.com
+
+For advertising information, write Jamie Kalbach, Fusion Sales
+Manager, at: mailto:jkalbach@nww.com
+
+Copyright Network World, Inc., 2001
+
+------------------------
+This message was sent to:  vkamins@enron.com

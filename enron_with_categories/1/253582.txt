@@ -1,0 +1,32 @@
+Message-ID: <2987615.1075860376409.JavaMail.evans@thyme>
+Date: Thu, 25 Jan 2001 08:58:00 -0800 (PST)
+From: mary.hain@enron.com
+To: christian.yoder@enron.com, steve.c.hall@enron.com, richard.sanders@enron.com, 
+	james.steffes@enron.com, sarah.novosel@enron.com, 
+	james.keller@enron.com, mike.smith@enron.com, 
+	harry.kingerski@enron.com, dennis.benevides@enron.com, 
+	tim.belden@enron.com, robert.badeer@enron.com, 
+	jeff.richter@enron.com, gfergus@brobeck.com, alan.comnes@enron.com, 
+	richard.shapiro@enron.com, roger.yang@enron.com, 
+	chris.foster@enron.com, steven.kean@enron.com, 
+	richard.shapiro@enron.com
+Subject: Confidential Attorney Client Privilege - Attorney Work Product
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mary Hain
+X-To: Christian Yoder, steve.c.hall@enron.com, Richard Sanders, James D Steffes, Joe Hartsoe@Enron, Sarah Novosel, James E Keller, Mike D Smith, Harry Kingerski, Dennis Benevides, Tim Belden, Robert Badeer, Jeff Richter, gfergus@brobeck.com, Alan Comnes, Richard Shapiro, Roger Yang, Greg Wolfe@ECT, Chris H Foster, Steven J Kean, Richard Shapiro
+X-cc: 
+X-bcc: 
+X-Folder: \Mary_Hain_Aug2000_Jul2001\Notes Folders\All documents
+X-Origin: Hain-M
+X-FileName: mary-hain.nsf
+
+I have drafted the attached letter denying the Cal ISO's request to send it 
+(and the EOB) EPMI and EES' cost information for transactions over the FERC's 
+cost cap.  Since I believe we are on very firm ground, my initial inclination 
+was to send no response to the ISO's letter, so there would be nothing to 
+quote in the press.  However, I drafted this letter at Alan's suggestion for 
+purposes of discussion.  We should decide whether to send a letter before 
+distributing this draft more widely in-house to discuss how to parse the 
+message.

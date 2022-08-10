@@ -1,0 +1,30 @@
+Message-ID: <4851716.1075851652950.JavaMail.evans@thyme>
+Date: Thu, 4 Oct 2001 07:05:15 -0700 (PDT)
+From: john.shelk@enron.com
+To: j..kean@enron.com, richard.shapiro@enron.com, linda.robertson@enron.com, 
+	pr <.palmer@enron.com>, janel.guerrero@enron.com, 
+	jennifer.thome@enron.com, sue.nord@enron.com, l..nicolay@enron.com, 
+	sarah.novosel@enron.com, m..landwehr@enron.com, 
+	paul.kaufman@enron.com, jeff.dasovich@enron.com, a..hueter@enron.com, 
+	daniel.allegretti@enron.com, tom.briggs@enron.com, 
+	pat.shortridge@enron.com, carin.nersesian@enron.com, 
+	susan.mara@enron.com
+Subject: FTC Staff Report on Electricity Restructuring
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Shelk, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JSHELK>
+X-To: Kean, Steven J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Skean>, Shapiro, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rshapiro>, Robertson, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lrobert3>, Palmer, Mark A. (PR) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mpalmer>, Guerrero, Janel </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jguerre>, Thome, Jennifer </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jthome>, Nord, Sue </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snord>, Nicolay, Christi L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cnicola>, Novosel, Sarah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snovose>, Landwehr, Susan M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Slandweh>, Kaufman, Paul </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pkaufma>, Dasovich, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jdasovic>, Hueter, Barbara A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bhueter>, Allegretti, Daniel </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dallegre>, Briggs, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tbriggs>, Shortridge, Pat </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pshortri>, Nersesian, Carin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cnersesi>, Mara, Susan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Smara>
+X-cc: 
+X-bcc: 
+X-Folder: \Dasovich, Jeff (Non-Privileged)\Dasovich, Jeff\Inbox
+X-Origin: DASOVICH-J
+X-FileName: Dasovich, Jeff (Non-Privileged).pst
+
+
+
+Yesterday, the Federal Trade Commission issued a staff report on electricity restructuring issues.  It is an update of the July 2000 report done at the request of House Energy Chairman Tauzin and Subcommittee Chairman Barton.  They requested the report be updated.  A summary of the report and the full 80+ page text is on the FTC web site at www.ftc.gov on the upper left side of the home page.
+
+I read the summary and will read the balance.  So far, so good.  It basically says that even states that have opened up to retail competition are in transition with a hybrid of regulation and competition, thus the expected benefits of competition have not yet emerged.  However, the report states that nothing to date indicates that competition, once the transition period is over, will not produce additional benefits for consumers.  The report's major conclusion is that competitive wholesale markets are important to achieving effective competition in retail markets.  
+
+The summary includes something that sounds promising on RTO policy, saying "And as wholesale and retail markets become regional, governing policies and jurisdictional approaches also must move in that direction for wholesale and retail competition to be successful."

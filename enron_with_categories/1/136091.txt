@@ -1,0 +1,145 @@
+Message-ID: <16020670.1075851968890.JavaMail.evans@thyme>
+Date: Wed, 20 Jun 2001 10:37:00 -0700 (PDT)
+From: john.shelk@enron.com
+To: steven.kean@enron.com, richard.shapiro@enron.com, james.steffes@enron.com, 
+	mark.palmer@enron.com, linda.robertson@enron.com, 
+	kevin.presto@enron.com, tim.belden@enron.com, alan.comnes@enron.com, 
+	chris.long@enron.com, tom.briggs@enron.com, pat.shortridge@enron.com, 
+	carin.nersesian@enron.com, sarah.novosel@enron.com, 
+	ray.alvarez@enron.com, joe.hartsoe@enron.com, lisa.yoho@enron.com
+Subject: Today's Senate Hearing
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: John Shelk
+X-To: Steven J Kean, Richard Shapiro, James D Steffes, Mark Palmer, Linda Robertson, Kevin M Presto, Tim Belden, Alan Comnes, Chris Long, Tom Briggs, Pat Shortridge, Carin Nersesian, Sarah Novosel, Ray Alvarez, Joe Hartsoe, Lisa Yoho
+X-cc: 
+X-bcc: 
+X-Folder: \Richard_Shapiro_Nov2001\Notes Folders\All documents
+X-Origin: SHAPIRO-R
+X-FileName: rshapiro.nsf
+
+The Senate Governmental Affairs Committee held an unusually long hearing 
+today (9:30 am to 4:30 pm) on FERC's responses to the California situation 
+and other related energy issues.  The "star witness" was Gov. Davis.  Others 
+were Govs. Martz of Montana and Hoeven of North Dakota against price caps, 
+Sens. Murkowski, Murray and Cantwell, Washington State's attorney general, 
+Oregon's PUC chairman, and the five FERC commissioners.  Once Davis left 
+after several hours of testimony and two rounds of questions, most of the 
+press and audience left.
+
+Enron was mentioned several times as follows:
+
+ 1. Sen. Thompson, the Ranking Republican, mentioned Lockyer's "Spike" 
+comments in the context of asking Gov. Davis about why business would make 
+new investments in the state when on top of the regulatory uncertainty, there 
+is the broader political hostility expressed in this way by state officials.  
+Davis had two chances to disavow Lockyer and did not.  (Thompson gave him a 
+second chance when he basically repeated the question and made specific 
+reference again to "Spike," asking Davis if FERC acted this week because of 
+the AG's Spike comments.)  The first time Davis said that the people he 
+represents are mad, they want him to fight back, this is rough business, the 
+industry people are used to a wildcatter's environment, things occassionally 
+get out of hand, and we are not going to take it.  On the second instance, he 
+said that the state was building new power plants and investment was not 
+being diminished.
+
+ 2. Sen. Bennett (R-UT) did an excellent job questioning Gov. Davis about his 
+handling of the situation, using quotes from California newspapers to make 
+the case that Davis was slow to act.  He also argued that the state had done 
+a bad job as a power purchaser, contrasting the state's recent 8-year 
+contract with Constellation for power at $150 peak and $59 off-peak with 
+Enron's willingness last year to sell them power for five years at $50.  The 
+Republicans also pressed Davis on why he attacks out-of-state generators but 
+is not nearly as vocal about California munis who charged even more.  Davis 
+said they should make refunds, too.
+
+ 3. While not saying Enron by name, Gov. Davis did make a comment about 
+companies with "trading floors that compete with the New York Stock Exchange 
+with meteorologists and very talented people" who might have the ability to 
+find loopholes in the new order.  He said this in answer to a question about 
+what FERC needed to do now that the new order was issued, and he said "watch 
+out for manipulation" by those subject to the order.
+
+ 4. Sen. Thompson pressed Washington State AG Gregoire about why she appeared 
+to be investigating out-of-state suppliers even though they had a small 
+percentage of the market in her state, with lots of document requests and 
+other investigative action, while not doing the same to others.  During that 
+exchange either Thompson or the AG (I think it was the AG) said Enron had 
+over $1 billion in sales to Washington State.  Enron was not on the list of 
+companies Thompson or the AG said were subject to her information demands.  
+She said she would be expanding her inquiry, though.
+
+Highlights and Analysis
+
+ 1. As started at yesterday's Senate Energy hearing, the mantra from the 
+Western Democrats was: we want our money back.  Chairman Lieberman and others 
+pressed FERC about how California could get refunds and the same in other 
+Western states, particularly Oregon and Washington.  Chairman Hebert said 
+that the settlement conference process would allow all parties to raise all 
+issues, including refunds in California and outside California.  He said that 
+the conference could include issues that the commission could not act on 
+itself, including refunds not otherwise allowed under the Federal Power Act.  
+Chairman Lieberman vowed to keep the committee active in overseeing FERC's 
+activities in implementing the new order, particularly as it relates to 
+refunds.  While he acknowledged that new legislation could not apply to 
+pending cases, he seemed inclined to pursue legislation to repeal the 60 day 
+delay in the Federal Power Act relating to refunds.
+
+ 2. Commissioner Wood spoke of the need to increase the penalities and 
+enforcement tools available to the commission, including the ability to order 
+short suspensions of authority for regulated entities to transact business, 
+treble damages, and other administrative penalties.  There was also 
+discussion among the committee and commissioners about beefing up FERC's 
+market monitoring capabilities so that it acted more like the SEC, FCC and 
+FTC than it has in the past.
+
+ 3. The Democrats on the committee and among the witnesses said that FERC's 
+latest order is a step in the right direction.  None of them called for 
+legislative action on price caps as proposed by Sens. Feinstein and Smith.  
+Sen. Murkowski had done a good job of taking the wind out of the legislated 
+price cap sails by saying at the start of the hearing when he testified that 
+the bill's sponsors had pulled back from swift action when they spoke at 
+yesterday's hearing.  Davis did say the still thinks that cost-based rates 
+are better, but he said the new order is "some price relief" and that it 
+corrected the mistakes in the April order.
+
+ 4. There was some discussion of natural gas again.  Davis said that FERC 
+should now turn its attention to natural gas.  He said that El Paso 
+controlled too much of the capacity until recently.  He called on FERC to 
+enforce laws against price manipulation.  (Note: we have had several back 
+channel reports that the Lieberman committee intends to look into the El Paso 
+and Williams cases now at FERC about alleged affiliate issues.)
+
+ 5. There was some discussion of the termination of the new FERC order.  
+Lieberman pressed several witnesses about whether Sept. 2002 is too soon.  
+Davis said it was and that they needed at least until the end of 2002 if not 
+more time and that order should apply until California has enough new 
+generation in place.  Hebert did not back down when pressed by Lieberman 
+later in the hearing, saying there needs to be a deadline to get action on 
+new supplies, however he and the others basically said they would revisit the 
+issue if events warrant.
+
+ 6. Several times, Sen. Lieberman and others said they generally support 
+deregulation, but that the effort to get more states to do so will never 
+happen if the price situation is not brought under control and public 
+confidence restored.
+
+ 7. Gov. Davis did throw a few kind words toward Pres. Bush and Pat Wood, 
+saying that each was open to doing more about the high cost of natural gas to 
+California, including the possible reimposition of rate regulation of 
+transportation to California.  He said he liked Pat Wood and he noted that 
+FERC did not take serious price mitigation action until the two new Bush 
+appointees were on the commission.
+
+ 8. Lieberman asked the Washington State AG whether the Justice Dept. or the 
+FTC were doing anything to address high energy prices.  She said not to her 
+knowledge even though she has asked them to do so.  We can expect a 
+Lieberman, et al request for Justice and FTC involvement going forward, I 
+suspect.
+
+ 9. While Chairman Lieberman's tone and closing comments were in the nature 
+of his normal thoughtful tone, it is clear that he and others see this as a 
+major issue for them to ride.  He commended FERC at the end of the hearing 
+for doing their best, but pledged he would stay involved, closing the session 
+with a smile and the words "see you soon."

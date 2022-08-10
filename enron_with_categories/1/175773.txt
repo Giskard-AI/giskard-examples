@@ -1,0 +1,119 @@
+Message-ID: <32029474.1075847623474.JavaMail.evans@thyme>
+Date: Wed, 7 Mar 2001 03:24:00 -0800 (PST)
+From: steven.kean@enron.com
+To: rob.walls@enron.com, elizabeth.labanowski@enron.com, debra.hicks@enron.com
+Subject: Summary of $ at Risk for Customs
+Cc: mark.schroeder@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mark.schroeder@enron.com
+X-From: Steven J Kean
+X-To: Rob Walls, Elizabeth Labanowski, Debra Hicks
+X-cc: Mark Schroeder
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+Please see attached.  Rob, perhaps while in London you could stop by Mark's 
+desk to discuss.
+----- Forwarded by Steven J Kean/NA/Enron on 03/07/2001 11:22 AM -----
+
+	Mark Schroeder@ECT
+	03/07/2001 03:45 AM
+		 
+		 To: Steven J Kean/NA/Enron@Enron
+		 cc: Jane Wilson/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT
+		 Subject: Summary of $ at Risk for Customs
+
+Steve - the issue to which I believe Jane is referring in the first sentence 
+("confirmation of the issues which I have articulated") concern possible 
+paymensts made to receive informal, and favourable, guidance, on customs 
+issues (which informal opinions are now seemingly being reversed, formally).  
+In some cases such payments may still be legal.  But, subject to Jane 
+confirming that I am explaining this correctly (given that the communication 
+below is a bit cryptic), it now seems to me to be timely (as Rebecca and Jim 
+have apparently been alerted in London on Monday, per her note below) to 
+satisfy yourself that we are now clean on this issue under the Foreign 
+Corrupt Practices Act.  The informal customs advice was obtained by Muktesh 
+Tyagi (spelling?), one of two people known as Sanjay's "fixers" (that should 
+make you fell comfortable!).  You may wish to discuss with Jane further, but 
+once you satisfy yourself that there is some smoke here, my thought was that 
+you might want to simply confirm with Rebecca that we are running the facts 
+to ground, so that we can satisfy ourselves that we are either clean, or need 
+to come clean with USG.  let me know if you need more.   thanks mcs          
+---------------------- Forwarded by Mark Schroeder/LON/ECT on 07/03/2001 
+09:42 ---------------------------
+
+
+Jane Wilson@ENRON_DEVELOPMENT
+07/03/2001 04:38
+To: Mark Schroeder@ECT
+cc:  
+
+Subject: Summary of $ at Risk for Customs
+
+
+	
+
+
+Mark, I have confirmation of the issues on which I have articulated concern 
+to you although such confirmation is verbal.  Apparently, there are more 
+areas that I will identify in due time.  This information was conveyed to the 
+Legal Team (which included Rebecca, Bruce, Sandeep Katwala and outside 
+attorneys) in London on Monday.   In addition, below is additional bad news.  
+In addition, there is at issue now the fact that the flow diagrams and import 
+lists do not match.  I'll forward an additional e:mail from Seethayya,
+---------------------- Forwarded by Jane Wilson/ENRON_DEVELOPMENT on 
+03/07/2001 10:04 AM ---------------------------
+
+Heidi Hellmann
+
+03/06/2001 01:39 AM
+
+To: Jane Wilson/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT
+cc: Robert Mathis/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Chandran 
+Bhaskar/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT 
+
+Subject: Summary of $ at Risk for Customs
+
+I found out more info on some of these extraneous customs issues above and 
+beyond the LNG stuff:
+
+PHASE I ISSUES
+1. SPM 
+ (This equipment has already been imported at 22.38%, but customs is claiming 
+merit duty rates of 67%.)
+ This is currently being evaluated by the courts.
+ Total Value at Risk = $7 MM
+2. "D" - Stream
+ Are Bechtel's design charges of $66 MM specific to our equipment or to the 
+project as a whole? 
+ If the former, then duty of 22.38% should apply.
+ Total Value at Risk = $13.5 MM  ($66 MM x 22.38%)
+
+PHASE II ISSUES
+1. Services Loading on Power Plant Equipment
+ Same issue as for LNG Equipment. Currently we are paying a 10% loading on 
+duty into a reserve deposit to cover this.
+ Total Value at Risk = $22.38 MM  ($100 MM x 22.38%)
+2. LNG Equipment to be dutied at 53.8% or 22.38%?
+ Think we all know this issue.
+ Total Value at Risk = $56 MM (as per Risk Matrix)
+3. Services Loading on LNG Equipment
+ Think we all know this issue
+ Total Value at Risk = $80 MM  ($149 MM x 53.8%)
+
+TOTAL VALUE at RISK ~$180 MM - - This is WORST, WORST CASE!
+
+Note:  There is still this issue of goods being imported under the wrong 
+classification.  Currently, this is preventing goods from being imported on 
+time, which could lead to delay claims by the contractors.  It will take me 
+some time to hunt down what this could cost us if the problem isn't resolved 
+soon.  Pavan's estimate is that it will take a month for Site to generate 
+accurate equipment lists and for the same to be reviewed and approved by MSEB.
+Heidi
+
+
+

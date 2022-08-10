@@ -1,0 +1,54 @@
+Message-ID: <27565284.1075846177341.JavaMail.evans@thyme>
+Date: Wed, 27 Sep 2000 10:30:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: elizabeth.linnell@enron.com, miyung.buster@enron.com
+Subject: Natural Gas Price Increase
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Elizabeth Linnell, Miyung Buster
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+Please post and circulate to the team.
+----- Forwarded by Steven J Kean/NA/Enron on 09/27/2000 05:29 PM -----
+
+	Robert Neustaedter@ENRON_DEVELOPMENT
+	09/19/2000 11:44 AM
+		 
+		 To: Steven J Kean/NA/Enron@Enron, Richard Shapiro@EES, James D Steffes@EES, 
+Mark Palmer/Corp/Enron@ENRON
+		 cc: Harry Kingerski@EES
+		 Subject: Natural Gas Price Increase
+
+As discussed in last Friday's meeting on strategies related to higher energy 
+prices, Harry asked me to develop the attached projection of delivered gas 
+prices for this winter.
+
+The projection is based upon EIA's monthly analysis of delivered gas prices 
+for residential, commercial and industrial customers for selected states 
+(Connecticut, Virginia, Illinois and Texas) for the 1999-2000 winter heating 
+season (Nov-Mar).  Assuming pipeline and LDC mark-ups remain constant, the 
+delivered prices were adjusted for the NYMEX Henry Hub projection of wellhead 
+prices for the 2000-2001 winter period.  A national projection is also 
+included.
+
+Because the commodity portion of the gas bill for residential customers is a 
+smaller percent of the total bill compared to commercial and industrial 
+customers, the increase for residential customers will be less pronounced 
+than for commercial or industrial customers.  In addition, LDC purchased gas 
+cost mechanisms will moderate the effect of the price increase to some extent 
+because monthly price increases are averaged out over an extended period (12 
+months in some cases).  Furthermore, some state public utility commissions 
+(e.g. Connecticut) are conducting meetings with LDCs to discuss looking for 
+ways to lessen the impact of the projected increases. That being said, Nipsco 
+recently announced residential prices are expected to increase 50-60% this 
+winter over last winter (in line with the projection for Illinois).
+
+If you are interested in a similar projection for other states, or have 
+comments with respect to the above let me know.
+

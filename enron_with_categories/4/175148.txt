@@ -1,0 +1,40 @@
+Message-ID: <17429499.1075847578005.JavaMail.evans@thyme>
+Date: Thu, 24 May 2001 07:06:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: maureen.mcvicker@enron.com
+Subject: <<Concur Expense Document>> - May2001ExpenseReport
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Maureen McVicker
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+---------------------- Forwarded by Steven J Kean/NA/Enron on 05/24/2001 
+02:05 PM ---------------------------
+
+
+eserver@enron.com on 05/24/2001 03:02:16 PM
+To: "Steven.J.Kean@enron.com" <Steven.J.Kean@enron.com>
+cc:  
+
+Subject: <<Concur Expense Document>> - May2001ExpenseReport
+
+The following expense report is ready for approval:
+
+Employee Name: Cindy K. Olson
+Status last changed by:  Automated Administrator
+Expense Report Name: May2001ExpenseReport
+Report Total: $7,759.81
+Amount Due Employee: $7,759.81
+
+
+To approve this expense report, click on the following link for Concur 
+Expense.
+http://xms.enron.com
+
+

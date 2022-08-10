@@ -1,0 +1,267 @@
+Message-ID: <21212984.1075853212843.JavaMail.evans@thyme>
+Date: Mon, 26 Mar 2001 05:44:00 -0800 (PST)
+From: dan.wall@lw.com
+To: nnissen@mdbe.com, jalexander@gibbs-bruns.com, gallen@bakerbotts.com, 
+	bbailey@duke-energy.com, james.beh@troutmansanders.com, 
+	peter.benzian@lw.com, bestorg@dsmo.com, erik.bliss@lw.com, 
+	jtbrooks@luce.com, heather.brown@williams.com, 
+	david_burns@reliantenergy.com, dbutswinkas@wc.com, 
+	echapin@chapinlaw.com, rcoleman@duke-energy.com, 
+	gcopeland@bakerbotts.com, jennifer.costa@neg.pge.com, 
+	lcottle@whitecase.com, ncregan@mdbe.com, hugh.davenport@mirant.com, 
+	jeffrey_davidson@la.kirkland.com, brady.edwards@bakerbotts.com, 
+	robert.edwards@troutmansanders.com, eisenstatl@dsmo.com, 
+	dezickson@mwe.com, fallonr@dsmo.com, gfergus@brobeck.com, 
+	kirk.forrest@williams.com, jfrizzell@gibbs-bruns.com, 
+	john.gammie@williams.com, sbishop@gibbs-bruns.com, 
+	alex.goldberg@williams.com, jguzman@nossaman.com, ghalling@smrh.com, 
+	mhamer@graycary.com, scott.harris@nrgenergy.com, 
+	sanford.hartman@neg.pge.com, chealey@luce.com, 
+	jennifer.hein@neg.pge.com, jche@dynegy.com, steve.herman@neg.pge.com, 
+	lhernandez@luce.com, hershberger@scmv.com, thixson@mdbe.com, 
+	holcombb@dsmo.com, thoulihan@mdbe.com, mike-jines@reliantenergy.com, 
+	kadzikp@dsmo.com, jkarp@whitecase.com, mkass@pillsburywinthrop.com, 
+	bkatz@chapinlaw.com, tkennedy@mdbe.com, tkinnear@luce.com, 
+	dcastro@pkns.com, kleinmanj@dsmo.com, ernie.kohnke@dynegy.com, 
+	llane@graycary.com, leone@scmv.com, jleslie@luce.com, 
+	mmattes@nossaman.com, mmaxwell@bakerbotts.com, mcmahon@scmv.com, 
+	rmcmanus@bakerbotts.com, bmerryman@whitecase.com, 
+	sydne_michel@la.kirkland.com, millerl@dsmo.com, 
+	tim.muller@williams.com, tanya.murphy@neg.pge.com, jdne@dynegy.com, 
+	djn@pkns.com, cmpallenik@duke-energy.com, jmpa@dynegy.com, 
+	napedersen@jonesday.com, perlism@dsmo.com, marylou.peters@msdw.com, 
+	apickens@gibbs-bruns.com, dpickett@mdbe.com, sraber@wc.com, 
+	james_ransom@la.kirkland.com, light-kelly@reliantenergy.com, 
+	tony_richardson@la.kirkland.com, roppe@scmv.com, 
+	jprussell@duke-energy.com, richard.b.sanders@enron.com, 
+	juneann.sauntry@troutmansanders.com, 
+	pete_m_schenkkan@reliantenergy.com, jshohet@graycary.com, 
+	msmith1@enron.com, msottosanti@smrh.com, tspanos@morganlewis.com, 
+	springerj@dsmo.com, zack.starbird@mirant.com, rsteiner@luce.com, 
+	jsturgeon@whitecase.com, ttaylor@smrh.com, 
+	jtiffany@pillsburywinthrop.com, dtribble@pillsburywinthrop.com, 
+	cvarner@smrh.com, dan.wall@lw.com, mike.weaver@lw.com, 
+	hwiegmann@wc.com, robert.c.williams@enron.com, 
+	charles.zdebski@troutmansanders.com
+Subject: Report on POWER Conference
+Cc: erik.bliss@lw.com, jennifer.scafe@lw.com, joel.mack@lw.com, 
+	mike.weaver@lw.com, peter.benzian@lw.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: erik.bliss@lw.com, jennifer.scafe@lw.com, joel.mack@lw.com, 
+	mike.weaver@lw.com, peter.benzian@lw.com
+X-From: "Wall, Dan (SF)" <Dan.Wall@LW.com>
+X-To: "'Nissen, Neha Shah'" <nnissen@mdbe.com>, "'Alexander, Jeff'"	 <jalexander@gibbs-bruns.com>, "'Allen, Gretchen'"	 <gallen@bakerbotts.com>, bbailey@duke-energy.com, "Beh, Jim"	 <james.beh@troutmansanders.com>, "Benzian, Peter (SD)"	 <PETER.BENZIAN@LW.com>, "Bestor, Geoffrey" <BestorG@dsmo.com>, "Bliss, Erik (SD)" <ERIK.BLISS@LW.com>, "'Brooks, John T.'"	 <jtbrooks@luce.com>, "'Brown, Heather'" <heather.brown@williams.com>, "'Burns, David'" <david_burns@reliantenergy.com>, "'Butswinkas, Dane'"	 <dbutswinkas@wc.com>, "'Chapin, Edward'" <echapin@chapinlaw.com>, "'Coleman, Ran'" <rcoleman@duke-energy.com>, "'Copeland, Greg'"	 <gcopeland@bakerbotts.com>, "'Costa, Jennifer'"	 <jennifer.costa@neg.pge.com>, lcottle@whitecase.com, "Cregan, Nora"	 <ncregan@mdbe.com>, "'Davenport, Hugh'" <hugh.davenport@mirant.com>, "'Davidson, Jeffrey'" <jeffrey_davidson@la.kirkland.com>, "'Edwards, Brady'" <brady.edwards@bakerbotts.com>, "'Edwards, Robert Jr.'" <robert.edwards@troutmansanders.com>, "Eisenstat, Larry F." <EisenstatL@dsmo.com>, "'Ezickson, Doron'"	 <dezickson@mwe.com>, fallonr@dsmo.com, "'Fergus, G.'"	 <GFergus@brobeck.com>, "'Forrest, Kirk'" <kirk.forrest@williams.com>, "'Frizzell, Jean'" <jfrizzell@gibbs-bruns.com>, john.gammie@williams.com, "'Gibbs, Robin'" <sbishop@gibbs-bruns.com>, "Goldberg, Alex"	 <alex.goldberg@williams.com>, "'Guzman, Jose'" <jguzman@nossaman.com>, "'Halling, Gary'" <ghalling@smrh.com>, "'Hamer, Mark'"	 <mhamer@graycary.com>, "'Harris, Scott'" <scott.harris@nrgenergy.com>, "'Hartman, Sanford'" <sanford.hartman@neg.pge.com>, "'Healey, Chris'"	 <chealey@LUCE.com>, "'Hein, Jennifer'" <jennifer.hein@neg.pge.com>, "Herbert, John" <jche@dynegy.com>, "'Herman, Stephen'"	 <steve.herman@neg.pge.com>, "'Hernandez, Lynne'" <lhernandez@luce.com>, "'Hershberger, John'" <hershberger@scmv.com>, "Hixson, Thomas S."	 <thixson@mdbe.com>, "'Holcomb, Bruce'" <HolcombB@dsmo.com>, "Houlihan, Terry" <thoulihan@mdbe.com>, "Jines, Michael"	 <mike-jines@reliantenergy.com>, "Kadzik, Peter J." <KadzikP@dsmo.com>, jkarp@whitecase.com, "'Kass, Michael'" <mkass@pillsburywinthrop.com>, "'Katz, Bruno'" <bkatz@chapinlaw.com>, "Kennedy, Thomas F."	 <tkennedy@mdbe.com>, "'Kinnear, Todd'" <tkinnear@luce.com>, "'Kirby, Michael'" <dcastro@pkns.com>, "'Kleinman, Joel'"	 <KleinmanJ@dsmo.com>, "'Ernie.Kohnke@DYNEGY.COM'"	 <Ernie.Kohnke@DYNEGY.COM>, "'Lane, Linda'" <llane@graycary.com>, "'Leone, Michael'" <leone@scmv.com>, "'Leslie, John'" <jleslie@luce.com>, "'Mattes, Martin'" <mmattes@nossaman.com>, "'Maxwell, Melissa'"	 <mmaxwell@bakerbotts.com>, "'McMahon, Gerald'" <mcmahon@scmv.com>, "McManus, Randy" <rmcmanus@bakerbotts.com>, bmerryman@whitecase.com, "'Michel, Sydne'" <sydne_michel@la.kirkland.com>, "'Miller, Lisa'"	 <millerl@dsmo.com>, "Muller, Tim" <tim.muller@williams.com>, "'Murphy, Tanya'" <tanya.murphy@neg.pge.com>, "Newton, Joel"	 <jdne@dynegy.com>, "'Noonan, David'" <djn@pkns.com>, cmpallenik@duke-energy.com, "Paul, Joe" <jmpa@dynegy.com>, napedersen@jonesday.com, perlism@dsmo.com, "'Peters, Mary Lou'"	 <marylou.peters@msdw.com>, "'Pickens, A.'" <apickens@gibbs-bruns.com>, "Pickett, Donn" <dpickett@mdbe.com>, "'Raber, Stephen'" <sraber@wc.com>, "'Ransom, James'" <james_ransom@la.kirkland.com>, "'Rice Kelly, Hugh'"	 <light-kelly@reliantenergy.com>, "'Richardson, Tony'"	 <tony_richardson@la.kirkland.com>, "'Roppe, Laura'" <roppe@scmv.com>, jprussell@duke-energy.com, "'Sanders, Richard'"	 <richard.b.sanders@enron.com>, "'Sauntry, June Ann'"	 <juneann.sauntry@troutmansanders.com>, "'Schenkkan, Pete'"	 <pete_m_schenkkan@reliantenergy.com>, "'Shohet, Jeffrey'"	 <jshohet@graycary.com>, "'Smith, Mike'" <msmith1@enron.com>, "'Sottosanti, Martha'" <msottosanti@smrh.com>, "'Spanos, Theodore'"	 <tspanos@morganlewis.com>, "'Springer, James'" <SpringerJ@dsmo.com>, "'Starbird, Zackary'" <zack.starbird@mirant.com>, "'Steiner, Robert'"	 <rsteiner@luce.com>, "'Sturgeon, John'" <jsturgeon@whitecase.com>, "'Taylor, Timothy'" <ttaylor@smrh.com>, "'Tiffany, Joseph II'"	 <jtiffany@pillsburywinthrop.com>, "'Tribble, Douglas'"	 <dtribble@pillsburywinthrop.com>, "'Varner, Carlton'" <cvarner@smrh.com>, "Wall, Dan (SF)" <Dan.Wall@LW.com>, "Weaver, Mike (SD)"	 <MIKE.WEAVER@LW.com>, "'Wiegmann, Hack'" <hwiegmann@wc.com>, "'Williams, Robert'" <robert.c.williams@enron.com>, charles.zdebski@troutmansanders.com
+X-cc: Erik Bliss <ERIK.BLISS@LW.com>, Jennifer Scafe <JENNIFER.SCAFE@LW.com>, JOEL MACK <JOEL.MACK@LW.com>, MIKE WEAVER <MIKE.WEAVER@LW.com>, PETER BENZIAN <PETER.BENZIAN@LW.com>
+X-bcc: 
+X-Folder: \Richard_Sanders_Oct2001\Notes Folders\All documents
+X-Origin: Sanders-R
+X-FileName: rsanders.nsf
+
+I attended the U.C. Berkeley POWER (Program on Workable Energy Regulation)
+Conference on March 16.  Here is a brief report on the relevant parts.
+Notably, the Lieff, Cabreser duo of Bill Bernstein and Barry Himmelstein
+were there, listening carefully.
+
+The program consisted of the presentation of 8 economic studies, followed by
+comments from two discussants, followed by audience questions/comments.  The
+following is a list of the papers and the discussants who presented with
+slides, taken from the website of the U.C. Energy Institute,
+http://www.ucei.berkeley.edu/ucei/conf2001/order_papers2001.html:  You can
+click on this to see the slides, in PDF format.  The papers in green are not
+particularly relevant for our purposes, and I won't say more about them
+beyond the note in brackets.  The presenter's name is in bold.
+
+  "Bidding Asymmetries in Multi-Unit Auctions: Implications of
+Bid Function Equilibria in the British Spot Market for Electricity" by Greg
+Crawford, Duke University, Joe Crespo, NERA, and Helen Tauchen, University
+of North Carolina
+  "Pricing and Firm Conduct in California's Deregulated
+Electricity Market" by Steve Puller, UC Berkeley
+   Discussion by Anjali Sheffrin, California
+Independent System Operator
+  "Identification and Estimation of Cost Functions Using
+Observed Bid Data: An Application to Electricity Markets" by Frank Wolak,
+Stanford University [A paper about economic "tools" to study power markets.]
+  "Forward Contracts and the Curse of Market Power" by Jeffrey
+Lien , University of Maryland
+  "The Impact of Retail Rate Deregulation on Electricity
+Consumption in San Diego" by James Bushnell and Erin Mansur, UC Berkeley
+[This looks at whether consumption declined with price increases.  Not
+much.]
+  "Consumption and Home Energy Costs: How Prevalent is the
+'Heat or Eat' Decision?" by Julie Berry Cullen, University of Michigan,
+Leora Friedberg, University of Virginia, and Catherin Wolfram, UC Berkeley
+[A macro study on how consumers change overall spending patterns when they
+have to shell out more $$ for power.]
+  "A Quantitative Analysis of Pricing Behavior in California's
+Wholesale Electricity Market During Summer 2000" by Paul Joskow, MIT, and
+Edward Kahn, Analysis Group
+  "Electricity Restructuring and the Cost of Pollution
+Reduction" by Dallas Burtraw, Karen Palmer, Ranjit Bharvirkar, and Anthony
+Paul, Resources for the Future
+
+Before I discuss the specific papers and presenters, one big picture point
+needs to be made.  There was an unchallenged consensus at this conference
+that the generators have exercised market power to the tune of billions of
+dollars.  The focus was on how and how much, not whether.  The good news is
+that I heard no evidence supporting any collusion theory; the thought was
+that generators are making independent output and pricing decisions knowing
+they could influence the market price given the auction rules and the
+completely inelastic demand.  On the other hand, I would have to say that
+the economic work on the tacit collusion hypothesis in incomplete at best.
+The bad news is that the scale of potential overcharges is pretty staggering
+-- >$5 billion.  The plaintiffs will be able to put together quite a damage
+study.
+
+Crespo, Bidding Asymmetries in UK:  This is a marginally relevant paper
+examining whether bidders in the UK electricity auction markets behaved in a
+leader-follower mode, i.e., asymmetrically.  Crespo's model shows that in a
+uniform price-setting auction with clearing price rules, a price setter will
+emerge and take all prices above marginal cost.  Thus, above marginal cost
+pricing does not require coordination.  Crespo (from NERA) appeared
+knowledgeable, but is not an inspiring speaker.  His paper also got roughed
+up a bit in the audience questioning segment.
+
+Puller, Pricing and Firm Conduct in California's Deregulated Electricity
+Market:  This is a very relevant paper, as it tries to determine whether
+market power (presumably) exercised in California was static or dynamic,
+meaning the product of individual firm decisionmaking (static) or tacit
+collusion (dynamic).  The period studied was 4/98 to 12/99.  Puller found
+evidence of static market power consistent with so-called "Cournot pricing."
+This theory posits that in an oligopoly firms will take their rivals'
+observed price/output decisions as a given and decide how to maximize
+profitability given that behavior.  He then tried to determine whether any
+dynamic games were occurring, meaning a game where firms recognize their
+interdependence and try to follow a "supergame trigger strategy" in which
+firms try to induce favorable responses from rivals.  It's quite complicated
+how he goes about this, but fundamentally he tries to correlate observed
+output decisions with how a firm at that time might have expected a change
+in its behavior to affect its future share of the market.  With this
+methodology, Puller finds what he called "weak evidence" of forward-looking
+dynamic pricing for a brief time in 1998, but not otherwise.  My impression
+was that the evidence for 1998 was very weak, and the logic used to arrive
+at this conclusion was also weak.
+
+Puller then went at this a second time with a theory that attempts to
+determine what a firm's "supply function" would look like if it was
+exercising static and dynamic market power, and then comparing this to an
+estimate of that firm's actual supply function.  I found this even more
+speculative than the first theory.  Nonetheless, the results are basically
+the same:  evidence of static, but not dynamic market power.
+
+Puller took a lot of heat for the methodology of this paper during the
+questioning segment.  He's not a dynamic speaker and does not appear to me
+to be a strong expert candidate.
+
+Anjali Sheffrin's commentary was very important.  She is the Director of
+Market Analysis for CAISO.  After general comments on Crespo and Puller, she
+launched in to a discussion of whether their models explained the California
+experience.  This turned out to be a preview of the CAISO FERC filing of
+last week, in which they allege $5.5 billion in market power-related
+overcharges from May 200 to Feb. 2001.  That filing and Sheffrin's report
+follow.  They are essential reading.
+
+  <<2001032214541122276.pdf.pdf>>  <<2001032214585222924.pdf.pdf>>
+
+Sheffrin maintains that it was the absence of imports during this period
+that left the market power of the California generators unchecked.  This
+permitted the in-state generators to engage in either economic or physical
+withholding of power.  (Economic withholding is bidding a higher-than-needed
+supply curve; physical withholding is cutting output at the plant.)  Her
+study was intended to (1) Identify individual firms engaging in market power
+activity, and (2) Analyze how each firms' actions set market clearing
+prices.  She utilized full bidding data in CA ISO real time market for
+each hour between May and Nov 2000, defined and categorized bidding patterns
+and identified economic or physical withholding, and then calculated
+bid-cost mark-up and a monopoly rent.  She found what she claimed was strong
+evidence of both types of withholding, but that economic withholding is the
+dominant bidding pattern used by the five large California generators.
+While Sheffrin's study does not name names, it claims that "most of the five
+in-state suppliers and many of the [16] large importers displayed bidding
+patterns which were consistent with the exercise of market power."
+
+Bernstein and Himmelstein were positively gleeful during this presentation.
+
+On the question of collusion, Sheffrin's study is not terribly illuminating.
+She maintains that "the dominant bidding pattern is consistent with two
+characteristics of a supply function equilibrium model of oligopolist
+pricing."  I take that to mean Cournot, which is a static, non-collusive
+model.  However, when you read her study, you'll see the picture is not
+entirely clear.
+
+Lien, The Curse of Market Power:  This is only marginally relevant for us,
+as its thesis is that forward-looking supply contracts are better for both
+producers and society.  Everyone seemed to agree -- and were confused why we
+needed a paper to prove it.  Lien (U. Md.) is young and not expert material.
+
+Joskow and Kahn:  http://www.mit.edu/people/pjoskow/JK_PaperREVISED.pdf
+(paper);  http://www.ucei.berkeley.edu/ucei/conf2001/Slides/Kahn_Slides.pdf
+(Kahn's slides).   I'm sure many of you have already read this; everyone
+should.  Prepared for SoCal Edison, it contends that 4 in-state generators
+(Reliant, Dynegy, AES/Williams, and Southern/Mirant) exercised market power
+by withholding capacity during the summer or 2000.
+
+J&K use publicly available data on loads, market prices and generation to
+(a) quantify combined effects of "market fundamentals" on market prices, (b)
+calculate "price gap" (difference between actual prices and "competitive"
+market benchmarks), (c) account for quantify effects of ISO's ancillary
+services requirements and forced outages, and then (d) calculate the "output
+gap" for high priced hours, meaning the difference between observed and
+maximum profitable levels of generation.  They conclude that prices were far
+in excess of the competitive benchmark and that the 4 in-state generators
+could have produced more power at competitive prices but chose not to.
+Hence, market power was exercised.
+
+Kahn, the Analysis Group economist who presented, is a very colorful and
+rather undisciplined advocate of his position.  He threw around allegations
+of conspiracy rather casually, but mostly to be funny.  I couldn't tell
+whether he believed his study proved that; I don't think it even speaks to
+it.  But Bernstein and Himmelstein applauded him when he finished, grinning
+ear to ear.
+
+Severin Borenstein, UC Berkeley and the conference director, was supposed to
+comment on J&K, but hardly did.  He said that the generators would have been
+stupid not to exercise market power given the supply/demand conditions and
+the market rules, and argued that permitting long term contracts and
+requiring real-time residential pricing were the solutions to all of this.
+Borenstein was the best expert material I saw at this conference, and the
+fact he took a pass on the details of the J&K paper is puzzling to me.  It
+made me wonder whether he already has a horse in this race, or perhaps is
+trying to "stay above it all."
+
+Hope this is useful.
+
+Regards,
+Dan
+
+Daniel M. Wall
+Latham & Watkins
+505 Montgomery Street, Suite 1900
+San Francisco, CA 94111-2562
+Direct:  (415) 395-8240
+Main:  (415) 391-0600
+Fax:  (415) 395-8095
+dan.wall@lw.com
+
+
+
+
+
+
+
+
+
+
+
+
+This email may contain material that is confidential, privileged and/or
+attorney work product for the sole use of the intended recipient.  Any
+review, reliance or distribution by others or forwarding without express
+permission is strictly prohibited.  If you are not the intended recipient,
+please contact the sender and delete all copies.
+
+
+ - 2001032214541122276.pdf.pdf
+ - 2001032214585222924.pdf.pdf

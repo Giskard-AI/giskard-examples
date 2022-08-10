@@ -1,0 +1,76 @@
+Message-ID: <5148161.1075847587444.JavaMail.evans@thyme>
+Date: Thu, 3 May 2001 10:49:00 -0700 (PDT)
+From: john.shelk@enron.com
+To: steven.kean@enron.com, richard.shapiro@enron.com, james.steffes@enron.com, 
+	mark.palmer@enron.com, linda.robertson@enron.com
+Subject: House and Senate Energy Hearings Today on California/Western
+ Electric Situation
+Cc: tom.briggs@enron.com, ray.alvarez@enron.com, joe.hartsoe@enron.com, 
+	phillip.allen@enron.com, tim.belden@enron.com, chris.long@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: tom.briggs@enron.com, ray.alvarez@enron.com, joe.hartsoe@enron.com, 
+	phillip.allen@enron.com, tim.belden@enron.com, chris.long@enron.com
+X-From: John Shelk
+X-To: Steven J Kean, Richard Shapiro, James D Steffes, Mark Palmer, Linda Robertson
+X-cc: Tom Briggs, Ray Alvarez, Joe Hartsoe, Phillip K Allen, Tim Belden, Chris Long
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+I attended both the House and Senate energy committee hearings today.  House 
+hearing was in the Barton Subcommittee (Energy & Air Quality).  Senate 
+hearing was on last week's FERC order on a "soft price cap" and related 
+issues.  The House witnesses were dominated by California officials: Cal 
+Energy Commission, Cal Air Resources Board, Chairman of Gov Davis Generation 
+Implementation Task Force.  In addition, there were witnesses from the 
+Western Area Power Admin and Bonneville PA.  The Senate witnesses were the 
+three FERC commissioners.
+
+HIghlights
+
+Chairman Barton said it is still his intention to try to mark up the Barton 
+bill, H.R. 1647 next week (many on and off the Subcommittee doubt this will 
+happen; we are gathering political intelligence on those prospects and will 
+report back with more information and conclusions once that is done); 
+Chairman Barton also said he may go to California next week.
+There was considerable emphasis at both hearings about the alleged role that 
+higher natural gas prices into California play in the electric power rate 
+increases; several witnesses focused on difference in alleged transportation 
+costs for similar differences between California and non-CA states; FERC at 
+the Senate hearing said that today the commission announced a staff technical 
+conference for later this month on all aspects of the natural gas market as 
+it relates to California; a House member from Southern Illinois coal country 
+attacked California for using only natural gas in its new power plants.
+The House witnesses, primarily BPA but also the California witnesses, 
+attacked the negawatt provision in sec. 102 of the Barton bill; the criticism 
+was that BPA would be forced to purchase power on the open market at a high 
+price since it is short, sell it to the DSIs under contract; let the DSI sell 
+it at market rates and capture the difference; BPA witness said that thus 
+sec. 102 would make it difficult if not impossible to implement their 
+strategy to avoid as much as a 200 percent rate increase on 10/1/01; BPA 
+testimony will make it tough for Members of Congress from that service region 
+to support sec. 102.
+Both hearings also touched on how difficult it would be to actually devise a 
+price cap; at the House hearing, none of those advocating a price cap among 
+the witnesses could answer excellent questions about exactly how this could 
+be done; the witnesses just said "cost plus a reasonable profit" and said 
+leave the details to FERC; at afternoon Senate hearing, Chairman Hebert had 
+the staff bring in 15 boxes from one FP&L case to show how a price cap would 
+take too long to bring any relief to California this summer; he said last 
+week's soft price cap is much better.
+Also on the price cap, Rep. Walden (R-OR)  got the Cal Energy Comm chair to 
+admit that if the price caps had been in place earlier, California would NOT 
+have taken the conservation and new generation steps that it has taken 
+recently. 
+The interplay among the FERC commissioners was much more contentious than it 
+was a House hearing on Tuesday, although it could have been worse; when 
+Senate Chairman Murkowski (R-AK) said that "help is on the way" in the form 
+of the nominees for the two vacancies, Sen. Dorgan (D-ND) made a comment that 
+suggested that the confirmation process will not be smooth; the same concern 
+came from the interplay among the Senators, which was also somewhat 
+contentious at times.
+
+Please advise if you have any questions or would like further details.

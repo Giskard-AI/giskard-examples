@@ -1,0 +1,88 @@
+Message-ID: <4877253.1075863426674.JavaMail.evans@thyme>
+Date: Fri, 15 Jun 2001 13:30:56 -0700 (PDT)
+From: j.kaminski@enron.com
+To: etoolson@hesinet.com
+Subject: RE: Market Stack
+Cc: martin.lin@enron.com, lance.cunningham@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: martin.lin@enron.com, lance.cunningham@enron.com
+X-From: Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VKAMINS>
+X-To: '"Eric Toolson" <etoolson@hesinet.com>@ENRON' <IMCEANOTES-+22Eric+20Toolson+22+20+3Cetoolson+40hesinet+2Ecom+3E+40ENRON@ENRON.com>
+X-cc: Lin, Martin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mlin>, Cunningham, Lance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lcunnin2>
+X-bcc: 
+X-Folder: \VKAMINS (Non-Privileged)\Kaminski, Vince J\Sent Items
+X-Origin: Kaminski-V
+X-FileName: VKAMINS (Non-Privileged).pst
+
+Eric,
+
+July works for me.
+
+Vince
+
+ -----Original Message-----
+From: 	"Eric Toolson" <etoolson@hesinet.com>@ENRON [mailto:IMCEANOTES-+22Eric+20Toolson+22+20+3Cetoolson+40hesinet+2Ecom+3E+40ENRON@ENRON.com] 
+Sent:	Friday, June 15, 2001 2:45 PM
+To:	Kaminski, Vince J
+Cc:	Cunningham, Lance; Lin, Martin; Kaminski, Vince J
+Subject:	Re: Market Stack
+
+Vince,
+
+Thanks for you offer.  I need to change my agenda for next week, so would
+something in early July work for you.  Thanks for your assistance.
+
+Eric
+
+-----Original Message-----
+From: Vince.J.Kaminski@enron.com <Vince.J.Kaminski@enron.com>
+To: etoolson@hesinet.com <etoolson@hesinet.com>
+Cc: Lance.Cunningham@enron.com <Lance.Cunningham@enron.com>;
+Martin.Lin@enron.com <Martin.Lin@enron.com>; Vince.J.Kaminski@enron.com
+<Vince.J.Kaminski@enron.com>
+Date: Friday, June 15, 2001 11:42 AM
+Subject: RE: Market Stack
+
+
+>Eric,
+>
+>I shall be glad to talk to you about it. The first three days
+>of the next week would work for me.
+>
+>Vince
+>
+>
+>    -----Original Message-----
+>   From:   "Eric Toolson" <etoolson@hesinet.com>@ENRON
+>
+[mailto:IMCEANOTES-+22Eric+20Toolson+22+20+3Cetoolson+40hesinet+2Ecom+3E+40E
+NRON@ENRON.com]
+>
+>
+>   Sent:   Wednesday, June 13, 2001 8:10 PM
+>   To:     Vince Kaminski
+>   Subject:  Market Stack
+>
+>
+>   Vince,
+>
+>   Henwood is in the process of developing a new  product that, for lack of
+>   a better name, we are calling Market Stack.  The  purpose is to allow
+>   traders to utilize the load and supply data in EMSS without  the hassle
+>   of a full-blown simulation.  The software would be designed to  allow
+>   traders to develop a market (or supply) stack with a minimum number of
+>   keystrokes.  The stacks could be developed for a utility, transarea, or
+>   region, would contain load data, and would be capable of incorporating
+>   real-time  information to provide fundamental insight and market
+>   advantage.
+>
+>   At this point in the process we are looking for  ideas (and sponsors).
+>   If you think your traders might be open to the idea,  I would like to
+>   talk to you and them about it, and potentially as early as next  week.
+>
+>   Please advise.
+>
+>   Thanks,
+>   Eric

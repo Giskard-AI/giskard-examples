@@ -1,0 +1,39 @@
+Message-ID: <26113914.1075858702166.JavaMail.evans@thyme>
+Date: Thu, 20 Sep 2001 04:49:51 -0700 (PDT)
+From: john.shelk@enron.com
+To: charles.yeung@enron.com
+Subject: RE: GISB Approves Strawman 2.1
+Cc: d..steffes@enron.com, richard.shapiro@enron.com, linda.robertson@enron.com, 
+	l..nicolay@enron.com, susan.lindberg@enron.com, m..presto@enron.com, 
+	lloyd.will@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: d..steffes@enron.com, richard.shapiro@enron.com, linda.robertson@enron.com, 
+	l..nicolay@enron.com, susan.lindberg@enron.com, m..presto@enron.com, 
+	lloyd.will@enron.com
+X-From: Shelk, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JSHELK>
+X-To: Yeung, Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cyeung>
+X-cc: Steffes, James D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jsteffe>, Shapiro, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rshapiro>, Robertson, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lrobert3>, Nicolay, Christi L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cnicola>, Lindberg, Susan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Slindber>, Presto, Kevin M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kpresto>, Will, Lloyd </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lwill>
+X-bcc: 
+X-Folder: \RSHAPIRO (Non-Privileged)\Shapiro, Richard\NERC
+X-Origin: Shapiro-R
+X-FileName: RSHAPIRO (Non-Privileged).pst
+
+        When appropriate, GISB should do some kind of press release and congressional outreach so that policymakers are aware
+        of this significant development.  We have made reference to the process of turning GISB into EISB as we have discussed
+        the reliability issue, but the board vote is another reason for them to do some outreach on their own as well.
+
+-----Original Message-----
+From: Yeung, Charles 
+Sent: Thursday, September 20, 2001 7:34 AM
+To: mips@nerc.com; esc@nerc.com
+Cc: Steffes, James D.; Shapiro, Richard; Robertson, Linda; Shelk, John; Nicolay, Christi L.; Lindberg, Susan; Presto, Kevin M.; Will, Lloyd
+Subject: GISB Approves Strawman 2.1
+
+
+Yesterday, Spet 19, the GISB Board of Directors voted unanimously to recharter GISB into the EISB as proposed in the Strawman Ver 2.1.  This will form the four quadrant standards setting organization.  It was recognized that each of the four quadrants would devlop on their own pace and lack of formation of any one quadrant would not inhibit the formation of EISB itself.
+ 
+The GISB Board also recognized a comment from PJM who asked to strike out language in the Strawman 2.1 that referenced NERC and AGA as two physical reliability standards organizations.  Many electric wholesale customer, including EPSA and Enron, have argued that reliability and commercial issues are inseparable and believe there should not be artificial limits to what the wholesale electric quadrant should be able to address.  The GISB Board recognized this concern, but rather than strike the language, it was recognized that the words were only in a preamble and instructed the drafting of the new charter to not include such language.
+ 
+ 

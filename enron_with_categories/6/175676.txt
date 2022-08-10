@@ -1,0 +1,43 @@
+Message-ID: <647171.1075847619009.JavaMail.evans@thyme>
+Date: Sun, 18 Mar 2001 12:01:00 -0800 (PST)
+From: steven.kean@enron.com
+To: mark.frevert@enron.com
+Subject: Re: DEnron Engineering and Operational Services - DRAFT
+ Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Mark Frevert
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+Drop the first comma in the first sentence of the third paragraph.  Otherwise 
+good to go.
+
+
+
+	Mark Frevert/ENRON@enronXgate
+	Sent by: Nicki Daw/ENRON@enronXgate
+	03/16/2001 08:42 AM
+		 
+		 To: Steven J Kean/NA/Enron@Enron, Greg Whalley/HOU/ECT@ECT, David W 
+Delainey/HOU/EES@EES, Dan Leff/HOU/EES@EES
+		 cc: Maureen McVicker/NA/Enron@Enron, Liz M Taylor/HOU/ECT@ECT, Kay 
+Chapman/HOU/EES@EES, Kathy Dodgen/HOU/EES@EES, Barbara 
+Hooks/ENRON_DEVELOPMENT@ENRON_DEVELOPMENt, Keith Dodson/NA/Enron@ENRON, Brian 
+Stanley/EU/Enron@ENRON
+		 Subject: DEnron Engineering and Operational Services - DRAFT Announcement
+
+Please find attached draft announcement for your review and comment.
+
+
+
+I would like to release this on Monday (March 19th).
+
+Thanks
+
+Mark

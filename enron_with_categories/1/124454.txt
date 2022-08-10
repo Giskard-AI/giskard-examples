@@ -1,0 +1,43 @@
+Message-ID: <899102.1075849282724.JavaMail.evans@thyme>
+Date: Fri, 22 Jun 2001 06:31:00 -0700 (PDT)
+From: alan.comnes@enron.com
+To: bernadette.hawkins@enron.com, jeffrey.hodge@enron.com, aw_turner@pgn.com, 
+	richard.sanders@enron.com, elizabeth.sager@enron.com, 
+	christi.nicolay@enron.com, ban.sharma@enron.com, 
+	paul.kaufman@enron.com, susan.mara@enron.com, 
+	jeff.dasovich@enron.com, dave.perrino@enron.com, 
+	tim.belden@enron.com, steve.hall@enron.com, 
+	linda.robertson@enron.com, ray.alvarez@enron.com, 
+	sarah.novosel@enron.com, lora.sullivan@enron.com, 
+	gfergus@brobeck.com, rcarroll@bracepatt.com, robert.frank@enron.com, 
+	tim.heizenrader@enron.com
+Subject: RE: FERC's Settlement Conference on Refunds - Monday, June
+ 25th--CONFIDENTIAL ATTY CLIENT WORK PRODUC
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Alan Comnes
+X-To: Bernadette Hawkins, Jeffrey T Hodge, aw_turner@pgn.com@SMTP@enronXgate, Richard B Sanders, Elizabeth Sager, Christi L Nicolay, Ban Sharma, Paul Kaufman, Susan J Mara, Jeff Dasovich, Dave Perrino, Tim Belden, Steve C Hall, Linda Robertson, Ray Alvarez, Sarah Novosel, Lora Sullivan, "Gary Fergus (E-mail)" <gfergus@brobeck.com>@SMTP@enronXgate, "Ron Carroll (E-mail)" <rcarroll@bracepatt.com>@SMTP@enronXgate, Robert Frank, Tim Heizenrader
+X-cc: 
+X-bcc: 
+X-Folder: \Jeff_Dasovich_Oct2001\Notes Folders\All documents
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+If you've been wondering where Davis's $9 billion "overcharge number" number 
+comes from, attached is  the apparent basis of the number, which was from a 
+study prepared by Hildebrandt of the CAISO. It was apparently released on the 
+CAISO site on 6/21.  
+
+Note that the $9billion includes bilateral trade sold to any party.  However, 
+Hildebrandt cannot say who the supplier is unless DWR, CAISO, or the PX was 
+the buyer (for those buyers he presumably has detailed data).  Thus, he can 
+ascribe overcharges to specific jurisdictional generators for only $5.4 
+billion of the $9billion total.  He does not show what specific parties are 
+attrributable to the $5.4 billion.   In an earlier study on just ISO R/T 
+"strategic bidding", supplier names were released inadvertantly by CAISO.
+
+Finally, as in previous CAISO studies, a significant fraction of overcharges 
+(approx $3 billion)  comes from before the refund-effective date of 10/1/00.
+
+Alan Comnes

@@ -1,0 +1,109 @@
+Message-ID: <28299872.1075858703582.JavaMail.evans@thyme>
+Date: Fri, 3 Aug 2001 11:08:10 -0700 (PDT)
+From: john.shelk@enron.com
+To: charles.yeung@enron.com
+Subject: RE: Next NERC Reliability Meeting on Legislation -- August 9th
+Cc: richard.shapiro@enron.com, d..steffes@enron.com, linda.robertson@enron.com, 
+	sarah.novosel@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: richard.shapiro@enron.com, d..steffes@enron.com, linda.robertson@enron.com, 
+	sarah.novosel@enron.com
+X-From: Shelk, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=2FCB405B-AAF18F39-86256A32-4CB53C>
+X-To: Yeung, Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CYEUNG>
+X-cc: Shapiro, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RSHAPIRO>, Steffes, James D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JSTEFFE>, Robertson, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=E6F34021-58C07703-86256984-56518C>, Novosel, Sarah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=E8015336-2D09A27C-862566B9-5830A9>
+X-bcc: 
+X-Folder: \RSHAPIRO (Non-Privileged)\Shapiro, Richard\NERC
+X-Origin: Shapiro-R
+X-FileName: RSHAPIRO (Non-Privileged).pst
+
+I don't know that NERC has "given up" on Enron.  The timing of next week's meeting to "resolve" the legislation  reflects the legislative realities that the committees of jurisdiction in Congress will take up the realibility legislation, along with other electricity issues, as early as the second week of September.  In fact, congressional staff in the Senate and House are drafting legislative language on electricity issues during the August recess.  They have pressed the "coalition" for a final work product.
+
+I gathered that at least some of what Jeff'spresentation to the NERC board would be about concerns matters beyond the legislation as such, but since they go to the NERC board's operation and independence, may go to our comfort level with NERC as the standards setting organization.
+
+Given the issues and concerns that have been addressed and communicated to NERC, and our preference for the PJM model (as Jeff told John Q. Anderson in the conference call), I think NERC got the information it wanted to get out of the call even though it didn't like the answers: i.e., whether Sarah and I have been faithfully representing Enron's position, whether Enron supports an "SRO" type organization; and whether there is anything they can do to get us on board.
+
+Perhaps we should have another conference call early next week so that Sarah and I have our guidance from everyone going into the August 9th meeting.  For one thing, we need to determine if we are in any position to provide detailed comments on the "shortened NERC" version at the August 9th meeting or whether we do not wish to engage them on what specific changes it would take to get us on board.
+
+My sense is that since we have to deal with the players in the room on other issues, our overall position will be strengthened if we have some specific comments to make to explain our decision not to support NERC's version, even the shortened one.  Don't get me wrong -- we have plenty of good reasons not to, I just wasn't sure how "engaged" we wanted to be in identifying changes that would bring us on board since I gather our opposition is more fundamental (no Western deference, budget concerns, independence issues, etc.).
+
+
+
+From:	Charles Yeung/ENRON@enronXgate on 08/03/2001 11:57 AM
+To:	John Shelk/NA/Enron@Enron, Richard Shapiro/ENRON@enronXgate, James D Steffes/ENRON@enronXgate
+cc:	Linda Robertson/NA/Enron@ENRON, Sarah Novosel/Corp/Enron@ENRON 
+
+Subject:	RE: Next NERC Reliability Meeting on Legislation -- August 9th
+
+John
+
+We are concerned how this meeting impacts what transpired between John Q Anderson and Jeff Skilling on the conference call on Thursday.
+
+David Cook was on the call as well and we do not understand the sudden urgency for NERC to reach closure.  Has NERC given up on Enron?
+
+As we understand it, John Q Anderson agreed to give Jeff an opportunity to present present before the NERC Board some ke y issues for Enron before trying to finalize any NERC legislation proposal.   Does this meeting next week preclude that presentation from occurring?  Or will there be willingness to alter the language significantly enough to appease the Enron concerns next week?
+
+Charles Yeung
+
+
+
+ -----Original Message-----
+From: 	Shelk, John  
+Sent:	Thursday, August 02, 2001 5:13 PM
+To:	Shapiro, Richard; Steffes, James D.; Yeung, Charles
+Cc:	Robertson, Linda; Novosel, Sarah
+Subject:	Next NERC Reliability Meeting on Legislation -- August 9th
+
+See NERC memo below that was just received.  They have scheduled what they hope will be the final meeting to "resolve" the reliability legislation next week -- August 9th.  Of course, this is awfully presumptuous in that it assumes that the model to be worked off of is the NERC model (even the shortened one), and not the PJM model that others prefer to use.  We need to decide whether we suggest any changes to the shortened NERC version, even those we know they would not take just to show a willingness to offer specific comments as we promised at the last meeting, or simply "agree to disagree."
+
+---------------------- Forwarded by John Shelk/NA/Enron on 08/02/2001 05:09 PM ---------------------------
+
+ 
+"David Cook" <David.Cook@nerc.net>@nerc.com on 08/02/2001 05:06:14 PM
+Sent by:	owner-rlc@nerc.com
+To:	<rlc@nerc.com>
+cc:	 
+
+Subject:	revisions to reliability language
+
+
+Reliability legislation coalition
+
+I have attached a memo outlining the edits that NERC would make in the
+7/19 discussion draft.  My memo does not take account of the suggestions
+that have been circulated in the last day or so.  I've also attached a
+marked-up version of the 7/19 draft indicating our changes.
+
+I propose that we meet in Washington on Thursday, August 9, at 10:00
+a.m., with the goal of coming to closure on reliability legislation that
+is shorter and less detailed than the language in the pending bills, but
+that still preserves the essence of an industry self-regulatory
+organization.  I am working on a location and expect to provide that
+information tomorrow.
+
+I know that scheduling this meeting may be difficult for some and that
+schedules are already full, but schedules will become even more
+difficult later in the month.  I take as our deadline having new
+language for the Hill during the August recess.
+
+Thank you in advance for your continuing efforts to bring this new model
+for reliability into existence.
+
+David Cook
+General Counsel
+NERC
+office:  609-452-8060
+cell:     609-915-3063
+david.cook@nerc.net
+
+ <<Edits to 7-19 discussion draft.doc>>  <<Discussion draft, 071901 (dnc
+comments).DOC>> 
+ - Edits to 7-19 discussion draft.doc << File: Edits to 7-19 discussion draft.doc >> 
+ - Discussion draft, 071901 (dnc comments).DOC << File: Discussion draft, 071901 (dnc comments).DOC >> 
+
+
+
+
+
+<Embedded Picture (Device Independent Bitmap)>

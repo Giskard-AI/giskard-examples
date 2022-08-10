@@ -1,0 +1,130 @@
+Message-ID: <32132854.1075863427541.JavaMail.evans@thyme>
+Date: Mon, 25 Jun 2001 09:48:08 -0700 (PDT)
+From: j.kaminski@enron.com
+To: vkaminski@aol.com
+Subject: FW: Did you guys see this?
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VKAMINS>
+X-To: 'vkaminski@aol.com'
+X-cc: 
+X-bcc: 
+X-Folder: \VKAMINS (Non-Privileged)\Kaminski, Vince J\Sent Items
+X-Origin: Kaminski-V
+X-FileName: VKAMINS (Non-Privileged).pst
+
+
+
+ -----Original Message-----
+From: 	"John D. Martin" <J_Martin@baylor.edu>@ENRON [mailto:IMCEANOTES-+22John+20D+2E+20Martin+22+20+3CJ+5FMartin+40baylor+2Eedu+3E+40ENRON@ENRON.com] 
+Sent:	Thursday, June 21, 2001 10:02 AM
+To:	Kaminski, Vince J; jmccormack@sternstewart.com
+Subject:	Did you guys see this?
+
+
+"Enron Corporation's Weather Derivatives (A) & (B)"
+
+       BY:  SAMUEL E. BODILY
+               University of Virginia
+               Darden Graduate School of Business Administration
+            ROBERT F. BRUNER
+               University of Virginia
+               Darden Graduate School of Business Administration
+            MARI CAPESTANY
+               Enron Corporation
+
+Document:  Available from the SSRN Electronic Paper Collection:
+            http://papers.ssrn.com/paper.taf?abstract_id=274195
+
+Paper ID:  Darden Case Nos.: UVA-F-1299-M and UVA-F-1300-M
+     Date:  2000
+
+  Contact:  SAMUEL E. BODILY
+    Email:  Mailto:bodilys@darden.gbus.virginia.edu
+   Postal:  University of Virginia
+            Darden Graduate School of Business
+            Administration
+            Box 6550
+            Charlottesville, VA 22906-6550  USA
+    Phone:  804-924-4813
+      Fax:  804-293-7677
+  Co-Auth:  ROBERT F. BRUNER
+    Email:  Mailto:brunerr@darden.gbus.virginia.edu
+   Postal:  University of Virginia
+            Darden Graduate School of Business
+            Administration
+            Box 6550
+            Charlottesville, VA 22906-6550  USA
+  Co-Auth:  MARI CAPESTANY
+    Email:  Mailto:mari.capestany@enron.com
+   Postal:  Enron Corporation
+            Enron Investment Partners
+            1400 Smith Street
+            Houston, TX 77002-7316  USA
+
+Requests For Copies:
+  A free inspection copy of the case (in CD-ROM format only) and
+  its teaching note (in paper format) may be requested by email
+  or telephone to Darden Educational Materials Services at the
+  coordinates below. Please mention FEN.
+
+  Email: Mailto:dardencases@virginia.edu
+  Phone: (800) 246-3367 (toll-free in the U.S.); (804) 924-0902
+  (for inquiries from outside the U.S.)
+
+ABSTRACT:
+
+  SUBJECT AREAS: Risk management, financial innovation, options
+  and derivatives.
+  CASE SETTING: 2000, U.S.
+
+
+  In October 2000, the chief financial officer of Pacific
+  Northwest Electric (PNW) is considering whether to use weather
+  derivatives to reduce the weather-related risk in the volume of
+  megawatt hours (MWh) sold.
+
+  The (A) case may be used to stimulate student discussion of
+  how the derivative contracts work, why one might want or not
+  want to take such a contract, and how one would decide whether
+  to use the weather protection. No prior exposure to options or
+  derivatives is needed for this discussion; indeed, the case may
+  be used as an introduction to options.
+
+  The (B) case involves valuing the available contracts and
+  deciding, which, if any, is the best contract for PNW.
+  Spreadsheet simulation can be used to determine the probability
+  distribution of the payout of the contract and the probability
+  distribution for the net operating contribution including the
+  contract payout, which is the basis for comparing alternatives.
+  It is instructive for the students to think about what would be
+  the ideal contract to reduce exposure to the greatest intent.
+  This pushes students towards the optimal hedge ratio.
+
+  Specific learning objectives of these cases include these:
+
+  - to expose students to the cutting edge in financial
+    innovation
+
+  - to illustrate the use of options to reduce business risk
+
+  - to challenge the students to value options where the
+    Black-Scholes model cannot be used, and simulation can be
+    readily employed
+
+  - to experience the perspective of top management in risk
+    management activities.
+
+
+JEL Classification: G30
+John D. Martin
+Carr P. Collins Chair in Finance
+Finance Department
+Baylor University
+PO Box 98004
+Waco, TX 76798
+254-710-4473 (Office)
+254-710-1092 (Fax)
+J_Martin@Baylor.edu
+web:    http://hsb.baylor.edu/html/martinj/home.html  

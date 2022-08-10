@@ -1,0 +1,130 @@
+Message-ID: <17692897.1075843023590.JavaMail.evans@thyme>
+Date: Wed, 8 Nov 2000 02:32:00 -0800 (PST)
+From: rcarroll@bracepatt.com
+To: dwatkiss@bracepatt.com, gfergus@brobeck.com, alan.comnes@enron.com, 
+	christian.yoder@enron.com, james.d.steffes@enron.com, 
+	jeff.dasovich@enron.com, joe.hartsoe@enron.com, mary.hain@enron.com, 
+	richard.b.sanders@enron.com, sarah.novosel@enron.com, 
+	susan.j.mara@enron.com, mday@gmssr.com
+Subject: RE: Important - CPUC Motion - Confidential Attorney ClientPrivil
+ ege and Work Product
+Cc: lysa.akin@enron.com, tim.belden@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lysa.akin@enron.com, tim.belden@enron.com
+X-From: "Ronald Carroll" <rcarroll@bracepatt.com>
+X-To: "Jeffrey Watkiss" <dwatkiss@bracepatt.com>, <GFergus@brobeck.com>, <Alan.Comnes@enron.com>, <Christian.Yoder@enron.com>, <James.D.Steffes@enron.com>, <Jeff.Dasovich@enron.com>, <Joe.Hartsoe@enron.com>, <Mary.Hain@enron.com>, <Richard.B.Sanders@enron.com>, <Sarah.Novosel@enron.com>, <Susan.J.Mara@enron.com>, <mday@gmssr.com>
+X-cc: <Lysa.Akin@enron.com>, <Tim.Belden@enron.com>
+X-bcc: 
+X-Folder: \Jeff_Dasovich_Dec2000\Notes Folders\All documents
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+While I appreciate the virtue of flying below the radar if possible, the 
+matter here is complicated by the fact that FERC's discovery rules (18 CFR, 
+Subpart D) pertain only to "proceedings set for hearing . . . and to such 
+proceedings as the Commission may order."  18 CFR 385.401.  In this case, 
+FERC stated that "a trial-type hearing is not necessary . . . ." and 
+specifically rejected the use of a "trial-type evidentiary hearing."  Slip 
+op. at 47-48 & n.97.  Thus, while I have not researched the matter as yet, my 
+preliminary view is that the CPUC's attempt to invoke FERC's discovery 
+processes would appear to be outside the contemplation of FERC's Nov. 1 order 
+and its regulations, unless FERC specifically orders discovery in this case.  
+(The CPUC seems to recognize the relevance of this consideration when it 
+specifically attempts to equate "paper" hearings with "trial-type" hearings; 
+see page 1 of its Motion.)
+
+The CPUC's motion may prompt FERC to decide whether or not to allow discovery 
+in this case under Rule 401.  While the CPUC's motion does not apply directly 
+to marketers, FERC's ruling will be precedent in the event the CPUC or 
+someone else hereafter serves discovery on other parties.  As a result, we 
+need to consider whether laying in the weeds risks losing an opportunity to 
+present our views on whether FERC should allow discovery in a paper hearing 
+with an expedited decisional track, particularly in light of the fact that 
+Staff has already conducted.
+
+>>> Jeffrey Watkiss 11/08/00 10:31AM >>>
+Does anyone have an idea as to why marketers, including EPMI, are not 
+included in the list of subject companies:  Exh. B?  Since EPMI is not a 
+subject of the motion, why should it answer?  Lying in the weeds may be a 
+more prudent course of action.
+
+>>> "Fergus, Gary S." <GFergus@brobeck.com> 11/07/00 10:08PM >>>
+I just spoke with Mary to make sure we have the same information.  Here are
+the facts we have so far.  On November 4th, the CPUC filed a motion with
+FERC to adopt the form of protective order that the CPUC entered, to compel
+the production of documents and to shorten time to answer.  According to
+Exhibit B (read to me by Nancy Pickover at Bracewell) the following CPUC
+moved against the following entities:  AES, Williams, Duke, Dynegy, Reliant
+and Southern.  Enron entities were NOT named in exhibit B.  This is not to
+say that we could not be easily added to the group.  While the motion reads
+as if the CPUC was moving against everybody, in fact, in footnote 2 they
+state they are only moving against the entities named in Exhibit B.  We will
+have Exhibit B in hand first thing tomorrow via FEDEX to confirm this.  To
+repeat, Enron is not named yet.
+
+Thanks
+Gary
+
+-----Original Message-----
+From: Mary.Hain@enron.com [mailto:Mary.Hain@enron.com]
+Sent: Tuesday, November 07, 2000 6:23 PM
+To: dwatkiss@bracepatt.com; Susan.J.Mara@enron.com;
+Richard.B.Sanders@enron.com; James.D.Steffes@enron.com;
+Christian.Yoder@enron.com; Jeff.Dasovich@enron.com; mday@gmssr.com;
+gfergus@brobeck.com; rcarroll@bracepatt.com; Alan.Comnes@enron.com;
+Joe.Hartsoe@enron.com; Sarah.Novosel@enron.com
+Cc: Tim.Belden@enron.com; Lysa.Akin@enron.com
+Subject: Important - CPUC Motion - Confidential Attorney Client
+Privilege and Work Product
+
+
+As you may already know, the CPUC filed a motion at FERC asking for a
+protective order and to compel production of the information they subpoened
+from us in the CPUC's OII case.  Given the timing, we should discuss this
+on our conference call scheduled for tomorrow.
+
+They request that we be required:
+to answer their motion on Thursday,
+to provide the information within 5 working days of a FERC ordering
+production, and
+to provide of P&L information and spread sheets detailing our deals,
+specifically delivery point, delivery date, counterparty, volume and
+price.
+
+We may not have a problem providing this information for use by FERC in its
+proceeding subject to a confidentiality agreement but I think we would
+oppose their requests for:
+the information to be provided for "government eyes only" -  this would
+prohibit EPMI from defending itself vis-a-vis other market participants.
+a FERC confidentiality order that would could allow FERC to "share" this
+information with the CPUC (for purposes of the PUC's OII proceeding)
+pursuant to 16 U.S.C. 824h(c).  16 USC 824g(c) requires the Commission
+to make information available to state commissions as may be of
+assistance in state regulation of public utilities.  We should argue
+that 16 USC 824h(c) does not apply here given that we are not a public
+utility nor does the PUC regulate how much market power wholesale
+marketers exercise or the level of market power mitigation (these are
+the bases the PUC provides for explaining why it should have this
+information.)
+the above contractual information to allow them to analyze the
+competitiveness of the forward market to evaluate the wisdom of the
+Commission's  decision to allow the UDC's "unfettered access" to the
+forwards market.  This argument is unpersuasive given that the CPUC can
+get information about the competitiveness of the forward markets from
+the Wall Street Journal's listing of NYMEX prices.
+
+
+=======================================================
+This email message is for the sole use of the intended recipient(s) and may 
+contain confidential and privileged information. Any unauthorized review, 
+use, disclosure or distribution is prohibited. If you are not the intended 
+recipient, please contact the sender by reply email and destroy all copies of 
+the original message.
+
+To reply to our email administrator directly, send an email to 
+postmaster@brobeck.com
+BROBECK PHLEGER & HARRISON LLP
+http://www.brobeck.com
+

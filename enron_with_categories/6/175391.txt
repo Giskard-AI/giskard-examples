@@ -1,0 +1,40 @@
+Message-ID: <8077054.1075847592812.JavaMail.evans@thyme>
+Date: Wed, 25 Apr 2001 00:45:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: maureen.mcvicker@enron.com
+Subject: <<Concur Expense Document>> - 041601LC
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Maureen McVicker
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+---------------------- Forwarded by Steven J Kean/NA/Enron on 04/25/2001 
+07:45 AM ---------------------------
+
+
+eserver@enron.com on 04/16/2001 10:53:15 AM
+To: "Steven.J.Kean@enron.com" <Steven.J.Kean@enron.com>
+cc:  
+
+Subject: <<Concur Expense Document>> - 041601LC
+
+The following expense report is ready for approval:
+
+Employee Name: Lisa Connolly
+Status last changed by:  Automated Administrator
+Expense Report Name: 041601LC
+Report Total: $280.03
+Amount Due Employee: $280.03
+
+
+To approve this expense report, click on the following link for Concur 
+Expense.
+http://xms.enron.com
+
+

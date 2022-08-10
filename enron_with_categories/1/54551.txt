@@ -1,0 +1,45 @@
+Message-ID: <14455492.1075863426451.JavaMail.evans@thyme>
+Date: Fri, 15 Jun 2001 09:12:45 -0700 (PDT)
+From: j.kaminski@enron.com
+To: vkaminski@aol.com
+Subject: FW:  StatSoft
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VKAMINS>
+X-To: 'vkaminski@aol.com'
+X-cc: 
+X-bcc: 
+X-Folder: \VKAMINS (Non-Privileged)\Kaminski, Vince J\Sent Items
+X-Origin: Kaminski-V
+X-FileName: VKAMINS (Non-Privileged).pst
+
+
+
+ -----Original Message-----
+From: 	Mack, Iris  
+Sent:	Sunday, June 10, 2001 1:50 PM
+To:	Dhar, Amitava; Frantzeskakis, Kyriakos
+Cc:	Shanbhogue, Vasant; Kaminski, Vince J; Tamarchenko, Tanya
+Subject:	FW:  StatSoft
+
+
+
+	FYI, the following website describes a variety of econometrics methods - which we plan to implement to solve the private firm problem.  
+
+	Many of these methods were briefly described in the recent draft of the Duffie document.  
+
+	Kyriakos will be writing a paper which will describe these methods in more detail.
+
+
+
+
+			http://www.statsoft.com/textbook/STATHOME.html.
+
+
+
+	
+
+
+
+  

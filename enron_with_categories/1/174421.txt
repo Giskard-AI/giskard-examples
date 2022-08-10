@@ -1,0 +1,30 @@
+Message-ID: <3099687.1075846177655.JavaMail.evans@thyme>
+Date: Fri, 29 Sep 2000 08:47:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: mark.schroeder@enron.com, tom.briggs@enron.com, robert.hemstock@enron.com, 
+	peter.styles@enron.com, daniel.allegretti@enron.com, 
+	steve.montovano@enron.com, janine.migden@enron.com, 
+	aleck.dadson@enron.com, paul.dawson@enron.com
+Subject: examples of auction processes that worked
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Mark Schroeder, Tom Briggs, Robert Hemstock, Peter Styles, Daniel Allegretti, Steve Montovano, Janine Migden, Aleck Dadson, Paul Dawson
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+Jeff Skilling proposed a solution to Gov Davis to solve the supply and 
+pricing problems in the California market.  In summary, the proposal would 
+have a neutral party conduct an auction wherein the utilities would seek bids 
+for 5-10 year packages of power from suppliers.  The gov asked if anyone had 
+successfully conducted such an auction in the industry already.
+
+I need your help to identify and describe any such examples (European or 
+North American) by mid day Monday. Jeff and I will have a follow up call with 
+the governor on Monday.
+
+Thanks

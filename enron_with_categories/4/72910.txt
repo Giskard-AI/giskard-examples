@@ -1,0 +1,46 @@
+Message-ID: <20304080.1075841239270.JavaMail.evans@thyme>
+Date: Tue, 10 Apr 2001 12:02:00 -0700 (PDT)
+From: jeffrey.gossett@enron.com
+To: david.baumbach@enron.com, kam.keiser@enron.com, phillip.love@enron.com, 
+	darron.giron@enron.com, russ.severson@enron.com, 
+	john.valdes@enron.com, errol.mclaughlin@enron.com, 
+	martha.stevens@enron.com
+Subject: Confidential Folder to safely pass information to Arthur Andersen
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett <Jeffrey C Gossett/HOU/ECT@ECT>
+X-To: David Baumbach <David Baumbach/HOU/ECT@ECT>, Kam Keiser <Kam Keiser/HOU/ECT@ECT>, Phillip M Love <Phillip M Love/HOU/ECT@ECT>, Darron C Giron <Darron C Giron/HOU/ECT@ECT>, Russ Severson <Russ Severson/HOU/ECT@ECT>, John Valdes <John Valdes/HOU/ECT@ECT>, Errol McLaughlin <Errol McLaughlin/Corp/Enron@ENRON>, Martha Stevens <Martha Stevens/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+Please read and follow below:
+
+Thanks
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 04/10/2001 09:01 AM ---------------------------
+From:	Beth Apollo/ENRON@enronXgate on 04/10/2001 08:52 AM
+To:	Shona Wilson/NA/Enron@Enron, Jeffrey C Gossett/HOU/ECT@ECT, Stacey W White/HOU/ECT@ECT, D Todd Hall/ENRON@enronXgate, Sheri Thomas/HOU/ECT@ECT, Brenda F Herod/ENRON@enronXgate, john.j.boudreaux@us.arthurandersen.com@SMTP@enronXgate, john.vickers@us.arthurandersen.com@SMTP@enronXgate, kate.agnew@us.arthurandersen.com@SMTP@enronXgate, jennifer.stevenson@us.arthurandersen.com@SMTP@enronXgate
+cc:	Sally Beck/HOU/ECT@ECT, tom.bauer@us.arthurandersen.com@SMTP@enronXgate, Georgeanne Hodges/ENRON@enronXgate, Vanessa Schulte/ENRON@enronXgate, Bob M Hall/NA/Enron@Enron, Leslie Reeves/HOU/ECT@ECT, Brent A Price/ENRON@enronXgate 
+Subject:	Confidential Folder to safely pass information to  Arthur Andersen
+
+
+We have become increasingly concerned about confidential information (dpr/position info, curves, validations/stress tests, etc) being passed to Arthur Andersen for audit purposes over the Web to their Arthur Andersen email addresses. (necessary now they no longer have access to Enron's internal email system)  
+
+Please use the folder described below when passing any info (that you would have concerns about if it was picked up by a third party) via the shared drive that has been set up for this specific purpose.   
+
+Note:  AA should also use the shared drive to pass info back if there are questions, or the data needs updating.  We should also consider the sensitivity of audit findings and special presentations if they are being distributed electronically.
+
+
+Please pass this note to others in your groups who have the need to pass info back and forth.
+
+ 
+Details on how to access for those who will use this method to pass info:
+
+A secured folder has been set up on the "o" drive under Corporate called Arthur_Andersen (O:\Corporate\Arthur_Anderson).  Please post all confidential files in this folder rather than emailing the files to their company email address.  If you need access to this folder, submit an eRequest through the IT Central site: http://itcentral.enron.com/Data/Services/SecurityRequests/.  Arthur Andersen will be able to retrieve these files for review with their terminal server access at the Three Allen Center location.
+
+Please contact Vanessa Schulte if you have any problems or questions
+
+Beth Apollo

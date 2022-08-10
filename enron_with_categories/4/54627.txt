@@ -1,0 +1,42 @@
+Message-ID: <16539701.1075863428650.JavaMail.evans@thyme>
+Date: Tue, 26 Jun 2001 11:03:43 -0700 (PDT)
+From: j.kaminski@enron.com
+To: martin.lin@enron.com, sandeep.kohli@enron.com
+Subject: RE: o:\Research access list
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VKAMINS>
+X-To: Lin, Martin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mlin>, Kohli, Sandeep </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Skohli2>
+X-cc: 
+X-bcc: 
+X-Folder: \VKAMINS (Non-Privileged)\Kaminski, Vince J\Sent Items
+X-Origin: Kaminski-V
+X-FileName: VKAMINS (Non-Privileged).pst
+
+Sandeep,
+
+This is the list of the groups  that have access to Research directory.
+Martin compiled this list.
+
+Please, review it and let's talk about the recommendations regarding
+changes and restrictions we have to make.
+
+Vince
+
+
+
+ -----Original Message-----
+From: 	Lin, Martin  
+Sent:	Wednesday, June 06, 2001 9:27 PM
+To:	Kaminski, Vince J
+Subject:	o:\Research access list
+
+Please find attached an Excel workbook listing different access groups for Research.  I have marked some users for keeping and deleting.  I'm not sure how you wish to proceed.  You can edit the list as you see fit.  Perhaps we can contact those who have particular groups (e.g. Weather) for updates on their list.
+
+I am generally of the opinion that the lists should be as short as possible.  A directory that Lance and I share with the power group was deleted yesterday but nobody knows who did that.  I hope after this audit is done, we are much less at risk of something that like happening again.
+
+Thanks,
+Martin
+
+ << File: Data Research.xls >> 

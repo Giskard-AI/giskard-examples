@@ -1,0 +1,117 @@
+Message-ID: <13455209.1075847624491.JavaMail.evans@thyme>
+Date: Fri, 2 Mar 2001 05:18:00 -0800 (PST)
+From: steven.kean@enron.com
+To: maureen.mcvicker@enron.com
+Subject: Re: Draft NPC Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Maureen McVicker
+X-cc: 
+X-bcc: 
+X-Folder: \Steven_Kean_June2001_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+----- Forwarded by Steven J Kean/NA/Enron on 03/02/2001 01:23 PM -----
+
+	Pete Van De Gohm@EES
+	02/26/2001 03:15 PM
+		 
+		 To: Steven J Kean/NA/Enron@Enron
+		 cc: Michael Hicks/EPSC/HOU/ECT@ECT
+		 Subject: Re: Draft NPC Report
+
+Steve:
+
+Need to met with you before May 8th, but would like to do it in the next 2 
+weeks,  to discuss Enron's position on this NPC report.  I am currently 
+coordinating with Andrew Parsons, Mark Holsworth etc.  Rob sent me a copy of 
+the 2 Feb 2001 NPC update letter and draft executive summary received by Ken 
+Lay.  I sent Rob a note outlining the questions I saw the report raising form 
+an Enron perspective.  Comments below.
+
+Pete
+
+---------------------- Forwarded by Pete Van De Gohm/HOU/EES on 02/26/2001 
+03:06 PM ---------------------------
+
+
+Rob Bradley@ENRON
+02/26/2001 09:57 AM
+To: Pete Van De Gohm/HOU/EES@EES
+cc: Michael Hicks/EPSC/HOU/ECT@ECT 
+Subject: Re: Draft NPC Report  
+
+This is important enough to get Steve Kean's direction just to make sure all 
+the right people are in the loop.  I am not the right person, although Lay 
+sent me a note on it.
+
+- Rob
+
+
+
+
+
+	Pete Van De Gohm@EES
+	02/26/2001 09:36 AM
+		 
+		 To: Rob Bradley/Corp/Enron@ENRON
+		 cc: Michael Hicks/EPSC/HOU/ECT@ECT
+		 Subject: Draft NPC Report
+
+Rob:
+
+Thought I'd send you the latest draft of the report, it's 85-90%  final (the 
+recommendations are 100%).
+
+Questions the report raises for Enron:
+
+Is Enron part of the oil & natural gas sector or the banking and finance 
+sector?  Both are looking at information sharing mechanism to mitigate risks 
+to IT systems.  The Banking & Finance sector has been operating an 
+information sharing and analysis center (ISAC) for over a year.  Discussions 
+with members of the banking and finance sector indicate it has value.  
+
+If Enron is a part of the oil & natural gas sector, are we willing to take a 
+leadership role and enter into a potential LLC with other Council member 
+companies to form an ISAC for this sector? Cost to Enron would be based on 
+number of individuals receiving alerts etc., however, it could be as low as 
+$13K per year.  An additional cost would be to appoint an employee to the 
+LLC's governance body to ensure Enron's needs were addressed.  Archie Dunham, 
+CONOCO's Chairman, has agreed to champion this initiative if the Council 
+recommends it at the 6 June  meeting.
+
+Current coordination:
+
+The legal issues have been worked by a sub-group lead by Tom Carmel, CONOCO.  
+Mark Holsworth, Corp. Legal has been our representative.  Recent DOJ action 
+regarding information sharing to mitigate IT risks seems to indicate that 
+anti-trust will not be an issue.  Steptoe & Johnson, LLP have undertaken a 
+review of the liability issues and suggested ways to mitigate them.
+
+Mike Hicks and I have been working with Mark Thibodeaux, Corp. IT Compliance, 
+and will be meeting with Steve Kean and others in the security and IT 
+protection efforts in next two weeks. 
+
+Recommendation:
+
+Enron participate fully in the oil and natural gas sector's efforts - As 
+Enron becomes more and more dependant on IT, having a mechanism that provides 
+tailored vulnerability information and solutions in a "one-stop-shop" format 
+is valuable and can lead to reduced insurance premiums. 
+
+Pete
+---------------------- Forwarded by Pete Van De Gohm/HOU/EES on 02/26/2001 
+08:02 AM ---------------------------
+
+
+Marshall Nichols <mnichols@npc.org>@listmail.npc.org> on 02/25/2001 06:59:43 
+PM
+
+ -  CIP CSC Draft 2-25-01.pdf
+
+
+
+

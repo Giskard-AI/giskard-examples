@@ -1,0 +1,163 @@
+Message-ID: <7869424.1075863429752.JavaMail.evans@thyme>
+Date: Mon, 2 Jul 2001 15:04:14 -0700 (PDT)
+From: j.kaminski@enron.com
+To: zimin.lu@enron.com
+Subject: FW: FEA Announces the Release of @GLOBAL 5.0
+Cc: sandeep.kohli@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sandeep.kohli@enron.com
+X-From: Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VKAMINS>
+X-To: Lu, Zimin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Zlu>
+X-cc: Kohli, Sandeep </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Skohli2>
+X-bcc: 
+X-Folder: \VKAMINS (Non-Privileged)\Kaminski, Vince J\Sent Items
+X-Origin: Kaminski-V
+X-FileName: VKAMINS (Non-Privileged).pst
+
+Zimin,
+
+FYI. Please, install it.
+
+Vince
+
+ -----Original Message-----
+From: 	"Erin Hopkins" <erin@fea.com>@ENRON [mailto:IMCEANOTES-+22Erin+20Hopkins+22+20+3Cerin+40fea+2Ecom+3E+40ENRON@ENRON.com] 
+Sent:	Monday, July 02, 2001 2:11 PM
+To:	vkamins@enron.com
+Subject:	FEA Announces the Release of @GLOBAL 5.0
+
+July 02, 2001
+
+Enron North America Corp.
+Vince Kaminski
+1400 Smith Street
+30th Floor, Rm. 3036B
+Houston, TX 77002-7361
+1 713-853-3848
+
+Dear Vince Kaminski,
+
+This is to inform you of the release of @GLOBAL v5.0. FTP download
+instructions are available immediately. The download instructions are
+included at the end of this email. Your CD's and manuals will be shipped to
+you within 2 weeks. Please see below for more information regarding this new
+release.
+
+Please confirm that you are the correct recipient for this shipment and your
+address above is correct by clicking reply and send. If any changes need to
+be made, please make the changes above and reply.
+
+Here is an overview of the new features from the release notes:
+
+New License Keys Required
+
+FEAs new licensing scheme requires new keys. If you received new @GLOBAL
+license keys recently (within the last 6 months to a year), you need do
+nothing, otherwise contact FEA to receive updated license keys. To get new
+keys, contact FEA by email info@fea.com, fax +1-510-548-0332, or telephone
++1-510-548-6200. *To avoid downtime we strongly recommend you get and
+install the new keys before installing the new software.
+
+New Functions
+
+The following functions have been added:
+
+Function                Module  Description
+
+MCEAPO                    2     Monte Carlo based, European average
+                                (inverse)price option.
+CPAMW                     4     Cash-or-nothing digital barrier option (hit
+                                in time window, pay at maturity.
+EPINM                     4     Kick-in at maturity option.
+REVEADOM                  4     Reverse knock-out at maturity option.
+EURO_BESTOF               5     Best-Worse of (two/three) assets.
+EURO_DBESTOF              5     Best-Worse of (two/three) assests, digital
+                                payment.
+MCEQUITY_ASAIN            5     Monte Carlo European average-returns option
+                                (up to 12 equities).
+MCEQUITY_ASIAN_CLIQUET    5     Monte Carlo European average-returns option
+                                (up to 12 equities) with cliquet features.
+
+New Add-in Manager
+
+@GLOBAL 5.0 comes with a new add-in manager that makes navigating between
+different FEA templates very easy.  Simply open the fea\xlutil\readme.xls
+and follow the instructions specified in the spreadsheet.
+
+New Module
+
+@GLOBAL.5 Baskets & Averages  has been added. Prior to this release,
+functions in this module were part of the SPAV product.
+
+New Templates
+
+Templates have been added for the new functions and existing templates have
+been updated.
+
+New Features
+
+All options now allow for positive or negative input amount. Negative
+amounts can be useful to represent short positions. All options can now be
+consistently evaluated on expiration date (zero time to expiry). An error is
+still returned if the option has already expired (negative time to expiry).
+European spread option models (EUDU, ECMXX, EPMNX) now support an
+alternative tree implementation.
+
+Speed Improvement
+
+Our tests show a substantial speed improvement (40%-60%) from version 4.2,
+especially for computationally demanding models.
+
+
+If you have any questions please feel free to contact us. We appreciate this
+opportunity to be of continuing service to Enron North America Corp..
+
+Regards,
+Michelle Mendoza
+Email to: Support@fea.com
+               or
+          michelle@fea.com
+Direct Tel: +1-510-549-8702 *111
+Financial Engineering Associates, Inc.
+
+*************************************************************************
+
+To download @GLOBAL via FTP, follow the following instructions:
+
+NOTE: Using EXPLORER leads to unpredictable results, so we suggest using
+      NETSCAPE or a DOS shell.
+
+
+USING NETSCAPE:
+
+In the Location box type: ftp://global@ftp.fea.com
+Password: 9cmccfcd
+
+global-5.0-win32.exe is for Excel 7 or 97SR1, 2000 or XP, download and run
+on
+a local drive.
+
+global40-unix.tar.Z is for Applix, download, unzip, and untar and
+then follow the instructions in Readme_Install.
+
+
+USING A DOS SHELL:
+
+At a DOS prompt type: ftp ftp.fea.com
+User: global
+Password:  9cmccfcd
+
+Type "binary" and hit 'return'.
+Type "ls" for a list of available files.
+Type "get" global-5.0-win32.exe and and wait for the ftp> prompt.
+Type "quit".
+
+The file will be downloaded into the directory at which you entered the ftp
+site.
+Double click on the exe and follow the instructions on the screen.
+
+N.B.:  The password is only valid until the first Friday of next month.
+
+

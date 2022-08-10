@@ -1,0 +1,152 @@
+Message-ID: <29406798.1075843451668.JavaMail.evans@thyme>
+Date: Fri, 27 Apr 2001 08:44:00 -0700 (PDT)
+From: rcarroll@bracepatt.com
+To: afishman@bracepatt.com, asettanni@bracepatt.com, kcurry@bracepatt.com, 
+	gfergus@brobeck.com, mmilner@coral-energy.com, 
+	rreilley@coral-energy.com, ray.alvarez@ei.enron.com, 
+	acomnes@enron.com, dfulton@enron.com, jdasovic@enron.com, 
+	jsteffe@enron.com, rshapiro@enron.com, smara@enron.com, 
+	snovose@enron.com, tbelden@enron.com, mday@gmssr.com, 
+	gackerman@wptf.org
+Subject: Fwd: New York Times - Plan on California Energy Has No	Shortage of
+ Critics
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Ronald Carroll" <rcarroll@bracepatt.com>
+X-To: "Aryeh Fishman" <afishman@bracepatt.com>, "Andrea Settanni" <asettanni@bracepatt.com>, "Kimberly Curry" <kcurry@bracepatt.com>, <gfergus@brobeck.com>, <mmilner@coral-energy.com>, <rreilley@coral-energy.com>, <ray.alvarez@ei.enron.com>, <acomnes@enron.com>, <dfulton@enron.com>, <jdasovic@enron.com>, <jsteffe@enron.com>, <rshapiro@enron.com>, <smara@enron.com>, <snovose@enron.com>, <tbelden@enron.com>, <mday@gmssr.com>, <gackerman@wptf.org>
+X-cc: 
+X-bcc: 
+X-Folder: \Jeff_Dasovich_June2001\Notes Folders\All documents
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 27 Apr 2001 10:22:32 -0500
+From: "Tracey Bradley" <tbradley@bracepatt.com>
+To: "Deanna King" <dking@bracepatt.com>, "Justin Long" <jlong@bracepatt.com>, 
+"Paul Fox" <pfox@bracepatt.com>
+Cc: "Ronald Carroll" <rcarroll@bracepatt.com>
+Subject: New York Times - Plan on California Energy Has No Shortage of Critics
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Disposition: inline
+
+FYI - Linda Stuntz is quoted in this article.  She characterized the RTO 
+filing requirement as "bizarre".  It appears to me that it is typical FERC 
+behavior; FERC likes to use whatever leverage it has to force compliance.
+
+
+April 27, 2001
+
+Plan on California Energy Has No Shortage of Critics
+By JOSEPH KAHN
+
+WASHINGTON, April 26 * A novel plan by federal regulators to control 
+California's runaway electricity prices is a messy, politically motivated 
+compromise that may offer some relief to consumers but will do little to fix 
+the state's dysfunctional energy market, analysts said today.
+
+The intervention, announced by the Federal Energy Regulatory Commission on 
+Wednesday night after much haggling, was dismissed by a wide range of critics 
+today as a flawed effort that satisfies no one.
+
+It fell short of the sweeping suspension of regional electricity deregulation 
+that California officials and some energy experts had advocated. But it also 
+crossed what has become a firm ideological line among Republican leaders, 
+including President Bush, by imposing price controls on some electricity 
+sales to utilities.
+
+Under the agency's order, which takes effect on May 1, California regulators 
+can begin to impose price controls on power generators when electricity 
+supplies fall to within 7.5 percent of consumer demand. The state is expected 
+to face such shortages routinely this summer, and the order has the potential 
+to shave billions of dollars off California's electricity bill if implemented 
+fully, some people at the federal agency say.
+
+"The president has a long-held belief that price caps don't work," the White 
+House press secretary, Ari Fleischer, said today. "The last thing you want to 
+do is create artificially increased demand and put in disincentives that harm 
+the availability of supply."
+
+Mr. Fleischer noted that the energy commission is an independent federal 
+agency, adding that the Bush administration has no authority to countermand 
+its orders.
+
+But Mr. Bush did appoint the commission's chairman, Curtis L. H,bert Jr., a 
+Republican. Like the president, Mr. H,bert has often insisted that price caps 
+do no good. But he came under withering political pressure to abandon the 
+agency's largely hands- off approach to the California crisis. Some of that 
+pressure came from the two other commissioners at the agency, both Democrats, 
+and Mr. H,bert wound up voting for the controls adopted on Wednesday night.
+
+The split with the Bush administration raises fresh questions about whether 
+the president will seek to replace Mr. H,bert as chairman in coming weeks. 
+Mr. Bush has nominated two Republicans to fill vacant slots on the 
+commission, including Pat Wood, a longtime ally of the president who served 
+as chief electricity regulator in Texas. Industry executives say they expect 
+that Mr. Bush will eventually name Mr. Wood to the commission's top post.
+
+In a reflection of how delicate the issue is, Mr. H,bert argued that the 
+agency's action did not amount to imposing price caps. But his position 
+appeared to rest on a semantic distinction between returning to cost- based 
+electricity regulation (as some Californians favor) and the agency's decision 
+to impose tactical price controls.
+
+Among California officials, the dominant reaction was disappointment. Some 
+state regulators and market experts said the agency was practicing 
+upside-down economics: it has chosen to impose price limits during periods of 
+severe scarcity, when prices theoretically ought to rise to encourage 
+companies to build power plants and encourage people to use less electricity.
+
+The agency, its critics argue, has chosen to ignore price abuses during times 
+of relative abundance, when power generators, the critics say, have used 
+artificial market power to earn high profits.
+
+"They got it exactly wrong," said Frank Wolak, chief market supervisor for 
+the California Independent System Operator, which runs the state's power 
+grid. "It looks like they're doing something, but it doesn't work in real 
+time."
+
+Mr. Wolak has estimated that most overcharges by generators last year * in 
+amounts that he puts in the billions of dollars * occurred when electricity 
+supplies were not acutely short, meaning that the agency's price caps would 
+have had no mitigating effect.
+
+The state is likely to face many emergency shortages this summer. But, Mr. 
+Wolak said, generating companies have become adept at "gaming" the system. He 
+predicted that they would find ways to continue to earn high profits in 
+California.
+
+One fear is that generating companies will arrange to sell their output to 
+affiliates out of state. When California's transmission grid managers 
+scramble to find supplies, the same companies will offer to sell the power 
+back to the state, but only above the cap price. The agency's new order 
+includes a provision that is intended to discourage this sort of abuse, known 
+as megawatt laundering. But the agency has a weak record of enforcing such 
+mandates, and California officials are skeptical.
+
+The order also came under fire on other grounds. The commission said that 
+price caps would be canceled unless California submitted a proposal to link 
+its transmission grid to the one that serves the Western region, a priority 
+of the agency that state officials have resisted.
+
+Linda Stuntz, an electricity industry lobbyist who is an expert on the 
+agency, called that clause bizarre, arguing that it held the entire 
+California market hostage to a technical filing requirement.
+
+California politicians said they worried that even if the price caps were 
+carried out as promised, relief would be too limited.
+
+The price limits will be based on estimates of the highest operating costs of 
+the least efficient generating plant in the state. The order as written means 
+that companies that operate efficient generating plants could still sell 
+power at large mark-ups during periods when caps are imposed. When the agency 
+scrutinized the California market earlier this year, it found the high-cost 
+generators to be justified in charging about $300 a megawatt hour for 
+electricity, a price that is about 10 times as high as the state was paying 
+for power a year ago.
+
+
+
+Copyright 2001 The New York Times Company

@@ -1,0 +1,66 @@
+Message-ID: <935234.1075858882788.JavaMail.evans@thyme>
+Date: Tue, 17 Jul 2001 20:44:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: outlook.team@enron.com
+Subject: Re: 2- SURVEY/INFORMATION EMAIL - 7/19/01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Steven J Kean
+X-To: Outlook Migration Team <Outlook Migration Team/Corp/Enron@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \SKEAN (Non-Privileged)\Kean, Steven J.\Sent Items
+X-Origin: Kean-S
+X-FileName: SKEAN (Non-Privileged).pst
+
+Subject:	2- SURVEY/INFORMATION EMAIL - 7/19/01
+
+Current Notes User: 
+
+To ensure that you experience a successful migration from Notes to Outlook, it is necessary to gather individual user information prior to your date of migration.  Please take a few minutes to completely fill out the following survey. Double Click on document to put it in "Edit" mode. When you finish click "Close" select "Save Changes Only" click "O.K" then re-open the e-mail and click on the 'Reply With History' button then hit 'Send'  Your survey will automatically be sent to the Outlook 2000 Migration Mailbox.
+
+Thank you.
+
+Outlook 2000 Migration Team
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Full Name:	Steven J. Kean
+
+Login ID:  	skean
+
+Extension:  	3-1586
+
+Office Location:  EB 4712C
+
+What type of computer do you have?  (Desktop,  Laptop,  Both)  Laptop
+
+Do you have a PDA?  If yes, what type do you have:   (None, IPAQ, Palm Pilot, Jornada)  None
+
+Do you have permission to access anyone's Email/Calendar?  No
+    If yes, who?  
+
+Does anyone have permission to access your Email/Calendar?  
+    If yes, who?  Yes - Maureen McVicker, Ginger Dernehl, Linda Noske
+
+Are you responsible for updating anyone else's address book?  
+    If yes, who?  No
+
+Is anyone else responsible for updating your address book?  
+    If yes, who?  Yes - Maureen McVicker
+
+Do you have access to a shared calendar?  
+    If yes, which shared calendar?  No
+
+Do you have any Distribution Groups that Messaging maintains for you (for mass mailings)?  
+    If yes, please list here:  No
+
+Please list all Notes databases applications that you currently use:   Project Tracking
+
+In our efforts to plan the exact date/time of your migration, we also will need to know:
+
+What are your normal work hours?  From:   7:00 am   To:      7:00 pm
+
+Will you be out of the office in the near future for vacation, leave, etc? 	No
+       If so, when?        From (MM/DD/YY):      To (MM/DD/YY):      

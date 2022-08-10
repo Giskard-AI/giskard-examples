@@ -1,0 +1,71 @@
+Message-ID: <13576235.1075863429653.JavaMail.evans@thyme>
+Date: Mon, 2 Jul 2001 11:17:58 -0700 (PDT)
+From: j.kaminski@enron.com
+To: djray@engr.wisc.edu
+Subject: RE: New document in PSerc Document Archive archive
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+X-From: Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VKAMINS>
+X-To: '"Dennis Ray" <djray@engr.wisc.edu>@ENRON' <IMCEANOTES-+22Dennis+20Ray+22+20+3Cdjray+40engr+2Ewisc+2Eedu+3E+40ENRON@ENRON.com>
+X-cc: 
+X-bcc: 
+X-Folder: \VKAMINS (Non-Privileged)\Kaminski, Vince J\Sent Items
+X-Origin: Kaminski-V
+X-FileName: VKAMINS (Non-Privileged).pst
+
+Dennis,
+
+Thanks. I have seen some of the papers you mentioned but missed one about
+discriminative auctions.
+
+Vince Kaminski
+
+ -----Original Message-----
+From: =09"Dennis Ray" <djray@engr.wisc.edu>@ENRON [mailto:IMCEANOTES-+22Den=
+nis+20Ray+22+20+3Cdjray+40engr+2Ewisc+2Eedu+3E+40ENRON@ENRON.com]=20
+Sent:=09Monday, July 02, 2001 8:48 AM
+To:=09Lawrence Jones; Kaminski, Vince J
+Cc:=09Cunningham, Lance
+Subject:=09New document in PSerc Document Archive archive
+
+
+Dear Mr.  Kaminski,
+=20
+I don't know if  you've seen this, but I thought it may be of interest to  =
+you.
+A new document has been added to PSerc Document  Archive:
+Western States Power Crisis: White  Paper
+EPRI
+You can view this document by going to:http://www.pserc.wisc.edu/ecow/get/p=
+ublicatio/specialepr/westernstatessynthesi1.pdf
+There are a number of documents from PSERC researchers  that have also been=
+ uploaded toour website (www.p << File: http://www.pserc.wisc.edu/ecow/get/=
+publicatio/specialepr/westernstatessynthesi1.pdf >> serc.wisc.edu << File: =
+http://www.pserc.wisc.edu >> ). You can find the  documents in the Publicat=
+ions << File: http://www.pserc.wisc.edu/ecow/get/publicatio/ >>  folders.  =
+You may be particularly interested in the following new  additions:Testing =
+the Performance of Uniform Price and  Discriminative Auctions << File: http=
+://www.pserc.wisc.edu/ecow/get/publicatio/2001public/rutgers_tim2.pdf >> . =
+ This paper reports on a series of  laboratory experiments to assess the pe=
+rformance of different electric power  markets with respect to price volati=
+lity and average market prices.An Engineering Approach to Monitoring Market=
+ Power in  Restructured Markets for Electricity << File: http://www.pserc.w=
+isc.edu/ecow/get/publicatio/2001public/houstoniaee.pdf >> . This paper  exp=
+lores the potential for using an engineering approach to measure the  exist=
+ence of market power in the real-time operations of a power grid and gives =
+ the results of two experiments designed to test the exercise of market  po=
+wer.
+We've also updated the  descriptive information about PSERC. That informati=
+on is in the General  Information About PSERC  << File: http://www.pserc.wi=
+sc.edu/ecow/get/generalinf/aboutpserc/ >> folder.
+I am sorry you weren't  able to join us at our last Industrial Advisory Boa=
+rd meeting. You and others  from ENRON are certainly invited to our next me=
+eting which will be December 5-7,  2001 in College Station, TX, hosted by T=
+exas A&M and TXU. We'll send you  more information when it is available.
+Dennis
+-----
+Dennis Ray, Ph.D.
+Executive  Director
+Power Systems Engineering Research  Center
+608-265-3808

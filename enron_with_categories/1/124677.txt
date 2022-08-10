@@ -1,0 +1,1813 @@
+Message-ID: <10150306.1075849296482.JavaMail.evans@thyme>
+Date: Thu, 5 Jul 2001 03:11:00 -0700 (PDT)
+From: miyung.buster@enron.com
+To: ann.schmidt@enron.com, bryan.seyfried@enron.com, elizabeth.linnell@enron.com, 
+	filuntz@aol.com, james.steffes@enron.com, janet.butler@enron.com, 
+	jeannie.mandelker@enron.com, jeff.dasovich@enron.com, 
+	joe.hartsoe@enron.com, john.neslage@enron.com, 
+	john.sherriff@enron.com, joseph.alamo@enron.com, 
+	karen.denne@enron.com, mark.palmer@enron.com, 
+	mark.schroeder@enron.com, markus.fiala@enron.com, 
+	michael.brown@enron.com, mona.petrochko@enron.com, 
+	nicholas.o'day@enron.com, peggy.mahoney@enron.com, 
+	peter.styles@enron.com, richard.shapiro@enron.com, 
+	rob.bradley@enron.com, shelley.corman@enron.com, 
+	stella.chan@enron.com, steven.kean@enron.com, susan.mara@enron.com, 
+	mike.roan@enron.com, alex.parsons@enron.com, 
+	andrew.morrison@enron.com, lipsen@cisco.com, 
+	janel.guerrero@enron.com, shirley.hudler@enron.com, 
+	kathleen.sullivan@enron.com, tom.briggs@enron.com, 
+	linda.robertson@enron.com, lora.sullivan@enron.com, 
+	jennifer.thome@enron.com, jkradin@marathon-com.com, 
+	rlichtenstein@marathon-com.com, syamane@marathon-com.com, 
+	ken@kdscommunications.com, hgovenar@govadv.com, sgovenar@govadv.com, 
+	bhansen@lhom.com, carin.nersesian@enron.com, 
+	robert.neustaedter@enron.com, john.shelk@enron.com, 
+	chris.holmes@enron.com, evan.hughes@enron.com, 
+	roberta.staehlin@enron.com, lamar.frazier@enron.com, 
+	ban.sharma@enron.com, pat.shortridge@enron.com, 
+	karen.moore@enron.com, kurt.lindahl@enron.com, 
+	marcus.dotson@enron.com, alan.comnes@enron.com, 
+	melinda.pharms@enron.com, lysa.akin@enron.com, luiz.maurer@enron.com
+Subject: Energy Issues
+Cc: angela.wilson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+Bcc: angela.wilson@enron.com
+X-From: Miyung Buster
+X-To: Ann M Schmidt, Bryan Seyfried, Elizabeth Linnell, filuntz@aol.com, James D Steffes, Janet Butler, Jeannie Mandelker, Jeff Dasovich, Joe Hartsoe, John Neslage, John Sherriff, Joseph Alamo, Karen Denne, Mark Palmer, Mark Schroeder, Markus Fiala, Michael R Brown, Mona L Petrochko, Nicholas O'Day, Peggy Mahoney, Peter Styles, Richard Shapiro, Rob Bradley, Shelley Corman, Stella Chan, Steven J Kean, Susan J Mara, Mike Roan, Alex Parsons, Andrew Morrison, lipsen@cisco.com, Janel Guerrero, Shirley A Hudler, Kathleen Sullivan, Tom Briggs, Linda Robertson, Lora Sullivan, Jennifer Thome, jkradin@marathon-com.com, rlichtenstein@marathon-com.com, syamane@marathon-com.com, ken@kdscommunications.com, hgovenar@govadv.com, sgovenar@govadv.com, bhansen@lhom.com, Carin Nersesian, Robert Neustaedter, John Shelk, Chris Holmes, Evan Hughes, Roberta Staehlin, Lamar Frazier, Ban Sharma, Pat Shortridge, Karen Moore, Kurt Lindahl, Marcus Dotson, Alan Comnes, Melinda Pharms, Lysa Akin, Luiz Maurer
+X-cc: Angela Wilson
+X-bcc: 
+X-Folder: \Jeff_Dasovich_Oct2001\Notes Folders\All documents
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+Please see the following articles:
+
+Sac Bee, Thurs, 7/5: Many rural towns to escape blackouts, utility maps sho=
+w
+
+Sac Bee, Tues, 7/3: Details emerge in power contracts
+
+SD Union, Thurs, 7/5: New FERC member seems attuned to state's woes
+
+SD Union, Wed, 7/4: Electricity price-cap tests spark allegations
+
+SD Union, Wed, 7/4: Renewable energy fades from picture in rush for solutio=
+n
+
+SD Union, Wed, 7/4: SDG&E spreads word of looming blackouts
+
+SD Union, Wed, 7/4: Two more energy whistleblowers slated to come forward
+
+SD Union, Wed, 7/4: Disabled PG&E employees ask state for help in getting=
+=20
+disability checks
+
+LA Times, Thurs, 7/5: Powerful Judge Illuminates Energy Practices Law:=20
+'Folksy' jurist, 72, stuns utility executives and lawyers alike with his=20
+courtroom incisiveness.
+
+SF Chron, Thurs, 7/5: Davis lauds California generator=20
+Vote of confidence at Calpine's festival=20
+
+SF Chron, Wed, 7/4: Activists stage anti-corporate march to power plant=20
+
+SF Chron, Wed, 7/4: Davis asks PUC to let utilities cut voltage=20
+1% savings on energy consumption predicted
+
+SF Chron, Wed, 7/4: Federal price limits backfire=20
+Some generators withhold power rather than abide by rate caps
+
+SF Chron, Wed, 7/4: Two more energy whistleblowers slated to come forward
+
+Mercury News, Wed, 7/4: Davis seeking cheaper contracts=20
+
+---------------------------------------------------------------------------=
+---
+-------------------------------------------------------------
+Many rural towns to escape blackouts, utility maps show=20
+By Carrie Peyton
+Bee Staff Writer
+(Published July 5, 2001)=20
+Huge stretches of Northern California, including many rural foothill and=20
+valley communities, won't face rolling blackouts this summer, spared by a=
+=20
+combination of geography and circuitry.=20
+Placerville and Loomis, Esparto and Isleton are among the many towns that=
+=20
+will be largely or entirely bypassed by deliberate blackouts, according to=
+=20
+new Pacific Gas and Electric Co. outage maps.=20
+Such communities are served by so few circuits that each one has been=20
+exempted from outages because a critical facility, such as a fire station o=
+r=20
+a water treatment plant, lies along the circuit somewhere, PG&E spokesman=
+=20
+John Nelson said.=20
+Both PG&E and the Sacramento Municipal Utility District have begun shedding=
+=20
+more light on their strategies for rotating outages in the wake of a=20
+governor's order requiring utilities to let people know where blackouts wil=
+l=20
+strike next.=20
+For PG&E, that has meant quickly posting and then updating blackout maps on=
+=20
+its Web site. For SMUD it has meant publicly detailing, for the first time,=
+=20
+the boundaries of 78 separate rotating outage areas and listing by number=
+=20
+which areas could be tapped next.=20
+"We were contemplating putting the map on the Web before the governor's=20
+order, but the timing coincided very well," said John DiStasio, SMUD's=20
+assistant general manager for customer service.=20
+SMUD updated its Web site, www.smud.org, on June 22 so that now people can=
+=20
+click on "rotating outages" and then "next likely locations and map" to see=
+=20
+the shape of outages to come.=20
+The map replaces less-precise neighborhood names, which is all SMUD supplie=
+d=20
+until Gov. Gray Davis ordered utilities to give the public "common=20
+geographical boundaries, grid or block numbers, maps or similar identifying=
+=20
+information" about where outages will strike.=20
+With six days of rolling blackouts already behind California this year, and=
+=20
+forecasts that more probably lie ahead, Davis has told utilities and the=20
+state Independent System Operator to give better notice of when and where=
+=20
+blackouts might occur.=20
+Grid operators and utilities have cautioned that Davis' program of two-day,=
+=20
+one-day and one-hour warnings could produce many false alarms because power=
+=20
+supplies often come through at the last minute. There is also some wariness=
+=20
+about outage maps, which SMUD and PG&E warn could change at any time.=20
+But the maps do provide insight into how each utility will roll blackouts=
+=20
+through its territory. PG&E's maps, on the Web at www.pge.com under "find=
+=20
+your outage block" and then "rotating outage block map," have recently been=
+=20
+updated to be searchable by zip code.=20
+They show that the vast majority of El Dorado and Placer counties and much =
+of=20
+Yolo County are in PG&E's "block 50," a designation for a circuit that won'=
+t=20
+be in line for rolling outages because someone along it is crucial to healt=
+h=20
+or safety.=20
+Police stations, fire stations, hospitals and airports are all deemed=20
+essential customers that should keep functioning even when the state power=
+=20
+grid is so overloaded that blackouts are needed to keep it from collapsing.=
+=20
+In densely populated areas, circuits tend to be compact, leaving lots of=20
+neighborhoods eligible for rolling blackouts, Nelson said.=20
+But "in rural areas, particularly remote rural areas, a circuit can go on f=
+or=20
+miles and miles," Nelson said. "You can have multiple communities on one=20
+circuit =01( (and) virtually every community has either a police station or=
+ a=20
+fire station or a hospital or a drinking water facility."=20
+That has been good news for communities like Placerville, which scrambled f=
+or=20
+traffic control earlier this year when a rolling outage took out the signal=
+=20
+lights on Highway 50, which bisects the town of 10,000.=20
+"That has been our biggest concern because of the amount of traffic that go=
+es=20
+through there," said City Manager John Driscoll. Placerville will be spared=
+=20
+future outages because regulators now are protecting more hospitals from=20
+blackouts, and much of the rest of the town shares circuits with hospitals.=
+=20
+"We didn't ask to be exempted out, but I feel very happy that we are. From =
+a=20
+selfish standpoint, it feels very nice," Driscoll said.=20
+
+The Bee's Carrie Peyton can be reached at (916) 321-1086 or=20
+cpeyton@sacbee.com.=20
+=20
+
+
+
+Details emerge in power contracts
+By Carrie Peyton and Chris Bowman
+Bee Staff Writers=20
+(Published July 3, 2001)
+
+California's power bills for the next decade probably will exceed the=20
+forecasts of Gov. Gray Davis, the State Controller's Office said Monday as =
+it=20
+released unedited versions of long-term contracts in a new jab at the=20
+governor.=20
+The electricity contracts, which Davis' office sought in court to keep=20
+secret, offer a glimpse into the rapid, high-stakes deals struck early in t=
+he=20
+state's power crisis and illustrate the way deregulation's unraveling could=
+=20
+haunt California for years to come.=20
+Some show that builders of new power plants could recoup the entire cost of=
+=20
+those plants in four years or less. Some show lucrative swaps for power,=20
+including one arranged the same day California was rocked by rolling=20
+blackouts.=20
+More than two dozen additional administrative contracts detail the price=20
+California is paying its consultants to seek a way out of the power mess,=
+=20
+from tens of thousands for Davis' aides down to $51 an hour for copying and=
+=20
+phone answering.=20
+The governor's office defended its estimates of the state's future power=20
+bill.=20
+The 41 long-term contracts, 27 consulting contracts, five short-term deals=
+=20
+and stacks of receipts and invoices released Monday by state Controller=20
+Kathleen Connell may just be the start.=20
+Her office hopes to provide details about how much California has already=
+=20
+paid individual power generators in the volatile short-term, or "spot,"=20
+market.=20
+The deals include so many intricate pricing formulas that Connell said she=
+=20
+couldn't immediately predict exactly how high California's hourly power cos=
+ts=20
+would go.=20
+Walter Barnes, chief deputy controller of finance, said the contracts=20
+probably would be "well in excess" of the $69 a megawatt-hour that Davis on=
+ce=20
+said would be California's average cost for contract power for the next=20
+decade.=20
+The contracts' prices range from $55 to $249 a megawatt-hour, and most are=
+=20
+more than the $69, Connell said.=20
+The state Department of Water Resources, the state's power buying arm, late=
+r=20
+revised the $69 forecast to $70 a megawatt-hour through the end of 2010, wi=
+th=20
+the higher priced power coming first.=20
+If anything, those figures could decline because natural gas, the fuel for=
+=20
+most new power plants, is getting cheaper, DWR spokesman Oscar Hidalgo said=
+,=20
+adding that his office sticks with its forecasts.=20
+"We're on pretty solid ground here," he said.=20
+As the statewide elected official who pays California's bills, Connell=20
+repeatedly has criticized the governor for his electricity spending, saying=
+=20
+that she never believed the contracts should be kept secret.=20
+But Davis' office blasted her for giving out details that power generators=
+=20
+and traders could use to learn the state's negotiating positions and buying=
+=20
+practices and said the information could boost wholesale prices within days=
+.=20
+"When they open their electric bill next time, every Californian can thank=
+=20
+Kathleen Connell for higher electricity costs," Davis spokesman Steve=20
+Maviglio said.=20
+The long-term contracts were first released June 15 by the water resources=
+=20
+department with power plant names, performance data, delivery points and=20
+other details blocked out under heavy black strokes.=20
+Analysts said that was the sort of data they could have used to calculate h=
+ow=20
+much more than the production costs the state was going to be paying for th=
+e=20
+electricity purchased on behalf of three cash-strapped investor-owned=20
+utilities.=20
+As analysts began sizing up some of the specifics Monday, early reactions=
+=20
+were wary.=20
+"This just shows when the state comes in and takes over the utility system,=
+=20
+we're just going to be in deep from all sorts of expenses and inefficiencie=
+s=20
+that we were trying to get away from" with deregulation, said Arthur=20
+O'Donnell, who edits a trade newsletter, California Energy Markets.=20
+Bill Marcus, a power consultant who had analyzed the edited contracts for a=
+=20
+consumer group, quickly read through the unedited versions muttering things=
+=20
+such as "offensive" and "they got absolutely ripped here."=20
+In one swap that was negotiated on a day of rolling blackouts in March, the=
+=20
+state agreed to send Powerex, the trading arm of British Columbia's=20
+government utility, 2* times more electricity in the spring than Powerex=20
+would return in the summer.=20
+Although seasonal swaps are common, the 2*-to-1 ratio was a sign of "panic"=
+=20
+and inexperience on the state's part, he said.=20
+The consultants who advise California on power deals were frenetic at the=
+=20
+time, with one staffer at the Navigant consulting firm billing for hours=20
+worked that were the equivalent of 9.7 hours a day for 34 consecutive days.=
+=20
+The power purchase terms disclosed Monday confirm many energy analysts'=20
+predictions that California consumers would be paying premium prices for=20
+years to cover the costs of the new plants coming on line.=20
+In several of the contracts, the state agreed to pay generators a 25 percen=
+t=20
+to 30 percent annual return on their plant construction costs, which could=
+=20
+pay off the entire plant in four years or less.=20
+Before deregulation, utilities generally received 3 percent to 18 percent=
+=20
+annual return on their capital investments over 30 years, said Marcus, a=20
+veteran energy analyst whose firm, JBS Energy Inc. of West Sacramento,=20
+represents ratepayer groups.=20
+"We're all going to have to pay more for power plants over the next 10 or=
+=20
+more years because the generators are looking to pay off their plants in ha=
+lf=20
+the time," he said.=20
+"Beyond blackouts and price spikes, this will be the long-term legacy of=20
+deregulation," he said. "The private market needs a high rate of return on=
+=20
+their investment."=20
+Several contracts were drafted in the late winter and early spring when=20
+California endured Stage 2 and Stage 3 energy alerts.=20
+The unmasked terms in some of those agreements reflect the state's=20
+desperation for megawatts amid fears of routine blackouts when temperatures=
+=20
+and energy use began to rise in the summer.=20
+For example, the state agreed in a March 29 contract to pay Calpine $232 a=
+=20
+megawatt-hour to supply 300 megawatts nonstop from July 1 through Sept. 30.=
+=20
+But a more recent Calpine contract calls for about $59 a megawatt-hour,=20
+starting Oct. 1.=20
+Time made all the difference, said Jim Macias, a Calpine senior vice=20
+president. He said that last winter, Calpine couldn't guarantee that plants=
+=20
+under construction in Sutter County and the East Bay would be on line by=20
+summer. So the company bought the power on the spot market for the state,=
+=20
+Macias said.=20
+"Back in the winter, $232 was a good price for electricity this summer," he=
+=20
+said.=20
+Calpine officials said that they made no money on the sale and even knocked=
+=20
+15 percent off their price to maintain good relations with the state power=
+=20
+buyers.=20
+The gesture more than paid off with the signing of the 10-year contract, sa=
+id=20
+Kathleen Potter, Calpine spokeswoman.=20
+"It was a great transaction for us," Potter said. "We appreciate the=20
+business."=20
+Proponents of "free-market" energy buying have said that in the long-run,=
+=20
+competitive forces would result in more-efficient, less-costly power=20
+generation.=20
+But the contracts show that pressed for more electricity this summer and=20
+fall, officials resorted to buying power from some of the least-efficient=
+=20
+plants in the state, guaranteeing owners of these aging generators 10 more=
+=20
+years of income.=20
+The Bee's Carrie Peyton can be reached at (916) 321-1086 or=20
+cpeyton@sacbee.com.
+
+
+
+
+
+
+
+
+New FERC member seems attuned to state's woes=20
+
+
+
+
+
+
+Texan may become agency's next chief
+By Toby Eckert=20
+COPLEY NEWS SERVICE=20
+July 5, 2001=20
+WASHINGTON -- During his first weeks at the Federal Energy Regulatory=20
+Commission, Pat Wood has set a decidedly different tone in the agency's=20
+strained relationship with California.=20
+After meeting with Gov. Gray Davis last week, Wood -- who was recently=20
+appointed to the commission by President Bush and is widely expected to be=
+=20
+named chairman soon -- praised the state's efforts to come to grips with it=
+s=20
+power problems. It was a stark contrast to the almost constant criticism fr=
+om=20
+FERC Chairman Curtis Hebert.=20
+
+
+
+"It certainly seems to me that both the political leadership and the=20
+regulatory leadership of the state are committed to the kind of=20
+infrastructure upgrades that are needed to really get supply and demand bac=
+k=20
+into whack," Wood said, referring to power plants being built in California=
+.=20
+The former Texas utility regulator also raised the possibility of closer=20
+cooperation between FERC and state regulators, including a "joint effort" o=
+n=20
+inspecting power plants. State officials have accused generators of idling=
+=20
+plants to drive up electricity costs, a charge generators deny.=20
+"If we're kind of co-regulators with the state, and in many regards we are,=
+=20
+it's helpful to work off the same set of facts so you get to conclusions mu=
+ch=20
+more expeditiously," Wood said, though he was quick to add that he has not=
+=20
+seen any evidence of intentional withholding of supply.=20
+State officials hope Wood's statements signal that FERC is poised to take a=
+=20
+more aggressive role in helping the state. If elevated to chairman, Wood=20
+would set FERC's agenda and shape its approach to dealing with California.=
+=20
+The agency regulates wholesale electricity and natural gas markets, which=
+=20
+have subjected the state to skyrocketing prices.=20
+Wood "has brought a very good perspective to FERC," said Howard Gantman, a=
+=20
+spokesman for Sen. Dianne Feinstein, D-Calif., a frequent critic of the=20
+commission. "He seems very interested in getting to the root of the problem=
+=20
+and finding solutions."=20
+Throughout the crisis, the state's relationship with FERC has been poisonou=
+s.=20
+Davis criticized the commission for being slow to rein in electricity price=
+s,=20
+while Hebert faulted the state for crafting a bad deregulation law and=20
+failing to build enough plants to keep up with demand.=20
+Davis issued a guardedly conciliatory statement after his meeting in=20
+Sacramento with Wood and Commissioner Nora Brownell, who is also new to FER=
+C.=20
+"In a refreshing change from my past dealings over the past year with the=
+=20
+agency, these commissioners offered a problem-solving approach in resolving=
+=20
+California's energy challenge," Davis said. He added, "It appears that FERC=
+=20
+may finally be poised to do its job controlling energy costs."=20
+Threats criticized
+Despite the soothing words, there is no shortage of potential flash points=
+=20
+between Davis and FERC.=20
+Wood, who professes a "religious zeal about competition," raised concerns=
+=20
+about a possible move by the California Public Utilities Commission to keep=
+=20
+retail power customers from shopping around for alternative providers.=20
+He also criticized threats that Davis and other California politicians have=
+=20
+made to seize power plants and impose a windfall profits tax on power=20
+sellers.=20
+"I think the rhetoric's still pretty hot out there. If I were a generator=
+=20
+looking at 50 states, one that's talking about a windfall profits tax and=
+=20
+expropriation of property and all that is not a great climate," Wood said.=
+=20
+For his part, Davis has questioned whether the recent price curbs imposed b=
+y=20
+FERC in the West will be enough to tame soaring wholesale power costs that=
+=20
+have bankrupted one utility, cost the state treasury billions of dollars an=
+d=20
+raised consumers' power bills.=20
+Davis has also made it clear that he expects hefty refunds to result from t=
+he=20
+FERC-brokered talks between the state and power providers, which are in the=
+ir=20
+second week.=20
+"I will be vigilant in insisting that Californians get their money back,"=
+=20
+Davis said.=20
+California consumer activists are taking a wait-and-see attitude toward Woo=
+d,=20
+saying they know little about him.=20
+A major role
+"My impression from afar is he seems to be more moderate," said Harvey=20
+Rosenfield, president of the Foundation for Taxpayer and Consumer Rights in=
+=20
+Santa Monica.=20
+Once considered a bureaucratic backwater, the five-member FERC has come to=
+=20
+play a high-profile role in the California debacle and other disputes=20
+involving the largely deregulated wholesale power markets.=20
+The commission is charged with ensuring that "just and reasonable" prices=
+=20
+prevail.=20
+Bush is expected to make Wood the FERC chairman because Hebert is seen as t=
+oo=20
+much of a lightning rod.=20
+Before coming to Washington, Wood, who turned 39 yesterday, headed the Texa=
+s=20
+Public Utility Commission. There he oversaw the state's move toward a=20
+deregulated electricity market. Like Hebert, Wood is convinced that a free=
+=20
+market will deliver cheaper power to consumers than a highly regulated one.=
+=20
+"I just think customers fare better when they have more choices," Wood said=
+.=20
+But consumer advocates and others who have worked with Wood in Texas say hi=
+s=20
+zeal is tempered by a healthy dose of pragmatism.=20
+"Bottom line, it's all about the customer. Y'all will hear me say that unti=
+l=20
+you get sick of it," Wood said. "We want to make sure that the world we're=
+=20
+moving to is better than the one we left."=20
+
+
+
+
+
+
+
+
+
+
+
+
+Electricity price-cap tests spark allegations=20
+
+
+
+
+
+
+Suppliers said to have held back; industry blames ISO
+By Craig D. Rose and Bill Ainsworth=20
+UNION-TRIBUNE STAFF WRITERS=20
+July 4, 2001=20
+The first emergency tests of new electricity price controls have generated=
+=20
+accusations that suppliers were withholding power and questions that the ca=
+ps=20
+might need to be revised or scrapped.=20
+And in a case of turnabout, a power industry spokesman yesterday said the=
+=20
+Independent System Operator, which manages the state's electricity grid,=20
+might be using the federal price caps to manipulate the electricity market.=
+=20
+This time, however, the charge is that the ISO is gaming to push prices=20
+lower.=20
+At any rate, California survived its second consecutive day of power=20
+emergencies without blackouts under price caps recently imposed by federal=
+=20
+regulators, but not without some bumps along the way.=20
+
+
+
+The main culprit was hot weather that baked Western states for two days,=20
+forcing the ISO to issue Stage 1 and then Stage 2 alerts. Yesterday, the IS=
+O=20
+warned that rolling blackouts might hit in the afternoon.=20
+But as has happened often this year, the ISO bought power in the last minut=
+es=20
+to avoid outages. The grid operator also credited conservation efforts with=
+=20
+shaving from 2,000 to 4,000 megawatts of consumption. A megawatt can power=
+=20
+about 750 homes.=20
+"It was a lot hotter than expected and a lot more humid," said Kristina=20
+Werst, spokeswoman for the ISO.=20
+Today, state officials expect to avoid any blackouts because of the holiday=
+,=20
+which tends to decrease electricity demand, Werst said.=20
+The price controls ordered last month by the Federal Energy Regulatory=20
+Commission set up formulas for maximum prices during emergency and=20
+nonemergency periods. The FERC said the complex system was intended to=20
+balance the need for lower costs with its desire to promote a power market.=
+=20
+But questions are growing about the effectiveness of the FERC price caps.=
+=20
+A Department of Water Resources spokesman, which buys power for the state,=
+=20
+said generators withheld between 660 and 1,500 megawatts of electricity=20
+during a critical period earlier this week because of the price caps. That=
+=20
+would be enough to cut electricity reserves from 7 percent to 5 percent and=
+=20
+bump a Stage 1 alert to a Stage 2.=20
+Sempra Energy Trading, a marketing unit of San Diego Gas & Electric Co.'s=
+=20
+parent corporation, admitted that it ceased selling power to the state for=
+=20
+what could have been a critical 30 minutes Monday.=20
+A spokesman for the trading company said it halted sales for the half-hour=
+=20
+because it was unsure about where the ISO would set maximum prices during t=
+he=20
+first power emergency under the new caps.=20
+When power emergencies are called under the FERC plan, a new price cap is s=
+et=20
+based on the cost of operating the least efficient, most costly electric=20
+generating plant. Because the identity of that plant is unknown beforehand,=
+=20
+the selling price is set retrospectively by the ISO.=20
+"It was unclear to the traders what the proxy price would be," said Doug=20
+Kline, a Sempra spokesman, who emphasized that the company's trading unit=
+=20
+resells power generated by other companies. "So it was unclear whether the=
+=20
+ISO would come back later and say, 'You purchased power at $70 per=20
+megawatt-hour but we're only going to pay you $60.'?"=20
+For its part, the ISO said the impact of price controls on electricity=20
+supplies during emergencies is still unclear. The controls this week kept=
+=20
+emergency prices Monday from a little over $70 per megawatt-hour to a high =
+of=20
+about $90. FERC's nonemergency price cap has been about $92 per=20
+megawatt-hour.=20
+Earlier this year, the average price per megawatt-hour was nearly $300.=20
+Before the power crisis hit last year, the price was about $30.=20
+The ISO said several factors other than the price controls might have=20
+contributed to tight supplies this week, including plant shutdowns in other=
+=20
+states and the regional heat wave.=20
+But a spokeswoman for Nevada Power said the utility believed the price caps=
+,=20
+or confusion over their implementation, had contributed to a power shortfal=
+l=20
+that led to blackouts Monday. The utility fell about 100 megawatts short of=
+=20
+its need as temperatures in some of its service areas hit 122 degrees.=20
+"Power is tight in the region," said Sonya Heagen of Nevada Power. "What=20
+tipped it over (for southern Nevada) was several utilities decided to hold=
+=20
+back power."=20
+Gary Ackerman, executive director of the Western Power Trading Forum, an=20
+industry group, said the FERC's price-control plan fails to allow the=20
+recovery of electricity transportation costs. That has the effect of keepin=
+g=20
+electricity in the region in which it is generated, rather than where it=20
+might be needed most, he said.=20
+Ackerman said transportation costs, which typically run from $2 to $8 per=
+=20
+megawatt-hour, are more significant now that overall prices have settled in=
+to=20
+a $100 range.=20
+"They didn't mean as much to the suppliers when they were getting $400 per=
+=20
+megawatt-hour," Ackerman said.=20
+He also said some of his members suspect the ISO made moves during power=20
+alerts to artificially keep prices lower.=20
+The FERC pricing regime sets nonemergency prices at 85 percent of the last=
+=20
+full hour of a Stage 1 emergency. But this week, the ISO twice went from a=
+=20
+Stage 1 to a Stage 2 alert in less than an hour. That kept the nonemergency=
+=20
+price cap in place at about $92 per megawatt-hour, set back in May.=20
+"Some traders said the ISO is 'gaming the market' to keep the price lower,"=
+=20
+Ackerman said. "I have a few traders who think the price should be higher."=
+=20
+The ISO rejected the charge of manipulation and said it continues to make i=
+ts=20
+emergency declarations based on power supply and demand. The ISO also said =
+it=20
+has not identified transportation costs as a problem under the FERC order.=
+=20
+Other energy experts, however, said the FERC system of using the most=20
+inefficient power plants to set emergency prices was a mistake.=20
+Frank Wolak, a member of the ISO's market monitoring unit and a Stanford=20
+University economist, said the plan invited energy companies to keep their=
+=20
+least efficient plants in operation to ensure the highest prices.=20
+But James Sweeney, also a Stanford professor and energy expert, said he=20
+preferred the FERC plan to a rigid market price cap.=20
+Consumer advocate Doug Heller of the Foundation for Taxpayer & Consumer=20
+Rights said the FERC plan is too complex and urged a return to a regulated=
+=20
+system, which pays generators for their production costs plus a reasonable=
+=20
+profit. Gov. Gray Davis supports a similar approach.=20
+Arthur O'Donnell, editor of California Energy Markets, saw much of the=20
+maneuvering this week as an industry road test of new price regime.=20
+"I think they were testing the boundaries," O'Donnell said. "This is the we=
+ek=20
+where we test the bugs in the system."=20
+Copley News Service correspondent Toby Eckert and The Associated Press=20
+contributed to this report.=20
+
+
+
+
+
+
+
+
+
+
+
+
+
+Renewable energy fades from picture in rush for solution=20
+
+
+
+
+
+
+By Ed Mendel=20
+UNION-TRIBUNE STAFF WRITER=20
+July 4, 2001=20
+SACRAMENTO -- The electricity crisis is putting the squeeze on the renewabl=
+e=20
+energy industry: the power plants that use the sun, wind or underground hea=
+t.=20
+The environmentally friendly, alternative energy provides about 12 percent =
+of=20
+the state's power. But the energy crunch and the state's effort to resolve =
+it=20
+could end up shrinking the role of renewable energy in the coming years jus=
+t=20
+as backers were hoping to see it expand.=20
+For example:=20
+?Long-term power contracts obtained by the state to reduce costs will cover=
+=20
+most state needs for a decade. Nearly all of the contracts are with natural=
+=20
+gas-fired plants, reducing the long-term market for new renewable plants.=
+=20
+?The uncertainty and lack of payment resulting from the crisis have slowed=
+=20
+the development of renewable plants under an incentive program created as=
+=20
+part of the state electricity deregulation plan.=20
+?Regulators are poised to prevent marketers from selling electricity,=20
+including "green power" from renewable sources, directly to customers. A=20
+large base of ratepayers must stay in the state program to pay off a power=
+=20
+bond of up to $13.4 billion over 15 years. The state Public Utilities=20
+Commission yesterday for the second time put off a decision whether to=20
+curtail such direct access.=20
+State and federal programs had been encouraging renewable energy to reduce=
+=20
+dependency on the new wave of relatively clean and efficient natural-gas=20
+power plants. The cost of electricity from those plants could go up if the=
+=20
+demand for gas outpaces supply.=20
+Renewable energy, with the exception of some biomass plants, also avoids th=
+e=20
+pollution problems of power plants fueled by oil and coal -- not to mention=
+=20
+the safety and radioactive waste-disposal problems of nuclear power.=20
+A spokesman for a coalition of renewable generators and environmental group=
+s=20
+said he thinks renewable energy has suffered during the electricity crisis=
+=20
+because of a lack of attention, not a shift in state policy.=20
+"I think the renewables are an unintended casualty," said V. John White of=
+=20
+the Center for Energy Efficiency and Renewable Technologies.=20
+The state became a major player in the power equation in January when it=20
+began buying power for debt-ridden utilities.=20
+State officials say they would like to have a mix of power to spread the ri=
+sk=20
+if something goes wrong with one source. For example, soaring natural gas=
+=20
+prices last winter were part of the reason for the high cost of electricity=
+.=20
+In a trade-off, the state scrambled to obtain long-term contracts that woul=
+d=20
+lower the price of electricity now in exchange for prices that are expected=
+=20
+to be above the market in the years to come.=20
+The 38 contracts, worth $43 billion over the next decade, will help finance=
+=20
+the construction of gas-fired power plants. About 70 percent of the power=
+=20
+will come from plants that have not yet been built.=20
+Only four of the contracts are for renewable power, and their 120 megawatts=
+=20
+is a tiny fraction of the total amount of power now under state contract. A=
+=20
+megawatt can provide power for 750 to 1,000 homes.=20
+"We agree the portfolio is lopsided and should be more diverse than it is,"=
+=20
+Ray Hart, head of the power purchasing unit in the state Department of Wate=
+r=20
+Resources, told the Senate Energy Committee last month.=20
+The state has agreements in principle on an additional 19 contracts for 1,2=
+70=20
+megawatts from renewable sources. Most of the power, 1,172 megawatts, would=
+=20
+come from wind generation.=20
+"Anything could happen," said Oscar Hidalgo, a Water Resources spokesman. "=
+It=20
+could increase or decrease, depending on what gets signed."=20
+One renewable generator, CalEnergy, said the state rejected its offer to=20
+provide 340 megawatts from a geothermal plant in the Imperial Valley for 20=
+=20
+years at 6.9 cents per kilowatt-hour, a price that is said to be the 10-yea=
+r=20
+average of the state contracts.=20
+"We were astonished," said Jonathan Weisgall, CalEnergy vice president.=20
+Hidalgo said state power purchasers "don't recall the specifics" of the=20
+CalEnergy offer. He said the proposal may have been rejected because of its=
+=20
+length, the time of the power delivery, or other reasons.=20
+"They may have to regroup, restructure, repackage, and look for what we=20
+want," Hidalgo said.=20
+Under deregulation, part of monthly ratepayer bills were earmarked for a fu=
+nd=20
+to encourage renewable energy sources. The fund provides five-year incentiv=
+es=20
+of up to 1.5 cents per kilowatt hour.=20
+The state held auctions in 1998 and again last summer that awarded $202=20
+million in incentives for dozens of new small renewable plants that could=
+=20
+produce about 1,000 megawatts. The average incentive was .4 cents per=20
+kilowatt hour.=20
+But at this point, said Marwan Masri of the California Energy Commission,=
+=20
+only plants capable of producing 180 megawatts have been completed.=20
+"There is the overall issue of who will buy the power," said Masri, "and at=
+=20
+what price and for how long."=20
+A firm that specialized in marketing "green power" from renewable sources f=
+or=20
+the environmentally conscious has taken a double hit from the electricity=
+=20
+crisis.=20
+Green Mountain Energy of Austin, Texas., sells power to customers in a part=
+=20
+of deregulation that is often called "direct access," which bypassed=20
+utilities and later the state after it began buying power for utility=20
+customers.=20
+The firm canceled contracts with 50,000 customers because the price was=20
+indexed to the state Power Exchange, which went bankrupt last spring after=
+=20
+the debt-ridden utilities defaulted on their debt.=20
+Green Mountain still has contracts with about 7,000 customers in San Diego=
+=20
+County who receive power under contracts at a fixed rate, 8.5 cents per=20
+kilowatt-hour.=20
+The state Public Utilities Commission is still expected to prohibit future=
+=20
+direct-access contracts, a step directed by the legislation authorizing the=
+=20
+state to buy power for utility customers.=20
+"That was the second blow to us," said Rick Counihan of Green Mountain. "It=
+=20
+meant that we couldn't go out and buy a block of fixed-price power to sell =
+to=20
+customers."=20
+The ban on direct-access contracts is vigorously opposed by business groups=
+,=20
+who say that direct access would lower the cost of doing business in=20
+California.=20
+But supporters of the direct-access ban say that if customers bypass the=20
+utilities, the remaining ratepayers will be stuck with paying off a bond of=
+=20
+up to $13.4 billion that is expected to be issued in September for power=20
+costs.=20
+Despite the problems, some representatives of the renewable energy industry=
+=20
+are optimistic about its potential for growth in the future.=20
+"A lot of the market is being served by rapidly aging power plants that=20
+should be replaced," said Jan Smutny-Jones of the Independent Energy=20
+Producers. "I think we also are going to see additional demand."=20
+Moreover, state government may take more steps to encourage the renewable=
+=20
+industry.=20
+The Energy Commission is proposing a goal for the incentive program that=20
+would increase the amount of power coming from renewable sources to 17=20
+percent of the total by 2006, up from 12 percent.=20
+State Sen. Byron Sher, D-Stanford, has introduced a bill, SB 531, that woul=
+d=20
+set a goal of increasing the renewable share of state power to 20 percent b=
+y=20
+2010.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SDG&E spreads word of looming blackouts=20
+
+
+
+
+
+
+By Jeff McDonald=20
+UNION-TRIBUNE STAFF WRITER=20
+July 4, 2001=20
+While power supplies dwindled and the likelihood of blackouts loomed, San=
+=20
+Diego Gas & Electric Co. for the first time yesterday was able to warn=20
+customers in advance that they might go dark.=20
+Under increasing pressure from businesses and residents, SDG&E launched a n=
+ew=20
+system to notify customers by pager and e-mail whenever the state declares=
+=20
+supply emergencies that might lead to blackouts.=20
+Some 5,000 customers signed up for the warnings, which ended up being false=
+=20
+alarms by midafternoon when the Independent System Operator, which manages=
+=20
+the state's electricity grid, was able to find enough megawatts to avoid th=
+e=20
+first blackouts since May.=20
+"This at least gives people the opportunity to make a switch over to backup=
+=20
+generation, to power down essential equipment or to back up critical files,=
+"=20
+SDG&E spokesman Ed Van Herik said.=20
+"It's definitely an improvement, but we'll certainly look for ways to=20
+increase the effectiveness of the notification process."=20
+Even so, the warnings from SDG&E came barely an hour before the ISO was=20
+expected to issue a Stage 3 power alert, meaning that demand had climbed to=
+=20
+within 1.5 percent of available supplies. As it turned out, the state never=
+=20
+rose above a Stage 2 alert.=20
+As the threat of blackouts continues to vex state power officials, early=20
+warnings about potential outages have become a key issue for businesses and=
+=20
+residents who rely on uninterrupted service.=20
+During blackouts earlier this year, darkened traffic lights caused numerous=
+=20
+accidents, people were stranded in elevators and business owners complained=
+=20
+of losses that could have been minimized.=20
+"Regular notification is a good idea," said Samuel Ingersoll-Weng of the Sa=
+n=20
+Diego Community Technology Group, which works with hundreds of local=20
+organizations to promote computer literacy.=20
+"It would be very helpful in terms of scheduling staff, canceling or holdin=
+g=20
+classes and also to protect equipment from power spikes or suddenly being=
+=20
+shut off," he said.=20
+For most of the year, SDG&E was telephoning a small number of such customer=
+s=20
+on mornings they worried that demand for electricity might exceed supplies.=
+=20
+But the problem is that when orders to pull megawatts from the grid come fr=
+om=20
+the ISO, the utility has only minutes to cut supplies and there has been=20
+little time to warn people they may lose power.=20
+Yesterday, SDG&E was told 90 minutes ahead of time that a Stage 3 warning=
+=20
+would likely be called at 3 p.m. The company issued the mass e-mails and=20
+pages within 30 minutes.=20
+Gov. Gray Davis announced plans this spring to provide neighborhoods 48-,=
+=20
+24-and 1-hour notices when blackout orders might be called. The ISO issued =
+no=20
+such notice yesterday, when it came the closest it had in weeks to ordering=
+=20
+blackouts.=20
+Ratepayers interested in signing up to be notified early of potential=20
+blackouts can call the utility at (800) 411-SDGE.=20
+
+
+
+
+
+
+
+
+
+
+
+
+Two more energy whistleblowers slated to come forward=20
+
+
+
+
+
+
+By Don Thompson
+ASSOCIATED PRESS=20
+July 4, 2001=20
+SACRAMENTO =01) Two more former workers at a San Diego-area Duke Energy pla=
+nt=20
+are slated to talk with state investigators Thursday, echoing concerns by=
+=20
+other employees over how the plant was run when the state needed its power=
+=20
+most.=20
+However, another former worker at the Chula Vista plant said he discarded=
+=20
+perfectly good equipment three to five years ago, while the plant was still=
+=20
+owned by San Diego Gas and Electric.=20
+"Stuff that cost $3- to $5,000 we were throwing away," said Don Perkins of=
+=20
+Alpine, a mechanic at SDG&E plants for nearly 25 years.=20
+That undercuts testimony from other former workers who told the Senate Sele=
+ct=20
+Committee to Investigate Price Manipulation of the Wholesale Energy Market=
+=20
+last month that they discarded valuable repair parts on the orders of Duke=
+=20
+supervisors.=20
+Like the other former SDG&E employees who have come forward, Perkins was no=
+t=20
+hired by Duke when it took over full operation of the plant in April. Perki=
+ns=20
+said he is happy in retirement, but like his former co-workers believes Duk=
+e=20
+was driving up energy prices =01) which the company vehemently denies.=20
+He and the three other former workers suggested Duke did not adequately=20
+maintain its equipment, leading to unnecessary repairs they said cut power=
+=20
+generation and may have helped boost prices by cutting supply. That include=
+d=20
+running a 15-megawatt jet-fuel fired turbine until it broke down.=20
+"We ran the heck out of the plant, you bet we did,"responded Duke spokesman=
+=20
+Tom Williams. But he said the plant had fewer outages under Duke's ownershi=
+p=20
+than while it was owned by SDG&E.=20
+Duke eventually had to completely rebuild the jet-fuel fired turbine,=20
+Williams said.=20
+"It ran more last year than the previous 37 years combined, because the sta=
+te=20
+needed the power," Williams said.=20
+An attorney for Lt. Gov. Cruz Bustamante, who is to introduce the two new=
+=20
+whistleblowers Thursday, said they will echo their co-workers complaints th=
+at=20
+maintenance slipped once Duke took over the plant.=20
+Williams dismissed the news conference as "a media event" and the workers'=
+=20
+complaints as old news the company has rebutted since the earlier testimony=
+=20
+before the committee.=20
+
+
+
+
+
+
+
+
+
+
+
+
+Disabled PG&E employees ask state for help in getting disability checks=20
+
+
+
+
+
+
+ASSOCIATED PRESS=20
+July 4, 2001=20
+SAN FRANCISCO =01) After not receiving checks for work-related disabilities=
+ for=20
+months, more than 200 Pacific Gas and Electric Co. employees have asked the=
+=20
+state to take over their disability payments.=20
+The employees stopped getting checks after Pacific Service Employees=20
+Association sent them a letter saying it did not have enough funds. Until=
+=20
+this year, the association had paid almost all of PG&E's disability claims.=
+=20
+PG&E said it has no legal responsibility to help the disabled workers and=
+=20
+blames the employee association. But workers waiting for their payments=20
+disagree.=20
+"The association and PG&E are one and the same," A.J. Cavallaro, an=20
+electrical engineer with PG&E for 25 years who is on disability leave due t=
+o=20
+a sleep disorder, told the San Francisco Chronicle.=20
+Originally created by PG&E workers to organize social events, the associati=
+on=20
+has its own board of directors and is legally separate from the utility and=
+=20
+its parent company. The association began offering a short-term disability=
+=20
+plan to PG&E workers in 1949.=20
+Pacific Service transferred its members to the State Disability Insurance=
+=20
+plan on Jan. 1. But about 230 PG&E workers decided to stay with the=20
+association's plan after they were told they would continue to receive thei=
+r=20
+disability checks.=20
+Mike Colon, the association's general manager filed an appeal with the=20
+California Unemployment Insurance Appeals Board for the state to take over=
+=20
+the group's payments.=20
+Ralph Hilton, chief counsel for the appeals board in Sacramento, said that =
+if=20
+the board decides the state should take over the payments, checks would be=
+=20
+issued within days of the ruling.=20
+Workers may have to wait until August for the case to be heard.=20
+
+
+
+
+
+
+
+
+
+National Desk=20
+THE NATION Powerful Judge Illuminates Energy Practices Law: 'Folksy' jurist=
+,=20
+72, stuns utility executives and lawyers alike with his courtroom=20
+incisiveness.
+RICARDO ALONSO-ZALDIVAR
+?=20
+07/05/2001=20
+Los Angeles Times=20
+Home Edition=20
+Page A-12=20
+Copyright 2001 / The Times Mirror Company=20
+WASHINGTON -- The silver-haired judge handling federal negotiations on=20
+refunds for alleged overcharges by power generators in California is often=
+=20
+described as a Southern gentleman.=20
+But Curtis L. Wagner Jr. can lose the folksy charm in a New York minute.=20
+Wagner, chief judge of the Federal Energy Regulatory Commission, showed his=
+=20
+knack for cutting through nonsense when he tangled with a smooth energy=20
+company executive in his hearing room in May. The executive confidently=20
+insisted he didn't need his boss' approval to enter into a $39-million=20
+natural gas transportation deal.=20
+Wagner didn't buy it.=20
+"I'm appalled that you're trying to pull this over my eyes," intoned the=20
+judge, stunning a courtroom of high-priced lawyers into catatonic silence.=
+=20
+"Just answer my question . . .=20
+"Did you get approval . . . whether you got it after the meeting, whether y=
+ou=20
+got it the day before, whether you got it in the head while you were both=
+=20
+relieving yourselves?"=20
+Added Wagner, owner of a 32-foot sailboat named "Hizzoner": "The head, for=
+=20
+non-boating people, is the restroom."=20
+Visibly squirming, the witness acknowledged that his boss had, in fact, OKd=
+=20
+the deal.=20
+That kind of mettle prompted FERC's governing board to assign the overcharg=
+e=20
+settlement case to the 72-year-old judge, who likes to stay in shape by=20
+attending early-morning aerobics classes in the agency's exercise room. "I=
+=20
+think Judge Wagner is the toughest tool in our toolbox," said FERC=20
+Commissioner Patrick H. Wood III.=20
+Expectations are low that anybody can bridge the chasm between California a=
+nd=20
+electricity generators and marketers, with the state alleging it was gouged=
+=20
+by $9 billion and the companies muttering about governmental extortion.=20
+"There are some very large numbers being talked about, which makes it=20
+unlikely that the companies would want to agree to a settlement," said Kit=
+=20
+Konolidge, an electricity industry analyst with Morgan Stanley in New York.=
+=20
+But in an interview, Wagner said he feels "pretty good" about the chances. =
+"I=20
+never give up until the very end. With these things, it looks impossible, a=
+nd=20
+then all of a sudden it comes together."=20
+FERC, the equivalent of a national utility commission, is also dangling som=
+e=20
+carrots in front of the parties. Along with refunds, Wagner is trying to ge=
+t=20
+a deal on long-term contracts for power and guarantees that the generators,=
+=20
+which are owed hundreds of millions of dollars, will be paid.=20
+The commission set a short time frame for the negotiations, which are to=20
+conclude Monday. If a settlement is not reachable, FERC would impose its ow=
+n=20
+solution. A mandated settlement is likely to be challenged in federal court=
+,=20
+where it could bog down for years.=20
+FERC employs more than a dozen administrative law judges like Wagner to hea=
+r=20
+disputes involving the companies it regulates. While presiding over the=20
+closed-door settlement talks, Wagner has traded his robes for a business=20
+suit.=20
+He has come down from the bench and sits at a table, eye-level with more th=
+an=20
+140 lawyers in his hearing room. "There's a lot of billable hours there," h=
+e=20
+said.=20
+The lawyers have been sorted into three big working groups, representing=20
+state agencies, power sellers and energy marketers. The negotiations are=20
+expected to intensify this week, and participants said Wagner admonished al=
+l=20
+sides on Friday to be ready to deal or face summary judgment from the FERC=
+=20
+commission.=20
+The judge has been variously quoted as saying that $1 billion, $2 billion o=
+r=20
+$2.5 billion might be an appropriate total refund. "None of those [figures]=
+=20
+are really attributable to me. I did make a statement--and I probably=20
+shouldn't have--that it was probably less than $9 billion." Of the $9 billi=
+on=20
+in overcharges claimed by the state, only $5.4 billion is attributable to=
+=20
+sellers within FERC's jurisdiction.=20
+James J. Hoecker, immediate past FERC chairman in the Clinton administratio=
+n,=20
+said that, in 23 years as chief judge, Wagner has built a reputation for=20
+making things happen in difficult situations.=20
+"What is behind that is a lot of years on the bench and a certain amount of=
+=20
+self-confidence," Hoecker said. "He has the ability . . . to move the parti=
+es=20
+closer together. Sometimes that requires some fairly dramatic statements,=
+=20
+which are calculated to get people to feel the heat and get more creative=
+=20
+about the flexibility they might have."=20
+A senior FERC official said Wagner is like a pitcher who gets called from t=
+he=20
+bullpen when the game is on the line. "When things are tough, we turn stuff=
+=20
+over to Curtis," said the official, who asked not to be identified.=20
+Wagner has had many big cases over the years, on matters too arcane to garn=
+er=20
+national attention.=20
+He is handling a second major case before FERC. It involves allegations tha=
+t=20
+Houston-based El Paso Corp. manipulated California 's natural gas market la=
+st=20
+year, thereby adding an estimated $3.7 billion to the state's energy costs.=
+=20
+It was in that case that he grilled the executive.=20
+Success in the California settlement negotiations would cap Wagner's 47th=
+=20
+year as a government lawyer. The Tennessee native started at the Justice=20
+Department on Aug. 2, 1954. He got into regulatory law by representing the=
+=20
+military in railroad disputes arising from the Korean War. After serving as=
+ a=20
+civilian lawyer for the Army for more than a decade, he joined FERC's=20
+predecessor agency in 1974.=20
+But Wagner, a widower, doesn't dwell on his place in the annals of FERC. He=
+=20
+tells agency employees he is working too many hours and missing his aerobic=
+s=20
+classes.=20
+
+
+
+
+
+Davis lauds California generator=20
+Vote of confidence at Calpine's festival=20
+Suzanne Herel, Chronicle Staff Writer
+Thursday, July 5, 2001=20
+,2001 San Francisco Chronicle=20
+URL:=20
+http://www.sfgate.com/cgi-bin/article.cgi?file=3D/chronicle/archive/2001/07=
+/05/M
+N166801.DTL=20
+Gov. Gray Davis took the stage at the San Jose America Festival yesterday a=
+nd=20
+pledged to "keep the lights on" -- with the help of the Calpine energy=20
+company, which sponsored the fete.=20
+"You've heard me say some pretty tough things about out-of-state energy=20
+companies trying to bleed us dry," said Davis, standing against the backdro=
+p=20
+of a huge Calpine banner proclaiming, "Reliable Energy for a Brighter=20
+Future."=20
+"Calpine is from California," he said. "They're going to make sure the ligh=
+ts=20
+stay on."=20
+Davis was a surprise guest sandwiched between musical acts Nina Storey and=
+=20
+John Brown's Body during the daylong Fourth of July festival, which feature=
+d=20
+music, food and vendors near the San Jose Airport.=20
+The governor thanked the crowd of at least 1,000 for joining other=20
+Californians in conserving energy. Conservation surpassed the 10 percent ma=
+rk=20
+statewide in May and June, he said.=20
+"We could not get through the summer without you doing your part," he said.=
+=20
+Davis was introduced by Calpine chief executive Peter Cartwright -- whose=
+=20
+multimillion-dollar stock option cash-in made news last month -- and San Jo=
+se=20
+Mayor Ron Gonzalez, who unsuccessfully opposed Calpine's planned 600-megawa=
+tt=20
+Metcalf Energy Center in Coyote Valley.=20
+In an interview after his appearance, Davis countered criticism leveled at=
+=20
+him this week by State Controller Kathleen Connell, who accused him of=20
+foolishly locking California into expensive long-term energy contracts.=20
+"You have to look at the total cost of electricity," he said.=20
+The state paid $109 million in May, he said, but that cost dropped to about=
+=20
+$33 million last month.=20
+Earlier yesterday, after walking in the Redwood City Fourth of July parade,=
+=20
+Davis said that the price drop was a direct result of the long-term=20
+contracts.=20
+"That would not have happened without the security and stability of long-=
+=20
+term contracts," he said. "We did the right thing."=20
+In San Jose, he also said that the $15 million the state was paying=20
+consultants to help negotiate power contracts was money well spent.=20
+"Before, it was like the Yankees winning the World Series against the sandl=
+ot=20
+baseball team," he said. "We're finally getting some stars on our team. "=
+=20
+E-mail Suzanne Herel at sherel@sfchronicle.com.=20
+,2001 San Francisco Chronicle ? Page?A - 2=20
+
+
+
+
+
+Activists stage anti-corporate march to power plant=20
+GISELE DURHAM, Associated Press Writer
+Wednesday, July 4, 2001=20
+,2001 Associated Press=20
+URL:=20
+http://www.sfgate.com/cgi-bin/article.cgi?file=3D/news/archive/2001/07/04/s=
+tate2
+024EDT0201.DTL=20
+(07-04) 17:24 PDT LONG BEACH, Calif. (AP) --=20
+Consumer activists rallied against rising energy prices and pledged their=
+=20
+independence from corporate "tyrants" amid Fourth of July celebrations=20
+Wednesday.=20
+About 200 people carrying signs reading " public power, not corporate=20
+bailout" and "human need, not corporate greed" marched two miles from a loc=
+al=20
+park in the Los Angeles suburb to the Alamitos generating station.=20
+"We feel we have been gouged and bled dry," said Medea Benjamin, founding=
+=20
+director of Global Exchange, a San Francisco-based consumer advocacy group.=
+=20
+"We've been treated the way tyrants treat their servants."=20
+The protest was a joint effort of several national and local consumer=20
+activist organizations. No arrests were made, although dozens of police=20
+officers were out in force for crowd control.=20
+Earlier this week, a federal judge issued a temporary restraining order=20
+preventing the city from enforcing an ordinance that could have blocked the=
+=20
+march.=20
+The law requires organizers of public protests to give 30 days notice of th=
+e=20
+event, post an insurance bond and pay for police protection at the rate of=
+=20
+$55 per hour for each officer.=20
+At the plant, organizers had intended to serve officials with a "notice of=
+=20
+seizure by eminent domain" declaring the facility to be public property. Bu=
+t=20
+nobody appeared at the front gate. The demonstrators posted the notice on t=
+he=20
+chain-link fence and staged about a 40-minute rally before dispersing.=20
+The symbolic notice was meant to emphasize the groups' discontent with=20
+skyrocketing power prices during the past year, the use of state budget mon=
+ey=20
+for power purchases, and the activists' desire to have the state take over=
+=20
+power plants to stabilize market prices.=20
+"The money they're making off of us is criminal," said Loni Baker, one of t=
+he=20
+marchers. "They're greed is taking money away from our kids' schools."=20
+Representatives of Arlington, Va.-based AES, Corp., which owns the plant, d=
+id=20
+not immediately return calls seeking comment.=20
+Last month, the U.S. Justice Department opened an antitrust investigation=
+=20
+into a power sales partnership between AES and Williams Energy, the Tulsa,=
+=20
+Okla.-based company that sells power for AES under an exclusive marketing=
+=20
+agreement.=20
+Both companies have denied wrongdoing but in May, Williams agreed to refund=
+=20
+$8 million after the Federal Energy Regulatory Commission accused of the=20
+company of temporarily closing AES plants to drive up power prices.=20
+
+
+
+
+
+Davis asks PUC to let utilities cut voltage=20
+1% savings on energy consumption predicted=20
+David Perlman, Chronicle Science Editor
+Wednesday, July 4, 2001=20
+,2001 San Francisco Chronicle=20
+URL:=20
+http://www.sfgate.com/cgi-bin/article.cgi?file=3D/chronicle/archive/2001/07=
+/04/M
+N29133.DTL=20
+Gov. Gray Davis asked the Public Utilities Commission yesterday to allow=20
+electric companies to lower voltage levels on power lines delivering=20
+electricity to consumers this summer.=20
+The move will save about 1 percent in the state's electricity consumption,=
+=20
+the equivalent of building a new 500-megawatt power plant.=20
+Lowering voltages by 2.5 percent will prove barely noticeable by domestic=
+=20
+users who might see their incandescent light bulbs dim slightly.=20
+Refrigerators and electric motors, such as those that run air conditioners,=
+=20
+should operate more efficiently on the lower voltages, experts said.=20
+The move should save consumers about 1 percent on their electricity bills,=
+=20
+according to Energy Commissioner Arthur Rosenfeld.=20
+With support already promised by the state's major power companies, the PUC=
+=20
+is expected to approve the change in its voltage rules within weeks, Robert=
+=20
+Kinosian, energy adviser to PUC President Loretta Lynch, said at a Sacramen=
+to=20
+press conference.=20
+Similar voltage decreases have gone into effect in several other states=20
+during power emergencies in recent years, Rosenfeld said. But this is the=
+=20
+first time it will occur statewide throughout an entire period of peak powe=
+r=20
+demand.=20
+PUC rules now require power companies to deliver between 114 and 126 volts =
+to=20
+consumers all the time.=20
+Less than two months ago, Bill Wattenburg, a maverick engineer and longtime=
+=20
+consultant to the Lawrence Livermore National Laboratory, assembled a team =
+to=20
+test the effects on lights, appliances, microwave ovens and motors operatin=
+g=20
+at voltages that were lowered by 5 percent or more.=20
+At the press conference yesterday, Wattenburg said those tests -- conducted=
+=20
+with utility company senior engineers -- showed that no devices were damage=
+d,=20
+nor was their performance impaired. But cooking food on electric ranges --=
+=20
+whether boiling water or making a roast reach a given temperature -- would=
+=20
+take longer and consume slightly more power under any lowered voltage, he=
+=20
+said.=20
+John Ballance, director of network engineering at Southern California Ediso=
+n,=20
+said his company is equipped to control its voltage levels electronically a=
+nd=20
+can lower them as soon as the PUC approves the change.=20
+But Pacific Gas & Electric Co. operates differently and will have to change=
+=20
+its voltage levels at each of its 2,400 substations individually -- a task=
+=20
+that could take several weeks, Rosenfeld said.=20
+"This proposal may well achieve new efficiencies and reduce electric bills=
+=20
+for California ratepayers," Davis said in a statement. "I urge the PUC to=
+=20
+give it serious consideration."=20
+E-mail David Perlman at dperlman@sfchronicle.com.=20
+,2001 San Francisco Chronicle ? Page?A - 13=20
+
+
+
+
+
+Federal price limits backfire=20
+Some generators withhold power rather than abide by rate caps=20
+David Lazarus, Chronicle Staff Writer
+Wednesday, July 4, 2001=20
+,2001 San Francisco Chronicle=20
+URL:=20
+http://www.sfgate.com/cgi-bin/article.cgi?file=3D/chronicle/archive/2001/07=
+/04/M
+N186091.DTL=20
+Officials in California and Nevada, after months of lobbying for federal=20
+regulators to cap Western power prices, warned yesterday that the newly=20
+imposed limits have had the unintended consequence of increasing a threat o=
+f=20
+blackouts in the two states.=20
+The warnings were issued as California came within minutes of rolling=20
+blackouts yesterday afternoon, and one day after the first-ever rolling=20
+blackouts in Las Vegas forced energy-hungry casinos to shut off fountains a=
+nd=20
+reduce air conditioning.=20
+The two states are asking the Federal Energy Regulatory Commission to take =
+a=20
+closer look at the so-called price mitigation plan and come up with revisio=
+ns=20
+that would deter power companies from withholding electricity during=20
+shortages.=20
+"We need some clarity to this order," said Oscar Hidalgo, a spokesman for t=
+he=20
+California Department of Water Resources, which is spending billions of=20
+dollars to keep the state's lights on.=20
+"Generators need to be held accountable," he said.=20
+The crux of the problem is that price limits kick in during shortages, yet=
+=20
+power companies say these caps force them to sell power at below-market rat=
+es=20
+during periods of high demand.=20
+Some companies have responded by holding back power rather than face the=20
+expense of shipping electricity from state to state. Each mile that=20
+electricity must be transmitted adds to the overall cost.=20
+"No one's going to pay for transmission if the cost is near the caps," said=
+=20
+Gary Ackerman, executive director of the Western Power Trading Forum, an=20
+energy-industry association in Menlo Park.=20
+Ackerman said several companies in his organization decided that there was =
+no=20
+economic advantage to offering power in regional markets when price control=
+s=20
+are in effect.=20
+"This means individual regions like California or Las Vegas could end up no=
+t=20
+having enough," Ackerman said. "It increases the threat of blackouts."=20
+BLACKOUT ALERT CANCELED
+California authorities issued a blackout alert at 1:45 p.m. yesterday when=
+=20
+power reserves dipped to dangerously low levels. They canceled the alert=20
+about an hour later, after finding additional supplies.=20
+"Everyone in the West is fighting for megawatts," said Stephanie McCorkle, =
+a=20
+spokeswoman for the California Independent System Operator, which oversees=
+=20
+the state's power network.=20
+The Golden State's latest brush with lights-out conditions came a day after=
+=20
+Nevada experienced its own rolling blackouts for the first time, prompting=
+=20
+heavy power users such as the MGM Grand and Caesars Palace to dim their=20
+lights.=20
+Don Soderberg, chairman of the Nevada Public Utilities Commission, said tha=
+t=20
+the sudden power emergency took state authorities by surprise and that they=
+=20
+are investigating to see what role the federal price limits may have had in=
+=20
+exacerbating Monday's shortage.=20
+"We're looking very closely at this," he said. "There seems to be a potenti=
+al=20
+for unintended consequences."=20
+Specifically, Soderberg said Nevada is focusing on operators of older, less=
+-=20
+efficient plants who would find profit margins shrinking, if not vanishing,=
+=20
+under capped prices.=20
+"We're going to see how the caps might have played into this," he said.=20
+The federal ceiling in 10 Western states, excluding California, is about $9=
+2=20
+per megawatt hour. In California, a 10 percent surcharge is added because o=
+f=20
+the state's credit risk, bringing the price to just over $101.=20
+Ackerman at the Western Power Trading Forum said regional price controls ha=
+ve=20
+extended California's power crisis to neighboring states.=20
+"California sneezed and the rest of the region caught the virus," he said.=
+=20
+'LAWYERS LOOKING FOR LOOPHOLES'=20
+California and Nevada officials, however, said that they still have faith=
+=20
+that price limits can stabilize Western electricity markets but that federa=
+l=20
+regulators may have to tweak the system so that power companies cannot=20
+withhold output.=20
+"The generators have banks of lawyers looking for loopholes (in the plan),"=
+=20
+said Hidalgo at the Department of Water Resources.=20
+Unfortunately, it may take some time for the regulators to revisit an issue=
+=20
+that they took up only with the greatest reluctance. For months, federal=20
+regulators refused to impose price controls, preferring instead to let supp=
+ly=20
+and demand determine costs.=20
+Hidalgo said that when it appeared that power companies were throttling bac=
+k=20
+on output Monday, California officials immediately dialed the hot line numb=
+er=20
+provided by the Federal Energy Regulatory Commission in case of emergencies=
+.=20
+"No one answered," he said. "They were closed."=20
+State officials tried again yesterday, and this time were told that the=20
+commission would look into the matter. They were not given a time frame for=
+=20
+when the commission might come up with a response.=20
+E-mail David Lazarus at dlazarus@sfchronicle.com.=20
+,2001 San Francisco Chronicle ? Page?A - 1=20
+
+
+
+
+
+Two more energy whistleblowers slated to come forward=20
+DON THOMPSON, Associated Press Writer
+Wednesday, July 4, 2001=20
+,2001 Associated Press=20
+URL:=20
+http://www.sfgate.com/cgi-bin/article.cgi?file=3D/news/archive/2001/07/04/s=
+tate0
+336EDT0118.DTL=20
+(07-04) 00:36 PDT SACRAMENTO (AP) --=20
+Two more former workers at a San Diego-area Duke Energy plant are slated to=
+=20
+talk with state investigators Thursday, echoing concerns by other employees=
+=20
+over how the plant was run when the state needed its power most.=20
+However, another former worker at the Chula Vista plant said he discarded=
+=20
+perfectly good equipment three to five years ago, while the plant was still=
+=20
+owned by San Diego Gas and Electric.=20
+"Stuff that cost $3- to $5,000 we were throwing away," said Don Perkins of=
+=20
+Alpine, a mechanic at SDG&E plants for nearly 25 years.=20
+That undercuts testimony from other former workers who told the Senate Sele=
+ct=20
+Committee to Investigate Price Manipulation of the Wholesale Energy Market=
+=20
+last month that they discarded valuable repair parts on the orders of Duke=
+=20
+supervisors.=20
+Like the other former SDG&E employees who have come forward, Perkins was no=
+t=20
+hired by Duke when it took over full operation of the plant in April. Perki=
+ns=20
+said he is happy in retirement, but like his former co-workers believes Duk=
+e=20
+was driving up energy prices -- which the company vehemently denies.=20
+He and the three other former workers suggested Duke did not adequately=20
+maintain its equipment, leading to unnecessary repairs they said cut power=
+=20
+generation and may have helped boost prices by cutting supply. That include=
+d=20
+running a 15-megawatt jet-fuel fired turbine until it broke down.=20
+"We ran the heck out of the plant, you bet we did,"responded Duke spokesman=
+=20
+Tom Williams. But he said the plant had fewer outages under Duke's ownershi=
+p=20
+than while it was owned by SDG&E.=20
+Duke eventually had to completely rebuild the jet-fuel fired turbine,=20
+Williams said.=20
+"It ran more last year than the previous 37 years combined, because the sta=
+te=20
+needed the power," Williams said.=20
+An attorney for Lt. Gov. Cruz Bustamante, who is to introduce the two new=
+=20
+whistleblowers Thursday, said they will echo their co-workers complaints th=
+at=20
+maintenance slipped once Duke took over the plant.=20
+Williams dismissed the news conference as "a media event" and the workers'=
+=20
+complaints as old news the company has rebutted since the earlier testimony=
+=20
+before the committee.=20
+,2001 Associated Press ?=20
+
+
+
+
+
+
+
+
+Davis seeking cheaper contracts=20
+Posted at 10:33 p.m. PDT Wednesday, July 4, 2001=20
+BY JOHN WOOLFOLK=20
+
+Mercury News=20
+
+
+California officials are asking energy companies for better deals on the=20
+state's long-term power contracts as a way to settle a dispute over billion=
+s=20
+of dollars in electricity costs from the past year, Gov. Gray Davis said=20
+Wednesday.=20
+In closed-door Washington, D.C., settlement talks scheduled to conclude=20
+Monday, state officials are demanding that energy companies forgo $8.9=20
+billion in bills for electricity that the state argues was overpriced.=20
+But Davis, during a San Jose visit Wednesday, said the state would consider=
+=20
+accepting some of that refund in the form of cheaper long-term contracts, a=
+=20
+move that could appease critics who say the $43 billion deals cost far too=
+=20
+much.=20
+The governor's comments shed light on the state's bargaining strategy in th=
+e=20
+negotiations. Few details have emerged from the talks since the judge=20
+overseeing them imposed a gag order.=20
+``We've made suggestions, we've offered various ways in which people could=
+=20
+get us $8.9 billion,'' Davis said. ``We've said it doesn't have to be all=
+=20
+cash. You can give it to us in lower contract prices than you otherwise wou=
+ld=20
+have given to us. You can renegotiate our existing contracts and save us=20
+money. However you want to do it, it's just got to net out to $8.9 billion.=
+''=20
+It's unclear how those offers have been received by energy suppliers, who=
+=20
+have insisted their prices were fair given the uncertainty over whether the=
+y=20
+would ever get paid. Several major companies, including Duke Energy and=20
+Enron, say they're owed millions of dollars from the state and its major=20
+utilities.=20
+Paula Hall-Collins, a spokeswoman for Williams Companies, which signed=20
+several contracts with the state in February to deliver power over the next=
+=20
+10 years, said she could not comment.=20
+But one industry official said it was encouraging to see the governor show=
+=20
+some flexibility and that the concept seems reasonable.=20
+``We take that as a positive,'' said Gary Ackerman, executive director of t=
+he=20
+Western Power Trading Forum, a trade association. ``If he wants to talk som=
+e=20
+trade-off in renegotiating the contracts, that doesn't seem to be totally o=
+ut=20
+of hand. We're not going to turn away any serious offer.''=20
+But Ackerman said the state needs to give a little on its refund target.=20
+The $8.9 billion, a figure estimated by the state's power grid analysts for=
+=20
+sales from May 2000 to May 2001, has been widely challenged by industry=20
+leaders. Even the judge overseeing the settlement talks said it's probably=
+=20
+too high.=20
+``I don't think it serves the state of California for the state to hold fas=
+t=20
+to a number, any more than it does for my members to do the same,'' Ackerma=
+n=20
+said. ``It just doesn't get to a solution. There's got to be some give and=
+=20
+take, and we certainly haven't heard that until now from the governor.''=20
+The state began buying electricity in January for its largest utilities aft=
+er=20
+they became so saddled with debt from high power prices that energy compani=
+es=20
+refused to sell to them. The state has spent about $8 billion since then in=
+=20
+daily and short-term purchases.=20
+The Davis administration signed $43 billion worth of electricity contracts=
+=20
+with 18 energy suppliers for power over the next 10 years and has dozens of=
+=20
+deals pending. The contracts are aimed at lowering the amount of power the=
+=20
+state has to buy in daily markets, where prices have soared.=20
+Davis has credited the contracts with lowering the state's power costs from=
+=20
+$100 million a day or more in May to about $33 million a day. His chief=20
+energy negotiator, S.?David Freeman, has said he's proud of the contracts.=
+=20
+But Davis has faced blistering criticism about the deals from Republican=20
+lawmakers, state Controller Kathleen Connell and consumer advocates, who sa=
+y=20
+the contracts will soak consumers with high electricity prices for many=20
+years.=20
+Davis initially sought contracts at prices around $55 per megawatt-hour, bu=
+t=20
+the deals signed so far average $70 per megawatt-hour.=20
+That was a bargain earlier this year when daily prices averaged more than=
+=20
+$200 per megawatt-hour. But average daily prices have since fallen to $89=
+=20
+during peak hours and as low as $56 during low-demand periods.=20
+The average daily price in 1999 was about $30 per megawatt-hour.=20
+If the state and power suppliers cannot reach an agreement by Monday, they=
+=20
+can request an additional 10 days. Otherwise, the judge will recommend a=20
+settlement and the five-member Federal Energy Regulatory Commission will vo=
+te=20
+on it.=20
+So far, the two sides still seem far apart.=20
+``It's very, very difficult,'' said Davis, who named the state's negotiator=
+s=20
+to the Washington talks. ``We'll see on Monday whether or not agreements ar=
+e=20
+made. My hope is that a settlement will be reached. It's possible one will=
+=20
+be.''=20
+
+
+Contact John Woolfolk at jwoolfolk@sjmercury.com or (408) 278-3410.=20
+

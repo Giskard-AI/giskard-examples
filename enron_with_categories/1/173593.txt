@@ -1,0 +1,122 @@
+Message-ID: <2654330.1075846153519.JavaMail.evans@thyme>
+Date: Thu, 20 Apr 2000 06:44:00 -0700 (PDT)
+From: steven.kean@enron.com
+To: vladimir.gorny@enron.com, david.gorte@enron.com, rick.buy@enron.com
+Subject: Curve Validation
+Cc: james.steffes@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: james.steffes@enron.com
+X-From: Steven J Kean
+X-To: Vladimir Gorny, David Gorte, Rick Buy
+X-cc: James D Steffes
+X-bcc: 
+X-Folder: \Steven_Kean_Dec2000_1\Notes Folders\All documents
+X-Origin: KEAN-S
+X-FileName: skean.nsf
+
+---------------------- Forwarded by Steven J Kean/HOU/EES on 04/20/2000 01:44 
+PM ---------------------------
+From: Vladimir Gorny@ECT on 04/20/2000 01:27 PM
+To: James D Steffes/HOU/EES@EES, Karen L Barbour/HOU/ECT@ECT, Scott 
+Stoness/HOU/EES@EES, Scott Gahn/HOU/EES@EES, Harry Kingerski/HOU/EES@EES
+cc: Ted Murphy/HOU/ECT@ECT, David Gorte/HOU/ECT@ECT, Steven J 
+Kean/HOU/EES@EES 
+Subject: Curve Validation
+
+Outlined below are some details of the existing curve validation process and 
+its application to the proposed validation of tariff curves.
+
+Wholesale Curve Validation
+
+The existing process incorporates validation of all wholesale curves and 
+includes monthly validations and random curve reviews. Every month, results 
+of the validation are summarized in a memo and distributed to the Senior 
+Management. Results of the random curve reviews are brought up to the 
+attention of Desk Heads responsible for the respective curves and Senior 
+Management as necessary.
+
+Curve Assessment
+ Green: 
+  - curve is reasonable
+  - small P&L impact from curve shift
+ Yellow:
+  - curve is illiquid
+  - medium-to-large position and P&L impact from curve shift
+  - some ability to validate prices from external sources
+ Red:
+   - curve mark is inaccurate (based on external data obtained)
+  -  curve is illiquid: no ability to validate externally
+  - significant positions and P&L impact from curve shift
+
+Curves that are inaccurately marked based on data obtained from external 
+sources are urged by the Senior Management to be corrected. In the cases 
+where external data is not available or clear, the Senior Management urges 
+the respective Desk Head not to increase an already large illiquid position 
+or to built in a risk premium by widening the respective bid/offer spread and 
+not to take on positions inside of that spread.
+
+Selection Criteria
+The criteria for monthly curve selection are the following:
+ P&L sensitivity
+ Largest positions
+ Staleness (curves have not been marked for a period of time)
+ Completeness (curves that have not been validated in a long time)
+
+The main criteria for random curve validation is new deals.
+
+Curve Validation Tools
+Broker Quotes/Other external data
+Graph Analysis (curve slope vs. a peer group, curve humps/sculpting vs. a 
+peer group, curve shift vs. position shift, etc.)
+New Deal Analysis (comparison of curve marks and executed/quoted prices)
+Boundary Analysis/V@R Simulations (comparison of curve to simulated curve 
+boundaries using Enron's V@R Engine)
+SAVA Model Comparison (comparison of curves to model generated results)
+
+
+Tariff Curve Validation
+
+Scope/Timing:
+ASAP - 20 curves with the largest positions related to deals pending review: 
+(Frito-Lay, Quaker Oats, Starwood) - to ensure timely and smooth approval of 
+these deals.
+Next 30-days - 20 curves with the largest positions/P&L impact
+Monthly/Quarterly - 20 curves selected based on criteria described above
+Randomly - curves with significant positions/P&L impact, resulting from new 
+deals
+
+Data Gathering:
+
+This Month:  Listing of 20 curves (related to deals in progress) and the 
+related support requested by EGA (to be provided by Scott Stoness)
+On-going Basis:  The process of obtaining data should be streamlined and the 
+curve validation process should be relatively painless:
+    - RAC should have access to the curve data (Minal Dalia is fully devoted 
+to EES and is currently residing on the EES floor)
+    - Curve assumptions should be documented (to be provided by Scott Stoness)
+
+Execution/Reporting:
+
+RAC, EGA and EES Risk Management Group work together on curve validation 
+utilizing available tools and work on developing new tools 
+Utilize the Wholesale Curve Assessment methodology (Green, Yellow, Red) 
+Generate a curve validation report (see template attached)
+Provide feedback to the Desk Heads and distribute the Curve Validation Report 
+to Enron and EES Senior Management 
+
+
+
+Other Curves
+
+Other curves related to EES business should be gradually incorporated into 
+the aforesaid process (ancillary services, congestion, DSM and labor related 
+curves) - let us set a timetable.
+
+In conclusion, curve validation results should be evaluated in conjunction 
+with other risk analytics: stress testing of prices, volatilities and 
+correlations, Value-at-Risk/Capital-at-Risk analysis, performance measures, 
+capital allocation framework, etc.
+
+Vlady.
