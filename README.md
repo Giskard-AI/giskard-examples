@@ -31,7 +31,7 @@ We have built this repository to help you in the process of integrating Giskard 
 will guide you in the process . 
 
 
-Here is the link to our notebooks with the assosiated tags : 
+Here is the link to our notebooks with the associated tags : 
 
 | Notebook                                                                                                                                                                  | Tags                                                          |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
