@@ -28,10 +28,12 @@
 
 # Giskard demo notebooks
 We have built this repository to help you in the process of integrating Giskard by providing multiple notebooks which
-will guide you in the process . 
+will guide you in the process . This repository has various notebooks which will help you to :
+1. Create an ML model using open data
+2. Create a project on Giskard 
+3. Upload the model & data in Giskard
 
-
-Here is the link to our notebooks with the associated tags : 
+We have created tags to help you navigate our demo notebook repository smoothly. Here is the link to our notebooks with the associated tags : 
 
 | Notebook                                                                                                                                                                  | Tags                                                                                                                                               |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
