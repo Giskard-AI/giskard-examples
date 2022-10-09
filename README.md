@@ -33,11 +33,30 @@ will guide you in the process . This repository has various notebooks which will
 2. Create a project on Giskard 
 3. Upload the model & data in Giskard
 
-We have created tags to help you navigate our demo notebook repository smoothly. Here is the link to our notebooks with the associated tags : 
+
+# How to navigate through this reposirtory:
+#### We have created the models based on the following:
+1. Model libraries :
+   1. Deep learning : Pytorch, Tensorflow
+   2. Machine Learning : Logistic Regression, Random Forest, KNN
+   3. Text Based : BERT using huggingface, Roberta using hugginface
+
+2. Pipeline : Models are created using Pipeline
+3. Wrapped Functions : Models use the traditional way of the whole process of data transformation and prediction using python function
+4. Data Types:
+   1. Categorical Data 
+   2. Numeric Data
+   3. Text Data
+5. Model Type :
+   1. Classification Model
+   2. Regression Model
+
+
+You can select the notebook you are looking for using the hashtags. Here is the link to our notebooks with the associated tags : 
 
 | Notebook                                                                                                                                                                  | Tags                                                                                                                                               |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Credit scoring classification model.ipynb](https://github.com/Giskard-AI/demo-notebooks/blob/main/Credit%20scoring%20classification%20model.ipynb)                       | #scikit-learn #logistic_regression #random_forest #classification, #category_data  #numeric_data #pipeline                                         |
+| [Credit scoring classification model.ipynb](https://github.com/Giskard-AI/demo-notebooks/blob/main/Credit%20scoring%20classification%20model.ipynb)                       | #scikit-learn #logistic_regression #random_forest #classification #category_data  #numeric_data #pipeline                                          |
 | [Email Classification Model.ipynb](https://github.com/Giskard-AI/demo-notebooks/blob/main/Email%20Classification%20Model.ipynb)                                           | #scikit-learn #nltk #transformers #huggingface #pytorch #bert #classification #text_data #category_data  #numeric_data #pipeline #wrapped_function |
 | [House pricing regression model.ipynb](https://github.com/Giskard-AI/demo-notebooks/blob/main/House%20pricing%20regression%20model.ipynb)                                 | #scikit-learn #random_forest #catboost  #regression #category_data  #numeric_data #pipeline                                                        |
 | [Sentiment_Analysis_for_Twitter_Data_using_Roberta.ipynb](https://github.com/Giskard-AI/demo-notebooks/blob/main/Sentiment_Analysis_for_Twitter_Data_using_Roberta.ipynb) | #transformers #huggingface #roberta #tweepy #datasets #classification #text_data #wrapped_function                                                 |
