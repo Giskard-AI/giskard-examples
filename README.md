@@ -37,19 +37,19 @@ will guide you in the process . This repository has various notebooks which will
 # How to navigate through this repository:
 #### We have created the models based on the following:
 1. Model libraries :
-   1. Deep learning : Pytorch(#pytorch), Tensorflow(#tensorflow)
-   2. Machine Learning : Scikit-Learn(#scikit-learn), Logistic Regression(#logistic_regression), Random Forest(#random_forest), KNN(#knn)
-   3. Text Based : BERT using huggingface(#transformers #huggingface #bert), Roberta using hugginface(#transformers #huggingface #roberta)
+   1. Deep learning : Pytorch <sup>#pytorch </sup>, Tensorflow <sup>#tensorflow </sup>
+   2. Machine Learning : Scikit-Learn <sup>#scikit-learn </sup>, Logistic Regression <sup>#logistic_regression </sup>, Random Forest <sup>#random_forest</sup>, KNN <sup>#knn</sup>
+   3. Text Based : BERT using huggingface <sup>#transformers #huggingface #bert</sup>, Roberta using hugginface <sup>#transformers #huggingface #roberta</sup>
 2. How the prediction function is called :
-   1. Pipeline : Models are created using Pipeline(#pipeline)
-   2. Wrapped Functions : Models use the traditional way of the whole process of data transformation and prediction using python function(#wrapped_function)
+   1. Pipeline : Models are created using Pipeline <sup>#pipeline</sup>
+   2. Wrapped Functions : Models use the traditional way of the whole process of data transformation and prediction using python function <sup>#wrapped_function</sup>
 3. Data Types:
-   1. Categorical Data(#category_data)
-   2. Numeric Data(#numeric_data)
-   3. Text Data(#text_data)
+   1. Categorical Data <sup>#category_data</sup>
+   2. Numeric Data <sup>#numeric_data</sup>
+   3. Text Data <sup>#text_data</sup>
 4. Model Type :
-   1. Classification Model(#classification )
-   2. Regression Model(#regression)
+   1. Classification Model <sup>#classification</sup>
+   2. Regression Model <sup>#regression</sup>
 
 
 You can select the notebook you are looking for using the hashtags. Here is the link to our notebooks with the associated tags : 
