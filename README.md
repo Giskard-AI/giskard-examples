@@ -34,22 +34,22 @@ will guide you in the process . This repository has various notebooks which will
 3. Upload the model & data in Giskard
 
 
-# How to navigate through this reposirtory:
+# How to navigate through this repository:
 #### We have created the models based on the following:
 1. Model libraries :
-   1. Deep learning : Pytorch, Tensorflow
-   2. Machine Learning : Logistic Regression, Random Forest, KNN
-   3. Text Based : BERT using huggingface, Roberta using hugginface
-
-2. Pipeline : Models are created using Pipeline
-3. Wrapped Functions : Models use the traditional way of the whole process of data transformation and prediction using python function
-4. Data Types:
-   1. Categorical Data 
-   2. Numeric Data
-   3. Text Data
-5. Model Type :
-   1. Classification Model
-   2. Regression Model
+   1. Deep learning : Pytorch(#pytorch), Tensorflow(#tensorflow)
+   2. Machine Learning : Scikit-Learn(#scikit-learn), Logistic Regression(#logistic_regression), Random Forest(#random_forest), KNN(#knn)
+   3. Text Based : BERT using huggingface(#transformers #huggingface #bert), Roberta using hugginface(#transformers #huggingface #roberta)
+2. How the prediction function is called :
+   1. Pipeline : Models are created using Pipeline(#pipeline)
+   2. Wrapped Functions : Models use the traditional way of the whole process of data transformation and prediction using python function(#wrapped_function)
+3. Data Types:
+   1. Categorical Data(#category_data)
+   2. Numeric Data(#numeric_data)
+   3. Text Data(#text_data)
+4. Model Type :
+   1. Classification Model(#classification )
+   2. Regression Model(#regression)
 
 
 You can select the notebook you are looking for using the hashtags. Here is the link to our notebooks with the associated tags : 
@@ -60,5 +60,5 @@ You can select the notebook you are looking for using the hashtags. Here is the 
 | [Email Classification Model.ipynb](https://github.com/Giskard-AI/demo-notebooks/blob/main/Email%20Classification%20Model.ipynb)                                           | #scikit-learn #nltk #transformers #huggingface #pytorch #bert #classification #text_data #category_data  #numeric_data #pipeline #wrapped_function |
 | [House pricing regression model.ipynb](https://github.com/Giskard-AI/demo-notebooks/blob/main/House%20pricing%20regression%20model.ipynb)                                 | #scikit-learn #random_forest #catboost  #regression #category_data  #numeric_data #pipeline                                                        |
 | [Sentiment_Analysis_for_Twitter_Data_using_Roberta.ipynb](https://github.com/Giskard-AI/demo-notebooks/blob/main/Sentiment_Analysis_for_Twitter_Data_using_Roberta.ipynb) | #transformers #huggingface #roberta #tweepy #datasets #classification #text_data #wrapped_function                                                 |
-| [Iris_demo.ipynb](https://github.com/Giskard-AI/demo-notebooks/blob/main/Iris_demo.ipynb)                                                                                 | #scikit-learn #knn #classification #numneric_data #category_data #wrapped_function #wrapped_function                                               |
+| [Iris_demo.ipynb](https://github.com/Giskard-AI/demo-notebooks/blob/main/Iris_demo.ipynb)                                                                                 | #scikit-learn #knn #classification #numeric_data #category_data #wrapped_function #wrapped_function                                                |
 | [Newspaper_classification.ipynb](https://github.com/Giskard-AI/demo-notebooks/blob/main/Newspaper_classification.ipynb)                                                   | #pytorch #torchtext #dataloader #classification #text_data #wrapped_function                                                                       |
