@@ -34,11 +34,9 @@ We have built this repository to help you in the process of integrating Giskard 
 
 
 # How to navigate through this repository:
-#### Here are the tags that we use to describe the content of each notebook”:
+#### Here are the tags that we use to describe the content of each notebook:
 1. Model libraries:
-   1. Deep learning: #pytorch #tensorflow
-   2. Machine Learning: #scikit-learn #logistic_regression #random_forest #knn
-   3. Text Based: #transformers #huggingface #bert #roberta
+   #pytorch #tensorflow #scikit-learn #logistic_regression #random_forest #knn #transformers #huggingface #bert #roberta
 2. How the prediction function is called:
    1. Pipeline: Models are created using #pipeline
    2. Wrapped Functions: Models use the traditional way of the whole process of data transformation and prediction using 
