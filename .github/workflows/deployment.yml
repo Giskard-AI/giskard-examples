@@ -7,10 +7,6 @@ on:
       - 'Giskard_test.py'
       - '.github/workflows/deployment.yml'
 
-defaults:
-  run:
-    working-directory: Giskard-deployment
-
 jobs:
   Training:
     runs-on: ubuntu-latest
