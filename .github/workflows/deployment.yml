@@ -40,6 +40,7 @@ jobs:
         # requirements-files have changed.
       - run: pip install -r requirements.txt
         if: steps.cache-virtualenv.outputs.cache-hit != 'true'
+        working-directory: Giskard-deployment
 
       - name: execute train script # run sj-gobierno.py to get the latest data
         env:
@@ -51,6 +52,7 @@ jobs:
           python train.py #echo "##[set-output name=model_name;]$(python train.py)"
           tar -czvf trained_model.tar.gz trained_model --remove-files
         id: train_output
+        working-directory: Giskard-deployment
 
       - uses: actions/upload-artifact@v3
         with:
@@ -65,6 +67,7 @@ jobs:
         shell: bash
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
         id: extract_branch
+        working-directory: Giskard-deployment
 
       - name: checkout repo content
         uses: actions/checkout@v2 # checkout the repository content to github runner
@@ -86,6 +89,7 @@ jobs:
         # requirements-files have changed.
       - run: pip install -r requirements.txt
         if: steps.cache-virtualenv.outputs.cache-hit != 'true'
+        working-directory: Giskard-deployment
 
       - name: Download a single artifact
         uses: actions/download-artifact@v3
@@ -104,6 +108,7 @@ jobs:
           mv trained_model verified_model
           tar -czvf verified_model.tar.gz verified_model --remove-files
         id: test_output
+        working-directory: Giskard-deployment
 
       - uses: actions/upload-artifact@v3
         with:
@@ -121,6 +126,7 @@ jobs:
         shell: bash
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
         id: extract_branch
+        working-directory: Giskard-deployment
 
       - name: Download a single artifact
         uses: actions/download-artifact@v3
@@ -143,6 +149,7 @@ jobs:
           git checkout ${{ steps.extract_branch.outputs.branch }}
           git add -A
           git commit -m "model is deployed" -a
+        working-directory: Giskard-deployment
 
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
