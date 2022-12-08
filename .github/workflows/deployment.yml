@@ -28,6 +28,7 @@ jobs:
         id: cache-virtualenv
         with:
           requirement_files: requirements.txt  # this is optional
+        working-directory: Giskard-deployment
 
       - uses: syphar/restore-pip-download-cache@v1
         if: steps.cache-virtualenv.outputs.cache-hit != 'true'
@@ -77,6 +78,7 @@ jobs:
         id: cache-virtualenv
         with:
           requirement_files: requirements.txt  # this is optional
+        working-directory: Giskard-deployment
 
       - uses: syphar/restore-pip-download-cache@v1
         if: steps.cache-virtualenv.outputs.cache-hit != 'true'
