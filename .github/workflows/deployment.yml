@@ -53,7 +53,7 @@ jobs:
       - uses: actions/upload-artifact@v3
         with:
           name: trained_model-artifact
-          path: trained_model.tar.gz
+          path: Giskard-deployment/trained_model.tar.gz
 
   Giskard_Tests:
     needs: Training
@@ -89,7 +89,7 @@ jobs:
       - name: Download a single artifact
         uses: actions/download-artifact@v3
         with:
-          name: trained_model-artifact
+          name: Giskard-deployment/trained_model-artifact
 
       - name: execute test script # run sj-gobierno.py to get the latest data
         env:
@@ -108,7 +108,7 @@ jobs:
       - uses: actions/upload-artifact@v3
         with:
           name: verified_model-artifact
-          path: verified_model.tar.gz
+          path: Giskard-deployment/verified_model.tar.gz
 
   Deployment:
     needs: Giskard_Tests
