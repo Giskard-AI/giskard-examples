@@ -87,10 +87,7 @@ if __name__ == "__main__":
     if PASSED:
         with open('trained_model/'+model_date+'/Giskard_tests.json', 'w', encoding='utf-8') as f:
             json.dump(test_result, f, ensure_ascii=False, indent=4)
-
-        print(f'::set-output name=giskard_status::Passed')
         print(passed_tests_cnt/len(test_result)*100.,"> 50% of the tests passed. The model is verified!")
 
     else:
-        print(f'::set-output name=giskard_status::Not Passed')
         raise RuntimeError(passed_tests_cnt/len(test_result)*100.,"< 50% of the tests passed. The model is not verified!")

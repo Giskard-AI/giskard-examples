@@ -96,5 +96,3 @@ if __name__ == "__main__":
     test_data_filename = trained_model_path+'/'+dt_string+'/test_data.zip'
     pickle.dump(clf_logistic_regression, open(model_filename, 'wb'))
     test_data.to_pickle(test_data_filename, compression='zip')
-
-    print(f'::set-output name=model_date::{dt_string}')
