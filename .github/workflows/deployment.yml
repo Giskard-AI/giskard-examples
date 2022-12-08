@@ -98,6 +98,7 @@ jobs:
           EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
           API_KEY: ${{ secrets.API_KEY }}
         run: |
+          mv ../trained_model.tar.gz .
           tar -xzvf trained_model.tar.gz 
           python Giskard_test.py  #echo "##[set-output name=giskard_status;]$(python Giskard_test.py)"
           mv trained_model verified_model
@@ -129,6 +130,7 @@ jobs:
 
       - name: commit files
         run: |
+          mv ../verified_model.tar.gz .
           mkdir -p old_deployed_models
           [ -d deployed_model ] && mv deployed_model/* old_deployed_models/.
           [ -d deployed_model ] && rm -r deployed_model
