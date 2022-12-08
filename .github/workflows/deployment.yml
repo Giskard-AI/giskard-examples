@@ -89,7 +89,7 @@ jobs:
       - name: Download a single artifact
         uses: actions/download-artifact@v3
         with:
-          name: Giskard-deployment/trained_model-artifact
+          name: trained_model-artifact
 
       - name: execute test script # run sj-gobierno.py to get the latest data
         env:
