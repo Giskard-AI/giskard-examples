@@ -1,4 +1,4 @@
-[![Deployment workflow](https://github.com/rabah-khalek/Giskard-deployment/actions/workflows/deployment.yml/badge.svg)](https://github.com/rabah-khalek/Giskard-deployment/actions/workflows/deployment.yml)
+[![Deployment workflow](https://github.com/Giskard-AI/giskard-examples/actions/workflows/deployment.yml/badge.svg?branch=Giskard-deployment)](https://github.com/Giskard-AI/giskard-examples/actions/workflows/deployment.yml)
 
 # Giskard-deployment
 Example of how to deploy the [credit scoring](https://github.com/Giskard-AI/giskard-examples/blob/main/Credit%20scoring%20classification%20model.ipynb) once it passes [Giskard](https://www.giskard.ai/)'s tests.
