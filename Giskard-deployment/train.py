@@ -69,7 +69,7 @@ if __name__ == "__main__":
 
     # Pipeline for the model Logistic Regression
     clf_logistic_regression = Pipeline(steps=[('preprocessor', preprocessor),
-                                              ('classifier', LogisticRegression(max_iter =1000))])
+                                              ('classifier', LogisticRegression(max_iter =1000, C=2))])
 
     # Split the data into train and test
     Y = credit['default']
