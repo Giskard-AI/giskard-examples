@@ -82,6 +82,8 @@ if __name__ == "__main__":
         if test['status'] == 'PASSED':
             passed_tests_cnt+=1
 
+    # Condition upon which the model is successfully deployed
+    # In this example, we choose to deploy the model, if 50% of the Giskard tests pass successfully
     PASSED = passed_tests_cnt/len(test_result)*1. > 0.5
 
     if PASSED:
