@@ -6,6 +6,7 @@ on:
       - 'train.py'
       - 'Giskard_test.py'
       - '.github/workflows/deployment.yml'
+      - 'data.csv'
 
 jobs:
   Training:
