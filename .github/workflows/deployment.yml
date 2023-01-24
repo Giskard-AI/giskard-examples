@@ -2,11 +2,12 @@ name: Deployment workflow
 
 on:
   push:
+    # The following paths specify which files trigger the workflow. We only aim for these because this repo has many more examples.
     paths:
-      - 'train.py'
-      - 'Giskard_test.py'
+      - 'Giskard-deployment/train.py'
+      - 'Giskard-deployment/Giskard_test.py'
       - '.github/workflows/deployment.yml'
-      - 'data.csv'
+      - 'Giskard-deployment/data.csv'
 
 jobs:
   Training:
