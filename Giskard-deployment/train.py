@@ -84,6 +84,8 @@ if __name__ == "__main__":
     # Prepare data to upload on Giskard
     test_data = pd.concat([X_test, Y_test ], axis=1)
 
+    #This comment does nothing and is just added to trigger a workflow run !
+
     # Dumping
     trained_model_path='trained_model'
     if not os.path.isdir(trained_model_path):
