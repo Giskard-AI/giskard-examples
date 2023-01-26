@@ -47,18 +47,18 @@ if __name__ == "__main__":
     # feature_types is used to declare the features the model is trained on
     feature_types = {i:column_types[i] for i in column_types if i!='default'}
 
-    url = "http://dev.giskard.ai" #if Giskard is installed locally (for installation, see: https://docs.giskard.ai/start/guides/installation)
-    token = os.environ['API_KEY'] #you can generate your API token in the Admin tab of the Giskard application (for installation, see: https://docs.giskard.ai/start/guides/installation)
+    url = os.environ['GSK_URL'] #if Giskard is installed locally (for installation, see: https://docs.giskard.ai/start/guides/installation)
+    token = os.environ['GSK_TOKEN'] #you can generate your API token in the Admin tab of the Giskard application (for installation, see: https://docs.giskard.ai/start/guides/installation)
 
     client = GiskardClient(url, token)
 
     # your_project = client.create_project("project_key", "PROJECT_NAME", "DESCRIPTION")
     # Choose the arguments you want. But "project_key" should be unique and in lower case
     try:
-        credit_scoring = client.create_project("credit_scoring_deployment", "German Credit Scoring", "Project to predict if user will default")
+        credit_scoring = client.create_project(os.environ['GSK_PROJECT_KEY'], os.environ['GSK_PROJECT_NAME'], os.environ['GSK_PROJECT_DESCRIPTION'])
     except:
         # If you've already created a project with the key "credit-scoring" use
-        credit_scoring = client.get_project("credit_scoring_deployment")
+        credit_scoring = client.get_project(os.environ['GSK_PROJECT_KEY'])
 
     model_id, ds_id = credit_scoring.upload_model_and_df(
         prediction_function=clf_logistic_regression.predict_proba, # Python function which takes pandas dataframe as input and returns probabilities for classification model OR returns predictions for regression model
