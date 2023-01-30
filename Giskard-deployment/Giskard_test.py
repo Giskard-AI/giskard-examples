@@ -75,7 +75,7 @@ if __name__ == "__main__":
     test_suite_id = credit_scoring.list_test_suites()[0]['id']
     test_result = credit_scoring.execute_test_suite(
         test_suite_id=test_suite_id,
-        model_id=model_id)
+        model_id=model_id) 
 
     passed_tests_cnt=0
     for test in test_result:
