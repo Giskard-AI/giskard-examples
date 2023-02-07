@@ -1,0 +1,258 @@
+[
+    {
+        "id": 186,
+        "name": "F1",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:15.897Z",
+        "message": null,
+        "metric": 0.8333333
+    },
+    {
+        "id": 192,
+        "name": "Recall",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:15.898Z",
+        "message": null,
+        "metric": 0.8450704
+    },
+    {
+        "id": 197,
+        "name": "Label drift (Chi square)",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:15.903Z",
+        "message": null,
+        "metric": 0.8196615
+    },
+    {
+        "id": 211,
+        "name": "Numerical drift (Earth mover’s distance)",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:15.897Z",
+        "message": null,
+        "metric": 0.0
+    },
+    {
+        "id": 207,
+        "name": "Label drift (PSI)",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:15.899Z",
+        "message": null,
+        "metric": 0.0005134598
+    },
+    {
+        "id": 202,
+        "name": "F1 difference",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:15.894Z",
+        "message": null,
+        "metric": 0.009887002
+    },
+    {
+        "id": 182,
+        "name": "Numerical drift (Kolmogorov-Smirnov)",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:16.259Z",
+        "message": null,
+        "metric": 1.0
+    },
+    {
+        "id": 187,
+        "name": "Categorical drift (Chi-squared)",
+        "status": "FAILED",
+        "executionDate": "2023-01-31T17:35:15.897Z",
+        "message": null,
+        "metric": 0.0
+    },
+    {
+        "id": 198,
+        "name": "Classification Probability in Range",
+        "status": "FAILED",
+        "executionDate": "2023-01-31T17:35:16.406Z",
+        "message": null,
+        "metric": 0.23
+    },
+    {
+        "id": 193,
+        "name": "Right Label",
+        "status": "FAILED",
+        "executionDate": "2023-01-31T17:35:16.301Z",
+        "message": null,
+        "metric": 0.27
+    },
+    {
+        "id": 213,
+        "name": "Decreasing for Classification",
+        "status": "FAILED",
+        "executionDate": "2023-01-31T17:35:16.471Z",
+        "message": null,
+        "metric": 0.0
+    },
+    {
+        "id": 212,
+        "name": "Categorical Drift (Population Stability Index)",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:16.424Z",
+        "message": null,
+        "metric": 0.0
+    },
+    {
+        "id": 183,
+        "name": "Precision difference",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:16.625Z",
+        "message": null,
+        "metric": 0.030879991
+    },
+    {
+        "id": 203,
+        "name": "Recall difference",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:16.576Z",
+        "message": null,
+        "metric": 0.011697275
+    },
+    {
+        "id": 188,
+        "name": "Invariance for Classification (t-test)",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:16.731Z",
+        "message": null,
+        "metric": 9.099929e-22
+    },
+    {
+        "id": 194,
+        "name": "Accuracy Reference Actual difference",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:16.872Z",
+        "message": null,
+        "metric": 0.013157883
+    },
+    {
+        "id": 184,
+        "name": "Precision",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:17.149Z",
+        "message": null,
+        "metric": 0.82191783
+    },
+    {
+        "id": 208,
+        "name": "Disparate Impact",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:16.995Z",
+        "message": null,
+        "metric": 1.0384616
+    },
+    {
+        "id": 204,
+        "name": "AUC",
+        "status": "FAILED",
+        "executionDate": "2023-01-31T17:35:17.214Z",
+        "message": null,
+        "metric": 0.6983973
+    },
+    {
+        "id": 199,
+        "name": "Classification Probability drift (Earth mover's distance)",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:16.809Z",
+        "message": null,
+        "metric": 0.015365785
+    },
+    {
+        "id": 189,
+        "name": "Custom Test",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:17.434Z",
+        "message": null,
+        "metric": 1.0
+    },
+    {
+        "id": 205,
+        "name": "Decreasing for Classification (Wilcoxon)",
+        "status": "FAILED",
+        "executionDate": "2023-01-31T17:35:17.654Z",
+        "message": null,
+        "metric": 1.0
+    },
+    {
+        "id": 195,
+        "name": "Increasing for Classification (t-test)",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:17.476Z",
+        "message": null,
+        "metric": 7e-45
+    },
+    {
+        "id": 209,
+        "name": "F1 Reference Actual difference",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:17.627Z",
+        "message": null,
+        "metric": 0.009887002
+    },
+    {
+        "id": 185,
+        "name": "Accuracy",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:17.591Z",
+        "message": null,
+        "metric": 0.76
+    },
+    {
+        "id": 200,
+        "name": "Invariance for Classification",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:17.749Z",
+        "message": null,
+        "metric": 0.85
+    },
+    {
+        "id": 190,
+        "name": "Decreasing for Classification (t-test)",
+        "status": "FAILED",
+        "executionDate": "2023-01-31T17:35:17.872Z",
+        "message": null,
+        "metric": 1.0
+    },
+    {
+        "id": 206,
+        "name": "Accuracy difference",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:18.169Z",
+        "message": null,
+        "metric": 0.013333321
+    },
+    {
+        "id": 201,
+        "name": "Invariance for Classification (Wilcoxon)",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:18.466Z",
+        "message": null,
+        "metric": 2.9326454e-18
+    },
+    {
+        "id": 210,
+        "name": "Increasing for Classification (Wilcoxon)",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:18.252Z",
+        "message": null,
+        "metric": 7.180732e-35
+    },
+    {
+        "id": 196,
+        "name": "Classification Probability drift (Kolmogorov–Smirnov)",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:18.175Z",
+        "message": null,
+        "metric": 0.99423563
+    },
+    {
+        "id": 191,
+        "name": "Increasing for Classification",
+        "status": "PASSED",
+        "executionDate": "2023-01-31T17:35:18.539Z",
+        "message": null,
+        "metric": 1.0
+    }
+]

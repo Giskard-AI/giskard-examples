@@ -2,11 +2,12 @@ name: Deployment workflow
 
 on:
   push:
+    # The following paths specify which files trigger the workflow. We only aim for these because this repo has many more examples.
     paths:
-      - 'train.py'
-      - 'Giskard_test.py'
+      - 'Giskard-deployment/train.py'
+      - 'Giskard-deployment/Giskard_test.py'
       - '.github/workflows/deployment.yml'
-      - 'data.csv'
+      - 'Giskard-deployment/data.csv'
 
 jobs:
   Training:
@@ -44,7 +45,11 @@ jobs:
           EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
-          API_KEY: ${{ secrets.API_KEY }}
+          GSK_TOKEN: ${{ secrets.GSK_TOKEN }}
+          GSK_URL: ${{ secrets.GSK_URL }}
+          GSK_PROJECT_KEY: "credit_scoring_deployment"
+          GSK_PROJECT_NAME: "German Credit Scoring"
+          GSK_PROJECT_DESCRIPTION: "Project to predict if user will default"
         run: |
           python train.py #echo "##[set-output name=model_name;]$(python train.py)"
           tar -czvf trained_model.tar.gz trained_model --remove-files
@@ -97,7 +102,11 @@ jobs:
           EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
-          API_KEY: ${{ secrets.API_KEY }}
+          GSK_TOKEN: ${{ secrets.GSK_TOKEN }}
+          GSK_URL: ${{ secrets.GSK_URL }}
+          GSK_PROJECT_KEY: "credit_scoring_deployment"
+          GSK_PROJECT_NAME: "German Credit Scoring"
+          GSK_PROJECT_DESCRIPTION: "Project to predict if user will default"
         run: |
           mv ../trained_model.tar.gz .
           tar -xzvf trained_model.tar.gz 
