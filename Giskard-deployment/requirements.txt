@@ -3,7 +3,7 @@ json5==0.9.10
 jsonpatch==1.32
 jsonpointer==2.3
 jsonschema==3.2.0
-numpy==1.21.6
+numpy==1.22.0
 pandas
 scikit-image==0.19.3
 scikit-learn==1.0.2
