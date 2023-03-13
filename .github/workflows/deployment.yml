@@ -1,0 +1,165 @@
+name: Deployment workflow
+
+on:
+  push:
+    # The following paths specify which files trigger the workflow. We only aim for these because this repo has many more examples.
+    paths:
+      - 'Giskard-deployment/train.py'
+      - 'Giskard-deployment/Giskard_test.py'
+      - '.github/workflows/deployment.yml'
+      - 'Giskard-deployment/data.csv'
+
+jobs:
+  Training:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Extract branch name
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
+
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content to github runner
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.7.15' # install the python version needed
+
+      - uses: syphar/restore-virtualenv@v1
+        id: cache-virtualenv
+        with:
+          requirement_files: Giskard-deployment/requirements.txt  # this is optional
+
+      - uses: syphar/restore-pip-download-cache@v1
+        if: steps.cache-virtualenv.outputs.cache-hit != 'true'
+
+        # the package installation will only be executed when the
+        # requirements-files have changed.
+      - run: pip install -r requirements.txt
+        if: steps.cache-virtualenv.outputs.cache-hit != 'true'
+        working-directory: Giskard-deployment
+
+      - name: execute train script # run sj-gobierno.py to get the latest data
+        env:
+          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
+          GSK_TOKEN: ${{ secrets.GSK_TOKEN }}
+          GSK_URL: ${{ secrets.GSK_URL }}
+          GSK_PROJECT_KEY: "credit_scoring_deployment"
+          GSK_PROJECT_NAME: "German Credit Scoring"
+          GSK_PROJECT_DESCRIPTION: "Project to predict if user will default"
+        run: |
+          python train.py #echo "##[set-output name=model_name;]$(python train.py)"
+          tar -czvf trained_model.tar.gz trained_model --remove-files
+        id: train_output
+        working-directory: Giskard-deployment
+
+      - uses: actions/upload-artifact@v3
+        with:
+          name: trained_model-artifact
+          path: Giskard-deployment/trained_model.tar.gz
+
+  Giskard_Tests:
+    needs: Training
+    runs-on: ubuntu-latest
+    steps:
+      - name: Extract branch name
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
+
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content to github runner
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.7.15' # install the python version needed
+
+      - uses: syphar/restore-virtualenv@v1
+        id: cache-virtualenv
+        with:
+          requirement_files: Giskard-deployment/requirements.txt  # this is optional
+
+      - uses: syphar/restore-pip-download-cache@v1
+        if: steps.cache-virtualenv.outputs.cache-hit != 'true'
+
+        # the package installation will only be executed when the
+        # requirements-files have changed.
+      - run: pip install -r requirements.txt
+        if: steps.cache-virtualenv.outputs.cache-hit != 'true'
+        working-directory: Giskard-deployment
+
+      - name: Download a single artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: trained_model-artifact
+
+      - name: execute test script # run sj-gobierno.py to get the latest data
+        env:
+          EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
+          GSK_TOKEN: ${{ secrets.GSK_TOKEN }}
+          GSK_URL: ${{ secrets.GSK_URL }}
+          GSK_PROJECT_KEY: "credit_scoring_deployment"
+          GSK_PROJECT_NAME: "German Credit Scoring"
+          GSK_PROJECT_DESCRIPTION: "Project to predict if user will default"
+        run: |
+          mv ../trained_model.tar.gz .
+          tar -xzvf trained_model.tar.gz 
+          python Giskard_test.py  #echo "##[set-output name=giskard_status;]$(python Giskard_test.py)"
+          mv trained_model verified_model
+          tar -czvf verified_model.tar.gz verified_model --remove-files
+        id: test_output
+        working-directory: Giskard-deployment
+
+      - uses: actions/upload-artifact@v3
+        with:
+          name: verified_model-artifact
+          path: Giskard-deployment/verified_model.tar.gz
+
+  Deployment:
+    needs: Giskard_Tests
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content to github runner
+
+      - name: Extract branch name
+        shell: bash
+        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        id: extract_branch
+
+      - name: Download a single artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: verified_model-artifact
+
+      - name: commit files
+        run: |
+          mv ../verified_model.tar.gz .
+          mkdir -p old_deployed_models
+          [ -d deployed_model ] && mv deployed_model/* old_deployed_models/.
+          [ -d deployed_model ] && rm -r deployed_model
+          rmdir --ignore-fail-on-non-empty old_deployed_models
+          tar -xzvf verified_model.tar.gz
+          mv verified_model deployed_model
+          
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git config remote.origin.fetch "+refs/heads/*:refs/remotes/origin/*"
+          git fetch
+          git checkout ${{ steps.extract_branch.outputs.branch }}
+          git add -A
+          git commit -m "model is deployed" -a
+        working-directory: Giskard-deployment
+
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ steps.extract_branch.outputs.branch }}
+          force: 'true'
