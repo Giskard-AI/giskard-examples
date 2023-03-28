@@ -4,10 +4,10 @@ on:
   push:
     # The following paths specify which files trigger the workflow. We only aim for these because this repo has many more examples.
     paths:
-      - 'Giskard-deployment/train.py'
-      - 'Giskard-deployment/Giskard_test.py'
+      - 'deployment/train.py'
+      - 'deployment/Giskard_test.py'
       - '.github/workflows/deployment.yml'
-      - 'Giskard-deployment/data.csv'
+      - 'deployment/data.csv'
 
 jobs:
   Training:
@@ -29,7 +29,7 @@ jobs:
       - uses: syphar/restore-virtualenv@v1
         id: cache-virtualenv
         with:
-          requirement_files: Giskard-deployment/requirements.txt  # this is optional
+          requirement_files: deployment/requirements.txt  # this is optional
 
       - uses: syphar/restore-pip-download-cache@v1
         if: steps.cache-virtualenv.outputs.cache-hit != 'true'
@@ -38,7 +38,7 @@ jobs:
         # requirements-files have changed.
       - run: pip install -r requirements.txt
         if: steps.cache-virtualenv.outputs.cache-hit != 'true'
-        working-directory: Giskard-deployment
+        working-directory: deployment
 
       - name: execute train script # run sj-gobierno.py to get the latest data
         env:
@@ -54,12 +54,12 @@ jobs:
           python train.py #echo "##[set-output name=model_name;]$(python train.py)"
           tar -czvf trained_model.tar.gz trained_model --remove-files
         id: train_output
-        working-directory: Giskard-deployment
+        working-directory: deployment
 
       - uses: actions/upload-artifact@v3
         with:
           name: trained_model-artifact
-          path: Giskard-deployment/trained_model.tar.gz
+          path: deployment/trained_model.tar.gz
 
   Giskard_Tests:
     needs: Training
@@ -81,7 +81,7 @@ jobs:
       - uses: syphar/restore-virtualenv@v1
         id: cache-virtualenv
         with:
-          requirement_files: Giskard-deployment/requirements.txt  # this is optional
+          requirement_files: deployment/requirements.txt  # this is optional
 
       - uses: syphar/restore-pip-download-cache@v1
         if: steps.cache-virtualenv.outputs.cache-hit != 'true'
@@ -90,7 +90,7 @@ jobs:
         # requirements-files have changed.
       - run: pip install -r requirements.txt
         if: steps.cache-virtualenv.outputs.cache-hit != 'true'
-        working-directory: Giskard-deployment
+        working-directory: deployment
 
       - name: Download a single artifact
         uses: actions/download-artifact@v3
@@ -114,12 +114,12 @@ jobs:
           mv trained_model verified_model
           tar -czvf verified_model.tar.gz verified_model --remove-files
         id: test_output
-        working-directory: Giskard-deployment
+        working-directory: deployment
 
       - uses: actions/upload-artifact@v3
         with:
           name: verified_model-artifact
-          path: Giskard-deployment/verified_model.tar.gz
+          path: deployment/verified_model.tar.gz
 
   Deployment:
     needs: Giskard_Tests
@@ -155,7 +155,7 @@ jobs:
           git checkout ${{ steps.extract_branch.outputs.branch }}
           git add -A
           git commit -m "model is deployed" -a
-        working-directory: Giskard-deployment
+        working-directory: deployment
 
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0

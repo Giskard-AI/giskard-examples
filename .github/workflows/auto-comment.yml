@@ -2,10 +2,10 @@ name: Auto Comment
 on:
   pull_request:
     paths:
-      - 'Giskard-deployment/train.py'
-      - 'Giskard-deployment/Giskard_test.py'
+      - 'deployment/train.py'
+      - 'deployment/Giskard_test.py'
       - '.github/workflows/deployment.yml'
-      - 'Giskard-deployment/data.csv'
+      - 'deployment/data.csv'
 
 jobs:
   run:
