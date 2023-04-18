@@ -1,4 +1,4 @@
-**<p style="color:#FF0000"> 🚧 Please note that the conversion of notebooks to v2 is work-in-progress! The converted ones are in the directory </p> `notebook` 🚧**
+**🚧 Please note that the conversion of notebooks to v2 is work-in-progress! The converted ones are in the directory `notebook` 🚧**
 
 <p align="center">
   <img alt="giskardlogo" src="https://raw.githubusercontent.com/Giskard-AI/giskard/main/readme/Logo_full_darkgreen.png">
