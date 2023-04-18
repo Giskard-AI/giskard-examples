@@ -1,4 +1,4 @@
-**🚧 Please note that the conversion of notebooks to v2 is work-in-progress! The converted ones are in the directory `notebook` 🚧**
+**🚧 Please note that the conversion of notebooks to v2 is work-in-progress! The converted ones are in the directory https://github.com/Giskard-AI/giskard-examples/tree/feature/new-upload-api/notebooks 🚧**
 
 <p align="center">
   <img alt="giskardlogo" src="https://raw.githubusercontent.com/Giskard-AI/giskard/main/readme/Logo_full_darkgreen.png">
