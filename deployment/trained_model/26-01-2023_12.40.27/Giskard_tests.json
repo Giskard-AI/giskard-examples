@@ -1,0 +1,178 @@
+[
+    {
+        "id": 57,
+        "name": "Custom Test",
+        "status": "PASSED",
+        "executionDate": "2023-01-30T12:40:32.002Z",
+        "message": null,
+        "metric": 1.0
+    },
+    {
+        "id": 67,
+        "name": "Recall difference",
+        "status": "PASSED",
+        "executionDate": "2023-01-30T12:40:32Z",
+        "message": null,
+        "metric": 0.011697275
+    },
+    {
+        "id": 52,
+        "name": "Precision difference",
+        "status": "PASSED",
+        "executionDate": "2023-01-30T12:40:32Z",
+        "message": null,
+        "metric": 0.030879991
+    },
+    {
+        "id": 62,
+        "name": "Increasing (t-test)",
+        "status": "PASSED",
+        "executionDate": "2023-01-30T12:40:31.998Z",
+        "message": null,
+        "metric": 7e-45
+    },
+    {
+        "id": 72,
+        "name": "Increasing (Wilcoxon)",
+        "status": "PASSED",
+        "executionDate": "2023-01-30T12:40:32.002Z",
+        "message": null,
+        "metric": 7.180732e-35
+    },
+    {
+        "id": 63,
+        "name": "Invariance (proportion)",
+        "status": "PASSED",
+        "executionDate": "2023-01-30T12:40:33.011Z",
+        "message": null,
+        "metric": 0.85
+    },
+    {
+        "id": 53,
+        "name": "Precision",
+        "status": "PASSED",
+        "executionDate": "2023-01-30T12:40:32.926Z",
+        "message": null,
+        "metric": 0.82191783
+    },
+    {
+        "id": 73,
+        "name": "Decreasing (proportion)",
+        "status": "FAILED",
+        "executionDate": "2023-01-30T12:40:33.050Z",
+        "message": null,
+        "metric": 0.0
+    },
+    {
+        "id": 58,
+        "name": "Decreasing (t-test)",
+        "status": "FAILED",
+        "executionDate": "2023-01-30T12:40:32.815Z",
+        "message": null,
+        "metric": 1.0
+    },
+    {
+        "id": 68,
+        "name": "Decreasing (Wilcoxon)",
+        "status": "FAILED",
+        "executionDate": "2023-01-30T12:40:32.900Z",
+        "message": null,
+        "metric": 1.0
+    },
+    {
+        "id": 64,
+        "name": "Classification Probability in Range",
+        "status": "FAILED",
+        "executionDate": "2023-01-30T12:40:33.270Z",
+        "message": null,
+        "metric": 0.23
+    },
+    {
+        "id": 59,
+        "name": "Increasing (proportion)",
+        "status": "PASSED",
+        "executionDate": "2023-01-30T12:40:33.643Z",
+        "message": null,
+        "metric": 1.0
+    },
+    {
+        "id": 54,
+        "name": "Accuracy",
+        "status": "PASSED",
+        "executionDate": "2023-01-30T12:40:33.328Z",
+        "message": null,
+        "metric": 0.76
+    },
+    {
+        "id": 65,
+        "name": "Invariance (Wilcoxon)",
+        "status": "PASSED",
+        "executionDate": "2023-01-30T12:40:33.799Z",
+        "message": null,
+        "metric": 2.9326454e-18
+    },
+    {
+        "id": 69,
+        "name": "AUC",
+        "status": "FAILED",
+        "executionDate": "2023-01-30T12:40:33.742Z",
+        "message": null,
+        "metric": 0.6983973
+    },
+    {
+        "id": 60,
+        "name": "Recall",
+        "status": "PASSED",
+        "executionDate": "2023-01-30T12:40:33.970Z",
+        "message": null,
+        "metric": 0.8450704
+    },
+    {
+        "id": 55,
+        "name": "F1",
+        "status": "PASSED",
+        "executionDate": "2023-01-30T12:40:34.038Z",
+        "message": null,
+        "metric": 0.8333333
+    },
+    {
+        "id": 66,
+        "name": "F1 difference",
+        "status": "PASSED",
+        "executionDate": "2023-01-30T12:40:34.202Z",
+        "message": null,
+        "metric": 0.009887002
+    },
+    {
+        "id": 61,
+        "name": "Right Label",
+        "status": "FAILED",
+        "executionDate": "2023-01-30T12:40:34.293Z",
+        "message": null,
+        "metric": 0.27
+    },
+    {
+        "id": 70,
+        "name": "Accuracy difference",
+        "status": "PASSED",
+        "executionDate": "2023-01-30T12:40:34.236Z",
+        "message": null,
+        "metric": 0.013333321
+    },
+    {
+        "id": 56,
+        "name": "Invariance (t-test)",
+        "status": "PASSED",
+        "executionDate": "2023-01-30T12:40:34.365Z",
+        "message": null,
+        "metric": 9.099929e-22
+    },
+    {
+        "id": 71,
+        "name": "Disparate Impact",
+        "status": "PASSED",
+        "executionDate": "2023-01-30T12:40:34.738Z",
+        "message": null,
+        "metric": 1.0384616
+    }
+]
