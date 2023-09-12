@@ -36,7 +36,7 @@
                     clip-rule="evenodd" />
             </svg>
         </div>
-        <span class="uppercase text-sm ml-2 py-2 leading-4 w-min">1&nbsp;issue detected</span>
+        <span class="uppercase text-sm ml-2 py-2 leading-4 w-min">2&nbsp;issues detected</span>
     </div>
 
     
@@ -48,8 +48,8 @@
             Ethical
 
             <span
-                class="ml-1 rounded-full text-xs min-w-4 min-h-4 px-1 py-0.5 inline-block text-center bg-amber-200 text-amber-900">
-                1
+                class="ml-1 rounded-full text-xs min-w-4 min-h-4 px-1 py-0.5 inline-block text-center bg-red-400">
+                2
             </span>
         </div>
     </div>
@@ -85,6 +85,9 @@
     <div class="flex items-center space-x-1">
         <h2 class="uppercase my-4 mr-2 font-medium">Issues</h2>
         
+        <span class="text-xs border rounded px-1 uppercase text-red-400 border-red-400">1
+            major</span>
+        
         
         <span class="text-xs border rounded px-1 uppercase text-amber-200 border-amber-200">1
             medium</span>
@@ -95,6 +98,106 @@
     
         <div class="overflow-x-auto overflow-y-clip h-max">
     <table class="table-auto w-full text-white">
+        
+        <tbody class="first:border-t border-b border-zinc-500">
+            <tr class="gsk-issue text-sm group peer text-left cursor-pointer hover:bg-zinc-700">
+    
+    <td class="p-3">
+        
+        <span class="mono text-blue-300">
+            Feature `sentence`
+        </span>
+        
+        
+    </td>
+    
+
+    
+    <td class="p-3">
+        <span>Switch countries from high- to low-income and vice versa</span>
+    </td>
+    
+
+    
+    <td class="p-3">
+        <span>Fail rate = 0.057</span>
+        
+    </td>
+    
+    
+    <td class="p-3">
+        <span class="text-red-400">
+            5.71% of tested samples changed prediction after perturbation
+        </span>
+    </td>
+    
+    
+    <td class="p-3 text-xs text-right space-x-1">
+        <a href="#"
+            class="gsk-issue-detail-btn inline-block group-[.open]:hidden border border-zinc-100/50 text-zinc-100/90 hover:bg-zinc-500 hover:border-zinc-500 hover:text-white px-2 py-0.5 rounded-sm">Show details</a>
+        <a href="#"
+            class="hidden group-[.open]:inline-block gsk-issue-detail-btn border border-zinc-500 text-zinc-100/90 bg-zinc-500 hover:bg-zinc-400 hover:text-white px-2 py-0.5 rounded-sm">Hide details</a>
+    </td>
+</tr>
+<tr class="gsk-issue-detail text-left hidden  peer-[.open]:table-row border-b border-zinc-500 bg-zinc-700">
+    <td colspan="1000" class="p-3">
+        
+        <h4 class="font-bold text-sm">Description</h4>
+        When we perturb the content of feature “sentence” with the transformation “Switch countries from high- to low-income and vice versa” (see examples below), your model changes its prediction in about 5.71% of the cases. We expected the predictions not to be affected by this transformation.
+        
+
+        
+        <h4 class="font-bold text-sm mt-4">Examples</h4>
+        <div class="text-white max-w-xl text-sm overflow-scroll" style="max-width: 920px">
+            <div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>sentence</th>
+      <th>Switch countries from high- to low-income and vice versa(sentence)</th>
+      <th>Original prediction</th>
+      <th>Prediction after perturbation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>149</th>
+      <td>the volatile dynamics of female friendship is ...</td>
+      <td>the volatile dynamics of female friendship is ...</td>
+      <td>POSITIVE</td>
+      <td>NEGATIVE</td>
+    </tr>
+    <tr>
+      <th>448</th>
+      <td>something akin to a japanese alice through the...</td>
+      <td>something akin to a Indonesian alice through t...</td>
+      <td>POSITIVE</td>
+      <td>NEGATIVE</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+        </div>
+        
+
+        
+    </td>
+</tr>
+        </tbody>
         
         <tbody class="first:border-t border-b border-zinc-500">
             <tr class="gsk-issue text-sm group peer text-left cursor-pointer hover:bg-zinc-700">
